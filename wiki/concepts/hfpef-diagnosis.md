@@ -1,0 +1,132 @@
+---
+type: concept
+title: HFpEF Diagnosis
+summary: Diagnosing HFpEF requires symptoms + LVEF ≥50% + evidence of elevated LV filling pressures; ESC 2021 uses Table 9 structural/functional markers; AHA 2022 makes filling pressure elevation explicit; H₂FPEF score endorsed by AHA 2022; HFA-PEFF endorsed by ESC; invasive haemodynamic testing is the gold standard; competing definitions enroll 12–90% of the same cohort.
+tags:
+  - hfpef
+  - diagnosis
+  - echocardiography
+  - natriuretic-peptides
+  - diastolic-dysfunction
+created: 2026-04-30
+last_updated: 2026-05-04
+sources:
+  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+    citekey: McDonagh2021ESC
+  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+    citekey: Heidenreich2022AHA
+  - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
+    citekey: Ho2019HFpEFDefinitions
+---
+# HFpEF Diagnosis
+
+> Diagnosing HFpEF requires three criteria: symptoms ± signs, LVEF ≥50%, and objective evidence of elevated filling pressures; echocardiographic markers and natriuretic peptides are the first-line tools; invasive testing is reserved for equivocal cases.
+
+---
+
+## Mechanism
+
+### Core Diagnostic Criteria (ESC 2021)
+1. **Symptoms ± signs** of heart failure
+2. **LVEF ≥50%** (measured by [[echocardiography]] or [[cardiac-mri]])
+3. **Objective evidence** of cardiac structural and/or functional abnormalities consistent with LV [[diastolic-dysfunction]]/raised LV filling pressures
+
+The third criterion is the key discriminating element and is assessed using [[natriuretic-peptides]] and echocardiographic markers. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+
+### Diagnostic Markers (ESC 2021, Table 9)
+
+| Parameter | Threshold | Notes |
+|---|---|---|
+| LV mass index | ≥95 g/m² (F), ≥115 g/m² (M) | Absence of LVH does not exclude HFpEF |
+| Relative wall thickness | >0.42 | — |
+| LA volume index | >34 mL/m² (SR), >40 mL/m² ([[atrial-fibrillation\|AF]]) | Reflects chronic LV filling pressure elevation |
+| E/e' ratio at rest | >9 | Sensitivity 78%, specificity 59%; cut-off >13 yields sensitivity 46%, specificity 86% |
+| NT-proBNP / BNP | >125 / >35 pg/mL (SR); >365 / >105 pg/mL ([[atrial-fibrillation\|AF]]) | Up to 20% of invasively proven HFpEF below threshold (especially obese) |
+| TR velocity | >2.8 m/s | — |
+| PA systolic pressure | >35 mmHg | Sensitivity 54%, specificity 85% |
+
+The greater the number of abnormalities present, the higher the probability of HFpEF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+
+## Clinical Relevance
+
+### Diagnostic Algorithms: HFA-PEFF and H₂FPEF
+
+**HFA-PEFF (ESC-endorsed):** Four-step algorithm — Pretest probability, Echocardiographic+NP scoring (0–6 points), Functional testing (exercise echo or diastolic stress), Aetiological workup. Recommended for expert centres. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+
+**H₂FPEF (AHA 2022-endorsed):** Six-item score (0–9 points):
+
+| Item | Points |
+|---|---|
+| BMI >30 kg/m² (Heavy) | 2 |
+| Atrial fibrillation | 3 |
+| Age >60 years | 1 |
+| ≥2 antihypertensives | 1 |
+| E/e' >9 (Echo) | 1 |
+| PA systolic >35 mmHg (Filling pressure) | 1 |
+
+Score ≤1: low probability. Score ≥6: high probability. Score 2–5: intermediate — pursue stress testing or invasive evaluation. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+
+Both algorithms converge on invasive haemodynamic testing as the gold standard for equivocal cases — the approach being validated by [[decipher-hfpef]].
+
+### Special Diagnostic Considerations
+- **Obesity:** NPs may be disproportionately low; clinical suspicion should remain elevated even with normal NPs
+- **[[atrial-fibrillation|AF]]:** Higher LA volume index threshold (>40 mL/m²); higher NP thresholds (>365 / >105 pg/mL)
+- **Very high EF (>65–70%):** Consider cardiac amyloidosis (low voltage ECG, bilateral carpal tunnel syndrome, posterior wall thickening) or HCM
+- **Prior HFrEF with recovered LVEF:** Classify as 'HF with improved LVEF' rather than HFpEF; continue HFrEF treatment
+
+(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+
+## History
+
+- **Pre-2016** — HFpEF diagnosis largely exclusionary (HF symptoms + non-reduced LVEF); limited standardisation of echocardiographic criteria
+- **2016** — ESC Guidelines introduced the structured three-criterion approach with specific echocardiographic markers; HFA-PEFF and H₂FPEF scores developed during this period
+- **2021** — ESC Guidelines refined Table 9 markers; simplified approach endorsed for general use; HFA-PEFF reserved for expert centres (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **2022** — AHA Guideline made elevated filling pressures an explicit component of the HFpEF definition (not merely a structural surrogate); H₂FPEF score endorsed at guideline level; distinction from ESC 2021 Table 9 approach now formalised (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+- **2017–ongoing** — DECIPHER-HFpEF study (7 German centres, n=185) directly validating CMR against invasive PV loops: first systematic test of whether non-invasive parameters can replace invasive diagnosis (see [[decipher-hfpef]])
+
+[expand as sources added]
+
+## Evidence
+
+### Confirmatory Testing in Equivocal Cases
+- **Diastolic stress test (exercise [[echocardiography]]):** Class IIb; measures E/e' and TR velocity at peak stress; LV global longitudinal strain <16% has 62% sensitivity and 56% specificity for HFpEF by invasive testing (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **Invasive haemodynamic exercise testing:** Gold standard. PCWP ≥15 mmHg (rest) or ≥25 mmHg (exercise), or LVEDP ≥16 mmHg (rest) = diagnostic. Use limited to research settings due to risk/availability. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **Right heart catheterization (Class IIb):** May be considered in selected patients to confirm HFpEF diagnosis. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+
+## Diagnostic Definition Heterogeneity
+
+Seven competing guideline definitions (ACC/AHA, ESC, HFSA, TOPCAT, PARAGON, I-PRESERVE, RELAX) applied to the same 461-patient cohort (LVEF ≥50%, NYHA II–IV, MGH) enrolled 12–90% of patients depending on which definition was applied. Reference standard: invasive [[cardiopulmonary-exercise-testing|CPET]] with PA catheter (HFpEF_phys = PCWP ≥15 mmHg rest or ≥25 mmHg exercise). (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+
+**Sensitivity/specificity of non-invasive criteria for HFpEF_phys:**
+
+| Criterion | Sensitivity | Specificity |
+|---|---|---|
+| ACC/AHA definition | 91% | 11% |
+| HFSA definition | 17% | 94% |
+| Echo structural markers | 71% | 51% |
+| NT-proBNP ≥125 pg/mL | 48% | 74% |
+| E/e' >9 | 78% | 59% |
+| E/e' >13 | 46% | 86% |
+
+**Implication:** No non-invasive criterion or definition reliably identifies physiologic HFpEF. Broad definitions (ACC/AHA) are sensitive but enroll many patients without elevated filling pressures. Restrictive definitions (HFSA) exclude most true physiologic HFpEF. This partially explains why different trials enroll incompatible populations and produce discordant results. See [[hfpef-diagnostic-definitions]] for full treatment.
+
+HFpEF_phys (invasive PCWP elevation) independently predicts CV events (HR 1.62, p=0.01) even in patients not meeting any guideline definition. (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+
+## Open Questions
+- Can HFA-PEFF or H₂FPEF replace invasive testing as the gold standard?
+- What is the best diagnostic approach in obese patients where NPs are suppressed?
+- Can [[cardiac-mri]] provide additional diagnostic value beyond [[echocardiography]] for identifying elevated filling pressures non-invasively?
+- Should future HFpEF trials use invasive CPET-confirmed enrollment to ensure comparable populations?
+
+## Related Pages
+- Concepts: [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[exercise-intolerance]], [[guideline-comparison]]
+- Entities: [[hfpef]], [[hfmref]], [[echocardiography]], [[cardiac-mri]], [[atrial-fibrillation]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[ho2019hfpefdefinitions]]
+
+## Contradictions
+- HFA-PEFF and H₂FPEF show variable diagnostic performance across cohorts; neither has been validated as universally superior. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- Up to 20% of invasively proven HFpEF patients have NPs below the diagnostic threshold — NP negativity does not exclude HFpEF in obese patients. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- E/e' >9 has 78% sensitivity but only 59% specificity — should not be used as a sole diagnostic criterion. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- Seven competing definitions enroll 12–90% of the same cohort — HFpEF trial populations are not interchangeable. (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+
+See [[contradictions]].

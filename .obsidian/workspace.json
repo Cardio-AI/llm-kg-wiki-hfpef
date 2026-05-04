@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "2548804f30879894",
+    "type": "split",
+    "children": [
+      {
+        "id": "40579e6a64d223ea",
+        "type": "tabs",
+        "dimension": 70.94594594594594,
+        "children": [
+          {
+            "id": "84f5841366ac292b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overview"
+            }
+          },
+          {
+            "id": "c8fa3c938d00b180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/wiki-page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wiki-page"
+            }
+          }
+        ]
+      },
+      {
+        "id": "74eb95ac830d905e",
+        "type": "tabs",
+        "dimension": 29.05405405405406,
+        "children": [
+          {
+            "id": "38583799bd7d17ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37b0d1b52e506918",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a13a71c34ba5532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5335e1dc1ebea86c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "38ae4195dfa50a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "84a6570f4f8d3443",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8c1fefa39a076768",
+    "type": "split",
+    "children": [
+      {
+        "id": "5093823d7a66669f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62fd058c8a4578a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "7068f117839cd533",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "7d7331c96ad3d674",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b180ea64dc01c6ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "c5623d2516567851",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          },
+          {
+            "id": "3fdf630e965a9dc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "raw/Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics in Patients With HFpEF.md"
+              },
+              "icon": "lucide-info",
+              "title": "Dateieigenschaften von Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics in Patients With HFpEF"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "84f5841366ac292b",
+  "lastOpenFiles": [
+    "raw/Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics in Patients With HFpEF.md",
+    "wiki/citations.md",
+    "wiki/entities/decipher-hfpef.md",
+    "wiki/entities/torch.md",
+    "wiki/sources/seyler2017torch.md",
+    "wiki/sources/ferreira2026emperor.md",
+    "wiki/sources/desai2011topcat.md",
+    "wiki/concepts/guideline-comparison.md",
+    "wiki/sources/heidenreich2022aha.md",
+    "raw/Study - NCT04265040  DZHK TORCH-Plus is a Registry for Patients With Cardiomyopathies and Serves as Source for Cardiovascular Research Studies.md",
+    "raw/Study - NCT02187263  German Centre for Cardiovascular Research Cardiomyopathy Register TORCH.md",
+    "raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf",
+    "raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf.crdownload",
+    "raw/Study - NCT03057951  EMPagliflozin outcomE tRial in Patients With chrOnic heaRt Failure With Preserved Ejection Fraction (EMPEROR-Preserved).md",
+    "raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf",
+    "raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf.crdownload",
+    "raw/Study - NCT00094302  Aldosterone Antagonist Therapy for Adults With Heart Failure and Preserved Systolic Function.md",
+    "raw/2011-AHA-Desai-TOPCAT_study.pdf",
+    "raw/2011-AHA-Desai-TOPCAT_study.pdf.crdownload",
+    "raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf",
+    "wiki/entities/atrial-fibrillation.md",
+    "Clippings",
+    "raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf",
+    "raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf",
+    "wiki/entities/cardiopulmonary-exercise-testing.md",
+    "wiki/entities/supervised-exercise-training.md",
+    "wiki/concepts/exercise-intolerance.md",
+    "wiki/concepts/hfpef-diagnostic-definitions.md",
+    "wiki/sources/sachdev2023exercise.md",
+    "wiki/sources/ho2019hfpefdefinitions.md",
+    "wiki/timeline.md",
+    "wiki/overview.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/contradictions.md",
+    "wiki/concepts/hfpef-diagnosis.md"
+  ]
+}
