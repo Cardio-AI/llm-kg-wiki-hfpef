@@ -64,5 +64,34 @@
 - **Practical gap**: A patient with elevated E/e' (meeting AHA filling pressure criterion) but normal NPs and no LA enlargement may not meet ESC Table 9; conversely, a patient with borderline NP elevation and LA enlargement might meet ESC Table 9 without clear echocardiographic filling pressure evidence
 - **Implication**: The two guidelines may enroll partially different patients in studies using each definition — consistent with the finding that seven HFpEF definitions enroll 12–90% of the same cohort (see [[hfpef-diagnostic-definitions]])
 
+### 12. HFA-PEFF vs. H₂FPEF: Competing Diagnostic Scores with Different Variable Weights
+- **HFA-PEFF (Pieske 2019)**: 3-domain composite score; NPs are a core domain (major criterion NT-proBNP >220 pg/mL in SR); AF-stratified NP thresholds; e' velocity and E/e' both weighted (source: [[pieske2019hfapeff]])
+- **H₂FPEF (Reddy 2018)**: 6-variable score 0–9; AF carries highest weight (3 pts); NT-proBNP did not incrementally add diagnostic accuracy beyond the 6 variables and is excluded from the final score (source: [[reddy2018h2fpef]])
+- **Implication**: The two systems disagree on whether NPs add diagnostic information beyond clinical/echo variables. A patient with low NPs but high clinical pre-test probability (obese, AF, E/e'>9) scores high on H₂FPEF but may score low on HFA-PEFF biomarker domain. No prospective head-to-head validation in the same cohort.
+
+### 13. DETERMINE: SGLT2i Symptom Benefit in HFrEF but Not HFpEF
+- **DETERMINE-Reduced (HFrEF)**: Dapagliflozin improved KCCQ-TSS +4.2 points, P=0.022 (source: [[mcmurray2024determine]])
+- **DETERMINE-Preserved (HFpEF)**: KCCQ-TSS +3.2 points, P=0.079 — not significant at 16 weeks (source: [[mcmurray2024determine]])
+- **Background context**: EMPEROR-Preserved and DELIVER show dapagliflozin/empagliflozin reduce HF hospitalisations in HFpEF — a hard outcome benefit exists; DETERMINE tests symptom/function endpoints with short follow-up
+- **Implication**: SGLT2i produce meaningful hospitalisation reduction in HFpEF but may not generate detectable symptom improvement within 16 weeks. The mechanism of hospitalisation benefit (e.g., fluid/volume regulation) may operate independently of symptom improvement. Duration of therapy and time to benefit may differ between phenotypes.
+
+### 14. 6-Minute Walk Distance as HFpEF Outcome Measure
+- **DETERMINE-Reduced**: 6MWD neutral (P=0.686) despite significant KCCQ-TSS improvement (P=0.022) — 6MWD and KCCQ are dissociated in the same RCT (source: [[mcmurray2024determine]])
+- **DETERMINE accelerometry substudy**: Accelerometer-measured activity correlated weakly with 6MWD (r=0.20–0.31) and KCCQ (r=0.06–0.21) — three measures of function are largely independent (source: [[docherty2025determine]])
+- **Prior context**: NEAR-HFpEF, VITALITY, CAPACITY all used 6MWD or accelerometry as endpoints and were neutral despite mechanistic hypotheses
+- **Implication**: 6MWD may not be a valid surrogate for the patient-centred and haemodynamic benefits of HF therapy. Using 6MWD as a primary or co-primary endpoint may lead to false-negative trials or missed treatment signals.
+
+### 15. HIIT vs. MICT: Mechanistic Rationale Contradicted by Head-to-Head Data
+- **Theoretical rationale**: HIIT (high-intensity interval training) should preferentially improve cardiac reserve and central haemodynamics in HFpEF by achieving higher exercise intensities (85–95% peak HR)
+- **OptmEx-Clin (Mueller 2021, cited in [[mirzai2025exercise]])**: 48-week RCT, HIIT vs. MICT, n≈120 — no significant difference in ΔpVO₂ between HIIT and MICT in HFpEF
+- **Implication**: The peripheral/skeletal muscle mechanism of exercise intolerance (primary in HFpEF per Sachdev 2023) may explain why cardiac-targeted HIIT intensity does not translate to superior VO₂ gains — peripheral adaptations that MICT achieves sufficiently
+
+### 16. DELIVER KCCQ Positive vs. DETERMINE-Preserved KCCQ Neutral: Same Drug, Both HFpEF
+- **DELIVER (Solomon 2022):** Dapagliflozin 10 mg improved KCCQ-TSS vs. placebo at 8 months — win ratio 1.11 (95% CI 1.03–1.21), P=0.009; mean placebo-corrected difference +2.4 points (source: [[solomon2022deliver]])
+- **DETERMINE-Preserved (McMurray 2024):** Dapagliflozin 10 mg produced KCCQ-TSS change +3.2 points, P=0.079 — not significant at 16 weeks (source: [[mcmurray2024determine]])
+- **Same drug (dapagliflozin), same EF population (HFpEF), both placebo-controlled**
+- **Potential explanations:** (1) Different analytical approaches — DELIVER used win ratio (composite rank of KCCQ change); DETERMINE used absolute change score; (2) Different follow-up — 8 months (DELIVER) vs. 16 weeks (DETERMINE); (3) Different populations — DELIVER enrolled during/after hospitalisation also, broader; (4) DETERMINE was underpowered for symptoms as a primary endpoint in HFpEF
+- **Implication:** SGLT2i symptom benefit in HFpEF is likely real but may require ≥8 months to emerge, or the win-ratio analytical approach may be more sensitive. The DETERMINE result should not be interpreted as evidence of no symptom benefit.
+
 ## Notes
 This page aggregates contradictions across the wiki. Updated on every ingest.

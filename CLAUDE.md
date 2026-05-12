@@ -91,6 +91,21 @@ The canonical citation for any source is always the entry in `wiki/citations.md`
 - Historical development: when a concept has evolved, trace prior → current understanding with dates in `## History` sections on concept pages, and update `wiki/timeline.md`
 - Standard tags: `mechanism` · `trial` · `diagnosis` · `treatment` · `biomarker` · `imaging` · `guideline` · `ml-ai` · `open-question`
 
+### Clinical Trials Overview Rule
+Maintain `wiki/trials.md` as the master clinical trials registry and `wiki/trials-pending.md` as the staging list.
+
+**On every ingest:** After processing a source, scan for clinical trial names that do not yet have entity or source pages in the wiki. For each such trial:
+1. Add an entry to `wiki/trials-pending.md` with: full title, abbreviation, intervention, condition/LVEF threshold, study ID (NCT or equivalent), journal reference, which wiki source mentions it, and 1–4 descriptive sentences.
+
+**When a new trial is added to the wiki** (entity + source pages created):
+1. Add a row to the appropriate table in `wiki/trials.md`
+2. Remove the entry from `wiki/trials-pending.md`
+3. Update `wiki/index.md` and `wiki/log.md`
+
+**`wiki/trials.md` required columns:** Abbreviation · Full Title · Intervention/Treatment · Condition (with LVEF threshold) · Study ID (NCT number) · Start · Completion · Wiki links
+
+Mark NCT numbers not confirmed from an ingested PDF as `[verify on ingest]`.
+
 ## Rules
 - Never modify `raw/`
 - Always update `index.md` and `log.md` after any change

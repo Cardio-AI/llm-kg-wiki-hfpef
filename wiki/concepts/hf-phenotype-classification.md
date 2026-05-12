@@ -14,6 +14,8 @@ sources:
     citekey: McDonagh2021ESC
   - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
     citekey: Heidenreich2022AHA
+  - file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
+    citekey: Savarese2022GlobalBurden
 ---
 # HF Phenotype Classification
 
@@ -47,6 +49,22 @@ The three-way classification matters because therapies proven in [[hfref]] have 
 - **2022** — AHA/ACC/HFSA Guideline introduced **HFimpEF** as a fourth EF category; formalised A–D staging as primary organisational framework; added SGLT2i Class 2a for HFpEF (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
 
 [expand as sources added]
+
+## EF Phenotype Distribution Across Major Registries
+
+The proportion of each EF phenotype varies substantially by clinical setting and geography (Savarese 2022):
+
+| Registry | Setting | Region | HFrEF (≤40%) | HFmrEF (41–49%) | HFpEF (≥50%) |
+|---|---|---|---|---|---|
+| ESC-HF-LT | Outpatient | Europe | 60% | 24% | 16% |
+| Swedish HF Registry | National | Sweden | 56% | 21% | 23% |
+| OPTIMIZE-HF | Hospitalised | USA | 49% | 17% | 24% |
+| GWTG-HF | Hospitalised | USA | 39% | 14% | 47% |
+| G-CHF | Mixed | Global (40 countries) | 54% | 21% | 24% |
+| ASIAN-HF | Mixed | Asia | 81% | 6% | 13% |
+| China-HF Registry | Hospitalised | China | 40% | 23% | 36% |
+
+Key interpretation: outpatient registries show lower HFpEF fractions than inpatient registries; US inpatient registries show highest HFpEF fractions (~47%), reflecting the obese, comorbid US HFpEF phenotype and inclusive EF cut-offs. The wide range (16–47%) has direct implications for trial generalisability and is partly explained by [[hfpef-diagnostic-definitions]] heterogeneity. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
 
 ## Evidence
 
@@ -88,7 +106,7 @@ Measure [[natriuretic-peptides]]
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[guideline-comparison]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[echocardiography]], [[cardiac-mri]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[savarese2022globalburden]]
 
 ## Contradictions
 - LVEF ≥50% cut-off for HFpEF is acknowledged as arbitrary; a future redefinition using sex-specific or continuous EF thresholds is plausible. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)

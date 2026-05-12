@@ -17,6 +17,12 @@ sources:
     citekey: Heidenreich2022AHA
   - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
     citekey: Ho2019HFpEFDefinitions
+  - file: raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf
+    citekey: Pieske2019HFAPEFF
+  - file: raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf
+    citekey: Reddy2018H2FPEF
+  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+    citekey: Pfeffer2019HFpEF
 ---
 # HFpEF Diagnosis
 
@@ -78,6 +84,7 @@ Both algorithms converge on invasive haemodynamic testing as the gold standard f
 
 ## History
 
+- **1990s–2000s** — Early epidemiological definitions varied widely; 9 distinct definitions used in population studies from 1997–2015, with LVEF thresholds ranging from >40% to >55% and inconsistent structural criteria. CHARM-Preserved chose LVEF >40% for design practicality, not biological rationale. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
 - **Pre-2016** — HFpEF diagnosis largely exclusionary (HF symptoms + non-reduced LVEF); limited standardisation of echocardiographic criteria
 - **2016** — ESC Guidelines introduced the structured three-criterion approach with specific echocardiographic markers; HFA-PEFF and H₂FPEF scores developed during this period
 - **2021** — ESC Guidelines refined Table 9 markers; simplified approach endorsed for general use; HFA-PEFF reserved for expert centres (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
@@ -121,7 +128,7 @@ HFpEF_phys (invasive PCWP elevation) independently predicts CV events (HR 1.62, 
 ## Related Pages
 - Concepts: [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[exercise-intolerance]], [[guideline-comparison]]
 - Entities: [[hfpef]], [[hfmref]], [[echocardiography]], [[cardiac-mri]], [[atrial-fibrillation]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[ho2019hfpefdefinitions]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[ho2019hfpefdefinitions]], [[pieske2019hfapeff]], [[reddy2018h2fpef]], [[pfeffer2019hfpef]]
 
 ## Contradictions
 - HFA-PEFF and H₂FPEF show variable diagnostic performance across cohorts; neither has been validated as universally superior. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)

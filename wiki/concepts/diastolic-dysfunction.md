@@ -15,6 +15,10 @@ sources:
     citekey: McDonagh2021ESC
   - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
     citekey: Sachdev2023Exercise
+  - file: "raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf"
+    citekey: D'Amario2019CMD
+  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+    citekey: Pfeffer2019HFpEF
 ---
 # Diastolic Dysfunction
 
@@ -33,6 +37,18 @@ Diastolic dysfunction refers to impaired LV relaxation and/or increased LV stiff
 
 **Causes and contributors:** Myocardial hypertrophy (hypertension), fibrosis, impaired intracellular calcium handling, and increased titin stiffness. Key predisposing conditions: hypertension, ageing, obesity, diabetes, [[atrial-fibrillation|AF]]. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
 
+### Cellular Mechanisms (Microvascular Hypothesis)
+
+The "microvascular hypothesis" (Paulus/Tschöpe; Graziani/Crea) proposes that comorbidity-driven systemic inflammation → endothelial activation → CMD → myocardial fibrosis and stiffening — rather than pressure overload alone. Three primary cellular pathways:
+
+**1. cGMP/PKG pathway:** ↓NO bioavailability → ↓sGC → ↓cGMP → ↓PKG activity → titin hypophosphorylation → ↑myocyte passive stiffness. PKG also brakes TGF-β-mediated remodelling by phosphorylating SMAD complexes (antihypertrophic, antifibrotic effects). Early disease: NO impairment dominant; advanced disease: endothelin-1-mediated vasoconstriction prevails. (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf; source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+
+**2. Titin — isoform shift and phosphorylation:** Titin connects the Z-disk to the M-band, preventing sarcomere overstretching. Diastolic stiffness in HFpEF results from: (a) isoform shift from compliant **N2BA → stiffer N2B** isoform; (b) titin **hypophosphorylation** from PKG inactivity → further reduced elastance. Both mechanisms are dynamically modifiable — a potential therapeutic target. (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf)
+
+**3. EndoMT (endothelial-mesenchymal transition):** Endothelial cells acquire myofibroblast phenotype under hypoxia and TGF-β stimulation: loss of endothelial markers, gain of α-smooth muscle actin (α-SMA) and collagen type I. Results in: ↑collagen type I/III ratio, ↑crosslinking → interstitial fibrosis. EndoMT is the primary driver of HFpEF-related myocardial fibrosis and is increasingly recognised as a common pathogenetic force in fibrotic disorders. EndoMT in hypoxic microvascular endothelium → cardiomyocyte apoptosis via paracrine TGF-β₁/SMAD signalling. Repeated micro-ischaemia → focal fibrosis → reduced coronary flow reserve → further diastolic dysfunction (vicious cycle). (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf)
+
+**4. Calcium overload:** ↑Late Na⁺ currents → ↑intracellular Na⁺ → ↑Na⁺/Ca²⁺ exchange during diastole → excessive cytosolic Ca²⁺ load → ↑diastolic stiffness + impaired active relaxation. Facilitated by RAAS activation and fibrotic remodelling. Therapeutically targetable with ranolazine (late Na⁺ current inhibitor): RALI-DHF proof-of-concept showed significant ↓LVEDP and ↓PCWP after 30-min infusion. (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf)
+
 ## Clinical Relevance
 
 Not all patients with elevated LVEF have pure diastolic dysfunction. Restrictive cardiomyopathies, cardiac amyloidosis, and constrictive pericarditis can produce similar haemodynamics and must be excluded before attributing findings to HFpEF. Right heart catheterisation is recommended to differentiate these in clinically ambiguous cases. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
@@ -40,9 +56,9 @@ Not all patients with elevated LVEF have pure diastolic dysfunction. Restrictive
 ## History
 
 - **Pre-2000s** — Diastolic dysfunction recognised as a distinct pathophysiological entity from systolic failure; early echocardiographic characterisation of filling patterns
+- **2013** — Paulus and Tschöpe proposed the multifaceted comorbidity-driven systemic inflammation model: comorbidities → low-grade inflammation → impaired NO → ↓cGMP → ↓PKG → ↑myocyte passive stiffness; this shifted the paradigm from pure pressure overload to microvascular/inflammatory mechanism (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf)
 - **2016–2021** — ESC Guidelines formalised echocardiographic markers (E/e', LA volume index, TR velocity) as standard diagnostic criteria for [[hfpef]]; invasive exercise testing established as gold standard (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
-
-[expand as sources added]
+- **2018** — Graziani and Crea proposed CMD as the "common soil" for both microvascular angina and HFpEF; PROMIS-HFpEF (Shah 2018) confirmed 91% CMD prevalence in HFpEF (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf)
 
 ## Evidence
 
@@ -75,7 +91,7 @@ Use limited to research settings due to invasiveness. (source: 2021-ESC-Guidelin
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[guideline-comparison]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[atrial-fibrillation]], [[echocardiography]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[sachdev2023exercise]], [[ho2019hfpefdefinitions]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[pfeffer2019hfpef]], [[damario2019cmd]]
 
 ## Contradictions
 - E/e' >9 has sensitivity 78% but specificity only 59%; it is a weak stand-alone criterion for elevated filling pressures. Diagnostic accuracy improves substantially when combined with other markers. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)

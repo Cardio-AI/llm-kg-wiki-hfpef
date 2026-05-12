@@ -14,6 +14,8 @@ sources:
     citekey: McDonagh2021ESC
   - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
     citekey: Heidenreich2022AHA
+  - file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
+    citekey: Kittleson2023ACC
 ---
 # HFpEF Guideline Comparison — ESC 2021 vs. AHA 2022
 
@@ -23,18 +25,18 @@ sources:
 
 ## Overview
 
-| Feature | ESC 2021 | AHA/ACC/HFSA 2022 |
-|---|---|---|
-| Published | August 2021 (EHJ) | April 2022 (Circulation) |
-| Jurisdiction | Europe/international | United States |
-| Reference | McDonagh 2021 | Heidenreich 2022 |
-| EF categories | 3 (HFrEF, HFmrEF, HFpEF) | 4 (adds HFimpEF) |
-| HFpEF LVEF threshold | ≥50% | ≥50% |
-| Staging system | NYHA + ACC/AHA A–D (referenced) | A–D (Table 3, primary framework) |
-| SGLT2i for HFpEF | No recommendation (trials pending) | Class 2a, B-R |
-| MRA for HFpEF | Not recommended | Class 2b, B-R |
-| ARNI for HFpEF | Not recommended | Class 2b, B-R |
-| Exercise training | Class I (HFrEF); mentioned for HFpEF | Class I, Level A (EF-agnostic) |
+| Feature              | ESC 2021                             | AHA/ACC/HFSA 2022                |
+| -------------------- | ------------------------------------ | -------------------------------- |
+| Published            | August 2021 (EHJ)                    | April 2022 (Circulation)         |
+| Jurisdiction         | Europe/international                 | United States                    |
+| Reference            | McDonagh 2021                        | Heidenreich 2022                 |
+| EF categories        | 3 (HFrEF, HFmrEF, HFpEF)             | 4 (adds HFimpEF)                 |
+| HFpEF LVEF threshold | ≥50%                                 | ≥50%                             |
+| Staging system       | NYHA + ACC/AHA A–D (referenced)      | A–D (Table 3, primary framework) |
+| SGLT2i for HFpEF     | No recommendation (trials pending)   | Class 2a, B-R                    |
+| MRA for HFpEF        | Not recommended                      | Class 2b, B-R                    |
+| ARNI for HFpEF       | Not recommended                      | Class 2b, B-R                    |
+| Exercise training    | Class I (HFrEF); mentioned for HFpEF | Class I, Level A (EF-agnostic)   |
 
 ---
 
@@ -170,14 +172,49 @@ Despite their differences, the guidelines agree on:
 
 - **ESC 2021** (August 2021): Last major ESC guidelines; no SGLT2i recommendation for HFpEF (EMPEROR-Preserved published same month, after cutoff). Added SGLT2i as fourth HFrEF pillar. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
 - **AHA 2022** (April 2022): Incorporated EMPEROR-Preserved and DELIVER; elevated SGLT2i to Class 2a; introduced HFimpEF. First major guideline to give HFpEF-specific pharmacotherapy above Class 2b. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
-- Next expected update: ESC 2025 (anticipated) — likely to incorporate SGLT2i at Class I or 2a for HFpEF/HFmrEF based on combined EMPEROR-Preserved + DELIVER data. [expand as sources added]
+- **ACC 2023 ECDP** (April 2023): Operational supplement to AHA 2022; elevates SGLT2i to near-Class I in Figure 9; introduces sex-stratified ARNI/MRA algorithm; provides dose tables, contraindication lists, mimic diagnostic framework (Table 1), CHECK-IN/INHALE referral acronyms; references GLP-1RA (semaglutide/tirzepatide) + ongoing SUMMIT/STEP-HFpEF trials. (source: 2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf)
+- Next expected update: ESC 2025 (anticipated) — likely to incorporate SGLT2i at Class I or 2a for HFpEF/HFmrEF; may incorporate GLP-1RA data from SUMMIT/STEP-HFpEF. [expand as sources added]
+
+---
+
+---
+
+## 2023 ACC Expert Consensus Decision Pathway (ECDP) — Operational Supplement to AHA 2022
+
+The Kittleson 2023 ACC ECDP ([[kittleson2023acc]]) is not a stand-alone guideline but an operational companion to AHA 2022. It fills the HFpEF-specific algorithm gap.
+
+### Key additions vs. AHA 2022
+
+| Feature | AHA 2022 | ACC 2023 ECDP |
+|---|---|---|
+| SGLT2i framing | Class 2a, B-R | Near-Class I (green border; "may receive stronger class in future guidelines") |
+| Treatment algorithm | Class-based table | Figure 9: sequential algorithm with sex+EF stratification |
+| ARNI/MRA sex-specificity | Class 2b (generic) | Women (all EF): add ARNI and MRA; Men: primarily EF <55–60% |
+| HFpEF mimics | Mentioned | Table 1: 8 mimics with clinical clues + specific diagnostic tests |
+| Dose table | Not provided | Table 3: starting + target doses for all 4 drug classes |
+| Contraindications | Not provided | Table 4: complete contraindication + caution list |
+| Referral criteria | Not provided | CHECK-IN (PCP → cardiology), INHALE (cardiology → HF specialist) |
+| Obesity pharmacotherapy | Not addressed | GLP-1RA referenced; SUMMIT + STEP-HFpEF flagged as ongoing |
+| Hospital GDMT initiation | Class I general | STRONG-HF data: 8% absolute reduction with aggressive titration |
+
+### Sex-specific treatment algorithm rationale
+- Women have smaller LV chambers → apparent higher LVEF; LVEF 50–55% may be functionally abnormal in women
+- PARAGON-HF: women HR 0.73 (0.59–0.90) vs. men HR 1.03 (0.84–1.25) — sex-treatment interaction
+- TOPCAT: women show similar spironolactone benefit across LVEF strata
+- Basis for ACC 2023 recommendation: ARNI and MRA for women at all EF; men primarily at LVEF <55–60%
+
+### Diagnostic priorities: H₂FPEF vs. HFA-PEFF
+The ACC 2023 ECDP explicitly prioritises H₂FPEF for routine practice over HFA-PEFF:
+- H₂FPEF: 6 variables, no NP threshold, validated against invasive CPET, avoids false-low NP in obesity
+- HFA-PEFF Step F1 (diastolic stress testing): often impractical; ECDP recommends empirical GDMT trial instead
+- HFA-PEFF Step F2 (final etiology): retained as clinically important for mimic exclusion
 
 ---
 
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[diastolic-dysfunction]], [[natriuretic-peptides]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[sglt2-inhibitors]], [[sacubitril-valsartan]], [[spironolactone]], [[supervised-exercise-training]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[pitt2014topcat]], [[solomon2019paragon]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[kittleson2023acc]], [[anker2021emperor]], [[solomon2022deliver]], [[pitt2014topcat]], [[solomon2019paragon]]
 
 ## Contradictions
 - SGLT2i for HFpEF: Class 2a (AHA 2022) vs. no recommendation (ESC 2021) — explained by publication timing, not disagreement.

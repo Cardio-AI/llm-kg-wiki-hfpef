@@ -15,6 +15,8 @@ sources:
     citekey: Sachdev2023Exercise
   - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
     citekey: Ho2019HFpEFDefinitions
+  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+    citekey: Pfeffer2019HFpEF
 ---
 # Exercise Intolerance in HFpEF
 
@@ -47,6 +49,7 @@ Exercise intolerance in [[hfpef]] is multimechanistic. Invasive [[cardiopulmonar
 **4. Peripheral vascular**
 - Impaired arteriolar vasodilation and reduced skeletal muscle perfusion during exercise
 - Endothelial dysfunction; reduced NO-mediated vasodilation (mechanistic target of nitrate trials [[redfield2015neat]], [[zamani2015indie]] — both neutral)
+- Systemic microvascular dysfunction → impaired reactive hyperaemia and abnormal regional vasodilation during exercise (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
 
 (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
 
@@ -65,7 +68,9 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 ## History
 
 - **Pre-2010s** — Exercise intolerance in HFpEF attributed primarily to cardiac filling pressure elevation ([[diastolic-dysfunction]]); peripheral muscle not systematically characterised
+- **2010** — Kitzman et al. published the first randomised exercise training trial in HFpEF, demonstrating substantial improvement in cardiorespiratory fitness (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
 - **2010–2020** — Invasive CPET studies at specialist centres (including MGH, Wake Forest) demonstrated that peripheral A-VO2 difference, not cardiac output, accounts for the majority of VO2 reduction in HFpEF; chronotropic incompetence quantified in ~50%
+- **SECRET trial (Kitzman)** — Exercise training combined with caloric restriction → significantly improved aerobic capacity; combination was **additive** — both interventions contributed independently (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
 - **2023** — Sachdev AHA Scientific Statement formalised the mechanistic hierarchy; SET meta-analysis (8 RCTs, n=503) established exercise training as the most effective available intervention (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
 
 ## Evidence
@@ -89,7 +94,7 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 
 - Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]]
 - Entities: [[hfpef]], [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]]
-- Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]]
+- Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]]
 
 ## Contradictions
 

@@ -4,53 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40579e6a64d223ea",
-        "type": "tabs",
-        "dimension": 70.94594594594594,
-        "children": [
-          {
-            "id": "84f5841366ac292b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "overview"
-            }
-          },
-          {
-            "id": "c8fa3c938d00b180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/wiki-page.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wiki-page"
-            }
-          }
-        ]
-      },
-      {
         "id": "74eb95ac830d905e",
         "type": "tabs",
-        "dimension": 29.05405405405406,
         "children": [
           {
             "id": "38583799bd7d17ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "raw/Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF 1"
             }
           }
         ]
@@ -110,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 425.5
   },
   "right": {
     "id": "8c1fefa39a076768",
@@ -225,43 +193,43 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "84f5841366ac292b",
+  "active": "38583799bd7d17ad",
   "lastOpenFiles": [
-    "raw/Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics in Patients With HFpEF.md",
-    "wiki/citations.md",
-    "wiki/entities/decipher-hfpef.md",
-    "wiki/entities/torch.md",
-    "wiki/sources/seyler2017torch.md",
-    "wiki/sources/ferreira2026emperor.md",
-    "wiki/sources/desai2011topcat.md",
-    "wiki/concepts/guideline-comparison.md",
-    "wiki/sources/heidenreich2022aha.md",
-    "raw/Study - NCT04265040  DZHK TORCH-Plus is a Registry for Patients With Cardiomyopathies and Serves as Source for Cardiovascular Research Studies.md",
-    "raw/Study - NCT02187263  German Centre for Cardiovascular Research Cardiomyopathy Register TORCH.md",
-    "raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf",
-    "raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf.crdownload",
-    "raw/Study - NCT03057951  EMPagliflozin outcomE tRial in Patients With chrOnic heaRt Failure With Preserved Ejection Fraction (EMPEROR-Preserved).md",
-    "raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf",
-    "raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf.crdownload",
-    "raw/Study - NCT00094302  Aldosterone Antagonist Therapy for Adults With Heart Failure and Preserved Systolic Function.md",
-    "raw/2011-AHA-Desai-TOPCAT_study.pdf",
-    "raw/2011-AHA-Desai-TOPCAT_study.pdf.crdownload",
-    "raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf",
-    "wiki/entities/atrial-fibrillation.md",
-    "Clippings",
-    "raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf",
-    "raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf",
-    "wiki/entities/cardiopulmonary-exercise-testing.md",
-    "wiki/entities/supervised-exercise-training.md",
-    "wiki/concepts/exercise-intolerance.md",
-    "wiki/concepts/hfpef-diagnostic-definitions.md",
-    "wiki/sources/sachdev2023exercise.md",
-    "wiki/sources/ho2019hfpefdefinitions.md",
-    "wiki/timeline.md",
-    "wiki/overview.md",
-    "wiki/log.md",
-    "wiki/index.md",
+    "raw/Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF.md",
+    "raw/Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF 1.md",
+    "raw/Study - NCT03184311  High-intensity Interval Training in Heart Failure Patients With Preserved Ejection Fraction.md",
+    "raw/Study - NCT05002075  Efficacy of an m-Health Cardiac Rehabilitation Program in Heart Failure With Preserved Ejection Fraction.md",
+    "raw/Study - NCT05162859  Exercise Training in Heart Failure With Preserved Ejection Fraction - a Long-term Follow-up.md",
+    "raw/Study - NCT03465072  Abnormal Vascular, Metabolic, and Neural Function During Exercise in Heart Failure With Preserved Ejection Fraction.md",
+    "raw/Study - NCT04940312  MyoMobile Study App-based Activity Coaching in Patients with Heart Failure and Preserved Ejection Fraction.md",
+    "raw/2022-Cardiol-Clin_Bohmke_Nonpharmacological_strategies_HFpEF.pdf",
+    "raw/2022-Cardiol-Clin_Bohmke_Nonpharmacological_strategies_HFpEF.pdf.crdownload",
+    "raw/Study - NCT04064450  MyoVasc Study on the Development and Progression of Heart Failure.md",
+    "raw/2025-ESC-Zeid-MyoMobile_study.pdf",
+    "raw/2025-ESC-Zeid-MyoMobile_study.pdf.crdownload",
+    "wiki/entities/hfpef.md",
+    "wiki/entities/atrial-fibrillation.md.tmp.22092.1778048142141",
+    "wiki/concepts/hfpef-phenotype-profiling.md",
+    "wiki/sources/anker2023hfpefphenotype.md",
+    "wiki/sources/kittleson2023acc.md",
+    "wiki/concepts/ml-ai-hfpef.md",
+    "wiki/sources/yi2025ai.md",
     "wiki/contradictions.md",
-    "wiki/concepts/hfpef-diagnosis.md"
+    "wiki/timeline.md",
+    "wiki/trials.md",
+    "raw/Study - NCT01919177  Effect of Inorganic Nitrates (Beetroot Juice) on Arterial Hemodynamics and Exercise Capacity.md",
+    "raw/2025-jjcc-Yi-AI_in_HFpEF.pdf",
+    "raw/2025-jjcc-Yi-AI_in_HFpEF.pdf.crdownload",
+    "raw/2022-ESC-Savarese-Global_burden_HF.pdf",
+    "raw/2022-ESC-Savarese-Global_burden_HF.pdf.crdownload",
+    "raw/2023-ESC-Anker_HFpEF_phenotyping.pdf",
+    "raw/Study - NCT03057977  EMPagliflozin outcomE tRial in Patients With chrOnic heaRt Failure With Reduced Ejection Fraction (EMPEROR-Reduced).md",
+    "raw/Study - NCT01035255  This Study Will Evaluate the Efficacy and Safety of LCZ696 Compared to Enalapril on Morbidity and Mortality of Patients With Chronic Heart Failure.md",
+    "raw/Study - NCT03036124  Study to Evaluate the Effect of Dapagliflozin on the Incidence of Worsening Heart Failure or Cardiovascular Death in Patients With Chronic Heart Failure.md",
+    "raw/Study - NCT03547583 Patient-reported Outcomes in Vericiguat-treated Patients With HFpEF.md",
+    "raw/Study - NCT03254485  A Study of the Effect of IW-1973 on the Exercise Capacity of Patients With Heart Failure With Preserved Ejection Fraction (HFpEF) (CAPACITY-HFpEF).md",
+    "Clippings/Medical World Model Workshop.md",
+    "wiki/sources/mirzai2025exercise.md",
+    "wiki/sources/docherty2025determine.md"
   ]
 }

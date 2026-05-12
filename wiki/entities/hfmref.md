@@ -12,6 +12,8 @@ last_updated: 2026-04-30
 sources:
   - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
     citekey: McDonagh2021ESC
+  - file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
+    citekey: Savarese2022GlobalBurden
 ---
 # HFmrEF
 
@@ -27,6 +29,17 @@ HFmrEF is diagnosed when:
 3. Elevated [[natriuretic-peptides]] (BNP ≥35 pg/mL or NT-proBNP ≥125 pg/mL) and/or evidence of structural heart disease (increased LA size, LV hypertrophy, or echocardiographic measures of LV filling) — increases diagnostic likelihood when LVEF certainty is borderline
 
 The term was renamed from 'heart failure with mid-range ejection fraction' to 'mildly reduced ejection fraction' in 2021 to better reflect clinical overlap with [[hfref]]. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+
+## Epidemiology
+
+HFmrEF constitutes a variable share of HF across registries, ranging from 14% to 24%:
+- ESC-HF-LT (European outpatient): 24%
+- Swedish HF Registry (national): 21%
+- GWTG-HF (US inpatient): 14%
+- G-CHF (global, 40 countries): 21%
+- ASIAN-HF: 6%
+
+1-year mortality in ESC-HF-LT: 7.6% — between HFpEF (6.3%) and HFrEF (8.8%). The proportion of HFmrEF is growing as more patients recover EF from HFrEF, adding HFimpEF patients to this range. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
 
 ## Role in HFpEF
 
@@ -47,7 +60,7 @@ No evidence to advise CRT or ICD therapy specific to HFmrEF. No specific trial d
 ## Related Pages
 - Concepts: [[hf-phenotype-classification]], [[hfpef-treatment-gap]], [[natriuretic-peptides]]
 - Entities: [[hfpef]], [[hfref]], [[echocardiography]], [[cardiac-mri]], [[atrial-fibrillation]], [[sacubitril-valsartan]], [[spironolactone]], [[paragon-hf]], [[topcat]]
-- Sources: [[mcdonagh2021esc]]
+- Sources: [[mcdonagh2021esc]], [[savarese2022globalburden]]
 
 ## Contradictions
 - All treatment recommendations are Class IIb, Level C — essentially no robust evidence. The group is likely heterogeneous (recovering HFrEF vs. declining HFpEF), which may explain the absence of dedicated trials. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)

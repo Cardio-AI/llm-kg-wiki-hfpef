@@ -16,6 +16,8 @@ sources:
     citekey: McDonagh2021ESC
   - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
     citekey: Heidenreich2022AHA
+  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
+    citekey: Anker2023HFpEFPhenotype
 ---
 # Spironolactone
 
@@ -54,10 +56,14 @@ Spironolactone was the leading pharmacological candidate for HFpEF given its ant
 
 **AHA 2022:** **Class 2b, B-R** — MRA may be considered in HFpEF to decrease hospitalizations, based primarily on the TOPCAT Americas subgroup. Applicable to patients with LVEF ≥50% who tolerate the drug (adequate renal function and potassium). (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
 
+**ESC/HFA 2023 (Anker 2023):** MRA "may be considered" after weighing benefits against hyperkalaemia and adverse effects. Two ongoing trials will further delineate the MRA role in HFpEF: **SPIRIT-HF** (NCT04727073) and **SPIRRIT** (NCT02901184). (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+
+**FINEARTS-HF** (NCT04435626): Ongoing Phase III RCT of finerenone (non-steroidal, highly selective MRA) vs. placebo in HFpEF (LVEF ≥40%, eGFR ≥25 ml/min/1.73 m²). Primary endpoint: CV death + HHF. First trial of a novel MRA class in HFpEF — will determine whether the non-steroidal class avoids the compliance and hyperkalaemia problems seen in TOPCAT. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[guideline-comparison]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[topcat]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[pitt2014topcat]], [[desai2011topcat]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2023hfpefphenotype]], [[pitt2014topcat]], [[desai2011topcat]]
 
 ## Contradictions
 - TOPCAT overall vs. Americas subgroup results are directly contradictory. Regional data quality in Eastern European cohort is disputed. This is one of the most significant unresolved controversies in HFpEF pharmacotherapy.
