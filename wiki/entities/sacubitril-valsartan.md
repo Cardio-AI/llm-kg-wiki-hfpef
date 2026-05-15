@@ -23,6 +23,18 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| ARNI | abbreviation | angiotensin receptor-neprilysin inhibitor |
+| LCZ696 | research-name | development code used in PARADIGM-HF and PARAGON-HF |
+| Entresto | alternate-name | brand name (Novartis) |
+| sacubitril/valsartan | alternate-name | compound name; preferred over LCZ696 post-approval |
+| neprilysin inhibitor | descriptive | mechanism-based; refers to sacubitril component only |
+| valsartan | alternate-name | ARB component alone; distinct from combined ARNI |
+
+---
+
 ## Description
 
 Sacubitril/valsartan combines an ARB (valsartan) with a neprilysin inhibitor (sacubitril-prodrug LBQ657). Neprilysin degrades [[natriuretic-peptides]], bradykinin, and other vasoactive peptides; its inhibition augments NP levels, promoting natriuresis and vasodilation. The combined neurohormonal blockade is more potent than ACE-I alone in [[hfref]]. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
@@ -43,6 +55,7 @@ This places sacubitril/valsartan in the grey zone between HFmrEF and lower-EF HF
 
 - **PARADIGM-HF** ([[hfref]], LVEF ≤40%): Superiority over enalapril in reducing HF hospitalizations, CV mortality, and all-cause mortality. Additional benefits: improved QOL, reduced diabetes incidence, slower eGFR decline, reduced hyperkalaemia. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
 - **[[paragon-hf]]** ([[hfpef]], LVEF ≥45%): Missed primary endpoint overall; significant subgroup signal in LVEF <57%; FDA endorsed for LVEF "less than normal." (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **[[paraglide-hf]]** (LVEF >40%, post-worsening HF event): NT-proBNP time-averaged ratio 0.85 (95% CI 0.73–0.999) — statistically significant overall reduction. Benefit driven by LVEF ≤60% subgroup; minimal to no benefit in LVEF >60%. Primary safety concern: symptomatic hypotension (SH) 24.0% Sac/Val vs. 15.5% Val (P=0.020), particularly in women (OR 2.29; P=0.012) and LVEF >60% patients. Sex-consistency analysis showed no sex-treatment interaction (P=0.908) for NT-proBNP benefit. In-hospital vs. out-of-hospital initiation had identical effect (P-interaction=0.99). Diverse enrollment: 52% women, 22% Black. (source: mentz2023paraglide; fudim2024paraglide; nouhravesh2025paraglide; rambarat2025paraglide)
 
 ## Status
 
@@ -60,8 +73,8 @@ This places sacubitril/valsartan in the grey zone between HFmrEF and lower-EF HF
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[natriuretic-peptides]], [[hf-phenotype-classification]], [[guideline-comparison]]
-- Entities: [[hfpef]], [[hfmref]], [[hfref]], [[paragon-hf]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]]
+- Entities: [[hfpef]], [[hfmref]], [[hfref]], [[paragon-hf]], [[paraglide-hf]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[mentz2023paraglide]], [[fudim2024paraglide]], [[nouhravesh2025paraglide]], [[rambarat2025paraglide]]
 
 ## Contradictions
 - PARAGON-HF missed its primary endpoint overall — FDA label is based on a subgroup/meta-analysis signal, not a positive primary trial in HFpEF. Unclear whether the benefit is real or driven primarily by the HFmrEF subgroup within the trial.

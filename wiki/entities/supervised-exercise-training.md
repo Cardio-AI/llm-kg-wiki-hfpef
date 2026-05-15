@@ -1,7 +1,7 @@
 ---
 type: entity
 title: Supervised Exercise Training (SET)
-summary: Structured, supervised aerobic exercise programmes (HIIT or MCT modalities) that improve peak VO2 by ~2.8 mL/kg/min in HFpEF via reversal of skeletal muscle myopathy; the most consistently positive HFpEF intervention in RCTs; 2022 AHA/ACC Class I, Level A recommendation across all HF phenotypes.
+summary: Structured, supervised aerobic exercise programmes (MCT, HIIT, combined resistance/aerobic, or IMT modalities) that improve peak VO2 by ~2.8 mL/kg/min in HFpEF via reversal of skeletal muscle myopathy; the most consistently positive HFpEF intervention in RCTs; 2022 AHA/ACC Class I, Level A recommendation across all HF phenotypes; Ex-DHF (2025, n=322, 12 months) missed its primary composite endpoint despite improving VO₂ and NYHA.
 entity_type: intervention
 tags:
   - hfpef
@@ -10,10 +10,20 @@ tags:
   - intervention
   - rehabilitation
 created: 2026-04-30
-last_updated: 2026-04-30
+last_updated: 2026-05-15
 sources:
   - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
     citekey: Sachdev2023Exercise
+  - file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
+    citekey: Bohmke2022Nonpharm
+  - file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
+    citekey: Mirzai2025Exercise
+  - file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
+    citekey: edelmann2025exdhf
+  - file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
+    citekey: sharif2024locomotor
+  - file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
+    citekey: obaya2024aerobic
 ---
 # Supervised Exercise Training (SET)
 
@@ -21,14 +31,28 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| SET | abbreviation | supervised exercise training — common research shorthand |
+| cardiac rehabilitation | alternate-name | clinical programme context; broader than SET (includes education, psychosocial support) |
+| exercise-based cardiac rehab | alternate-name | formal phrase used in AHA/ACC guidelines |
+| MCT | abbreviation | moderate-intensity continuous training — dominant SET modality |
+| HIIT | abbreviation | high-intensity interval training — alternative modality; not superior to MCT in HFpEF meta-analyses |
+| IMT | abbreviation | inspiratory muscle training — specific modality targeting respiratory muscles |
+
+---
+
 ## Description
 
-Supervised exercise training (SET) encompasses structured, professionally supervised aerobic exercise programmes. Two primary modalities studied in HFpEF:
+Supervised exercise training (SET) encompasses structured exercise programmes delivered under professional supervision. Four modalities have RCT evidence in HFpEF:
 
-- **HIIT (High-Intensity Interval Training):** Alternating high-intensity efforts (85–95% peak HR) with recovery periods; shorter total session duration; stronger stimulus for mitochondrial adaptations
-- **MCT (Moderate-Intensity Continuous Training):** Sustained moderate-intensity exercise (50–70% peak HR); longer session duration; traditional cardiac rehabilitation approach
+- **MCT (Moderate-Intensity Continuous Training):** Sustained moderate-intensity exercise (50–70% peak HR); longer session duration; traditional cardiac rehabilitation approach; strongest evidence base across HFpEF trials
+- **HIIT (High-Intensity Interval Training):** Alternating high-intensity efforts (85–95% peak HR) with recovery periods; shorter total session; stronger mitochondrial stimulus; not superior to MCT overall (OPTIMEX-CLIN, N=180: HIIT = MCT at 3 and 12 months)
+- **Combined resistance + aerobic training:** Resistance training added to aerobic base; EX-DHF pilot: VO₂peak +2.6 mL/kg/min + improved LAVI; 12-month progressive trial: +5.3 mL/kg/min; largest VO₂ gains in literature
+- **IMT (Inspiratory Muscle Training):** Targeted training of respiratory muscles (diaphragm, accessory muscles) at 25–30% maximal inspiratory pressure (MIP); reduces fraction of cardiac output competed for by respiratory muscles during exertion; delivers VO₂peak improvement (~+2.9 mL/kg/min) comparable to MCT with home-delivery advantage; two RCTs (Palau 2014, Kinugasa 2020)
 
-Both modalities have been studied in HFpEF RCTs and show comparable efficacy on peak VO2. No head-to-head superiority established. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+(source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf; source: 2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf)
 
 ## Role in HFpEF
 
@@ -49,6 +73,24 @@ Context: [[hfpef-treatment-gap]] — no pharmacological agent has consistently i
 
 (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
 
+### Key Individual Trials
+
+| Trial | Modality | Duration | VO₂peak effect | Notes |
+|---|---|---|---|---|
+| Kitzman 2010 | MCT | 16 weeks | +2.7 mL/kg/min | First HFpEF exercise RCT; peripheral mechanism |
+| SECRET (MCT arm) | MCT | 20 weeks | +1.2 mL/kg/min | Additive with caloric restriction |
+| EX-DHF | Combined | 12 weeks | +2.6 mL/kg/min | Improved LAVI; diastolic marker benefit |
+| 12-month progressive | Combined | 12 months | +5.3 mL/kg/min | Largest VO₂ gain; progressive loading |
+| HEART Camp (HFpEF subgroup) | MCT | 18 months | 6MWT +63.25 m | Long-term adherence trial |
+| Palau 2014 | IMT | 12 weeks | +2.9 mL/kg/min | IMT 25–30% MIP; no echo change |
+| Kinugasa 2020 | IMT | 24 weeks | ↑anaerobic threshold | At-home protocol; improved % MIP |
+| OPTIMEX-CLIN | HIIT vs. MCT | 3 and 12 mo | HIIT = MCT | N=180; largest head-to-head; no HIIT superiority |
+| Ex-DHF | Combined (endurance + resistance) | 12 months | +1.3 mL/kg/min (P=0.003) | N=322; largest 12-month exercise RCT in HFpEF; **primary endpoint NOT MET** (P=0.17); NYHA improved OR 5.89 (P<0.001); adherence ~53%; ISRCTN86879094 |
+| Sharif 2024 | Resistance training | 12.5 weeks | +2.3 mL/kg/min | N=22 pilot; fat-selective; lean mass gained; no change in LF%; confirms peripheral mechanism |
+| Obaya 2024 | Lower-limb aerobic vs. arm ergometry | 12 weeks | Lower-limb: 21.51; arm: 19.26 mL/kg/min (P<0.001) | N=40; LVEF unchanged both arms; supports limb-specific skeletal muscle mechanism |
+
+(source: 2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf; source: 2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf; source: edelmann2025exdhf; source: sharif2024locomotor; source: obaya2024aerobic)
+
 ### Hard Outcomes
 
 Effect of SET on all-cause mortality or HF hospitalization in HFpEF: **unknown**. Individual trials are underpowered for hard outcomes; no pooled evidence sufficient. This is the critical remaining knowledge gap.
@@ -56,6 +98,18 @@ Effect of SET on all-cause mortality or HF hospitalization in HFpEF: **unknown**
 ### Safety
 
 No major adverse cardiac events attributed to exercise training across 276 patients in safety-reporting RCTs. SET is safe in appropriately screened HFpEF patients. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+
+## Digital Health and App-Based Approaches
+
+**App-based PA coaching (MyoMobile, Zeid 2025)** represents a distinct paradigm: rather than supervised sessions, patients use a smartphone app with a wearable step counter (Garmin Vivosmart 4) and receive personalised daily step-count goals and motivational coaching. Key features:
+- Home-based; no facility required; flexible daily integration
+- Step count as primary metric (not VO₂peak); accessible and familiar
+- Algorithm adjusts weekly goal based on 5 most active days of prior week
+- Addresses the primary implementation barrier of structured SET (low participation, access constraints)
+
+**MyoMobile trial (NCT04940312):** N=185, three-arm RCT (standard care vs. tracking vs. tracking+coaching), 12-week primary endpoint, DZHK Rhine-Main, Germany. Design paper published 2025; primary results pending. First prospective RCT of app-based PA coaching in HFpEF. (source: 2025-ESC-Zeid-MyoMobile_study.pdf)
+
+**Relationship to structured SET:** App-based PA coaching is **complementary, not equivalent** to supervised exercise training. SET changes peak VO₂ via skeletal muscle adaptation and requires facility infrastructure. App-based PA coaching targets sedentary behaviour (step count) at a lower intensity and lower access barrier. The two approaches may be additive in a comprehensive HFpEF rehabilitation programme.
 
 ## Status
 
@@ -71,10 +125,13 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 
 ## Related Pages
 
-- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]
+- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[ml-ai-hfpef]]
 - Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]]
-- Sources: [[sachdev2023exercise]], [[mcdonagh2021esc]]
+- Sources: [[sachdev2023exercise]], [[mirzai2025exercise]], [[bohmke2022nonpharm]], [[zeid2025myomobile]], [[mcdonagh2021esc]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]]
 
 ## Contradictions
 
-- Positive effects on peak VO2 (+2.8 mL/kg/min) do not necessarily predict mortality/hospitalisation benefit — the same disconnect seen with other HFpEF therapies. Hard outcome data remain absent. See [[contradictions]].
+- Positive effects on peak VO2 (+2.8 mL/kg/min) do not necessarily predict mortality/hospitalisation benefit — the same disconnect seen with other HFpEF therapies. Hard outcome data remain absent.
+- **Ex-DHF (2025):** VO₂ improved (+1.3 mL/kg/min; P=0.003) and NYHA class improved (OR 5.89; P<0.001), yet the primary Packer composite endpoint was NOT MET (P=0.17). This dissociation between functional gains and composite endpoint is either (a) the Packer composite is insensitive to VO₂/NYHA changes in the ambulatory low-risk Ex-DHF population, or (b) adherence (~53%) was insufficient to power the composite endpoint — the largest exercise RCT in HFpEF has not resolved the SET effectiveness question for composite clinical outcomes. See [[contradictions]] #30.
+
+See [[contradictions]].

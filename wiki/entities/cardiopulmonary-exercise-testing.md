@@ -11,7 +11,7 @@ tags:
   - physiology
   - exercise
 created: 2026-04-30
-last_updated: 2026-04-30
+last_updated: 2026-05-14
 sources:
   - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
     citekey: Ho2019HFpEFDefinitions
@@ -19,10 +19,25 @@ sources:
     citekey: Sachdev2023Exercise
   - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
     citekey: McDonagh2021ESC
+  - file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
+    citekey: borlaug2010exercise
+  - file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
+    citekey: landsteiner2025hemodynamics
 ---
 # Cardiopulmonary Exercise Testing (CPET)
 
 > Measurement of expired gas (VO2, VCO2, VE) and cardiovascular responses during graded exercise; invasive CPET adds direct haemodynamic measurement (PCWP, CO) and is the gold standard for HFpEF diagnosis in equivocal cases and for dissecting exercise intolerance mechanisms.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| CPET | abbreviation | cardiopulmonary exercise testing — universal shorthand |
+| CPEX | abbreviation | British English variant |
+| peak VO₂ test | descriptive | refers to the primary output measure |
+| invasive CPET | abbreviation | CPET with simultaneous right heart catheterisation (PA pressure + PCWP) |
+| exercise stress test | descriptive | lay term; usually refers to non-metabolic ECG stress testing only |
 
 ---
 
@@ -47,12 +62,23 @@ This allows decomposition of VO2 = CO × A-VO2 diff (Fick principle), quantifyin
 
 ### As Diagnostic Gold Standard
 
-In equivocal HFpEF cases, invasive CPET establishes physiologic HFpEF (HFpEF_phys):
-- PCWP ≥15 mmHg at rest → elevated LV filling pressure at rest
-- PCWP ≥25 mmHg during exercise → exercise-induced filling pressure elevation (exertional HFpEF)
-- LVEDP ≥16 mmHg at rest (by direct LV catheterization)
+In equivocal HFpEF cases, invasive CPET establishes physiologic HFpEF (HFpEF_phys). Thresholds differ by exercise position:
 
-These thresholds are the ESC 2021 gold-standard criteria when non-invasive workup is inconclusive. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+**Supine exercise (Borlaug 2010 protocol):**
+- PCWP ≥15 mmHg at rest → elevated LV filling pressure at rest
+- PCWP ≥25 mmHg during supine exercise → exertional HFpEF
+- LVEDP ≥16 mmHg at rest (direct LV catheterization)
+- Exercise PASP ≥45 mmHg (non-invasive Doppler surrogate): sensitivity 96%, specificity 95%, AUC 0.99 in patients with normal resting hemodynamics (source: 2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf)
+- Hemodynamic gap emerges within 1.5 minutes of exercise at 20W — very low workload threshold (source: 2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf)
+
+**Upright exercise (Landsteiner 2025 protocol):**
+- PCWP/CO slope >2 mmHg/L/min during upright ergometry (minute-by-minute over ~10 minutes) — preferred metric for upright protocols; captures the slope of filling pressure rise relative to cardiac output augmentation
+- HC-HFpEF (hemodynamically confirmed HFpEF): resting PCWP ≥15 mmHg OR exercise PCWP/CO slope >2 mmHg/L/min (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
+- **Upright vs. supine distinction:** Upright exercise produces lower absolute PCWP than supine at equivalent workload (gravitational venous pooling reduces preload); reclassification between protocols is known. The Landsteiner cohort used upright ergometry, yielding lower absolute PCWP values than the Borlaug 2010 supine protocol — thresholds are not interchangeable.
+
+**Exercise-unmasked HFpEF:** 23–28% of HC-HFpEF patients have normal resting PCWP but elevated exercise PCWP/CO slope — entirely missed by resting-only assessment. This subgroup has independent adverse prognosis (HR 1.42, 95% CI 1.08–1.86 vs. normal rest + exercise hemodynamics). (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
+
+The ESC 2021 gold-standard criteria (rest PCWP ≥15, exercise PCWP ≥25) are anchored to supine protocols; Borlaug 2023 also endorsed the PCWP/CO slope >2 for upright protocols. (source: 2021-ESC-Guidelines-Heart-Failure.pdf; source: 2023-JACC-Borlaug-HFpEF_scientific_statement.pdf)
 
 In the Ho 2019 cohort (n=461), 53% of referred HFpEF-suspect patients met HFpEF_phys criteria by invasive CPET — demonstrating that no non-invasive criterion alone reliably identifies this group:
 
@@ -82,11 +108,17 @@ HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 
 
 | Application | Key Finding | Source |
 |---|---|---|
-| HFpEF_phys prevalence | 53% of referred HFpEF-suspect patients (n=461) | Ho2019HFpEFDefinitions |
-| Diagnostic gold standard | PCWP ≥15 (rest) or ≥25 (exercise) mmHg | McDonagh2021ESC |
+| HFpEF_phys prevalence (resting or exertional) | 53% of referred HFpEF-suspect patients (n=461) | Ho2019HFpEFDefinitions |
+| Exercise-unmasked HFpEF | 23–28% of HC-HFpEF missed by resting hemodynamics | landsteiner2025hemodynamics |
+| Diagnostic threshold (supine) | PCWP ≥15 (rest) or ≥25 (exercise) mmHg | McDonagh2021ESC |
+| Diagnostic threshold (upright) | PCWP/CO slope >2 mmHg/L/min | borlaug2023statement; landsteiner2025hemodynamics |
+| Exercise PASP screen (non-invasive) | PASP ≥45 mmHg: sensitivity 96%, specificity 95%, AUC 0.99 | borlaug2010exercise |
+| Hemodynamic gap onset | Within 1.5 min at 20W (supine) | borlaug2010exercise |
 | Skeletal muscle contribution | A-VO2 diff >50% of VO2 deficit | Sachdev2023Exercise |
 | Chronotropic incompetence | ~50% of HFpEF patients | Sachdev2023Exercise |
-| Prognostic independent HR | 1.62 for CV events (p=0.01) | Ho2019HFpEFDefinitions |
+| Prognostic HR (resting PCWP) | HR 1.62 for CV events (p=0.01) | Ho2019HFpEFDefinitions |
+| Prognostic HR (exercise PCWP/CO slope alone) | HR 1.42 (95% CI 1.08–1.86, P=0.012) vs. normal rest + exercise | landsteiner2025hemodynamics |
+| Prognostic HR (high rest + high exercise) | HR 2.07 (95% CI 1.58–2.71, P<0.0001) | landsteiner2025hemodynamics |
 
 ## Status
 
@@ -100,7 +132,7 @@ HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 
 
 - Concepts: [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[hfpef-diagnosis]], [[diastolic-dysfunction]]
 - Entities: [[hfpef]], [[echocardiography]], [[supervised-exercise-training]]
-- Sources: [[ho2019hfpefdefinitions]], [[sachdev2023exercise]], [[mcdonagh2021esc]]
+- Sources: [[ho2019hfpefdefinitions]], [[sachdev2023exercise]], [[mcdonagh2021esc]], [[borlaug2010exercise]], [[landsteiner2025hemodynamics]], [[borlaug2023statement]]
 
 ## Contradictions
 

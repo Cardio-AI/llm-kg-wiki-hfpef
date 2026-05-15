@@ -1,7 +1,7 @@
 ---
 type: entity
 title: Atrial Fibrillation (AF)
-summary: The most common sustained cardiac arrhythmia; both a cause and consequence of HFpEF; associated with elevated LA pressure, atrial fibrosis, and worse outcomes; requires adjusted diagnostic thresholds for natriuretic peptides and LA volume index in HFpEF workup.
+summary: The most common sustained cardiac arrhythmia; both a cause and consequence of HFpEF; associated with elevated LA pressure, atrial fibrosis, and worse outcomes; requires adjusted diagnostic thresholds for natriuretic peptides and LA volume index in HFpEF workup; exercise RHC is the only reliable HFpEF diagnostic in AF.
 entity_type: comorbidity
 tags:
   - atrial-fibrillation
@@ -9,16 +9,29 @@ tags:
   - hfpef
   - comorbidity
 created: 2026-04-30
-last_updated: 2026-04-30
+last_updated: 2026-05-15
 sources:
   - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
     citekey: McDonagh2021ESC
   - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
     citekey: Anker2023HFpEFPhenotype
+  - file: raw/2024-NEJM_Reddy-AF_HFpEF_study.pdf
+    citekey: reddy2024afhfpef
 ---
 # Atrial Fibrillation
 
 > The most common sustained cardiac arrhythmia; both a driver and consequence of HFpEF via elevated LA pressure and atrial fibrosis; requires adjusted diagnostic thresholds in HFpEF workup.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| AF | abbreviation | universal clinical shorthand |
+| AFib | abbreviation | American English informal |
+| atrial flutter | alternate-name | distinct arrhythmia; often grouped with AF clinically; higher NP thresholds apply to both |
+| paroxysmal AF | alternate-name | intermittent subtype; may be missed at time of HFpEF workup |
+| persistent AF | alternate-name | sustained subtype; associated with worse LA remodelling |
 
 ---
 
@@ -52,6 +65,14 @@ AF prevalence: 15–30% in large HFpEF trials; up to 50% when paroxysmal AF is i
 
 Strong bidirectional pathophysiology: HFpEF with AF and atrial functional mitral regurgitation (FMR) represents a particularly high-risk combined phenotype. Atrial FMR prevalence in HFpEF is up to 50%; coexistence with AF creates a distinct adverse phenotype with very high mortality. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
 
+**AF-HFpEF epidemiology (Reddy 2024):**
+- **83% occult HFpEF in symptomatic AF:** Patients with symptomatic AF and normal resting echo/NP who underwent exercise right heart catheterisation (RHC) were found to have HFpEF in 83% of cases — the majority of symptomatic AF patients harbour occult HFpEF
+- **~82% occult AF in HFpEF:** HFpEF patients with sinus rhythm at index evaluation developed AF in ~82% over 1 year of monitoring — bidirectional relationship is nearly universal at the disease level
+- **Exercise RHC as only reliable HFpEF diagnostic in AF:** Resting biomarkers (NP) and echocardiographic HFpEF scores perform poorly in AF because AF itself confounds NP levels and diastolic parameters. Exercise RHC (PCWP ≥25 mmHg or PCWP/CO slope >2) is the only reliable confirmation method in AF patients
+- **Anticoagulation:** Anticoagulation for AF episodes >6 minutes: approximately 32% stroke risk reduction; clinical threshold for anticoagulation initiation — supports monitoring for sub-clinical AF in HFpEF patients
+- **Bidirectional LA remodelling:** HFpEF → elevated LA pressure → atrial myopathy → AF substrate; AF → loss of atrial kick → worse LV filling in stiff LV → worsened HFpEF; LA myopathy is the mechanistic convergence
+(source: reddy2024afhfpef)
+
 ## Status
 
 Management of AF in HFpEF is recommended as part of comorbidity-centred treatment (Class I, C). (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
@@ -62,8 +83,8 @@ Management of AF in HFpEF is recommended as part of comorbidity-centred treatmen
 
 ## Related Pages
 - Concepts: [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[natriuretic-peptides]], [[hfpef-treatment-gap]]
-- Entities: [[hfpef]], [[hfmref]], [[hfref]]
-- Sources: [[mcdonagh2021esc]], [[anker2023hfpefphenotype]]
+- Entities: [[hfpef]], [[hfmref]], [[hfref]], [[caba-hfpef]]
+- Sources: [[mcdonagh2021esc]], [[anker2023hfpefphenotype]], [[reddy2024afhfpef]]
 
 ## Contradictions
 - Higher NP and LA volume thresholds in AF reflect the independent NP-elevating effect of AF itself, not just worse HFpEF — this may lead to under-diagnosis of HFpEF in AF patients who are close to but below the higher threshold. [needs source]

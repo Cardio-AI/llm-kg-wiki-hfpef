@@ -19,6 +19,16 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| HFrEF | acronym | universal clinical shorthand |
+| systolic heart failure | old-name | historical term; conflates mechanism with diagnosis |
+| SHF | abbreviation | older abbreviation; rarely used now |
+| heart failure with reduced EF | alternate-name | formal expansion of HFrEF |
+
+---
+
 ## Description
 
 HFrEF is defined by symptoms ± signs of HF combined with **LVEF ≤40%**, reflecting significant LV systolic dysfunction. It is the comparator phenotype against which [[hfpef]] and [[hfmref]] are defined; its trial evidence base is the hypothesis-generator for HFpEF research. LVEF is measured primarily by [[echocardiography]], with [[cardiac-mri]] as a more accurate alternative. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)

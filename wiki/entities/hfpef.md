@@ -31,6 +31,17 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| HFpEF | acronym | universal clinical shorthand |
+| diastolic heart failure | old-name | historical term; now discouraged — conflates mechanism with diagnosis |
+| DHF | abbreviation | older abbreviation for diastolic heart failure |
+| HF-PEF | alternate-name | hyphenated variant; less common |
+| heart failure with normal EF | alternate-name | used in some older registries and trials |
+
+---
+
 ## Description
 
 HFpEF requires all three of:

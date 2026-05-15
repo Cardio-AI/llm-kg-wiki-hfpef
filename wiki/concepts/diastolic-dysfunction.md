@@ -26,6 +26,19 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| DD | abbreviation | standard clinical shorthand |
+| Diastolic heart failure | old-name | older terminology; largely replaced by HFpEF |
+| LV diastolic dysfunction | alternate-name | full formal term used in echo/cathlab reports |
+| LVFP elevation | abbreviation | LV filling pressure elevation — the hemodynamic hallmark |
+| Impaired relaxation | descriptive | Grade I diastolic dysfunction pattern (E/A <0.8) |
+| Pseudonormal | descriptive | Grade II diastolic dysfunction pattern |
+| Restrictive filling | descriptive | Grade III diastolic dysfunction pattern |
+
+---
+
 ## Mechanism
 
 Diastolic dysfunction refers to impaired LV relaxation and/or increased LV stiffness, resulting in elevated LV end-diastolic pressure (LVEDP) and left atrial (LA) pressure. It is the core haemodynamic mechanism underlying [[hfpef]], though it can coexist with systolic dysfunction in [[hfref]] as well. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)

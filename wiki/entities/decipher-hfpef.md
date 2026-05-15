@@ -23,6 +23,15 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| DECIPHER-HFpEF | research-name | Diastolic HFpEF Characterization via Imaging, Phenotyping, and Haemodynamics — Evaluation of Reliability |
+| NCT03251183 | Trial-ID | registered on clinicaltrials.gov |
+| CMR vs invasive PV loops HFpEF | descriptive | common informal description |
+
+---
+
 ## Description
 
 **Full title:** Validation of Cardiovascular Magnetic Resonance Against Invasive Haemodynamics in Patients With Heart Failure With Preserved Ejection Fraction (DECIPHER HFpEF)

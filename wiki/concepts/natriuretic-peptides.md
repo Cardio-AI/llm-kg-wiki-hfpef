@@ -1,7 +1,7 @@
 ---
 type: concept
 title: Natriuretic Peptides (BNP / NT-proBNP)
-summary: BNP and NT-proBNP are Class I diagnostic biomarkers for heart failure with high negative predictive value; their role in HFpEF is limited by reduced sensitivity in obese patients and elevated thresholds in AF; AF-adjusted thresholds also used in EMPEROR-Preserved enrollment (NT-proBNP >300 with AF vs. >900 without AF).
+summary: BNP and NT-proBNP are Class I diagnostic biomarkers for heart failure with high negative predictive value; their role in HFpEF is limited by reduced sensitivity in obese patients and elevated thresholds in AF; AF-adjusted thresholds also used in EMPEROR-Preserved enrollment (NT-proBNP >300 pg/mL without AF vs. >900 pg/mL with AF — higher threshold in AF because AF per se elevates NP).
 tags:
   - natriuretic-peptides
   - biomarker
@@ -24,6 +24,19 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| BNP | abbreviation | B-type natriuretic peptide |
+| NT-proBNP | abbreviation | N-terminal pro-B-type natriuretic peptide |
+| NTproBNP | alternate-name | variant spelling without hyphen; common in trial reports |
+| NP | abbreviation | shorthand for natriuretic peptides (plural) |
+| Brain natriuretic peptide | alternate-name | older full name for BNP |
+| MR-proANP | abbreviation | mid-regional pro-atrial natriuretic peptide; ESC alternative threshold |
+| Cardiac biomarkers | descriptive | broader category NP belongs to |
+
+---
+
 ## Mechanism
 
 BNP (B-type natriuretic peptide) and NT-proBNP (N-terminal pro-BNP) are secreted by ventricular cardiomyocytes in response to elevated wall stress (volume and pressure overload). They promote natriuresis and vasodilation as a compensatory response. MR-proANP (<40 pmol/L makes HF unlikely) is an alternative. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
@@ -34,7 +47,7 @@ BNP (B-type natriuretic peptide) and NT-proBNP (N-terminal pro-BNP) are secreted
 
 ### Diagnostic Thresholds (Non-Acute Setting)
 
-| Biomarker | Sinus Rhythm | [[atrial-fibrillation\|Atrial Fibrillation]] |
+| Biomarker | Sinus Rhythm | [[atrial-fibrillation|Atrial Fibrillation]] |
 |---|---|---|
 | BNP | ≥35 pg/mL | ≥105 pg/mL |
 | NT-proBNP | ≥125 pg/mL | ≥365 pg/mL |
@@ -63,7 +76,7 @@ These reduce diagnostic specificity and must be considered when interpreting ele
 
 **Prognostic role:** NPs are strong prognostic markers in HF. NP-guided titration of HF therapy has not been shown superior to guideline-recommended therapy; Class 2a (AHA 2022) for outpatient HFrEF management only, limited HFpEF data. (source: 2021-ESC-Guidelines-Heart-Failure.pdf; source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
 
-**NP thresholds in clinical trials:** EMPEROR-Preserved used NT-proBNP >900 pg/mL (no AF) / >300 pg/mL (with AF) — substantially higher than guideline diagnostic thresholds, intentionally enriching for patients with definite haemodynamic abnormality. The lower AF threshold reflects blunting of NP production by rate-controlled AF. (source: 2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf)
+**NP thresholds in clinical trials:** EMPEROR-Preserved used NT-proBNP ≥300 pg/mL (no AF) / ≥900 pg/mL (with AF) — intentionally enriching for patients with definite haemodynamic abnormality. The higher threshold in AF patients reflects the fact that AF per se elevates NP via atrial stretch, requiring a stricter cut-off to confirm genuine HFpEF-driven elevation. (source: 2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf)
 
 **Additional biomarkers endorsed by AHA 2022:** Soluble ST2 and galectin-3: Class 2b — additive prognostic value in chronic HF but not routinely used diagnostically. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
 

@@ -23,6 +23,18 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| EF classification | abbreviation | ejection-fraction-based classification system |
+| LVEF phenotypes | descriptive | common search term |
+| HFrEF / HFmrEF / HFpEF | abbreviation | the three ESC 2021 phenotype classes |
+| HFimpEF | abbreviation | HF with improved EF; fourth class added by AHA 2022 |
+| Heart failure with recovered EF | alternate-name | older term for HFimpEF |
+| Systolic vs. diastolic HF | old-name | pre-2016 binary classification; now replaced by EF-based system |
+
+---
+
 ## Mechanism
 
 Heart failure is classified into phenotypes based on LVEF, reflecting different pathophysiology, epidemiology, and evidence bases for treatment. This classification was introduced in the 2016 ESC Guidelines, refined in 2021 (HFmrEF renamed, SGLT2i added as HFrEF pillar), and extended in AHA 2022 with the addition of HFimpEF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf; source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)

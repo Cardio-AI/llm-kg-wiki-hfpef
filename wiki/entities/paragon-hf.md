@@ -20,6 +20,16 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| PARAGON-HF | acronym | Prospective comparison of ARNI with ARB Global Outcomes in HF with Preserved EF |
+| NCT01920711 | Trial-ID | registered on clinicaltrials.gov |
+| LCZ696 HFpEF trial | research-name | development code used in PARAGON-HF period |
+| sacubitril/valsartan HFpEF trial | descriptive | post-approval name for the intervention |
+
+---
+
 ## Description
 
 - **Intervention:** Sacubitril/valsartan vs. valsartan (active comparator)

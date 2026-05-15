@@ -20,6 +20,15 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| I-PRESERVE | acronym | Irbesartan in Heart Failure with Preserved Systolic Function |
+| NCT00095238 | Trial-ID | registered on clinicaltrials.gov |
+| irbesartan HFpEF trial | descriptive | common informal description |
+
+---
+
 ## Description
 
 - **Intervention:** Irbesartan (ARB) vs. placebo

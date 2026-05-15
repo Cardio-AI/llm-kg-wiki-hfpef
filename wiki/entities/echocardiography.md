@@ -20,6 +20,18 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| echo | abbreviation | universal clinical shorthand |
+| TTE | abbreviation | transthoracic echocardiography — standard form |
+| TOE / TEE | abbreviation | transoesophageal (UK) / transoesophageal (US); higher resolution, invasive |
+| stress echo | abbreviation | exercise or pharmacological stress echocardiography |
+| speckle tracking echocardiography | alternate-name | GLS/strain imaging modality |
+| cardiac ultrasound | descriptive | lay/general term |
+
+---
+
 ## Description
 
 Echocardiography uses ultrasound to generate real-time cardiac images. Standard transthoracic echocardiography (TTE) provides assessment of:
@@ -45,7 +57,7 @@ Key markers from ESC 2021 Table 9:
 | Parameter | HFpEF threshold |
 |---|---|
 | E/e' ratio | >9 (sens 78%, spec 59%); >13 (sens 46%, spec 86%) |
-| LA volume index | >34 mL/m² (SR), >40 mL/m² ([[atrial-fibrillation\|AF]]) |
+| LA volume index | >34 mL/m² (SR), >40 mL/m² ([[atrial-fibrillation|AF]]) |
 | LV mass index | ≥95 g/m² (F), ≥115 g/m² (M) |
 | TR velocity | >2.8 m/s |
 | LV GLS (stress echo) | <16% (sens 62%, spec 56%) |

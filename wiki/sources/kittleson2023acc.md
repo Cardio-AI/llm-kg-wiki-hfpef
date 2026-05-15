@@ -164,7 +164,7 @@ Color coding: SGLT2i = green border/yellow (Class 2a but may become Class I); lo
 - Prevalence 60–80% in HFpEF; obesity paradox (U-shaped mortality with nadir at BMI 32–34 kg/m²)
 - Caloric restriction + aerobic exercise first-line
 - GLP-1RA semaglutide (STEP-1 trial: >15 kg sustained weight loss at 68 weeks) and tirzepatide (SURMOUNT-1: up to 20% weight reduction) referenced
-- **CAVEAT:** lean muscle mass loss is a concern in HF; SUMMIT (NCT04847557, semaglutide) and STEP-HFpEF (NCT04788511, tirzepatide) trials ongoing at time of ECDP — results will define GLP-1RA role
+- **CAVEAT:** lean muscle mass loss is a concern in HF; SUMMIT (NCT04847557, tirzepatide [Eli Lilly]) and STEP-HFpEF (NCT04788511, semaglutide [Novo Nordisk]) were ongoing at ECDP publication — both now published (STEP-HFpEF NEJM 2023: KCCQ +7.8 pts; SUMMIT NEJM 2025: HR 0.62 for CV death/worsening HF)
 - Bariatric surgery for BMI ≥35 kg/m² when medical/surgical/nutritional expertise available (Mikhalkova: gastric bypass improved MLHF score and diastolic relaxation)
 
 **Diabetes mellitus:**
@@ -255,7 +255,7 @@ Color coding: SGLT2i = green border/yellow (Class 2a but may become Class I); lo
 - Entity: [[sacubitril-valsartan]] — sex+EF stratified recommendation; PARAGON sex interaction
 - Entity: [[spironolactone]] — NP-stratified benefit; women benefit; TOPCAT canrenone explanation
 - Sources: [[solomon2022deliver]], [[anker2021emperor]], [[pitt2014topcat]], [[solomon2019paragon]]
-- Trials-pending: SUMMIT (NCT04847557, semaglutide in HFpEF) and STEP-HFpEF (NCT04788511, tirzepatide in HFpEF) — both referenced as ongoing
+- Trials at time of ECDP: SUMMIT (NCT04847557, tirzepatide [Eli Lilly]) and STEP-HFpEF (NCT04788511, semaglutide [Novo Nordisk]) — both referenced as ongoing; both now published (STEP-HFpEF 2023; SUMMIT NEJM 2025)
 
 ## Related Pages
 - Concepts: [[guideline-comparison]], [[hfpef-treatment-gap]], [[hfpef-diagnosis]]

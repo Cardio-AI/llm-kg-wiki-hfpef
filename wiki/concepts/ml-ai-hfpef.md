@@ -8,14 +8,32 @@ tags:
   - diagnosis
   - hfpef
 created: 2026-05-05
-last_updated: 2026-05-05
+last_updated: 2026-05-15
 sources:
   - file: raw/2025-jjcc-Yi-AI_in_HFpEF.pdf
     citekey: Yi2025AI
+  - file: raw/2025-ESC-Zeid-MyoMobile_study.pdf
+    citekey: Zeid2025MyoMobile
+  - file: raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf
+    citekey: akerman2025ai
+  - file: raw/2019-Lancet-Attia-ECG_AI_AF.pdf
+    citekey: attia2019ecgaf
 ---
 # Machine Learning and AI in HFpEF
 
 > AI/ML is particularly suited to HFpEF because heterogeneous pathophysiology, diverse clinical trajectories, and complex multimodal data exceed the pattern-recognition capacity of traditional statistical methods; 38 published studies across four domains — diagnosis, phenotyping, risk prediction, and management — demonstrate consistent proof-of-concept but limited prospective validation.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| ML/AI in HFpEF | abbreviation | standard shorthand |
+| Machine learning HFpEF | descriptive | common search term |
+| Deep learning HFpEF | descriptive | neural-network-specific subtype |
+| AI-assisted HFpEF diagnosis | descriptive | diagnosis-domain application |
+| Precision medicine HFpEF | descriptive | broader framing; includes ML-driven phenotyping |
+| Computational HFpEF | descriptive | academic framing used in methods papers |
 
 ---
 
@@ -40,6 +58,14 @@ HFpEF poses challenges that AI is designed to address:
 
 ### Diagnosis
 - **ECG deep learning** (Unterhuber 2021, Kwon 2021): AUC ~0.87 from 12-lead ECG alone; NPV 0.98 — scalable screening rule-out in resource-limited settings; standard clinical ECG is non-diagnostic for HFpEF
+- **ECG-AI for AF detection in sinus rhythm** (Attia 2019, Lancet): CNN trained on 180,922 patients; AUC 0.87 for identifying patients with AF episodes based on sinus rhythm ECG — proof of concept that ECG holds AF substrate information invisible to clinical reading. **This study was NOT in HFpEF** but is a methodological precursor to ECG-AI HFpEF screening: if ECG can detect AF propensity (a key HFpEF comorbidity) in a clinically occult form, the same principle may apply to sub-clinical HFpEF-related electrical remodelling. (source: attia2019ecgaf)
+- **AI echocardiography (EchoGo HF v2, Akerman 2025):** External validation of Ultromics commercial echocardiographic AI in 240 adjudicated HFpEF cases + 256 controls (Mayo Clinic, prospective DECIPHER-HFpEF cohort); key results:
+  - AUROC: AI 0.797 vs. H₂FPEF score 0.788 (P=0.001 for AI superiority)
+  - Intermediate classifications: 9.1% (AI) vs. 61.7% (H₂FPEF) vs. 54.2% (HFA-PEFF) — the defining advantage of AI is dramatic reduction in indeterminate results
+  - AI sensitivity 77.4%, specificity 50.2% vs. H₂FPEF sensitivity 53.9%, specificity 90.3% — AI captures more cases but accepts more false positives; HFA-PEFF/H₂FPEF prioritise specificity
+  - AI-positive HR 2.56 (95% CI 1.46–4.51; P=0.001) for composite adverse outcome — prognostic independent of diagnosis
+  - First external validation of a commercial AI tool for HFpEF; AUROC similar to conventional scores but intermediate rate 6-fold lower
+(source: akerman2025ai)
 - **3D-CNN echocardiography** (Akerman 2023): single apical 4-chamber clip sufficient; outperforms HFA-PEFF and H₂FPEF scores in non-diagnostic rate reduction; sensitivity 0.87
 - **NLP on EHR** (Garan 2023): F1=0.91 for ESC HFpEF identification; found 75.4% of meeting-criteria patients undiagnosed — largest underdiagnosis estimate in HFpEF literature; implications for trial recruitment and population burden estimates
 
@@ -69,14 +95,26 @@ Specific ML-derived insights:
 
 **Empagliflozin mechanism (in silico):** Bayes-Genis 2021 — primary mechanism is NHE1 (Na⁺/H⁺ exchanger 1) inhibition → reduced cardiomyocyte oxidative stress. Not clinically actionable yet but provides first computational pharmacological target model for HFpEF.
 
+### Digital Health Interventions (mHealth)
+
+A domain adjacent to AI/ML: personalised digital health interventions using wearable devices and smartphone apps to promote physical activity. Distinguished from AI/ML diagnostic and phenotyping tools by their prospective interventional use.
+
+**MyoMobile trial (Zeid 2025, NCT04940312):** First prospective RCT of personalized app-based PA coaching in HFpEF (N=185, three-arm, 12 weeks). Uses a step-count algorithm — not deep learning — but represents the intersection of digital health, wearable sensing, and motivational technology in HFpEF. 100+ digital mobility outcomes (DMOs) from wearables collected; multi-omics biobank; DZHK Rhine-Main network. Design paper published; primary results pending. (source: 2025-ESC-Zeid-MyoMobile_study.pdf)
+
+**Distinction from supervised SET:** App-based coaching targets sedentary behaviour (step count) at population scale; lower access barrier than facility-based cardiac rehabilitation; cannot replace the physiological adaptations from structured aerobic exercise training (peak VO₂ improvement via skeletal muscle remodelling).
+
+**Accelerometry as digital mobility outcome:** Docherty 2025 (DETERMINE substudy) showed accelerometer-derived PA measures and 6MWD capture distinct dimensions of functional limitation in HFpEF — the same wearable-derived data used in MyoMobile. This reinforces step count and daily activity as clinically meaningful endpoints distinct from VO₂peak. (source: raw/2025-JCF-Docherty-DETERIMINE_wearables_physical_activity.pdf)
+
 ## History
 
 - **2015** — Shah et al. first applied hierarchical clustering to HFpEF (N=397); 3 phenotypes with HR 4.2 for hospitalization in highest-risk cluster; established feasibility of ML phenotyping (source: [[yi2025ai]])
 - **2019** — Przewlocka-Kosmala: exercise echocardiography + galectin-3 clustering; cardiovascular reserve as phenotyping dimension
 - **2020–2021** — Multiple independent phenotyping studies (TOPCAT subsets, SwedeHF registry, HFN trial cohorts) converge on 3–4 phenotype axes; Sabbah identifies obese-inflammatory subtype
+- **2019** — Attia et al. (Lancet): CNN from 12-lead ECG in sinus rhythm detects latent AF propensity with AUC 0.87 (N=180,922 patients; 36,280 AF-positive); NOT HFpEF, but key proof-of-concept that ECG encodes subclinical information about arrhythmia substrate — directly motivates ECG-AI for HFpEF screening (source: attia2019ecgaf)
 - **2021** — First ECG deep learning studies (Unterhuber, Kwon) validate ECG-AI for HFpEF detection; AUC ~0.87; establishes ECG as scalable screening modality
 - **2022–2024** — Shift from phenotyping to prediction and treatment-response; XGBoost readmission models (AUC ~0.90); AIM-HFpEF EHR-based diagnosis; spironolactone responder ML (Kresoja, Desai); first multimodal models
-- **2025** — Yi review synthesises 38 studies; field identified as moving from retrospective proof-of-concept toward prospective implementation; major gaps: external validation, regulatory pathway (TRIPOD-AI), algorithmic equity [expand as sources added]
+- **2025** — Yi review synthesises 38 studies; field identified as moving from retrospective proof-of-concept toward prospective implementation; major gaps: external validation, regulatory pathway (TRIPOD-AI), algorithmic equity
+- **2025** — Akerman et al. (Nat Commun): first external validation of commercial echocardiographic AI (EchoGo HF v2) for HFpEF in prospective cohort; AUROC 0.797 vs. H₂FPEF 0.788 (P=0.001); intermediate rate 9.1% (AI) vs. 61.7% (H₂FPEF) — key advance in clinical deployability (source: akerman2025ai)
 
 ## Evidence
 
@@ -97,10 +135,14 @@ Evidence quality for individual claims:
 - Algorithmic equity: most studies lack adequate representation of women, non-White, and non-English populations; generalisability uncertain
 - Regulatory pathway: TRIPOD-AI, FDA AI/ML-based SaMD action plan — when will AI diagnostic tools for HFpEF receive approval?
 
+## Open Questions (additional)
+
+- AI sensitivity/specificity trade-off (Akerman 2025): AI diagnostic tools achieve high sensitivity at the cost of specificity — appropriate for population screening but requiring confirmatory testing. Can hybrid algorithms (AI first-pass, then HFA-PEFF confirmation) optimise both? See contradiction #34.
+
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]], [[spironolactone]], [[sglt2-inhibitors]]
-- Sources: [[yi2025ai]], [[pitt2014topcat]], [[pocock2013maggic]]
+- Entities: [[hfpef]], [[spironolactone]], [[sglt2-inhibitors]], [[echocardiography]]
+- Sources: [[yi2025ai]], [[zeid2025myomobile]], [[docherty2025determine]], [[pitt2014topcat]], [[pocock2013maggic]], [[akerman2025ai]], [[attia2019ecgaf]], [[gao2025ecgdl]]
 
 ## Contradictions
 - ML spironolactone responders (Kresoja 2023; Desai 2024) conflict with TOPCAT overall null (HR 0.89 P=0.14 in Pitt 2014). ML post-hoc analysis of the same trial data showing significant benefit in a subgroup is subject to overfitting — neither Kresoja nor Desai has been prospectively validated. However, consistency between two independent analyses using different algorithms (ML-based analysis vs. individualized treatment effect) strengthens the signal. See [[contradictions]].

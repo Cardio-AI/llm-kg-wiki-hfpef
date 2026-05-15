@@ -9,16 +9,29 @@ tags:
   - heterogeneity
   - mechanism
 created: 2026-04-30
-last_updated: 2026-04-30
+last_updated: 2026-05-14
 sources:
   - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
     citekey: Ho2019HFpEFDefinitions
   - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
     citekey: McDonagh2021ESC
+  - file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
+    citekey: landsteiner2025hemodynamics
 ---
 # HFpEF Diagnostic Definitions — Heterogeneity and Consequences
 
 > Competing guideline HFpEF definitions share the LVEF ≥50% criterion but diverge dramatically on additional requirements, enrolling 12–90% of the same cohort and capturing different sensitivity/specificity trade-offs for invasively confirmed physiologic HFpEF.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| Competing HFpEF definitions | descriptive | core topic of this page |
+| HFpEF enrollment criteria | descriptive | trial-specific inclusion criteria differ from guideline definitions |
+| Diagnostic heterogeneity | descriptive | the phenomenon this page documents |
+| LVEF threshold variability | descriptive | key axis of disagreement (≥40% vs. ≥45% vs. ≥50%) |
+| Diastolic HF definition | old-name | pre-2016 terminology; conceptually synonymous |
 
 ---
 
@@ -76,11 +89,25 @@ The [[topcat]] enrollment controversy (non-Americas suspected contamination) is 
 
 HFpEF_phys — defined invasively by [[cardiopulmonary-exercise-testing|invasive CPET]] — may be a more biologically coherent target for therapy than any guideline definition. However, invasive testing is impractical at scale. Non-invasive proxies (E/e', NT-proBNP, LA volume index) have only moderate accuracy and cannot substitute for invasive confirmation in ambiguous cases.
 
+### Trial Enrollment vs. Hemodynamically Confirmed HFpEF (HC-HFpEF)
+
+Landsteiner 2025 (n=872) quantified the gap between physiologically confirmed disease and trial eligibility:
+
+| Trial | HC-HFpEF meeting criteria | HC-HFpEF excluded | Primary exclusion |
+|---|---|---|---|
+| STEP-HFpEF | ~65% | ~35% | BMI <30 |
+| FINEARTS-HF | ~17% | ~83% | NT-proBNP below threshold |
+| EMPEROR-Preserved | ~13% | ~87% | NT-proBNP below threshold |
+| PARAGON-HF | ~11% | ~89% | NT-proBNP below threshold |
+
+Critically, 87–90% of trial-enrolled patients had HC-HFpEF — trials successfully enriched for physiologic disease. But the enrichment came at the cost of excluding 55–83% of all HC-HFpEF patients, who were predominantly those with lower NT-proBNP (less severe, less hospitalized). Trial-enrolled patients had lower pVO2 and higher event rates — **trial results may not generalize to the majority of hemodynamically confirmed HFpEF.** (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
+
 ## History
 
 - **Pre-2019** — Multiple trial-specific definitions used in parallel; no systematic comparison of their diagnostic accuracy; tacit assumption that "HFpEF" was a shared population across trials
 - **2019** — Ho et al. (MGH, n=461) first systematic comparison with invasive CPET reference; demonstrated enrollment heterogeneity 12–90% and showed HFpEF_phys is prognostically independent (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
 - **2021** — ESC Guidelines endorsed simplified three-criterion approach for clinical use; HFA-PEFF reserved for expert centres; acknowledged limitation that non-invasive markers have only moderate accuracy (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **2025** — Landsteiner et al. (MGH/Harvard, n=872): extended the Ho 2019 framework with the HC-HFpEF concept (resting PCWP ≥15 mmHg OR exercise PCWP/CO slope >2 mmHg/L/min) and directly quantified the gap between guideline definitions and trial enrollment criteria. 74–77% of the cohort met any societal definition; only 61–75% of those also had HC-HFpEF. Four hemodynamic profiles identified: (1) normal rest + normal exercise [reference], (2) high rest + normal exercise, (3) normal rest + high exercise [exercise-unmasked], (4) high rest + high exercise [highest-risk]. Landmark finding: trial NT-proBNP thresholds excluded 67–71% of all HC-HFpEF patients from PARAGON-HF, EMPEROR-Preserved, and FINEARTS-HF; STEP-HFpEF (BMI ≥30 criterion) excluded 35% — a more permissive threshold than NP-based approaches. (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
 
 ## Evidence
 
@@ -95,10 +122,11 @@ See [[ho2019hfpefdefinitions]] for primary data. Key numbers consolidated in ## 
 
 ## Related Pages
 
-- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[exercise-intolerance]]
+- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[exercise-intolerance]], [[hfpef-treatment-gap]]
 - Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]], [[echocardiography]], [[topcat]], [[paragon-hf]], [[i-preserve]], [[charm-preserved]]
-- Sources: [[ho2019hfpefdefinitions]], [[mcdonagh2021esc]]
+- Sources: [[ho2019hfpefdefinitions]], [[mcdonagh2021esc]], [[landsteiner2025hemodynamics]], [[borlaug2010exercise]]
 
 ## Contradictions
 
 - All seven guideline definitions claim to identify "HFpEF" but enroll non-overlapping patient populations — they are not equivalent. CV event rate estimates in any trial depend heavily on which definition was used for enrollment. See [[contradictions]].
+- Trial NT-proBNP thresholds (used by PARAGON-HF, EMPEROR-Preserved, FINEARTS-HF) exclude 67–71% of hemodynamically confirmed HFpEF — the majority of true physiologic HFpEF is absent from these trials. The "generalizable" treatment evidence base applies to a minority of patients with confirmed disease. See [[contradictions]].

@@ -1,5 +1,330 @@
 # Change Log
 
+## 2026-05-15 (session 20 — 21 new sources ingested: sex biology, exercise RCTs, PARAGLIDE-HF analyses, CMR, AI, pathophysiology)
+
+### Source pages created (21)
+
+**Sex differences / baseline biology (3):**
+- `wiki/sources/beale2018sex.md` — Beale 2018 (JACC HF): sex-specific HFpEF physiology; women higher LVEF, smaller LV volumes, greater fibrosis
+- `wiki/sources/beale2019sex.md` — Beale 2019 (JACC HF): sex differences in HFpEF outcomes and physiology
+- `wiki/sources/bozkurt2020sex.md` — Bozkurt 2020 (JACC): sex and gender differences across HF spectrum; PARAGON-HF sex interaction context
+
+**Pharmacology / biomarker (2):**
+- `wiki/sources/pfeffer2022topcat.md` — Pfeffer 2022 (Circulation): TOPCAT post-hoc Americas reanalysis; HR 0.82 (0.69–0.98); canrenone undetectable in 30% Russian patients; FDA advisory 8:4:1 vote; basis for spironolactone Class IIb Level B in HFpEF
+- `wiki/sources/pandey2025humain.md` — HuMAIN Phase 2A (Pandey 2025, Circ Heart Fail): HU6 (mitochondrial uncoupler small molecule; **NOT bioartificial kidney**) in HFpEF with obesity; NCT05284617; fat-selective catabolism
+
+**AF / arrhythmia (2):**
+- `wiki/sources/attia2019ecgaf.md` — Attia 2019 (Lancet): CNN ECG-AI for AF detection in sinus rhythm; AUC 0.87; **NOT an HFpEF study** — clearly marked; methodological precursor to ECG-AI in HFpEF
+- `wiki/sources/reddy2024afhfpef.md` — Reddy 2024: AF-HFpEF bidirectional relationship; 83% occult HFpEF in symptomatic AF by exercise RHC; ~82% occult AF in HFpEF at 1 year; anticoagulation ~32% stroke reduction
+
+**Inflammation / GLP-1 (1):**
+- `wiki/sources/verma2024inflammation.md` — Verma 2024: semaglutide benefit CRP-independent in STEP-HFpEF; supports HFpEF inflammation heterogeneity consistent with fayyaz2025pathophys
+
+**Exercise RCTs (3):**
+- `wiki/sources/sharif2024locomotor.md` — Sharif 2024 (JCF): pilot RCT n=22; 12.5-week resistance training; VO₂peak 17.1→19.4 mL/kg/min; fat-selective; lean mass increased; LF% unchanged
+- `wiki/sources/obaya2024aerobic.md` — Obaya 2024 (Physiol Res Int): RCT n=40; lower-limb aerobic cycling superior to arm ergometry (21.51 vs 19.26 mL/kg/min; P<0.001); LVEF unchanged both arms
+- `wiki/sources/edelmann2025exdhf.md` — Ex-DHF (Nat Med 2025): n=322; 12-month combined endurance+resistance training; primary (Packer composite) NOT MET (tau-b=−0.073; P=0.17); VO₂ +1.3 mL/kg/min (P=0.003); NYHA OR 5.89 (P<0.001); adherence ~53%; ISRCTN86879094
+
+**PARAGLIDE-HF analyses (4):**
+- `wiki/sources/mentz2023paraglide.md` — PARAGLIDE-HF design (JCF 2023): n=467, LVEF >40%, WHF event; 52% women, 22% Black; NCT03988634
+- `wiki/sources/fudim2024paraglide.md` — PARAGLIDE-HF symptomatic hypotension analysis (JCF 2024): Sac/Val 24.0% vs Val 15.5% (P=0.020); predictors: LVEF >60%, lower SBP, white race
+- `wiki/sources/nouhravesh2025paraglide.md` — PARAGLIDE-HF initiation setting (JAHA 2025): no difference in-hospital vs out-of-hospital (P-interaction=0.99)
+- `wiki/sources/rambarat2025paraglide.md` — PARAGLIDE-HF sex analysis (AHJ 2025): NT-proBNP consistent by sex (P-interaction=0.908); women excess symptomatic hypotension (OR 2.29, P=0.012)
+
+**Device trials (2):**
+- `wiki/sources/abraham2016champion.md` — CHAMPION complete follow-up (Lancet 2016): n=550; CardioMEMS PA pressure monitoring; randomised phase 33% HF admission reduction (HR 0.67, P<0.0001); open-access 48% reduction (HR 0.52, P<0.0001)
+- `wiki/sources/patel2024reducelaphf.md` — REDUCE LAP-HF II echocardiographic substudy (JAMA Cardiol 2024): n=621; LV EDV −5.65 mL (P<0.001); LA EF +1.88 pp (P=0.02); RV EDV +9.58 mL (P<0.001); PVR subgroup interaction P=0.01
+
+**CMR (2):**
+- `wiki/sources/ipek2024cmr.md` — Ipek 2024 (EHJ Cardiovasc Imaging): comprehensive CMR review in HFpEF; LACI; exercise CMR; spectroscopy (31P-MRS, 1H-MRS); FT-CMR strain; ECV/T1/T2; perfusion
+- `wiki/sources/lange2024cmr.md` — Lange 2024 (Int J Cardiovasc Imaging): cross-sectional CMR n=54 HF (22 HFpEF, 17 HFmrEF, 15 HFrEF) + 19 controls; HFpEF vs controls: LA strain 28.9 vs 35.9% (P=0.008), LV GLS −15.0 vs −19.2% (P=0.001), native T1 1012 vs 988 ms (P=0.003)
+
+**AI/ML (1):**
+- `wiki/sources/akerman2025ai.md` — Akerman 2025 (Nat Commun): EchoGo HF v2 (Ultromics) external validation; AUROC 0.797 vs H₂FPEF 0.788 (P=0.001); 9.1% AI intermediate vs 61.7% H₂FPEF; AI-positive HR 2.56 for composite outcome
+
+**Pathophysiology review (1):**
+- `wiki/sources/fayyaz2025pathophys.md` — Fayyaz 2025 (Nat Rev Cardiol): 56 human myocardial tissue studies; 8-pathway framework (fibrosis, cardiomyocyte hypertrophy, microvascular rarefaction, diastolic dysfunction [titin/SERCA2a/T-tubule], metabolic derangements [ATP/NAD⁺], inflammation/oxidative stress, cGMP-PKG impairment, ER stress/DNA damage); comorbidity-dependent heterogeneity explains monotherapy failure
+
+### Entity pages created (1)
+- `wiki/entities/paraglide-hf.md` — PARAGLIDE-HF entity: NCT03988634; sacubitril/valsartan vs. valsartan in 467 post-WHF HFpEF patients; primary NT-proBNP ratio 0.85 (0.73–0.999); benefit driven by LVEF ≤60% subgroup; 52% women, 22% Black; 4 secondary analyses tabulated
+
+### Registry files updated (3)
+- `wiki/trials-pending.md` — Corrected HuMAIN: HU6 mitochondrial uncoupler (not bioartificial kidney); marked INGESTED. Corrected PARAGLIDE-HF: NCT04164043 → NCT03988634; marked INGESTED
+- `wiki/trials.md` — Added: PARAGLIDE-HF (NCT03988634, pharmacological); HuMAIN-HFpEF (NCT05284617, Phase 2A, HU6); CHAMPION (NCT00531661, device); Ex-DHF (ISRCTN86879094, exercise). Updated: REDUCE LAP-HF II row (added patel2024reducelaphf echo substudy citekey)
+- `wiki/citations.md` — 21 new citekeys added to Ingested Sources (table + full formatted references): beale2018sex, beale2019sex, bozkurt2020sex, pfeffer2022topcat, attia2019ecgaf, reddy2024afhfpef, verma2024inflammation, pandey2025humain, sharif2024locomotor, obaya2024aerobic, edelmann2025exdhf, mentz2023paraglide, fudim2024paraglide, nouhravesh2025paraglide, abraham2016champion, rambarat2025paraglide, patel2024reducelaphf, ipek2024cmr, lange2024cmr, akerman2025ai, fayyaz2025pathophys
+
+---
+
+## 2026-05-14 (session 19 — 4 new sources ingested: exercise hemodynamics series)
+
+### Source pages created (4)
+- `wiki/sources/borlaug2010exercise.md` — Borlaug 2010 (Circ Heart Fail, n=55, supine invasive CPET): 58% exertional HFpEF with normal resting hemodynamics; exercise PCWP ≥25 mmHg threshold; PASP ≥45 mmHg screen (sens 96%, spec 95%, AUC 0.99); all noninvasive markers AUC <0.70; hemodynamic gap at 20W (1.5 min); blunted CI/HR response
+- `wiki/sources/borlaug2023statement.md` — Borlaug 2023 JACC Scientific Statement: comprehensive HFpEF state-of-the-field; 4-pathway pathophysiology (myocardial stiffening, obesity-cardiometabolic, microvascular inflammation, noncardiac); 5-phenotype Venn model; Central Illustration disease progression spectrum; SGLT2i first-line algorithm; 24 knowledge gaps; ~24 trials in Table 5
+- `wiki/sources/landsteiner2025hemodynamics.md` — Landsteiner 2025 (Circ Res, n=872, MGH/Harvard): HC-HFpEF concept (resting PCWP ≥15 OR exercise PCWP/CO slope >2 mmHg/L/min); 4 hemodynamic profiles; exercise-unmasked HFpEF HR 1.42 (1.08–1.86); trial NT-proBNP excludes 67–71% of HC-HFpEF; trial enrichment 87–90% HC-HFpEF
+- `wiki/sources/manabe2023sympathetic.md` — Manabe 2023 (Front Cardiovasc Med, mini review): MSNA paradoxical increase during dynamic exercise in HFpEF; static exercise MSNA resembles controls; LBF/LVC reduced requiring higher perfusion pressure; functional sympatholysis gap; candesartan and perindopril pharmacological evidence
+
+### Concept pages updated (4)
+- `wiki/concepts/exercise-intolerance.md` — Added sympathetically-mediated vasoconstriction section (dynamic vs. static exercise distinction); functional sympatholysis knowledge gap; Borlaug 2010 hemodynamic evidence (PCWP table, PASP screen); Landsteiner 2025 PCWP/CO slope as prognostic metric; 2 new Evidence table rows; 2 new Open Questions; 2023 and 2025 History entries; updated frontmatter sources and Related Pages
+- `wiki/concepts/hfpef-diagnosis.md` — Added HC-HFpEF concept and PCWP/CO slope >2 mmHg/L/min upright threshold; exercise PASP ≥45 mmHg noninvasive surrogate (AUC 0.99); 23–28% exercise-unmasked gap; Borlaug 2010 and Landsteiner 2025 History entries; updated frontmatter and Related Pages
+- `wiki/concepts/hfpef-diagnostic-definitions.md` — Added Landsteiner 2025 HC-HFpEF concept to History; trial enrollment vs. HC-HFpEF gap table (STEP/FINEARTS/EMPEROR/PARAGON); 67–71% NT-proBNP exclusion; updated frontmatter, Related Pages, Contradictions
+- `wiki/concepts/hfpef-phenotype-profiling.md` — Added Borlaug 2023 5-phenotype Venn table (obese/cardiometabolic, arterial stiffening, ischaemic/CMD, pulmonary vascular, LA myopathy); disease progression spectrum (LA→PH→RV); autonomic dysfunction section (sympathetic excess from Manabe 2023); History entry; updated frontmatter and Related Pages
+
+### Entity pages updated (1)
+- `wiki/entities/cardiopulmonary-exercise-testing.md` — Expanded diagnostic gold standard section with supine vs. upright protocol distinction; Borlaug 2010 protocol (PCWP ≥25 mmHg supine, PASP ≥45 mmHg screen, 20W gap onset); Landsteiner 2025 upright protocol (PCWP/CO slope >2, HC-HFpEF concept, exercise-unmasked prognosis); expanded Evidence table (11 rows); updated frontmatter and Related Pages
+
+### Registry files updated (6)
+- `wiki/citations.md` — 4 new entries (table + full formatted references): borlaug2010exercise, borlaug2023statement, landsteiner2025hemodynamics, manabe2023sympathetic
+- `wiki/contradictions.md` — Added #28 (trial NT-proBNP thresholds exclude 67–71% of HC-HFpEF) and #29 (supine vs. upright exercise protocol thresholds non-interchangeable)
+- `wiki/trials-pending.md` — Added 24 trials from Borlaug 2023 Table 5 (CAMEO-SEMA, CAMEO-DAPA, HuMAIN, SPIRRIT, SPIRIT-HF, PARAGLIDE-HF, CADENCE, PH-HFpEF, INABLE-Training, KNO3CK OUT HFpEF, RESPONDER, RELIEVE-HF, FROST-HF, RELAXIN-LA, CABA-HFpEF, ENDEAVOR, HERMES, CoIPET, REBALANCE-HF, AIM HIGHer, HERACLES-HFpEF, IRONMET-HFpEF, REHAB-HFpEF, AMETHYST)
+- `wiki/index.md` — Added [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[manabe2023sympathetic]] in appropriate sections
+- `wiki/timeline.md` — Added Borlaug 2010 (Diagnostic Criteria section), Borlaug 2023 + Manabe 2023 (Pathophysiology section), Landsteiner 2025 (Diagnostic Criteria section)
+- `wiki/overview.md` — Session 19 entry in Recent Additions; 2 new Knowledge Gaps (trial-to-real-world gap, exercise protocol standardisation)
+
+---
+
+## 2026-05-13 (session 18 — continued: ingest verification, Aliases batch complete)
+
+### Ingest verification — batch 1: mechanistic/observational papers (agent 1)
+Five source pages verified and corrected against PDFs:
+- wiki/sources/paulus2013novelparadigm.md — confirmed accurate; last_updated bumped
+- wiki/sources/edelmann2013aldodhf.md — 6MWD P-value corrected (P=0.03 → P=0.02); NT-proBNP table enhanced with raw group medians (165 vs 152 ng/L); last_updated bumped
+- wiki/sources/alnaamani2015pac.md — fixed specificity error (50% → 38%, per PDF Table 3); multivariate HR table added (PAC HR 0.48/mL/mmHg P=0.02); full ROC AUC table with 95% CIs; median follow-up 3.6 yr; demographics added; vasodilator testing results added
+- wiki/sources/shah2015phenomapping.md — HR disambiguation: CV hosp/death HR 4.2 (abstract) vs HF hosp HR 4.8 (Table 5); full outcomes event-count + unadjusted + adjusted HR table added
+- wiki/sources/kitzman2016secret.md — racial composition corrected (72% Black → ~45% Black, per PDF Table 1); arm sizes n=26/24/25/25 added; attention control detail added; secondary outcomes added
+
+### Ingest verification — batch 2: pharmacological trials (agent 2)
+Five source pages verified and corrected against PDFs:
+- wiki/sources/anker2021emperor.md — **major rewrite from placeholder**: complete author list, journal citation, NCT+dates, enrollment dates (Mar 2017–Apr 2020), follow-up 26.2 months, NT-proBNP threshold correction (>300 without AF / >900 with AF — thresholds had been swapped), full baseline table, primary endpoint HR 0.79 (0.69–0.90, P<0.001), components (HF hosp HR 0.71, CV death HR 0.91 NS), secondary endpoints (eGFR slope, KCCQ-CSS, total HF hosp), subgroup table (T2DM/LVEF/sex), safety table; source file corrected from placeholder to raw/2021-NEJM-Anker-EMPEROR-preserved.pdf
+- wiki/sources/pitt2014topcat.md — site count corrected 266→233; discontinuation rates corrected (34.3%/31.4%); BNP-stratum interaction added (P=0.01); NT-proBNP baseline imbalance noted (P=0.04)
+- wiki/sources/redfield2013relax.md — NYHA II–IV corrected to II–III (NYHA IV excluded); last_updated bumped
+- wiki/sources/pieske2017socrates.md — author list corrected; arm sizes corrected (n=96 each active arm, n=93 placebo); enrollment window corrected (4 weeks stabilization); NT-proBNP P=0.2017 and LAV P=0.3688 added
+- wiki/sources/maurer2018attract.md — author list corrected; enrollment dates Dec 2013–Aug 2015 added; Pfizer funder noted
+
+### Task #9 — Aliases batch: COMPLETE
+Added `## Aliases` blocks to all remaining entity and concept pages:
+- Entities: step-hfpef.md (STEP-HFpEF acronym, NCT04788511, Kosiborod 2023, STEP-HFpEF DM companion)
+- Concepts (11 pages): diastolic-dysfunction, exercise-intolerance, ml-ai-hfpef, guideline-comparison, hfpef-phenotype-profiling, hfpef-treatment-gap, hfpef-diagnosis, natriuretic-peptides, hfpef-diagnostic-definitions, hf-phenotype-classification
+### Ingest verification — batch 3: newer trials and AI papers (agent 3)
+Six source pages verified and corrected against PDFs:
+- wiki/sources/pandey2021deepnnecho.md — journal issue 14(9)→14(10); AUROC corrected (hemodynamic 0.883 vs 0.676 P=0.011; classifiable-only 0.894 vs 0.829 P=0.319 NS — significance implication removed); clinical outcome HR 3.96 (1.24–12.67, P=0.021) added; TOPCAT high-risk prevalence 81.1% added; spironolactone interaction P-value clarified as NS
+- wiki/sources/mebazaa2022stronghf.md — 4 critical errors corrected: (1) visit frequency 8→4.8 (SD 1.0); (2) EQ-5D VAS lower CI 0.74→1.74; (3) **LVEF subgroup ARDs reversed** (original HFrEF=12.5% / HFpEF=6.3% → correct HFrEF LVEF ≤40%=6.3% / HFpEF LVEF >40%=12.5% per Figure 4); (4) trial stopped for **efficacy** not futility; also added exact event counts, NT-proBNP ratios, full baseline table
+- wiki/sources/voors2022empulse.md — **entire author list replaced** (40+ authors from a different paper → correct 30 EMPULSE authors); NT-proBNP eligibility thresholds added (≥1600 non-AF / ≥2400 AF); win ratio component breakdown added; full baseline + safety tables added
+- wiki/sources/solomon2024finearts.md — race/geographic breakdown added; baseline characteristics expanded (17-subgroup prespecified analysis table from Figure 2); sensitivity analyses added
+- wiki/sources/gao2025ecgdl.md — **entire author list replaced** (fictional list → correct 5 authors: Gao Z, Yang Y, Yang Z, Zhang X, Liu C); LVEDP threshold corrected ("≥15-16 mmHg" → explicitly 12 mmHg per paper); CNN-LSTM architecture details added; Cohort B prospective confirmed
+- wiki/sources/kosiborod2024stephfpefdm.md — DOI corrected (NEJMoa2313307→NEJMoa2313917); confirmed as NCT04916470 (DM companion, not non-DM); **hierarchical composite win ratio 1.58 (1.29–1.94, P<0.001) added** (was entirely missing); dose escalation corrected (maintenance week 16); full baseline table added
+
+### Downstream corrections from batch 3
+- wiki/timeline.md — STRONG-HF row: ARDs corrected (HFrEF 12.5%→6.3%; HFpEF 6.3%→12.5%); labelled with LVEF threshold
+- wiki/overview.md — Session 12-14 entry: same STRONG-HF ARD correction applied
+
+### Task #9 — Aliases batch: COMPLETE
+Added `## Aliases` blocks to all entity and concept pages:
+- Entities: step-hfpef.md, tirzepatide-hfpef.md (minimal redirect aliases)
+- Concepts (10 pages): diastolic-dysfunction, exercise-intolerance, ml-ai-hfpef, guideline-comparison, hfpef-phenotype-profiling, hfpef-treatment-gap, hfpef-diagnosis, natriuretic-peptides, hfpef-diagnostic-definitions, hf-phenotype-classification
+- All entity pages from prior session (35) + 2 this session = 37 entity pages; all 12 concept pages now have Aliases blocks
+- Total Aliases blocks added across session 18: 47 entity/concept pages (including the 35 from prior session context)
+
+---
+
+## 2026-05-13 (session 18 — lint fixes continued: SUMMIT stale refs, link fixes, stub standardisation, new pages)
+
+### Remaining SUMMIT stale-reference fixes (completing session 17 task)
+- wiki/entities/step-hfpef.md line 43 — fixed "SUMMIT ongoing, peak VO₂ + KCCQ co-primary" → tirzepatide, published NEJM 2025, correct co-primaries (KCCQ-CSS + CV death/worsening HF), HR 0.62
+- wiki/sources/kittleson2023acc.md line 167 — fixed SUMMIT=semaglutide / STEP-HFpEF=tirzepatide swap; added published status (STEP-HFpEF 2023, SUMMIT NEJM 2025)
+- wiki/sources/kittleson2023acc.md line 258 — corrected drug assignments and noted both trials now published
+
+### Lint fixes
+- Task #2: [[hfpef-phenotypes]] → [[hfpef-phenotype-profiling]] in 4 source files (alnaamani2015pac.md ×2, gao2025ecgdl.md, maurer2018attract.md ×2, pandey2021deepnnecho.md ×2)
+- Task #4: [[hemodynamics]] → [[diastolic-dysfunction]] in alnaamani2015pac.md Related Pages
+- Task #6: [[atrial-fibrillation\|AF]] backslash → [[atrial-fibrillation|AF]] in hfpef-diagnosis.md (×2), natriuretic-peptides.md, echocardiography.md
+- Task #7: Removed redundant SET outcomes table from hfpef-treatment-gap.md; replaced with cross-reference to [[supervised-exercise-training]] with one-line evidence summary
+- Task #10: Standardised `raw/[pending ingest]` → `~ # pending ingest` in 13 entity files: attr-act, caba-hfpef, empulse, fair-hfpef, pep-chf, rehab-hfpef, relax, socrates-preserved, sota-p-cardia, spirit-hf, spirrit, strong-hf, victoria
+- Task #11: Added Notes column to citations.md Stub Sources table; flagged Armstrong2020VICTORIA as HFrEF trial + no PDF; Cleland2006PEPCHF as HFpEF + no PDF; Packer2025SUMMIT as PDF not yet in raw/
+
+### New pages created
+- wiki/entities/vitality-hfpef.md — VITALITY-HFpEF entity: vericiguat 15/10 mg vs. placebo; N=789; KCCQ-PLS neutral; sGC class closed for HFpEF; SUMMARY + Aliases + Evidence + Contradictions sections
+- wiki/concepts/pulmonary-hypertension-hfpef.md — PH-HFpEF concept stub: IpcPH vs. CpcPH; PAC > PVR for prognosis (Al-Naamani 2015); treatment gap; Paulus 2013 inflammatory mechanism
+- wiki/entities/myovasc.md — MyoVasc registry stub: N=3,289; 10-year follow-up; DZHK Rhine-Main; PI Philipp Wild; backbone for MyoMobile RCT; NCT04064450; design pending ingest (Gobel 2021 Eur J Prev Cardiol)
+
+### Registry files updated
+- wiki/index.md — Added [[vitality-hfpef]] to Clinical Trial Entities, [[myovasc]] to Registry Entities, [[pulmonary-hypertension-hfpef]] to Concepts
+
+---
+
+## 2026-05-13 (session 17 — SUMMIT ingest + major correction)
+
+### SUMMIT ingest — CRITICAL CORRECTION: SUMMIT = tirzepatide (Eli Lilly), NOT semaglutide
+
+**Error corrected:** wiki had SUMMIT (NCT04847557) incorrectly assigned to semaglutide. Confirmed from NCT04847557 study file and JACC secondary analysis papers: SUMMIT = tirzepatide (LY3298176), Eli Lilly. NCT04788511 belongs to STEP-HFpEF (semaglutide; Novo Nordisk).
+
+**Created new source pages:**
+- wiki/sources/packer2025summit.md — Primary NEJM 2025 paper (Packer M et al.; N Engl J Med. 2025;392:427-437; doi:10.1056/NEJMoa2410027); PDF not in raw/ — reconstructed from secondary analyses; key result: HR 0.62 (0.41-0.95; P=0.026) for CV death/worsening HF; KCCQ-CSS +6.9 pts (3.3-10.6; P<0.001)
+- wiki/sources/packer2025summit-ckd.md — JACC 2025;85:1721-1735 CKD subanalysis (raw/2025-JACC-Packer-SUMMIT_study.pdf); 61% CKD; benefit consistent across CKD/no-CKD (interaction P=0.86); weight loss −13.3% (CKD) / −14.5% (no-CKD) tirzepatide vs −2.2%/−2.4% placebo
+- wiki/sources/kramer2025summit-cmr.md — JACC 2025;85:699-706 CMR substudy (raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf); N=106 completed; LV mass −11 g (P=0.004); paracardiac fat −45 mL (P<0.001); first GIP/GLP-1 RA to reduce LV mass in HFpEF by CMR
+
+**Rewrote:**
+- wiki/entities/summit.md — Complete rewrite: tirzepatide (LY3298176; Eli Lilly), co-primary KCCQ+CV events, published NEJM 2025; added ## Aliases block; added SUMMIT vs STEP-HFpEF comparison table; added evidence table from secondary sources pending primary PDF
+- wiki/entities/tirzepatide-hfpef.md — Converted to redirect → [[summit]]; they are the same trial (NCT04847557)
+
+**Updated registry/index files:**
+- wiki/trials.md — SUMMIT row corrected (tirzepatide, correct title, status "2024 NEJM Jan 2025"); tirzepatide-hfpef row removed (merged into SUMMIT)
+- wiki/citations.md — Added Packer2025SUMMITCKD and Kramer2025SUMMITCMR to Ingested Sources table; added Packer2025SUMMIT to Stub Sources; added all 3 formatted references
+- wiki/index.md — Updated [[summit]] and [[tirzepatide-hfpef]] entity entries; added 3 new source page entries (packer2025summit, packer2025summit-ckd, kramer2025summit-cmr)
+- wiki/contradictions.md — Contradiction #22 updated (SUMMIT now published; SUMMIT vs STEP-HFpEF class-effect question); contradiction #27 added (tirzepatide CMR LV mass −11 g vs. semaglutide echo no change)
+- wiki/overview.md — High-level summary updated to reflect SUMMIT publication; knowledge gap updated from "SUMMIT ongoing" → "SUMMIT published (2025)"; session 17 added to Recent Additions
+- wiki/timeline.md — SUMMIT added to Treatment table (2024/2025) and Landmark Trials table
+
+---
+
+## 2026-05-13 (session 16 — lint + STEP-HFpEF ingest)
+
+### Wiki lint fixes (17 issues resolved)
+
+**Correct fixes applied:**
+- Fix 1: Removed duplicate `Solomon2024FINEARTS` entry from stub formatted references in citations.md (was already in ingested section)
+- Fix 2: Added `Yusuf2003CHARM` row to citations.md ingested table (done in prior session, confirmed present)
+- Fix 3: Updated `Edelmann2013ALDODHF` DOI note in citations.md (ISRCTN94726526 is trial registry ID)
+- Fix 5: Removed FINEARTS-HF from "ongoing trials" table in hfpef-treatment-gap.md (trial published 2024)
+- Fix 6: Updated ESC contradictions text in hfpef-treatment-gap.md — "No ESC HFpEF recommendation (ESC 2021)" → "Class I Level A for HFpEF/HFmrEF (ESC 2023)"
+- Fix 8: REDUCE-LAP-HF-II frontmatter stub syntax fixed (prior session)
+- Fix 10: armstrong2020victoria.md frontmatter stub syntax fixed (prior session)
+- Fix 11: cleland2006pepchf.md frontmatter stub syntax fixed (prior session)
+- Fix 12: Removed duplicate `### Clinical Trial Papers` heading in index.md
+- Fix 13: Merged `### Guidelines` + `### Guidelines and Consensus Documents` into single section in index.md; kittleson2023acc, anker2023hfpefphenotype, savarese2022globalburden moved up
+- Fix 16: guideline-comparison.md double separator fixed (prior session)
+- Fix 17: Replaced 10-row failed-trials table in hfpef-treatment-gap.md with 1-sentence cross-reference to [[trials]]
+
+**Incorrect-fix corrections:**
+- Fix 4: STEP-HFpEF row (`| STEP-HFpEF | Tirzepatide (GLP-1/GIP) | ...`) removed from ongoing trials table in hfpef-treatment-gap.md (STEP-HFpEF = semaglutide and is published); STEP-HFpEF results added to evidence section as item 4; tirzepatide NCT corrected in trials.md (`NCT04788511` → `[verify on ingest]`) and entity page updated
+- Fix 7+14: Created wiki/entities/attr-cm.md (ATTR Cardiomyopathy disease entity; aliases block: ATTR-CM, ATTRwt, ATTRv, TTR cardiomyopathy); links to [[attr-act]], [[hfpef-phenotype-profiling]], [[hfpef-diagnosis]]
+- Fix 9: Moved `Kosiborod2023STEPHFPEF` from Stub Sources → Ingested Sources in citations.md (both table and formatted references); stub formatted reference removed
+- Fix 15: Created wiki/concepts/coronary-microvascular-dysfunction.md (Paulus–Tschöpe paradigm; aliases: CMD, microvascular disease; sources: paulus2013novelparadigm, damario2019cmd); no alias overlap found in existing pages
+
+### STEP-HFpEF ingest (raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf + NCT04788511 study file)
+- Upgraded: wiki/sources/kosiborod2023stephfpef.md (stub → full source page)
+- CORRECTION: Dual primary endpoints are KCCQ-CSS + body weight (not KCCQ-CSS + 6MWD as in stub); 6MWD is confirmatory secondary
+- Key results: KCCQ-CSS +7.8 pts (4.8–10.9; P<0.001), body weight −10.7 pp (−11.9 to −9.4; P<0.001), 6MWD +20.3m (P<0.001), CRP ratio 0.61 (P<0.001), win ratio 1.72 (P<0.001); HF events HR 0.08 (exploratory); SAEs 13.3% vs. 26.7%
+- NCT04788511 confirmed from paper abstract (STEP-HFpEF non-DM; enrollment March 2021–March 2022; 96 sites; 13 countries)
+- Updated: wiki/entities/step-hfpef.md (NCT confirmed, dual primary corrected, exact CIs added, frontmatter file updated)
+- Updated: wiki/trials.md STEP-HFpEF row NCT `[verify on ingest]` → `NCT04788511`
+- Updated: wiki/citations.md (Kosiborod2023STEPHFPEF moved stub → ingested; formatted reference added)
+- Updated: wiki/contradictions.md #22 (corrected numbers: +7.8 pts, −10.7 pp, +20.3m, win ratio 1.72)
+- New entries: index.md (step-hfpef entity + kosiborod2023stephfpef source); timeline.md (2023 STEP-HFpEF treatment + landmark); overview.md (knowledge gaps updated; recent additions updated)
+- Added: 2023 STEP-HFpEF + 2024 FINEARTS-HF to timeline.md Landmark Trials table
+- Stub note removed from index.md kosiborod2023stephfpef and step-hfpef entries
+
+---
+
+## 2026-05-13 (session 15 continuation)
+
+### Full TOPCAT ingest (raw/2014-NEJM-Pitt-TOPCAT_study.pdf; Pitt2014TOPCAT)
+- Upgraded: wiki/sources/pitt2014topcat.md (partial stub → full page with exact data from PDF)
+- Key result: primary HR 0.89 (0.77–1.04; P=0.14) NEUTRAL; HF hosp HR 0.83 (P=0.04) only significant component; all-cause mortality HR 0.91 (P=0.29); Americas 27.3% vs 31.8% (interaction P=0.12 — NOT significant in paper); hyperkalemia 18.7% vs 9.1%; urinary metabolite contamination evidence NOT in this paper (published separately); NCT00094302
+- CORRECTION: Americas subgroup narrative derives from post-hoc analyses; interaction P=0.12 in main paper is not significant — updated to reflect this accurately
+
+### Stub upgrades from PDFs in raw/
+- **STRONG-HF** (raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf; Mebazaa2022STRONGHF)
+  - Upgraded: wiki/sources/mebazaa2022stronghf.md (stub → full page)
+  - Key result: N=1,078; 180-day ARD 8.1% (2.9–13.2; P=0.0021); RR 0.66 (0.50–0.86); HFrEF subgroup ARD 12.5%, HFpEF subgroup ARD 6.3%; hypotension 5% vs <1%; NCT04142201; DOI 10.1016/S0140-6736(22)02143-1
+- **EMPULSE** (raw/2022-NatureMed-Voors-EMPULSE_study.pdf; Voors2022EMPULSE)
+  - Upgraded: wiki/sources/voors2022empulse.md (stub → full page)
+  - Key result: N=530; win ratio 1.36 (1.09–1.68; P=0.0054); deaths 4.2% vs 8.3%; HFpEF subgroup 1.39 (0.95–2.03); NCT04157751; predominantly HFrEF (69%)
+- **STEP-HFpEF DM** (raw/2024-NEJM-Kosiborod-STEP-HFpEF_study.pdf; Kosiborod2024STEPHFPEFDM)
+  - DISCOVERY: PDF in raw/ is the DM companion paper (NEJM 2024;390:1394–1407), NOT the non-DM stub (NEJM 2023;389:1069–1084)
+  - Created: wiki/sources/kosiborod2024stephfpefdm.md (new source page from DM companion PDF)
+  - Key result: KCCQ-CSS +7.3 pts (4.1–10.4; P<0.001); 6MWD +14.3m (3.7–24.9; P=0.008); weight −6.4%; CRP ratio 0.67 (P<0.001); NT-proBNP ratio 0.8; HF hosp HR 0.40 (0.15–0.92); NCT04916470
+  - Updated: kosiborod2023stephfpef.md (added cross-reference to DM companion; clarified non-DM stub status)
+
+### Updated files
+- wiki/citations.md: moved Mebazaa2022STRONGHF, Voors2022EMPULSE from Stub → Ingested; added Kosiborod2024STEPHFPEFDM as new Ingested entry; fixed STRONG-HF DOI (02143-1 from PDF vs 02076-1 in stub); moved/added full formatted references; removed RELAX/ATTRACT/SOCRATES duplicates from Stub section
+- wiki/index.md: updated mebazaa2022stronghf, voors2022empulse descriptions with exact numbers; added kosiborod2024stephfpefdm entry; updated kosiborod2023stephfpef entry to note stub status
+
+### Meta-file updates (contradictions, overview, timeline)
+- wiki/contradictions.md:
+  - Corrected #2 (TOPCAT Americas): Americas interaction P=0.12 — not significant in main paper; post-hoc narrative corrected; added exact primary HR 0.89 (P=0.14)
+  - Added #25 (RELAX cGMP engagement without functional benefit): cGMP +133% (P=0.006) confirmed; VO2 P=0.90; safety signal; convergent NO/cGMP pathway failure
+  - Added #26 (ATTR-ACT ATTRwt positive vs ATTRm neutral): ATTRwt P<0.001; ATTRm P=0.30 (underpowered N~36); NYHA III P=0.78
+- wiki/overview.md: Added sessions 12–14 and session 15 entries to Recent Additions
+- wiki/timeline.md:
+  - Added RELAX (2013), SOCRATES-PRESERVED (2017), ATTR-ACT (2018) to Landmark Trials
+  - Corrected TOPCAT row (P=0.14; interaction P=0.12)
+  - Added EMPULSE (2022), STRONG-HF (2022) to Landmark Trials
+  - Added STEP-HFpEF DM (2024) to Landmark Trials
+
+---
+
+## 2026-05-12 (session 14 continuation — context resumed)
+
+### Stub upgrades (PDF already read in session 14; source pages fully written)
+- **RELAX** (raw/2013-JAMA-Redfield-RELAX_study.pdf; Redfield2013RELAX)
+  - Upgraded: wiki/sources/redfield2013relax.md (stub → full page with exact data)
+  - Key result: sildenafil vs. placebo; peak VO₂ −0.20 vs. −0.20, P=0.90; all secondary endpoints NS; safety signal: creatinine (P=0.047), NT-proBNP (P=0.03), endothelin-1 (P=0.046), uric acid (P=0.02) all worse; cGMP confirmed increased (P=0.006) — target engaged, mechanism failed
+- **SOCRATES-PRESERVED** (raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf; Pieske2017SOCRATES)
+  - Upgraded: wiki/sources/pieske2017socrates.md (stub → full page)
+  - Key result: vericiguat 5 arms; co-primary NT-proBNP + LAV both P>0.2; exploratory KCCQ-CSS at 10 mg +9.2 pts (P=0.016); heart rate −5.9 bpm (P=0.0045); protocol violation 48 patients; VITALITY-HFpEF phase 3 was neutral
+- **ATTR-ACT** (raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf; Maurer2018ATTRACT)
+  - Upgraded: wiki/sources/maurer2018attract.md (stub → full page)
+  - Key result: tafamidis pooled (264) vs. placebo (177); Finkelstein-Schoenfeld P<0.001; win ratio 1.695 (1.255–2.289); mortality HR 0.70 (0.51–0.96); CV hosp RR 0.68 (0.56–0.81); 6MWD reduced decline 75.68m; ATTRwt P<0.001; ATTRm P=0.30; ATTRwt ~13% of HFpEF patients
+
+### Updated files
+- wiki/citations.md: moved Redfield2013RELAX, Pieske2017SOCRATES, Maurer2018ATTRACT from Stub → Ingested Sources (table + full references)
+
+---
+
+## 2026-05-12 (session 14 — continued from session 13)
+
+### Fully ingested (PDF read; source pages created from actual data)
+- **Al-Naamani 2015 PAC** (raw/2015-JACHF-AlNaamani-PAC_in_PH-LHD_study.pdf; AlNaamani2015PAC)
+  - Created: wiki/sources/alnaamani2015pac.md
+  - Key result: PAC <1.1 mL/mmHg: HR 4.9 (1.9–12.4; P<0.001) for mortality in HFpEF+PH-LHD; PVR AUC 0.37 (useless); only age + PAC independently predict mortality; Comb-PH (DPG≥7) NS
+- **Pandey 2021 DeepNN Echo** (raw/2021-JACCImaging-Pandey-DeepNN_diastolic_dysfunction.pdf; Pandey2021DeepNNEcho)
+  - Created: wiki/sources/pandey2021deepnnecho.md
+  - Key result: TDA-based DeepNN AUROC 0.988/0.997; external hemodynamic AUC 0.894 vs. ASE 0.829; e' most important variable; TOPCAT substudy (N=518): high-risk HR 1.92; spironolactone HR 0.65 (P=0.01) only in high-risk group; interaction P<0.05
+- **Gao 2025 CNN-LSTM ECG** (raw/2025-ESCHeartFail-Gao-CNN_LSTM_ECG_HFpEF.pdf; Gao2025ECGDL)
+  - Created: wiki/sources/gao2025ecgdl.md
+  - Key result: CNN-LSTM on 12-lead ECG; 78% accuracy (N=238 training), 71.8% (N=117 validation); reference = LVEDP; BNP 22 vs. 20 pg/mL P=0.71; E/e' 8.25 vs. 8.5 P=0.66 — both NS between risk groups
+
+### Updated files
+- wiki/citations.md: added AlNaamani2015PAC, Pandey2021DeepNNEcho, Gao2025ECGDL to Ingested Sources table + full formatted references
+- wiki/index.md: added alnaamani2015pac, pandey2021deepnnecho, gao2025ecgdl to Observational Studies section
+
+---
+
+## 2026-05-12 (session 13 — continued from session 12)
+
+### Fully ingested (PDF read; source pages created/updated from actual data)
+- **FINEARTS-HF** (raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf; Solomon2024FINEARTS)
+  - Created: wiki/sources/solomon2024finearts.md (full source page with exact data from PDF)
+  - Updated: wiki/entities/finearts-hf.md (promoted from stub to full entity with exact numbers)
+  - Citations: Solomon2024FINEARTS moved from Stub Sources → Ingested Sources in citations.md; DOI confirmed 10.1056/NEJMoa2407107
+  - Key result: RR 0.84 (95% CI 0.74–0.95; P=0.007); N=6001; 37 countries; median 32-month follow-up
+- **ALDO-DHF** (raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf; Edelmann2013ALDODHF)
+  - Created: wiki/sources/edelmann2013aldodhf.md (full source page)
+  - Created: wiki/entities/aldo-dhf.md (new entity page)
+  - Added: row in wiki/trials.md Historical HFpEF Pharmacological Trials table (ISRCTN94726526)
+  - Citations: Edelmann2013ALDODHF added to Ingested Sources in citations.md (DOI pending crossref verification)
+  - Key result: E/e' −1.5 P<0.001 ✓; peak VO₂ +0.1 P=0.81 ✗; LV mass −6 g/m² P=0.009; 6MWD −15m P=0.02 (worse)
+
+### Updated files
+- wiki/contradictions.md: updated #21 (added ALDO-DHF + exact FINEARTS-HF numbers); added #24 (ALDO-DHF structural-functional dissociation)
+- wiki/index.md: added solomon2024finearts, edelmann2013aldodhf (sources); added aldo-dhf (entities); updated finearts-hf description
+
+### Continued (same session) — 3 additional full ingests
+- **Paulus & Tschöpe 2013 JACC** (raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf; Paulus2013NovelParadigm)
+  - Created: wiki/sources/paulus2013novelparadigm.md
+  - Key content: novel HFpEF paradigm; comorbidities → inflammation → coronary microvascular → ↓NO → ↓PKG → titin stiffness + fibrosis; proposes HFpEF ≠ LV afterload excess; statin observational data (Figure 4)
+- **SECRET** (raw/2015-JAMA-Kitzman-SECRET_study.pdf; Kitzman2016SECRET; published JAMA 2016;315:36–46)
+  - Created: wiki/sources/kitzman2016secret.md
+  - Created: wiki/entities/secret.md
+  - Added: row in wiki/trials.md Non-Pharmacological section (NCT00959660)
+  - Key result: exercise +1.2 mL/kg/min VO₂ P<0.001; diet +1.3 mL/kg/min P<0.001; combined +2.5 (additive); diet KCCQ +7 pts P=0.004; MLHF QoL co-primary NS
+  - Note: NCT00959660 is the SECRET trial — matches raw/Study Details NCT00959660 .md file
+- **Shah 2015 Phenomapping** (raw/2014-CirculationAHA-Shah-Phenomapping.pdf; Shah2015Phenomapping; Circulation 2015;131:269–279)
+  - Created: wiki/sources/shah2015phenomapping.md
+  - Key result: 3 phenogroups (young/mild; obese/metabolic; cardiorenal/advanced); HF hospitalisation HR 4.2 phenogroup 3 (P<0.001); validated in 107 independent patients; SVM AUC 0.70–0.76
+- Updated: wiki/citations.md (added Paulus2013NovelParadigm, Shah2015Phenomapping, Kitzman2016SECRET to Ingested Sources)
+- Updated: wiki/index.md (added 4 new source pages + 1 new entity page)
+
 ## 2026-04-30 (session 1)
 - Ingested: raw/2021-ESC-Guidelines-Heart-Failure.pdf (McDonagh2021ESC)
 - Created:
@@ -642,3 +967,144 @@
 ### Updated pages
 - wiki/overview.md — full rewrite reflecting all 10 sessions; updated High-Level Summary (microvascular/EndoMT paradigm; two-layer treatment model); Key Concepts expanded (hfpef-phenotype-profiling, ml-ai-hfpef, diastolic-dysfunction cellular mechanisms added); Active Debates extended (CMD debate, statins, diagnostic algorithm choice); Recent Additions through session 10; Knowledge Gaps updated and extended (FINEARTS-HF, SUMMIT/STEP-HFpEF, CABA-HFpEF, CMD targeting, EndoMT, statins RCT, iron deficiency, cancer HFpEF)
 - wiki/timeline.md — added Epidemiology section (Savarese 2022; Anker 2023 comorbidity prevalences); Pathophysiology timeline: filled [needs source] entries; added 2013 (Paulus/Tschöpe cGMP/PKG), 2018 (Graziani/Crea CMD "common soil"), 2019 (EndoMT + titin isoform shift + calcium overload); Treatment timeline: added 2010 (Kitzman first exercise RCT), 2017 (AHA/ACC Class IIb ARB/MRA), 2023 (Anker HFA/ESC two-layer model + ACC 2023 ECDP); Landmark Trials: added PEP-CHF (2006); AI/ML section: populated with Yi 2025 data (ECG-AI, NLP, phenotyping, TOPCAT responder prediction)
+
+## 2026-05-12 (session 11 — ingest McDonagh 2023 ESC Focused Update)
+
+### Sources ingested
+- raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf → [[mcdonagh2023escupdate]] (citekey: McDonagh2023ESCupdate [zotero-unverified])
+
+### New pages created
+- wiki/sources/mcdonagh2023escupdate.md — 2023 ESC Focused Update on HF; SGLT2i Class I, Level A for HFpEF and HFmrEF; STRONG-HF Class I Level B (rapid in-hospital/post-discharge GDMT intensification); EMPULSE (empagliflozin acute HF; win ratio 1.36); finerenone Class I Level A for CKD+T2DM (FIDELIO-DKD + FIGARO-DKD); iron deficiency update; HFpEF Figure 2 algorithm (3 green arms: diuretics, SGLT2i, comorbidity); explicit footnote: benefit hospitalization-driven, not CV mortality
+
+### Updated pages
+- wiki/concepts/guideline-comparison.md — renamed scope to ESC 2021 / ESC 2023 / AHA 2022 / ACC 2023 ECDP; 4-column overview table added; ESC 2023 SGLT2i Class I section and history entry added; contradictions updated; sources frontmatter updated
+- wiki/entities/sglt2-inhibitors.md — summary updated (Class I ESC 2023 for HFpEF/HFmrEF); ESC 2023 paragraph added in Role in HFpEF; 3-row status table updated (ESC 2023 row: Class I, Level A across all EF categories); sources frontmatter updated
+- wiki/concepts/hfpef-treatment-gap.md — summary updated (ESC 2023 Class I + AHA 2022 Class 2a); McDonagh2023ESCupdate added to sources frontmatter
+- wiki/contradictions.md — contradiction #9 updated: ESC 2021/AHA 2022 divergence marked RESOLVED by ESC 2023; ESC 2023 paragraph added
+- wiki/timeline.md — ESC 2023 treatment entry added (Class I SGLT2i HFpEF; STRONG-HF; finerenone CKD)
+- wiki/overview.md — High-Level Summary updated (ESC 2023 Class I); guideline-comparison link updated; hfpef-treatment-gap bullet updated; ESC 2025 anticipation revised; session 11 entry added to Recent Additions
+- wiki/citations.md — McDonagh2023ESCupdate added to Ingested table and full formatted refs
+- wiki/index.md — [[mcdonagh2023escupdate]] added under Guidelines
+
+### Trials-pending added
+- STRONG-HF (NCT03412201): rapid in-hospital/post-discharge GDMT intensification in acute HF; 180-day primary; ESC 2023 Class I
+- EMPULSE (NCT04157751): empagliflozin initiated in-hospital in acute HF across LVEF spectrum; win ratio 1.36; ESC 2023 acute HF context
+
+## 2026-05-12 (session 11 — ingest Mahmood 2024 systematic review of HFpEF guidelines)
+
+### Sources ingested
+- raw/2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf → [[mahmood2024guidelines]] (citekey: Mahmood2024Guidelines [zotero-unverified])
+
+### New pages created
+- wiki/sources/mahmood2024guidelines.md — first systematic AGREE II review of 7 HFpEF guidelines; Figure 2 agreement/disagreement/gaps taxonomy; 7-guideline comparison table (NP thresholds, E/e', LAVI, SGLT2i adoption, surveillance); GLP-1RA evidence gap (STEP-HFpEF/DM published); SOTA-P-CARDIA, SPIRRIT, REHAB-HFpEF as new ongoing trials
+
+### Updated pages
+- wiki/concepts/guideline-comparison.md — added international guidelines section (NHFA/CSANZ, CCS/CHFS, SHA, JCS/JHFS); NP threshold comparison table (7 guidelines); E/e' threshold table; LAVI threshold table; SGLT2i adoption by guideline table; surveillance frequency table; Mahmood2024Guidelines added to sources
+- wiki/contradictions.md — added #17 (E/e' threshold: ESC >9 vs. AHA ≥15 vs. others >14), #18 (LAVI: AHA ≥29 vs. ESC/others >34), #19 (NP age-adjustment: uniform vs. NHFA/CSANZ stratified)
+- wiki/trials-pending.md — added: SOTA-P-CARDIA (NCT05562063, sotagliflozin HFpEF no T2DM), SPIRRIT (NCT02901184, spironolactone HFpEF), REHAB-HFpEF (NCT05525663, cardiac rehab HFpEF), REACH-HFpEF (NCT TBD), STEP-HFpEF (semaglutide, PUBLISHED NEJM 2023 — candidate for ingest)
+- wiki/citations.md — Mahmood2024Guidelines added to Ingested table and full formatted refs
+- wiki/index.md — [[mahmood2024guidelines]] added under Guidelines section
+
+## 2026-05-12 (session 11 — ingest Bohmke 2022 nonpharmacological HFpEF strategies)
+
+### Sources ingested
+- raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf → [[bohmke2022nonpharm]] (citekey: Bohmke2022Nonpharm [zotero-unverified])
+
+### New pages created
+- wiki/sources/bohmke2022nonpharm.md — narrative review of 4 exercise modalities (MCT, HIIT, combined resistance/aerobic, IMT) and dietary interventions (caloric restriction, sodium restriction, MedDiet, DASH, malnutrition management) in HFpEF; key trials: Kitzman 2010, SECRET, HEART Camp, EX-DHF, OPTIMEX-CLIN (N=180 HIIT=MCT), Palau 2014 (IMT +2.9 mL/kg/min), Kinugasa 2020 (at-home IMT); PICNIC + EFFORT malnutrition trials; SODIUM-HF; UFA-Preserved pilot
+
+### Updated pages
+- wiki/entities/supervised-exercise-training.md — summary updated to include 4 modalities (IMT added); Description section expanded: 4-modality descriptions with IMT mechanism (respiratory muscle O2 competition); Key Individual Trials table added (8 trials including OPTIMEX-CLIN + IMT RCTs); sources frontmatter updated (Bohmke2022Nonpharm + Mirzai2025Exercise added); Related Sources updated
+- wiki/concepts/exercise-intolerance.md — Respiratory Muscle Oxygen Competition section added (IMT mechanism distinct from the 4-component model); Caloric Restriction and Skeletal Muscle Fat Infiltration section added (IMAT → peripheral O2 utilisation; SECRET CR arm); History entries for Palau 2014, Kinugasa 2020, Bohmke 2022 review added; Open Questions: 2 new questions on IMT phenotype specificity and CR in non-obese/cachectic; Related Sources updated (bohmke2022nonpharm + mirzai2025exercise added); sources frontmatter updated
+- wiki/trials-pending.md — added OPTIMEX-CLIN (HIIT vs. MCT vs. control, N=180, largest head-to-head), SECRET-II (NCT02636439, caloric restriction + exercise in obese HFpEF), UFA-Preserved 2 (NCT03966755, omega-3 supplementation in HFpEF)
+- wiki/citations.md — Bohmke2022Nonpharm added to Ingested table and full formatted refs
+- wiki/index.md — [[bohmke2022nonpharm]] added under Review Articles
+- wiki/overview.md — supervised-exercise-training bullet updated (4 modalities + IMT data); Recent Additions session 11 extended; Knowledge Gaps: HIIT bullet updated + IMT gap + dietary gap added
+
+## 2026-05-12 (session 11 — ingest Zeid 2025 MyoMobile study design)
+
+### Sources ingested
+- raw/2025-ESC-Zeid-MyoMobile_study.pdf → [[zeid2025myomobile]] (citekey: Zeid2025MyoMobile [zotero-unverified])
+- Note: design paper only; N=185 ITT; primary results (step count at 12 weeks) not yet published
+
+### New pages created
+- wiki/sources/zeid2025myomobile.md — MyoMobile study design; 3-arm EE2 RCT (standard care vs. wearable tracking vs. tracking+coaching); app algorithm (step count, weekly goal adjustment); eligibility criteria; full baseline characteristics table (LVEF 53.5%, median NT-proBNP 418, E/e' 9.42, AF 51.9%, obesity 40.5%); secondary endpoints (CPET, echo, HRV, 6MWT, KCCQ, multi-omics); DZHK Rhine-Main; NCT04940312
+
+### Updated pages
+- wiki/entities/supervised-exercise-training.md — added "Digital Health and App-Based Approaches" section: MyoMobile app algorithm description; complementary vs. equivalent distinction; sources frontmatter + Related Pages updated
+- wiki/concepts/ml-ai-hfpef.md — added "Digital Health Interventions (mHealth)" section: MyoMobile as first prospective mHealth RCT in HFpEF; accelerometry/DMOs connection to Docherty 2025; sources frontmatter + Related Sources updated
+- wiki/trials-pending.md — added MyoMobile (NCT04940312, design paper, primary results pending)
+- wiki/citations.md — Zeid2025MyoMobile added to Ingested table and full formatted refs
+- wiki/index.md — [[zeid2025myomobile]] added under Review Articles
+- wiki/overview.md — session 11 Recent Additions entry extended with Zeid 2025
+
+## 2026-05-12 (session 11 — scan 25 ClinicalTrials.gov registry .md files in raw/)
+
+### Assessment
+25 markdown registry files examined. 19 match already-ingested sources (TOPCAT/NCT00094302, EMPEROR-Preserved, TORCH, TORCH-Plus, DECIPHER-HFpEF, DELIVER, PARAGON-HF, CHARM-Preserved, I-Preserve, CAPACITY-HFpEF, DETERMINE-Preserved, NEAT-HFpEF, VITALITY-HFpEF, DAPA-HF, EMPEROR-Reduced, PARADIGM-HF, INDIE-HFpEF, MyoMobile) — no new wiki content needed for these. 6 are genuinely new.
+
+### Trials added to wiki/trials-pending.md
+- **MyoVasc (NCT04064450)** — Mainz observational cohort, N=3,289 HF patients, 10-year follow-up, PI Philipp Wild (same as MyoMobile); published design paper (Gobel 2021, Eur J Prev Cardiol)
+- **HIT-HF (NCT03184311)** — University of Basel; HIIT vs. MCT in HFpEF, N=86, design paper (Gasser 2021, Front Physiol); distinct from OPTIMEX-CLIN
+- **Levine HFpEF Vascular-Metabolic-Neural Study (NCT03465072)** — UT Southwestern, suspended; mechanistic MSNA + VO₂ kinetics + KE training; first aim accomplished
+- **OptimEx Long-Term Follow-up (NCT05162859)** — TU Munich, N=74; observational follow-up of OPTIMEX-CLIN and EX-DHF to assess VO₂ durability post-training
+- **m-Health CR HFpEF Pandey (NCT05002075)** — UT Southwestern, N=69, COMPLETED pilot RCT; home-based mHealth CR vs. standard care in HFpEF
+- **Muscle Blood Flow HFpEF Bunsawat (NCT05115890)** — VA, N=35; peripheral vascular control mechanisms + KE training
+
+## 2026-05-12 (session 12 — ingest pending trials: entity pages, source stubs, trials.md update)
+
+### Task
+Converted all 31 entries in wiki/trials-pending.md into entity pages and/or trials.md rows. trials-pending.md cleared.
+
+### Entity pages created (Tier 1 — major published trials)
+- wiki/entities/finearts-hf.md — finerenone (non-steroidal MRA) in HFpEF; HR ~0.84 (P=0.007); first non-SGLT2i positive pharmacological HFpEF trial [created previous session, confirmed this session]
+- wiki/entities/strong-hf.md — high-intensity GDMT uptitration in acute HF; ~8% absolute ARR 180-day; ESC 2023 Class I
+- wiki/entities/empulse.md — empagliflozin in-hospital initiation in acute HF; win ratio 1.36; safety established across LVEF
+- wiki/entities/relax.md — sildenafil (PDE5i) in HFpEF; N=216; fully neutral; part of NO/cGMP failure series
+- wiki/entities/attr-act.md — tafamidis in ATTR-CM; N=441; mortality RR 0.70; first disease-modifying ATTR-CM therapy; AHA 2022 Class I
+- wiki/entities/victoria.md — vericiguat in HFrEF; N=5,050; HR 0.90 (P=0.02); contrast with neutral VITALITY-HFpEF
+- wiki/entities/socrates-preserved.md — vericiguat phase 2b in HFpEF; NT-proBNP signal; motivated VITALITY-HFpEF phase 3 (then neutral)
+- wiki/entities/step-hfpef.md — semaglutide 2.4 mg in obese HFpEF; N=529; KCCQ-CSS +6.4 pts, 6MWD +20.5m (P<0.001); first major GLP-1RA HFpEF trial
+- wiki/entities/pep-chf.md — perindopril in elderly HFpEF; N=850; HR 0.92 (P=0.55); oldest RAAS trial; high drug discontinuation
+
+### Entity pages created (Tier 2 — ongoing trials)
+- wiki/entities/summit.md — semaglutide in HFpEF+obesity; peak VO₂ + KCCQ co-primary; NCT04847557
+- wiki/entities/tirzepatide-hfpef.md — tirzepatide (GLP-1/GIP) in HFpEF+obesity; NCT04788511
+- wiki/entities/spirit-hf.md — spironolactone in HFpEF; NCT04727073; definitive MRA trial
+- wiki/entities/spirrit.md — spironolactone vs. usual care in HFpEF; NCT02901184
+- wiki/entities/caba-hfpef.md — catheter ablation vs. rate control in HFpEF with AF; NCT05508256; DZHK
+- wiki/entities/fair-hfpef.md — IV ferric carboxymaltose in HFpEF with iron deficiency; NCT03074591
+- wiki/entities/reduce-lap-hf-ii.md — interatrial shunt device in HFpEF; NCT03088033; overall neutral; PVR subgroup signal
+- wiki/entities/sota-p-cardia.md — sotagliflozin (SGLT2+SGLT1) in HFpEF without T2DM; NCT05562063
+- wiki/entities/rehab-hfpef.md — structured cardiac rehabilitation in HFpEF; NCT05525663
+- wiki/entities/myomobile.md — app-based PA coaching in HFpEF; NCT04940312 (source page already existed)
+
+### Source stubs created (Tier 1 — published trials without PDFs)
+- wiki/sources/mebazaa2022stronghf.md — STRONG-HF
+- wiki/sources/voors2022empulse.md — EMPULSE
+- wiki/sources/redfield2013relax.md — RELAX
+- wiki/sources/maurer2018attract.md — ATTR-ACT
+- wiki/sources/armstrong2020victoria.md — VICTORIA (note: distinct from armstrong2020vitality = VITALITY-HFpEF, same first author, same year, different trial)
+- wiki/sources/pieske2017socrates.md — SOCRATES-PRESERVED
+- wiki/sources/kosiborod2023stephfpef.md — STEP-HFpEF (semaglutide)
+- wiki/sources/cleland2006pepchf.md — PEP-CHF
+
+### Trials added to trials.md only (Tier 3 — smaller/mechanistic/observational; no entity pages)
+- OPTIMEX-CLIN, HIT-HF, SECRET-II, UFA-Preserved 2, MyoMobile, m-Health CR HFpEF, OptimEx-LTF (Non-Pharmacological/Exercise section)
+- Levine NCT03465072, Bunsawat NCT05115890, MyoVasc (Mechanistic section)
+- REDUCE LAP-HF II, Pericardial Modification (Device section)
+- REACH-HFpEF (Non-Pharmacological section)
+- Butler 2022 EF Spectrum analysis (Secondary Analyses table)
+
+### trials.md restructured
+Added new sections: Acute Heart Failure Trials; Device Trials; Non-Pharmacological and Exercise Trials; Mechanistic Studies; ATTR-CM Trials. Historical negative HFpEF pharmacological trials now in separate subsection. Total trials tracked: ~40+.
+
+### trials-pending.md cleared
+All 31 pending entries processed and removed. File now contains only the "How to Add a Trial" instructions section.
+
+### Citations updated
+- wiki/citations.md — Stub Sources table updated: Solomon2024FINEARTS + 8 new stub citekeys added; formatted references added in Stub Sources section
+
+### Metadata updated
+- wiki/index.md — 8 new source pages added under Clinical Trial Papers; 19 new entity pages added under Clinical Trial Entities
+- wiki/log.md — this entry

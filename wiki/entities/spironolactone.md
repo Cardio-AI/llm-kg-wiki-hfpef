@@ -25,6 +25,17 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| MRA | abbreviation | mineralocorticoid receptor antagonist — class-level abbreviation |
+| Aldactone | alternate-name | brand name |
+| eplerenone | alternate-name | more selective MRA (same class); less gynaecomastia; EMPHASIS-HF |
+| steroidal MRA | descriptive | distinguishes from non-steroidal MRA (finerenone — FINEARTS-HF) |
+| potassium-sparing diuretic | descriptive | imprecise mechanism-based term; historically used |
+
+---
+
 ## Description
 
 Spironolactone is a mineralocorticoid receptor antagonist (MRA). It blocks aldosterone, reducing sodium retention, sympathetic activation, and myocardial fibrosis. Eplerenone is a more selective MRA that causes less gynaecomastia; both are used as MRAs in HF. Starting dose: 25 mg o.d.; target: 50 mg o.d. Caution when eGFR is impaired or serum potassium >5.0 mmol/L. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)

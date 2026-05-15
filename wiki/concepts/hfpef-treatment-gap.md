@@ -1,7 +1,7 @@
 ---
 type: concept
 title: HFpEF Treatment Gap
-summary: No large RCT has proven mortality reduction across the full HFpEF population; SGLT2i (AHA 2022 Class 2a) are the first pharmacotherapy with guideline endorsement above 2b; diuretics and comorbidity management remain Class I; supervised exercise training fills the functional gap; the mortality gap persists.
+summary: No large RCT has proven mortality reduction across the full HFpEF population; SGLT2i are now Class I (ESC 2023) and Class 2a (AHA 2022) — the first pharmacotherapy with major guideline endorsement for HFpEF; the benefit is hospitalization-driven; the mortality gap persists.
 tags:
   - hfpef
   - treatment
@@ -25,10 +25,23 @@ sources:
     citekey: Anker2023HFpEFPhenotype
   - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
     citekey: Pfeffer2019HFpEF
+  - file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
+    citekey: McDonagh2023ESCupdate
 ---
 # HFpEF Treatment Gap
 
 > Despite HFpEF accounting for ~50% of HF patients, no large RCT has demonstrated convincing reduction in mortality or morbidity across the full population; this is the central unresolved problem in heart failure medicine.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| HFpEF evidence gap | descriptive | common alternative phrasing |
+| HFpEF mortality gap | descriptive | specific unresolved endpoint — no mortality-reducing therapy |
+| Treatment of HFpEF | descriptive | broad search term encompassing this concept |
+| Pharmacotherapy HFpEF | descriptive | drug-specific framing |
+| HFpEF trial failures | descriptive | historical series of neutral RAAS, PDE5, sGC trials |
 
 ---
 
@@ -74,24 +87,9 @@ Current best strategy: aggressive treatment of underlying drivers — hypertensi
 
 ## History
 
-### Catalogue of Failed Trials (as of 2021)
+### Catalogue of Failed Trials
 
-| Trial | Drug/Class | Inclusion LVEF | Primary Endpoint | Result |
-|---|---|---|---|---|
-| [[charm-preserved]] | Candesartan (ARB) | >40% | CV death + HF hosp. | Missed; hospitalization trend |
-| PEP-CHF | Perindopril (ACEi) | >40% | All-cause death + HF hosp. | HR 0.92 (P=0.55); elderly ≥70y; substantial drug discontinuation |
-| [[i-preserve]] | Irbesartan (ARB) | ≥45% | All-cause death + CV hosp. | Fully neutral |
-| [[topcat]] | Spironolactone (MRA) | ≥45% | CV death + arrest + HF hosp. | Neutral overall; Americas subgroup positive |
-| DIG-Preserved | Digoxin | ≥45% | HF hospitalization | Neutral |
-| [[paragon-hf]] | Sacubitril/valsartan (ARNI) | ≥45% | CV death + total HF hosp. | Missed; LVEF <57% subgroup positive |
-| NEAT-HFpEF | Isosorbide mononitrate | ≥50% | Exercise capacity | Neutral/worsened activity |
-| INDIE-HFpEF | Inorganic nitrate | ≥50% | Exercise capacity | Neutral |
-| VITALITY-HFpEF | Vericiguat | ≥45% | Exercise capacity | Neutral |
-| CAPACITY-HFpEF | Praliciguat | ≥40% | Exercise capacity | Neutral |
-
-(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
-
-[expand as individual trial source pages are ingested]
+Ten pharmacological RCTs across RAAS, nitrate/cGMP, and exercise-capacity classes failed to demonstrate significant benefit in the full HFpEF population before 2021 (CHARM-Preserved, PEP-CHF, I-PRESERVE, TOPCAT, DIG-Preserved, PARAGON-HF, NEAT-HFpEF, INDIE-HFpEF, VITALITY-HFpEF, CAPACITY-HFpEF). Full trial matrix with methods and primary outcomes: see [[trials]]. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
 
 ## Evidence
 
@@ -109,18 +107,7 @@ The CHAMPION trial (CardioMEMS implantable PA pressure sensor) showed that manag
 
 ### Exercise Training — Functional Gap Filled
 
-[[Supervised-exercise-training|Supervised exercise training (SET)]] is the most consistently positive HFpEF intervention for exercise capacity:
-
-| Outcome | Effect (8 RCTs, n=503) | CI |
-|---|---|---|
-| Peak VO2 | +2.8 mL/kg/min | 1.6–4.0 |
-| Exercise time | +21% | — |
-| 6MWD | +40 m | — |
-| Safety | No major adverse events | — |
-
-**2022 AHA/ACC:** Class I, Level A recommendation for exercise training in HF (EF-agnostic). (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
-
-**Critical caveat:** Effects on mortality and HF hospitalisation are unknown — individual trials are underpowered for hard outcomes. SET fills the functional gap but not the mortality gap. Mirzai 2025 (state-of-the-art review, ~30 RCTs): MICT has the largest evidence base; HIIT not superior to MICT for ΔpVO₂; ~1/3 of patients are non-responders. (source: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf)
+[[Supervised-exercise-training|Supervised exercise training (SET)]] is the most consistently positive HFpEF intervention for exercise capacity: meta-analysis (8 RCTs, n=503) shows peak VO₂ +2.8 mL/kg/min, 6MWD +40 m, no major adverse events. **2022 AHA/ACC:** Class I, Level A. Critical caveat: effects on mortality and HF hospitalisation unknown — individual trials underpowered; ~1/3 non-responders. SET fills the functional gap but not the mortality gap. See [[supervised-exercise-training]] for full evidence table, modality comparison (MICT vs. HIIT), and Mirzai 2025 state-of-the-art review. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf; source: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf)
 
 **SGLT2i symptom gap — partially resolved:** DELIVER (Solomon 2022) showed dapagliflozin improved KCCQ-TSS at 8 months (win ratio 1.11, P=0.009; mean +2.4 pts). DETERMINE-Preserved (McMurray 2024) was neutral at 16 weeks (P=0.079). Reconciliation: DELIVER used win-ratio approach at 8 months; DETERMINE used change score at 16 weeks. SGLT2i symptom benefit in HFpEF is likely real but may require ≥8 months or specific analytical sensitivity to detect. See [[contradictions]] #16. (source: raw/2022-NEJM-Solomon-Deliver_study.pdf; source: raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf)
 
@@ -132,12 +119,13 @@ The 2023 HFA/ESC consensus (Anker 2023) and the ACC 2023 ECDP (Kittleson 2023) p
 
 This does **not** close the mortality gap — SGLT2i benefit is driven by HHF reduction — but provides the most operationally advanced framework for practice as of 2023. See [[hfpef-phenotype-profiling]]. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
 
+**4. GLP-1RA (semaglutide) — Obese HFpEF phenotype (published 2023):**  
+[[step-hfpef|STEP-HFpEF]] (Kosiborod 2023, NEJM, N=529): Semaglutide 2.4 mg vs. placebo in LVEF ≥45%, BMI ≥30, without T2DM. Dual primary endpoints both P<0.001: KCCQ-CSS diff +7.8 pts (CI 4.8–10.9), body weight −10.7 pp. Confirmatory secondary: 6MWD +20.3m (P<0.001), CRP ratio 0.61 (P<0.001), win ratio 1.72 (P<0.001). Not powered for mortality/HF hospitalisation; exploratory HF events: 1 vs. 12. No formal guideline class assigned as of 2023 (post-dates ESC 2023 update). (source: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf)  
+The companion trial STEP-HFpEF DM (NCT04916470, Kosiborod 2024) showed similar symptomatic benefit in HFpEF+T2DM. **SUMMIT (NCT04847557, Packer 2025, NEJM)** tested **tirzepatide** (dual GLP-1/GIP, Eli Lilly) — co-primary KCCQ-CSS + CV death/worsening HF events; HR 0.62 (0.41–0.95; P=0.026); KCCQ-CSS +6.9 pts (P<0.001). First GLP-1RA trial with event reduction in HFpEF. (source: raw/2025-JACC-Packer-SUMMIT_study.pdf) Mortality gap in obese HFpEF: **partially closed** (CV death/worsening HF reduced 38%; CV mortality alone not independently significant). See [[summit]], [[packer2025summit]].
+
 **Ongoing trials that may further close the gap:**
 | Trial | Agent | Phenotype | NCT |
 |---|---|---|---|
-| FINEARTS-HF | Finerenone (non-steroidal MRA) | HFpEF LVEF ≥40%, eGFR ≥25 | NCT04435626 |
-| SUMMIT | Semaglutide (GLP-1 RA) | Obesity HFpEF | NCT04847557 |
-| STEP-HFpEF | Tirzepatide (GLP-1/GIP) | Obesity HFpEF | NCT04788511 |
 | SPIRIT-HF | Spironolactone | HFpEF (resolving TOPCAT question) | NCT04727073 |
 | CABA-HFpEF | Catheter ablation | HFpEF with AF | NCT05508256 |
 | FAIR-HFpEF | Ferric carboxymaltose | HFpEF with iron deficiency | NCT03074591 |
@@ -162,7 +150,7 @@ This does **not** close the mortality gap — SGLT2i benefit is driven by HHF re
 ## Contradictions
 - FDA endorsement vs. ESC non-recommendation for sacubitril/valsartan in HFpEF: different evidentiary thresholds and timing.
 - TOPCAT Americas positive subgroup vs. neutral overall result: regional data integrity issues unresolved.
-- SGLT2i: Class I in HFrEF; Class 2a for HFpEF (AHA 2022); No ESC HFpEF recommendation (ESC 2021) — publication-timing discordance. See [[guideline-comparison]].
+- SGLT2i: Class I in HFrEF; Class 2a for HFpEF (AHA 2022); Class I Level A for HFpEF/HFmrEF (ESC 2023) — ESC 2021's absence of recommendation was a publication-timing artefact, resolved by the 2023 focused update. See [[guideline-comparison]].
 - SET improves peak VO2 consistently but hard outcome data absent — functional benefit ≠ mortality benefit.
 - SGLT2i Class 2a for HFpEF is driven by HF hospitalization reduction, not CV mortality — a partial gap-closure at best.
 

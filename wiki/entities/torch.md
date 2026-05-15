@@ -21,6 +21,17 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| TORCH | acronym | TranslatiOnal Registry for CardiomyopatHies |
+| TORCH-Plus | research-name | Phase 2 expansion registry (n=4,340) |
+| NCT02187263 | Trial-ID | TORCH Phase 1 NCT number |
+| NCT04265040 | Trial-ID | TORCH-Plus NCT number |
+| DZHK cardiomyopathy registry | descriptive | institutional descriptor |
+
+---
+
 ## Description
 
 The DZHK **TranslatiOnal Registry for CardiomyopatHies (TORCH)** was established in December 2014 as a multi-centre, prospective registry and biobank for patients with primary non-ischemic cardiomyopathies (CMP) at 19 German university hospitals participating in the DZHK network. (source: 2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf)

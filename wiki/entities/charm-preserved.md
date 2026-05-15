@@ -20,6 +20,16 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| CHARM-Preserved | research-name | Candesartan in Heart Failure: Assessment of Reduction in Mortality and Morbidity — Preserved arm |
+| NCT00634712 | Trial-ID | registered on clinicaltrials.gov |
+| candesartan HFpEF trial | descriptive | common informal description |
+| CHARM | abbreviation | refers to the full CHARM programme (includes Preserved, Alternative, Added arms) |
+
+---
+
 ## Description
 
 - **Intervention:** Candesartan (ARB) vs. placebo

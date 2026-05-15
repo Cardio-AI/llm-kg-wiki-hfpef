@@ -21,6 +21,17 @@ sources:
 
 ---
 
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| HFmrEF | acronym | universal clinical shorthand (ESC 2021 onward) |
+| HFmEF | alternate-name | ESC 2016 pre-rename abbreviation |
+| HF mid-range EF | old-name | ESC 2016 original term; replaced in ESC 2021 |
+| borderline HFpEF | slang | informal; used in some pre-2021 literature |
+| heart failure with mildly reduced EF | alternate-name | formal expansion of HFmrEF |
+
+---
+
 ## Description
 
 HFmrEF is diagnosed when:
