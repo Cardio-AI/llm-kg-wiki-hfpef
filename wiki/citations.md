@@ -89,6 +89,30 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 | `lange2024cmr` | Lange T, Backhaus SJ, Schulz A, Hashem D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A | 2024 | CMR-based cardiac phenotyping in different forms of heart failure | Int J Cardiovasc Imaging | 10.1007/s10554-024-03145-4 |
 | `akerman2025ai` | Akerman AP, Al-Roub N, Angell-James C, Cassidy MA, Thompson R, et al. | 2025 | External validation of artificial intelligence for detection of heart failure with preserved ejection fraction | Nature Communications | 10.1038/s41467-025-58283-7 |
 | `fayyaz2025pathophys` | Fayyaz AU, Eltony M, Prokop LJ, Koepp KE, Borlaug BA, Dasari S, Bois MC, Margulies KB, Maleszewski JJ, Wang Y, Redfield MM | 2025 | Pathophysiological insights into HFpEF from studies of human cardiac tissue | Nature Reviews Cardiology | 10.1038/s41569-024-01067-1 |
+| `Borlaug2024INABLE` | Borlaug BA, Koepp KE, Melenovsky V, et al. | 2024 | Inorganic Nitrite Added to Exercise Training in Heart Failure With Preserved Ejection Fraction: The INABLE-Training Trial | Mayo Clin Proc | [verify DOI on ingest] |
+| `Brubaker2023SECRET2` | Brubaker PH, Kitzman DW, et al. | 2023 | Resistance Training Added to Caloric Restriction and Aerobic Exercise in Obese HFpEF: The SECRET-II Randomized Trial | Circ Heart Fail | 10.1161/CIRCHEARTFAILURE.122.010161 |
+| `Alonso2022HEARTcamp` | Alonso WW, Kupzyk K, Mukherjee R, et al. | 2022 | Exercise Adherence and Quality of Life in Heart Failure With Preserved Ejection Fraction: Secondary Analysis of the HEART Camp Trial | J Card Fail | 10.1016/j.cardfail.2021.10.005 |
+| `Kitzman2021REHABHF` | Kitzman DW, Whellan DJ, Duncan P, et al. | 2021 | Physical Rehabilitation for Older Patients Hospitalized for Heart Failure (REHAB-HF) | N Engl J Med | 10.1056/NEJMoa2026141 |
+| `Mentz2021REHABHFpEF` | Mentz RJ, Whellan DJ, Duncan PW, et al. | 2021 | Heart Failure With Preserved vs Reduced Ejection Fraction in the REHAB-HF Trial | JACC Heart Fail | 10.1016/j.jchf.2021.07.008 |
+| `Mueller2021OptimEx` | Mueller S, Winzer EB, Duvinage A, et al. | 2021 | Effect of High-Intensity Interval Training, Moderate Continuous Training, or Guideline-Based Physical Activity Advice on Peak Oxygen Consumption in Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial (OptimEx-Clin) | JAMA | 10.1001/jama.2020.26812 |
+| `DonelliDaSilveira2020HIIT` | Donelli da Silveira A, Beust de Lima J, da Silva Piardi D, et al. | 2020 | High-intensity interval training is superior to moderate intensity continuous training in patients with heart failure with preserved ejection fraction | Eur J Prev Cardiol | 10.1177/2047487319901206 |
+| `Azhar2020Protein` | Azhar G, Wei JY, Schumaker GL, et al. | 2020 | Improving cardiac function and exercise tolerance in elderly patients with heart failure and preserved ejection fraction through dietary protein and exercise: a randomized pilot study | Gerontol Geriatr Med | 10.1177/2333721420982808 |
+| `Jin2022LA` | Jin X, Nauta JF, Hung C-L, et al. | 2022 | Left atrial structure and function in heart failure with reduced (HFrEF) versus preserved ejection fraction (HFpEF): systematic review and meta-analysis | Heart Fail Rev | 10.1007/s10741-021-10204-8 |
+| `Lin2023CMD` | Lin X, Wu G, Wang S, Huang J | 2023 | The prevalence of coronary microvascular dysfunction (CMD) in heart failure with preserved ejection fraction (HFpEF): a systematic review and meta-analysis | Heart Fail Rev | 10.1007/s10741-023-10362-x |
+| `Kaddoura2024BetaBlocker` | Kaddoura R, Madurasinghe V, Chapra A, et al. | 2024 | Beta-blocker therapy in heart failure with preserved ejection fraction (B-HFpEF): A systematic review and meta-analysis | Curr Probl Cardiol | 10.1016/j.cpcardiol.2024.102376 |
+| `Fu2024Inflammation` | Fu Z, Liu P, Gao X, et al. | 2024 | Association of systemic inflammatory markers with clinical adverse prognosis and outcomes in HFpEF: a systematic review and meta-analysis of cohort studies | Front Cardiovasc Med | 10.3389/fcvm.2024.1461073 |
+| `Lee2024Lifestyle` | Lee VYJ, Houston L, Perkovic A, et al. | 2024 | The Effect of Weight Loss Through Lifestyle Interventions in Patients With Heart Failure With Preserved Ejection Fraction: A Systematic Review and Meta-Analysis of Randomised Controlled Trials | Heart Lung Circ | 10.1016/j.hlc.2023.11.022 |
+| `Prokopidis2025Exercise` | Prokopidis K, Isanejad M, Akpan A, et al. | 2025 | Comparison of exercise training effects between heart failure phenotypes: a systematic review and meta-analysis of peak VO₂ and six-minute walk distance | Eur Heart J Open | 10.1093/ehjopen/oeaf055 |
+| `vanDeBovenkamp2025Hemodynamics` | van de Bovenkamp AA, Nassiri S, Bakermans AJ, et al. | 2025 | Long-term hemodynamic responses and reverse remodeling after pharmacotherapy in HFpEF versus HFrEF: a systematic review and meta-analysis | Am J Physiol Heart Circ Physiol | 10.1152/ajpheart.00544.2024 |
+| `Ammar2025BNP` | Ammar LA, Massoud GP, Chidiac C, et al. | 2025 | BNP and NT-proBNP as Prognostic Biomarkers for the Prediction of Adverse Outcomes in HFpEF Patients: A Systematic Review and Meta-Analysis | Heart Fail Rev | 10.1007/s10741-024-10442-6 |
+| `Solomon2012PARAMOUNT` | Solomon SD, Zile M, Pieske B, Voors A, Shah A, et al. (PARAMOUNT Investigators) | 2012 | Angiotensin receptor neprilysin inhibitor (LCZ696) in heart failure with preserved ejection fraction (PARAMOUNT) | Lancet | 10.1016/S0140-6736(12)61227-6 |
+| `Shah2018PROMIS` | Shah SJ, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, et al. | 2018 | Prevalence and correlates of coronary microvascular dysfunction in heart failure with preserved ejection fraction: PROMIS-HFpEF | Eur Heart J | 10.1093/eurheartj/ehy529 |
+| `Arnold2022DIAMOND` | Arnold JR, et al. (DIAMOND-HFpEF study group) | 2022 | Microvascular dysfunction in HFpEF as a mediator of adverse outcomes (DIAMOND-HFpEF) | JACC Cardiovasc Imaging | 10.1016/j.jcmg.2021.10.002 |
+| `Tamaki2023NLRPLR` | Tamaki S, Yamada T, Watanabe T, et al. (PURSUIT-HFpEF Investigators) | 2023 | Neutrophil-to-Lymphocyte Ratio and Platelet-to-Lymphocyte Ratio as Prognostic Markers in ADHF-HFpEF (PURSUIT-HFpEF) | J Am Heart Assoc | 10.1161/JAHA.122.026326 |
+| `Haykowsky2011Exercise` | Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW | 2011 | Determinants of Exercise Intolerance in Elderly Heart Failure Patients With Preserved Ejection Fraction | J Am Coll Cardiol | 10.1016/j.jacc.2011.02.055 |
+| `Reddy2017ArtStiff` | Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA | 2017 | Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction | J Am Coll Cardiol | 10.1016/j.jacc.2017.05.029 |
+| `Boralkar2019NLR` | Boralkar KA, Kobayashi Y, Amsallem M, et al. (Haddad lab, Stanford) | 2019 | Value of Neutrophil to Lymphocyte Ratio and Its Trajectory in Patients Hospitalized With Acute Heart Failure and Preserved Ejection Fraction | Am J Cardiol | 10.1016/j.amjcard.2019.10.020 |
+| `ZhuZhou2021Leukocyte` | Zhu Z, Zhou S | 2021 | Leukocyte count and the risk of adverse outcomes in patients with HFpEF (TOPCAT substudy) | BMC Cardiovasc Disord | 10.1186/s12872-021-02142-y |
 
 ---
 
@@ -98,7 +122,7 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 |---|---|---|---|---|---|---|
 | `Armstrong2020VICTORIA` | Armstrong PW, Roessig L, Patel MJ, et al. | 2020 | Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction | N Engl J Med | 10.1056/NEJMoa1915928 | **HFrEF trial** — referenced for vericiguat mechanism only; VITALITY-HFpEF is the HFpEF companion. No PDF obtained. |
 | `Cleland2006PEPCHF` | Cleland JGF, Tendera M, Adamus J, et al. | 2006 | The Perindopril in Elderly People with Chronic Heart Failure (PEP-CHF) study | Eur Heart J | 10.1093/eurheartj/ehl250 | HFpEF trial (ACEi; failed). No PDF obtained. |
-| `Packer2025SUMMIT` | Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group | 2025 | Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity | N Engl J Med | 10.1056/NEJMoa2410027 | Primary PDF not in raw/ — data reconstructed from JACC secondary analyses. Add PDF to raw/ to complete ingest. |
+| `Packer2025SUMMIT` | Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group | 2025 | Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity | N Engl J Med | 10.1056/NEJMoa2410027 | |
 
 ---
 
@@ -342,6 +366,78 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 
 **fayyaz2025pathophys**
 > Fayyaz AU, Eltony M, Prokop LJ, Koepp KE, Borlaug BA, Dasari S, Bois MC, Margulies KB, Maleszewski JJ, Wang Y, Redfield MM. Pathophysiological insights into HFpEF from studies of human cardiac tissue. *Nat Rev Cardiol.* 2025;22:90–104. doi:10.1038/s41569-024-01067-1
+
+**Borlaug2024INABLE**
+> Borlaug BA, Koepp KE, Melenovsky V, et al. Inorganic Nitrite Added to Exercise Training in Heart Failure With Preserved Ejection Fraction: The INABLE-Training Randomized Trial. *Mayo Clin Proc.* 2024;99(2):206–217. doi:[verify on ingest]
+
+**Brubaker2023SECRET2**
+> Brubaker PH, Kitzman DW, et al. Resistance Training Added to Caloric Restriction and Aerobic Exercise Training in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: The SECRET-II Randomized Trial. *Circ Heart Fail.* 2023;16(9):e010161. doi:10.1161/CIRCHEARTFAILURE.122.010161
+
+**Alonso2022HEARTcamp**
+> Alonso WW, Kupzyk K, Mukherjee R, et al. Exercise Adherence and Quality of Life in Patients with Heart Failure with Preserved Ejection Fraction: Secondary Analysis of the HEART Camp Randomized Trial. *J Card Fail.* 2022;28(3):431–442. doi:10.1016/j.cardfail.2021.10.005
+
+**Kitzman2021REHABHF**
+> Kitzman DW, Whellan DJ, Duncan P, et al.; REHAB-HF Trial Investigators. Physical Rehabilitation for Older Patients Hospitalized for Heart Failure. *N Engl J Med.* 2021;385(3):203–216. doi:10.1056/NEJMoa2026141
+
+**Mentz2021REHABHFpEF**
+> Mentz RJ, Whellan DJ, Duncan PW, et al. Heart Failure With Preserved vs Reduced Ejection Fraction in the REHAB-HF Trial. *JACC Heart Fail.* 2021;9(10):747–757. doi:10.1016/j.jchf.2021.07.008
+
+**Mueller2021OptimEx**
+> Mueller S, Winzer EB, Duvinage A, et al.; OptimEx-Clin Study Group. Effect of High-Intensity Interval Training, Moderate Continuous Training, or Guideline-Based Physical Activity Advice on Peak Oxygen Consumption in Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2021;325(6):542–551. doi:10.1001/jama.2020.26812
+
+**DonelliDaSilveira2020HIIT**
+> Donelli da Silveira A, Beust de Lima J, da Silva Piardi D, et al. High-intensity interval training is superior to moderate intensity continuous training in patients with heart failure with preserved ejection fraction: a randomized clinical trial. *Eur J Prev Cardiol.* 2020;27(16):1733–1743. doi:10.1177/2047487319901206
+
+**Azhar2020Protein**
+> Azhar G, Wei JY, Schumaker GL, et al. Improving cardiac function and exercise tolerance in elderly patients with heart failure and preserved ejection fraction through dietary protein and exercise: a randomized pilot study. *Gerontol Geriatr Med.* 2020;6:1–9. doi:10.1177/2333721420982808
+
+**Jin2022LA**
+> Jin X, Nauta JF, Hung C-L, Ouwerkerk W, Teng T-HK, Voors AA, Lam CSP, van Melle JP. Left atrial structure and function in heart failure with reduced (HFrEF) versus preserved ejection fraction (HFpEF): systematic review and meta-analysis. *Heart Fail Rev.* 2022;27(5):1933–1955. doi:10.1007/s10741-021-10204-8
+
+**Lin2023CMD**
+> Lin X, Wu G, Wang S, Huang J. The prevalence of coronary microvascular dysfunction (CMD) in heart failure with preserved ejection fraction (HFpEF): a systematic review and meta-analysis. *Heart Fail Rev.* 2024;29(2):405–416. doi:10.1007/s10741-023-10362-x
+
+**Kaddoura2024BetaBlocker**
+> Kaddoura R, Madurasinghe V, Chapra A, Abushanab D, Al-Badriyeh D, Patel A. Beta-blocker therapy in heart failure with preserved ejection fraction (B-HFpEF): A systematic review and meta-analysis. *Curr Probl Cardiol.* 2024;49(3):102376. doi:10.1016/j.cpcardiol.2024.102376
+
+**Fu2024Inflammation**
+> Fu Z, Liu P, Gao X, Shi S, Li Y, Zhang B, Wu H, Song Q. Association of systemic inflammatory markers with clinical adverse prognosis and outcomes in HFpEF: a systematic review and meta-analysis of cohort studies. *Front Cardiovasc Med.* 2024;11:1461073. doi:10.3389/fcvm.2024.1461073
+
+**Lee2024Lifestyle**
+> Lee VYJ, Houston L, Perkovic A, Barraclough JY, Sweeting A, Yu J, Fletcher RA, Arnott C. The Effect of Weight Loss Through Lifestyle Interventions in Patients With Heart Failure With Preserved Ejection Fraction: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. *Heart Lung Circ.* 2024;33(2):197–208. doi:10.1016/j.hlc.2023.11.022
+
+**Prokopidis2025Exercise**
+> Prokopidis K, Isanejad M, Akpan A, et al. Comparison of exercise training effects between heart failure phenotypes: a systematic review and meta-analysis of peak VO₂ and six-minute walk distance. *Eur Heart J Open.* 2025;5(2):oeaf055. doi:10.1093/ehjopen/oeaf055
+
+**vanDeBovenkamp2025Hemodynamics**
+> van de Bovenkamp AA, Nassiri S, Bakermans AJ, Burchell GL, de Man FS, van Loon RB, Handoko ML. Long-term hemodynamic responses and reverse remodeling after pharmacotherapy in HFpEF versus HFrEF: a systematic review and meta-analysis. *Am J Physiol Heart Circ Physiol.* 2025;328(2):H419–H432. doi:10.1152/ajpheart.00544.2024
+
+**Ammar2025BNP**
+> Ammar LA, Massoud GP, Chidiac C, Booz GW, Altara R, Zouein FA. BNP and NT-proBNP as Prognostic Biomarkers for the Prediction of Adverse Outcomes in HFpEF Patients: A Systematic Review and Meta-Analysis. *Heart Fail Rev.* 2025;30(1):45–54. doi:10.1007/s10741-024-10442-6
+
+**Solomon2012PARAMOUNT**
+> Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; PARAMOUNT Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double-blind randomised controlled trial. *Lancet.* 2012;380(9851):1387–1395. doi:[10.1016/S0140-6736(12)61227-6](https://doi.org/10.1016/S0140-6736(12)61227-6)
+
+**Shah2018PROMIS**
+> Shah SJ, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, Beussink-Nelson L, Ljung-Osterberg L, Fermer ML, Broberg MA, Gan LM, Lund LH. Prevalence and correlates of coronary microvascular dysfunction in heart failure with preserved ejection fraction: PROMIS-HFpEF. *Eur Heart J.* 2018;39(37):3439–3450. doi:[10.1093/eurheartj/ehy529](https://doi.org/10.1093/eurheartj/ehy529)
+
+**Arnold2022DIAMOND**
+> Arnold JR, et al.; DIAMOND-HFpEF study group. Microvascular dysfunction in HFpEF as a mediator of adverse outcomes: the DIAMOND-HFpEF study. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.10.002](https://doi.org/10.1016/j.jcmg.2021.10.002)
+
+**Tamaki2023NLRPLR**
+> Tamaki S, Yamada T, Watanabe T, Morita T, Kawasaki M, Kikuchi A, Kawai T, Seo M, Nakamura J, Fukunami M; PURSUIT-HFpEF Investigators. Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as Predictors of Adverse Outcomes in Acute Decompensated Heart Failure With Preserved Ejection Fraction. *J Am Heart Assoc.* 2023;12(8):e026326. doi:[10.1161/JAHA.122.026326](https://doi.org/10.1161/JAHA.122.026326)
+
+**Haykowsky2011Exercise**
+> Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of Exercise Intolerance in Elderly Heart Failure Patients With Preserved Ejection Fraction. *J Am Coll Cardiol.* 2011;58(3):265–274. doi:[10.1016/j.jacc.2011.02.055](https://doi.org/10.1016/j.jacc.2011.02.055)
+
+**Reddy2017ArtStiff**
+> Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2017;70(2):136–148. doi:[10.1016/j.jacc.2017.05.029](https://doi.org/10.1016/j.jacc.2017.05.029)
+
+**Boralkar2019NLR**
+> Boralkar KA, Kobayashi Y, Amsallem M, Arthur Ataam J, Moneghetti KJ, Cauwenberghs N, Horne BD, Knowlton KU, Maecker H, Kuznetsova T, Heidenreich PA, Haddad F. Value of Neutrophil to Lymphocyte Ratio and Its Trajectory in Patients Hospitalized With Acute Heart Failure and Preserved Ejection Fraction. *Am J Cardiol.* 2020;125(2):229–235. doi:[10.1016/j.amjcard.2019.10.020](https://doi.org/10.1016/j.amjcard.2019.10.020)
+
+**ZhuZhou2021Leukocyte**
+> Zhu Z, Zhou S. Leukocyte count and the risk of adverse outcomes in patients with heart failure with preserved ejection fraction. *BMC Cardiovasc Disord.* 2021;21:333. doi:[10.1186/s12872-021-02142-y](https://doi.org/10.1186/s12872-021-02142-y)
 
 ---
 

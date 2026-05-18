@@ -9,9 +9,9 @@ tags:
   - attr-cm
   - hfpef
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-16
 sources:
-  - file: ~ # pending ingest
+  - file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
     citekey: Maurer2018ATTRACT
 ---
 # ATTR-ACT

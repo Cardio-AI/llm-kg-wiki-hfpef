@@ -42,6 +42,14 @@ last_updated: 2026-05-13 (session 13)
 | PARAGLIDE-HF | Prospective Comparison of ARNI with ARB Given following stabilization In DEcompensated HFpEF | Sacubitril/valsartan vs. valsartan | HFpEF/HFmrEF, LVEF >40%, recent WHF event | NCT03988634 | 2019 | 2022 | [[paraglide-hf]] · [[mentz2023paraglide]] · [[fudim2024paraglide]] · [[rambarat2025paraglide]] · [[nouhravesh2025paraglide]] |
 | HuMAIN-HFpEF | HU6 (Controlled Metabolic Accelerator) in Patients with Obese HFpEF | HU6 (mitochondrial uncoupler small molecule) vs. placebo; dose escalation | HFpEF, LVEF ≥50%, BMI ≥30, age >30 | NCT05284617 | 2022 | 2024 | [[pandey2025humain]] |
 
+### Phase 2 / Mechanistic Trials
+
+| Abbreviation | Full Title | Intervention | Condition (LVEF threshold) | Study ID | Start | Completion | Wiki |
+|---|---|---|---|---|---|---|---|
+| PARAMOUNT | Prospective comparison of ARNI with ARB on Management Of heart failUre with preserved ejectioN fracTion | LCZ696 (sacubitril/valsartan precursor) 200 mg BID vs. valsartan 160 mg BID; 36 weeks | HFpEF, LVEF ≥45%, NT-proBNP >400 pg/mL, NYHA II–III, sinus rhythm | NCT00887588 | 2009 | 2011 | [[solomon2012paramount]] |
+
+---
+
 ### Historical HFpEF Pharmacological Trials (RAAS/NO Pathway — Negative)
 
 | Abbreviation | Full Title | Intervention | Condition (LVEF threshold) | Study ID | Start | Completion | Wiki |
@@ -91,12 +99,15 @@ last_updated: 2026-05-13 (session 13)
 | Abbreviation | Full Title | Intervention | Condition | Study ID | Start | Status | Wiki |
 |---|---|---|---|---|---|---|---|
 | CABA-HFpEF | Catheter Ablation for Atrial Fibrillation in Heart Failure With Preserved Ejection Fraction | Catheter ablation (PVI) vs. rate control | HFpEF with AF | NCT05508256 | 2022 | Ongoing | [[caba-hfpef]] |
+| REHAB-HF | Rehabilitation Therapy in Older Acute Heart Failure Patients | Transitional progressive multidomain rehabilitation (strength, balance, mobility, endurance; in-hospital start + 36 outpatient sessions) vs. usual care | ADHF, any EF, age ≥60, LVEF-unrestricted | NCT02196038 | 2014 | Published 2021 | [[rehab-hf]] · [[kitzman2021rehabhf]] · [[mentz2021rehabhfhfpef]] |
 | REHAB-HFpEF | Rehabilitation for Heart Failure with Preserved Ejection Fraction | Structured cardiac rehabilitation vs. usual care | HFpEF | NCT05525663 | 2022 | Ongoing | [[rehab-hfpef]] |
 | REACH-HFpEF | [verify on ingest] | Cardiac rehabilitation vs. usual care | HFpEF | [verify on ingest] | Unknown | Ongoing | [[mahmood2024guidelines]] |
-| OPTIMEX-CLIN | Optimized Exercise Training in Patients With Chronic Heart Failure | HIIT vs. MCT vs. control (3-arm) | HFpEF, LVEF ≥50% | [verify on ingest] | 2015 | 2020 | [[bohmke2022nonpharm]] |
+| OPTIMEX-CLIN | Optimising Exercise Training in Prevention and Treatment of Diastolic Heart Failure | HIIT vs. MCT vs. guideline control (3-arm); 3 months supervised + 9 months telemedically-supervised home training | HFpEF, LVEF ≥50% | NCT02078947 | 2014 | Published 2021 | [[optimex-clin]] · [[mueller2021optimex]] · [[bohmke2022nonpharm]] |
 | HIT-HF | High-Intensity Interval Training for Heart Failure Patients With Preserved Ejection Fraction | HIIT vs. MCT, 12 weeks, 3×/week | HFpEF, LVEF >50%, NT-proBNP >125, diastolic dysfunction criteria | NCT03184311 | 2017 | Unknown | [[bohmke2022nonpharm]] |
 | SECRET | Caloric Restriction or Aerobic Exercise Training in Obese Older HFpEF | Caloric restriction vs. aerobic exercise vs. both vs. attention control (2×2 factorial) | HFpEF, LVEF ≥50%, BMI ≥30, age ≥60y | NCT00959660 | 2009 | 2014 | [[secret]] · [[kitzman2016secret]] |
-| SECRET-II | Caloric Restriction and Exercise Training in Heart Failure with Preserved Ejection Fraction | Caloric restriction + aerobic exercise vs. exercise alone vs. control | HFpEF with obesity, LVEF ≥50% | NCT02636439 | 2016 | Ongoing | [[bohmke2022nonpharm]] |
+| INABLE-Training | Inorganic Nitrite Added to Beneficial L-carnitine Exercise Training in HFpEF | Inorganic sodium nitrite 40 mg TID vs. placebo added to supervised exercise training (12 wk MCT) | HFpEF, LVEF ≥50%, NYHA II–IV, peak VO₂ <20 mL/kg/min | NCT02713126 | 2016 | Published 2024 | [[borlaug2024inable]] |
+| SECRET-II | Caloric Restriction and Exercise Training in Heart Failure with Preserved Ejection Fraction | Caloric restriction + aerobic training vs. CR + aerobic + resistance training (20 wk) | HFpEF with obesity, LVEF ≥50%, age ≥60 | NCT02636439 | 2016 | Published 2023 | [[brubaker2023secret2]] |
+| HEART Camp | Heart failure Exercise And Resistance Training Camp | Behavioral exercise coaching (18 mo) vs. enhanced usual care; adherence-focused | HF (all phenotypes; HFpEF subgroup N=59 in secondary analysis) | NCT01658670 | 2012 | Published 2022 | [[alonso2022heartcamp]] |
 | UFA-Preserved 2 | Unsaturated Fatty Acid Supplementation in HFpEF | Omega-3/UFA supplementation vs. placebo | HFpEF, LVEF ≥50% | NCT03966755 | 2019 | Ongoing | [[bohmke2022nonpharm]] |
 | MyoMobile | Personalized App-Based Coaching for Improving Physical Activity in HFpEF | App-based PA coaching vs. tracking vs. standard care | HFpEF, LVEF >40%, NYHA I–III | NCT04940312 | 2021 | Pending results | [[myomobile]] · [[zeid2025myomobile]] |
 | Ex-DHF | Exercise Training in Patients with Heart Failure and Preserved Ejection Fraction | Combined endurance + resistance training vs. usual care; 12 months | HFpEF | ISRCTN86879094 | ~2015 | Published 2025 | [[edelmann2025exdhf]] |

@@ -11,8 +11,10 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest — no PDF obtained
+  - file: ~ # pending ingest — primary trial paper PDF not obtained
     citekey: ~ # verify on ingest
+  - file: raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf
+    citekey: patel2024reducelaphf
 ---
 # REDUCE LAP-HF II
 
@@ -62,7 +64,7 @@ Overall primary endpoint: neutral (not significantly improved in full population
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
 - Entities: [[hfpef]], [[hfmref]]
-- Sources: [[pfeffer2019hfpef]]
+- Sources: [[patel2024reducelaphf]], [[pfeffer2019hfpef]]
 
 ## Contradictions
 

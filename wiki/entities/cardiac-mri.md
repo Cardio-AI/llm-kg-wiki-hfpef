@@ -105,6 +105,6 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 - Sources: [[mcdonagh2021esc]], [[ipek2024cmr]], [[lange2024cmr]], [[fayyaz2025pathophys]]
 
 ## Contradictions
-- CMR is the reference standard for LVEF, but echocardiography remains the clinical standard due to availability — this creates systematic LVEF measurement differences between research and clinical settings. [needs source]
+- CMR is the reference standard for LVEF, but echocardiography remains the clinical standard due to availability — this creates systematic LVEF measurement differences between research and clinical settings; CMR availability in the elderly HFpEF population is further reduced by pacemaker/ICD contraindications. (source: [[mcdonagh2021esc]]; [[ipek2024cmr]])
 
 See [[contradictions]].

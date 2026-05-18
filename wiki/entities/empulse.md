@@ -9,9 +9,9 @@ tags:
   - sglt2i
   - acute-hf
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-16
 sources:
-  - file: ~ # pending ingest
+  - file: raw/2022-NatureMed-Voors-EMPULSE_study.pdf
     citekey: Voors2022EMPULSE
 ---
 # EMPULSE
@@ -51,7 +51,7 @@ Mechanistically, empagliflozin in acute HF may provide haemoconcentration and os
 
 ## Evidence
 
-Primary endpoint win ratio: 1.36 (95% CI 1.09–1.68; P=0.0054) — empagliflozin superior to placebo. Benefits observed across LVEF strata including HFpEF. No excess of renal adverse events or hypotension in the in-hospital initiation group. [Source: Voors2022EMPULSE — pending full ingest for exact subgroup breakdown.]
+Primary win ratio: 1.36 (95% CI 1.09–1.68; P=0.0054) — empagliflozin superior to placebo. Components: death (HR 0.98), HF events (rate ratio 0.76), KCCQ-TSS change (+4.45 pts). HFpEF subgroup (LVEF >40%): win ratio 1.39 (0.95–2.03) — directionally consistent, CI crosses 1 due to smaller N. No excess of renal adverse events or hypotension in the in-hospital initiation group; eGFR transiently reduced week 1 but returned to baseline by week 4. (source: raw/2022-NatureMed-Voors-EMPULSE_study.pdf)
 
 ## Status
 
@@ -61,7 +61,7 @@ Primary endpoint win ratio: 1.36 (95% CI 1.09–1.68; P=0.0054) — empagliflozi
 
 - Concepts: [[hfpef-treatment-gap]]
 - Entities: [[sglt2-inhibitors]], [[strong-hf]], [[hfpef]], [[hfref]]
-- Sources: [[mcdonagh2023escupdate]], [[anker2021emperor]], [[solomon2022deliver]]
+- Sources: [[voors2022empulse]], [[mcdonagh2023escupdate]], [[anker2021emperor]], [[solomon2022deliver]]
 
 ## Contradictions
 

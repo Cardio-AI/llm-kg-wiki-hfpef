@@ -9,9 +9,9 @@ tags:
   - treatment
   - no-cgmp
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-16
 sources:
-  - file: ~ # pending ingest
+  - file: raw/2013-JAMA-Redfield-RELAX_study.pdf
     citekey: Redfield2013RELAX
 ---
 # RELAX

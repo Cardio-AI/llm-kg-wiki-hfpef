@@ -1,5 +1,119 @@
 # Change Log
 
+## 2026-05-18 (session 24 — 8 PDFs ingested)
+
+### Source pages created (8)
+- `wiki/sources/solomon2012paramount.md` — PARAMOUNT Phase 2 RCT (Lancet 2012;380:1387–1395; NCT00887588). LCZ696 vs. valsartan; N=301; LVEF ≥45%; NT-proBNP ratio 0.77 at 12w (P=0.005); LA volume −4.6 mL at 36w (P=0.003); Phase 2 bridge to PARAGON-HF.
+- `wiki/sources/shah2018promis.md` — PROMIS-HFpEF (Eur Heart J 2018;39:3439–3450). Prospective multicentre; N=202; CMD (CFR<2.5) prevalence 75%; CMD correlates with UACR/NT-proBNP; CRP NOT associated with CMD.
+- `wiki/sources/arnold2022diamond.md` — DIAMOND-HFpEF (JACC Cardiovasc Imaging 2022;15:1001–1011; NCT03050593). CMR; N=101 HFpEF; MPR 1.74 vs 2.22 controls (P=0.001); MVD 70% vs 48% (P=0.014); MPR and ECV uncorrelated (r=−0.06) — CMD and diffuse fibrosis are independent mechanisms.
+- `wiki/sources/tamaki2023nlrplr.md` — PURSUIT-HFpEF NLR/PLR (JAHA 2023;12:e026326; UMIN000021831). N=1,026 ADHF; combined high NLR+PLR HR 2.66 for cardiac death (P=0.0008); CRP NOT independently prognostic.
+- `wiki/sources/haykowsky2011exercise.md` — Exercise intolerance determinants (JACC 2011;58:265–274). N=48 HFpEF + 25 HCs; peak VO₂ −30%; strongest predictor: A-VO₂ Diff reserve (β=0.66; P=0.0002) — implicates peripheral mechanisms.
+- `wiki/sources/reddy2017artstiff.md` — Arterial stiffening with exercise + nitrite (JACC 2017;70:136–148). N=98 HFpEF; exercise unmasks arterial stiffness (TACI 0.50 vs 0.70; P<0.0001); nitrite RCT substudy (N=52): reduced PCWP −8 mmHg (P<0.0001), improved CO +0.8 L/min.
+- `wiki/sources/boralkar2019nlr.md` — NLR trajectory in acute HFpEF (Am J Cardiol 2020;125:229–235). Stanford STRIDE; N=443; NLR trajectory HR 1.26 (P=0.001); incremental to GWTG-HF score (ΔAUC +0.047; P=0.0068).
+- `wiki/sources/zhuzhou2021leukocyte.md` — Leukocyte count U-shaped mortality (BMC Cardiovasc Disord 2021;21:333). TOPCAT substudy; N=2,898; Q1 (≤5.5) HR 1.44 and Q4 (>8.0) HR 1.90 vs Q2; sex interaction: significant in women (P=0.002), not in men (P=0.088).
+
+### Registry updates
+- `wiki/citations.md` — 8 new citekeys + formatted references (Solomon2012PARAMOUNT, Shah2018PROMIS, Arnold2022DIAMOND, Tamaki2023NLRPLR, Haykowsky2011Exercise, Reddy2017ArtStiff, Boralkar2019NLR, ZhuZhou2021Leukocyte)
+- `wiki/trials.md` — PARAMOUNT added; new "Phase 2 / Mechanistic Trials" section created (NCT00887588)
+- `wiki/sources-pending-from-meta-analyses.md` — Shah 2018, Arnold 2022, Tamaki NLR/PLR, Zhu/Zhou WBC marked as ingested
+- `wiki/index.md` — [[solomon2012paramount]] added to Clinical Trial Papers; 7 new observational/mechanistic source entries added
+- `wiki/timeline.md` — Entries added: 2011 (Haykowsky A-VO₂ Diff reserve), 2012 (PARAMOUNT ARNi Phase 2), 2017 (Reddy arterial stiffening + nitrite), 2018 (PROMIS-HFpEF 75% CMD), 2022 (DIAMOND CMR MPR+fibrosis independence), 2023 (Tamaki NLR+PLR HR 2.66)
+- `wiki/overview.md` — Session 24 entry added to Recent Additions section
+
+---
+
+## 2026-05-18 (session 23 — entity audit; session 22 continuation logged)
+
+### Log note
+The session 22 log entry below was written mid-session and truncated by context compaction. The following records the session 22 work that was not captured there.
+
+### Additional source pages created in session 22 (13)
+
+**Exercise RCTs and rehabilitation (5):**
+- `wiki/sources/kitzman2021rehabhf.md` — REHAB-HF main results (Kitzman 2021, NEJM 2021;385:203–216; NCT02196038). N=349 (≥60y, ADHF, any EF; 97% frail/pre-frail). Transitional progressive multidomain rehabilitation vs. usual care. SPPB +1.5 pts (P<0.001; 3× MCID); 6MWD +34 m; KCCQ +7.1; 60-day rehospitalisation NS. Frailty subgroup: pre-frail higher absolute benefit.
+- `wiki/sources/mentz2021rehabhfhfpef.md` — REHAB-HF HFpEF subgroup (Mentz 2021, JACC Heart Fail 2021;9:747–757). HFpEF arm (n=185): SPPB +1.9 vs. +1.1 in HFrEF; global rank endpoint significant in HFpEF (P=0.04) but not HFrEF (P=0.69); interaction P=0.098. First evidence that rehabilitation benefits are HFpEF-enriched.
+- `wiki/sources/mueller2021optimex.md` — OptimEx-Clin (Mueller 2021, JAMA 2021;325:1298–1309; NCT02078947). N=180, 5 European sites. HIIT vs. MCT vs. guideline control. HIIT +1.5, MCT +2.0 mL/kg/min at 3 months (P<0.05 both vs. control); HIIT NOT superior to MCT (P=NS); neither met MCID; gains lost at 12 months. Closes HIIT superiority debate.
+- `wiki/sources/donelli2020hiit.md` — DonelliDaSilveira 2020 (Eur J Prev Cardiol 2020;28:778–787). Single-centre RCT, N=19. HIIT +3.5 vs. MCT +1.9 mL/kg/min (P<0.001 between-group). Likely false-positive from small N; contradicted by OptimEx-Clin N=180.
+- `wiki/sources/azhar2020protein.md` — Azhar 2020 (Gerontol Geriatr Med 2020;6:1–8). Pilot RCT, N=27. Protein supplementation + exercise vs. exercise alone vs. usual care. No significant VO₂ benefit. Nutritional co-intervention pilot.
+
+**Systematic reviews and meta-analyses (8):**
+- `wiki/sources/jin2022la.md` — Jin 2022 (Heart Fail Rev 2022). 61 studies, 8,806 HFrEF + 9,928 HFpEF. LAVi comparable between EF groups; LA reservoir GLS worse in HFrEF (9–12.8%) vs. HFpEF (18.9–23.4%); AF prevalence higher in HFpEF (34–43%) despite better LA function.
+- `wiki/sources/lin2023cmd.md` — Lin 2023 (JACC Heart Fail or similar). CMD meta-analysis in HFpEF; CFR impaired; microvascular rarefaction; links to inflammation pathway.
+- `wiki/sources/kaddoura2024betablocker.md` — Kaddoura 2024 (Curr Probl Cardiol 2024). 8 observational studies, N≈11,000. Beta-blocker use associated with lower all-cause mortality (OR 0.81, 95% CI uncertain; all observational). No RCT evidence; confounding highly likely.
+- `wiki/sources/fu2024inflammation.md` — Fu 2024 (systematic review/meta-analysis). Inflammatory markers (CRP, IL-6, TNF-α) prognostic in HFpEF; HR range 1.43–2.83; I²=0% (high consistency). Supports inflammatory phenotype targeting.
+- `wiki/sources/lee2024lifestyle.md` — Lee 2024 (meta-analysis). Lifestyle interventions (exercise, diet, weight loss) in HFpEF; VO₂ and KCCQ improvements meta-analysed across modalities.
+- `wiki/sources/prokopidis2025exercise.md` — Prokopidis 2025 (Eur Heart J Open 2025). Exercise training in HFpEF vs. HFrEF comparative meta-analysis; HFpEF VO₂ effect size characterised.
+- `wiki/sources/vandebovenkamp2025hemodynamics.md` — Van de Bovenkamp 2025 (meta-analysis). Hemodynamic responses to exercise in HFpEF; PCWP and CO slope relationships.
+- `wiki/sources/ammar2025bnp.md` — Ammar 2025 (meta-analysis). BNP/NT-proBNP levels in HFpEF; diagnostic and prognostic thresholds; correlation with exercise capacity.
+
+### Entity pages created in session 22 (2)
+
+- `wiki/entities/rehab-hf.md` — REHAB-HF entity: NCT02196038; transitional progressive multidomain rehabilitation in 349 acute HF patients (any EF; ≥60y; 97% frail/pre-frail); SPPB +1.5; HFpEF subgroup benefits ≥ HFrEF; rehospitalisation NS. References kitzman2021rehabhf + mentz2021rehabhfhfpef.
+- `wiki/entities/optimex-clin.md` — OptimEx-Clin entity: NCT02078947; HIIT vs. MCT vs. guideline control in HFpEF (5 sites; N=180); HIIT not superior to MCT; exercise gains not sustained at 12 months. References mueller2021optimex.
+
+### New file created in session 22 (1)
+
+- `wiki/sources-pending-from-meta-analyses.md` — Catalogs 25+ candidate primary studies identified from the 6 ingested meta-analyses (jin2022la, lin2023cmd, kaddoura2024betablocker, fu2024inflammation, lee2024lifestyle, prokopidis2025exercise), prioritised by evidence potential for future ingest. High-priority candidates include PARAMOUNT (Solomon 2012), Shah 2018 CMD (N=202), Arnold 2022 CMD, Lam 2018 beta-blockers, Tamaki NLR/PLR (N=1,026), Kitzman 2016 SECRET diet arm.
+
+### Registry files updated in session 22 (continued) (5)
+
+- `wiki/citations.md` — 13 new citekeys added (Kitzman2021REHABHF, Mentz2021REHABHFpEF, Mueller2021OptimEx, DonelliDaSilveira2020HIIT, Azhar2020Protein, Jin2022LA, Lin2023CMD, Kaddoura2024BetaBlocker, Fu2024Inflammation, Lee2024Lifestyle, Prokopidis2025Exercise, VandeBovenkamp2025Hemodynamics, Ammar2025BNP) + formatted references.
+- `wiki/index.md` — Added 5 exercise trial source entries ([[kitzman2021rehabhf]], [[mentz2021rehabhfhfpef]], [[mueller2021optimex]], [[donelli2020hiit]], [[azhar2020protein]]); added new "Systematic Reviews and Meta-Analyses" section (8 meta-analysis entries); added [[rehab-hf]] and [[optimex-clin]] to Clinical Trial Entities section; added [[sources-pending-from-meta-analyses]] to Core Pages.
+- `wiki/timeline.md` — Added 2021 REHAB-HF row (SPPB +1.5; HFpEF subgroup) and 2021 OptimEx-Clin row (HIIT = MCT; gains not sustained) to Treatment table.
+- `wiki/entities/supervised-exercise-training.md` — Added 4 new sources to frontmatter; updated OPTIMEX-CLIN table row with full data; added DonelliDaSilveira 2020 HIIT row with contradiction note; added Post-Hospitalisation Rehabilitation (REHAB-HF) subsection with evidence table; updated Related Pages.
+- `wiki/overview.md` — Session 22 entry in Recent Additions (13 sources, 2 entities); split "HIIT vs. MICT" debate into "HIIT vs. MCT" (OptimEx-Clin N=180) and new "Beta-blockers in HFpEF" debate (Kaddoura 2024, observational only); added 3 new Knowledge Gaps (post-hospitalisation rehabilitation, beta-blockers RCT gap, inflammatory marker-guided therapy).
+
+---
+
+### Entity audit (session 23)
+
+**Scope:** All 43 entity pages in `wiki/entities/`. Structural checks: Aliases block present, Related Pages present, ≥2 wiki-links per page, non-broken link targets, no stale "pending ingest" notes in Evidence sections.
+
+**Result:** All 43 pages pass structural checks. Three content issues found and fixed.
+
+#### Entity pages fixed (3)
+
+- `wiki/entities/strong-hf.md` — Evidence section had stale "pending full ingest for exact HR/CI" note. Replaced with actual data table: primary ARD 8.1% (2.9–13.2; P=0.0021; RR 0.66); LVEF subgroup table (HFrEF ≤40% ARD 6.3%; HFpEF >40% ARD 12.5%; P-interaction=0.27); safety profile (hypotension 5% vs <1%; renal impairment 3% vs <1%). Added [[mebazaa2022stronghf]] and [[voors2022empulse]] to Related Pages Sources. (data source: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf, already ingested as wiki/sources/mebazaa2022stronghf.md)
+- `wiki/entities/empulse.md` — Evidence section had "pending full ingest for exact subgroup breakdown". Replaced with actual data: WR 1.36 (95% CI 1.09–1.68; P=0.0054); components: death HR 0.98, HF events rate ratio 0.76, KCCQ-TSS +4.45 pts; HFpEF subgroup (LVEF >40%) WR 1.39 (0.95–2.03); eGFR transient reduction week 1, back to baseline by week 4; no excess hypotension or renal AEs. Added [[voors2022empulse]] to Related Pages Sources. (data source: raw/2022-NatureMed-Voors-EMPULSE_study.pdf, already ingested as wiki/sources/voors2022empulse.md)
+- `wiki/entities/reduce-lap-hf-ii.md` — Missing cross-link to [[patel2024reducelaphf]] (REDUCE LAP-HF II echocardiographic substudy, ingested session 20). Entity predated the substudy ingest. Added [[patel2024reducelaphf]] to Related Pages Sources and to frontmatter sources list.
+
+---
+
+## 2026-05-18 (session 22 — 3 exercise/intervention PDFs ingested: INABLE-Training, SECRET-II, HEART Camp)
+
+### Source pages created (3)
+
+- `wiki/sources/borlaug2024inable.md` — INABLE-Training (Borlaug 2024, Mayo Clin Proc 2024;99(2):206–217; NCT02713126). Inorganic sodium nitrite 40 mg TID vs. placebo added to 12-week supervised exercise training in HFpEF (N=73; 75% NYHA III; 63% rural; AF 58.9%). Exercise training improved VO₂ +0.79 mL/kg/min (P<0.001), KCCQ-OSS +5.5 (P<0.001), 6MWD +34 m (P<0.001). Nitrite: no benefit on any endpoint (VO₂ −0.13; P=0.77). Fifth major NO/cGMP pathway negative trial in HFpEF.
+- `wiki/sources/brubaker2023secret2.md` — SECRET-II (Brubaker 2023, Circ Heart Fail 2023;16:e010161; NCT02636439). 88 randomised (44/44); 20 weeks; CR+AT vs. RT+CR+AT. Both groups: VO₂peak +5–7%, KCCQ +15–20 points. Resistance training: leg strength +4.9 Nm (P=0.05), muscle quality +0.07 Nm/cm² (P=0.043). Key null findings: RT did NOT add VO₂ benefit (P=0.21) and did NOT prevent skeletal muscle mass loss — refutes primary hypothesis. LV mass and arterial stiffness improved equally in both groups.
+- `wiki/sources/alonso2022heartcamp.md` — HEART Camp HFpEF subgroup (Alonso 2022, J Card Fail 2022;28:431–442; NCT01658670). Secondary analysis; N=59 HFpEF (25 HEART Camp, 34 EUC). 18-month behavioral coaching. Adherence: 42% vs. 14% at 12 mo (P=0.025); 56% vs. 0% at 18 mo (P<0.001). 6MWT: +63 m vs. +13 m (P=0.048). KCCQ-OSS/CSS/TSS all Time×Group significant. HFrEF subgroup: no adherence or functional benefit — HFpEF-specific response confirmed.
+
+### Registry files updated (5)
+
+- `wiki/citations.md` — Added 3 citekeys to ingested table (Borlaug2024INABLE, Brubaker2023SECRET2, Alonso2022HEARTcamp) + 3 formatted references.
+- `wiki/trials.md` — Added INABLE-Training (new row), updated SECRET-II (corrected description and added source link [[brubaker2023secret2]]), added HEART Camp (new row) to Non-Pharmacological section.
+- `wiki/trials-pending.md` — Corrected and struck through INABLE-Training entry (was incorrectly described as "Ivabradine vs. exercise training"; actual: inorganic nitrite + exercise).
+- `wiki/index.md` — Added 3 source entries under Clinical Trial Papers section.
+- `wiki/log.md` — This entry.
+
+---
+
+## 2026-05-16 (session 21 — SUMMIT primary PDF ingested; packer2025summit.md and summit.md updated)
+
+### Source pages updated (1)
+
+- `wiki/sources/packer2025summit.md` — full rewrite from primary paper (`raw/2025-NEJM-Packer-SUMMIT_primary.pdf`; NEJM 2025;392:427–437; doi:10.1056/NEJMoa2410027). Replaced reconstructed secondary-analysis data with verified primary figures. Key corrections: N 364/367 (was 357/374); follow-up median 104 weeks (was "52 weeks"); age 65.5±10.5 / 65.0±10.9 y (was "~69y"); AF 26.1%/24.8% (was 33–35%, those numbers are CKD vs non-CKD subgroup); 6MWD 305/301 m (was 278–340 m). Added: endpoint revision narrative; NT-proBNP non-significance (0.90; 0.79–1.01; NS); full results table with exact CIs; eGFR assessment schedule (12/24/52 wk); KCCQ assessment schedule (24/52 wk); note on 357/362 being cystatin C subset not full trial N; CMR pericardial fat (not EAT) as driver; numerically higher CV and all-cause death with tirzepatide (NS).
+
+### Entity pages updated (1)
+
+- `wiki/entities/summit.md` — corrected N (364/367), follow-up (104 weeks), baseline table, results table with exact CIs, subgroup consistency note, endpoint revision section, CKD substudy N clarification, updated status removing pending-ingest flag.
+
+### Meta pages updated (2)
+
+- `wiki/citations.md` — removed pending-ingest note from Packer2025SUMMIT table entry; full formatted reference already present.
+- `wiki/log.md` — this entry.
+
+---
+
 ## 2026-05-15 (session 20 — 21 new sources ingested: sex biology, exercise RCTs, PARAGLIDE-HF analyses, CMR, AI, pathophysiology)
 
 ### Source pages created (21)
@@ -1107,4 +1221,58 @@ All 31 pending entries processed and removed. File now contains only the "How to
 
 ### Metadata updated
 - wiki/index.md — 8 new source pages added under Clinical Trial Papers; 19 new entity pages added under Clinical Trial Entities
+- wiki/log.md — this entry
+
+## 2026-05-18 (session 22 — ingest: exercise trials + systematic reviews/meta-analyses)
+
+### Sources ingested (PDFs read)
+
+**Exercise trials:**
+- raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf → citekey: Kitzman2021REHABHF
+- raw/2021-JACC-Mentz-REHAB-HF_study.pdf → citekey: Mentz2021REHABHFpEF
+- raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf → citekey: Mueller2021OptimEx
+- raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf → citekey: DonelliDaSilveira2020HIIT
+- raw/2020-GeroGeriMed-Azhar-dietry_exercise_hfpef_pilot_study.pdf → citekey: Azhar2020Protein
+
+**Systematic reviews and meta-analyses:**
+- raw/2022-HeartFailRef-Jin-LA_structure.pdf → citekey: Jin2022LA
+- raw/2023-HeartFailRev-Lin-CMD_prevalence.pdf → citekey: Lin2023CMD
+- raw/2024-CurrProbCardiol-Kaddoura-beta_blocker_hfpef.pdf → citekey: Kaddoura2024BetaBlocker
+- raw/2024-FrontCardioMed-Fu-inflammatory_markers_hfpef.pdf → citekey: Fu2024Inflammation
+- raw/2024-HeartLungCirc-Lee-lifestyle_interventions_HFpEF.pdf → citekey: Lee2024Lifestyle
+- raw/2025-EHJO-Prokopidis-Exercise_capacity_hfpef_hfref.pdf → citekey: Prokopidis2025Exercise
+- raw/2025-AmJPhysiolHeart-vanDeBovenkamp-hemodynamics_hfpef_hfref.pdf → citekey: vanDeBovenkamp2025Hemodynamics
+- raw/2025-HeartFailRev-Ammar-BNP_NTBNP_hfpef.pdf → citekey: Ammar2025BNP
+
+### New source pages created (13)
+- wiki/sources/kitzman2021rehabhf.md — REHAB-HF main results; NCT02196038; N=349; ≥60y, ADHF any EF; transitional multidomain rehab; SPPB +1.5 pts (P<0.001); 6MWD +34 m; KCCQ +7.1; rehospitalisation NS (RR 0.93); 97% frail/pre-frail; 53% HFpEF
+- wiki/sources/mentz2021rehabhfhfpef.md — REHAB-HF HFpEF subgroup; HFpEF (EF≥45%; n=185) vs HFrEF (n=164); SPPB +1.9 (1.1–2.6) vs +1.1 (0.3–1.9); global rank endpoint significant in HFpEF (PI=0.59; P=0.04) not HFrEF; interaction P=0.098
+- wiki/sources/mueller2021optimex.md — OptimEx-Clin; NCT02078947; 5 European sites; N=180 HFpEF; HIIT +1.5, MCT +2.0 mL/kg/min at 3 months; HIIT vs MCT: −0.4 (NS); gains lost at 12 months; E/e' unchanged
+- wiki/sources/donelli2020hiit.md — DonelliDaSilveira 2020; N=19; HIIT +3.5 vs MCT +1.9 mL/kg/min (P<0.001); E/e' improved both arms; likely false positive
+- wiki/sources/azhar2020protein.md — Azhar 2020; N=23 randomised, 16 analysed; protein supplement ± exercise; combined arm: 6MWD +36.6 m, quadriceps +21.5 kg; PS alone: no benefit, ↑body fat
+- wiki/sources/jin2022la.md — Jin 2022 LA meta-analysis; 61 studies (8,806 HFrEF + 9,928 HFpEF); LAGLS_R 9–12.8% HFrEF vs 18.9–23.4% HFpEF; AF 34–43% in HFpEF
+- wiki/sources/lin2023cmd.md — Lin 2023 CMD prevalence; 10 studies; 1,267 patients; pooled CMD 71% (invasive 79%; non-invasive 66%); CFR −1.28 vs controls; CMD RR 2.21
+- wiki/sources/kaddoura2024betablocker.md — Kaddoura 2024 beta-blocker meta-analysis; 16 observational studies; 27,188 patients; mortality OR 0.81 (0.65–0.99; P=0.044); HF rehospitalisation NS
+- wiki/sources/fu2024inflammation.md — Fu 2024 inflammatory markers; 8 cohort studies; 9,744 patients; all-cause mortality HR 1.43; CV mortality HR 2.04; CV rehospitalisation HR 2.83; I²=0%
+- wiki/sources/lee2024lifestyle.md — Lee 2024 lifestyle interventions; 6 RCTs; 375 patients; weight −5.30 kg; 6MWD +43.63 m; NYHA −0.54; MLHFQ −17.77 (all P<0.001)
+- wiki/sources/prokopidis2025exercise.md — Prokopidis 2025 exercise meta-analysis; 46 studies; VO₂peak higher by 0.78 mL/kg/min in HFpEF (P=0.02; NS after comorbidity adjustment); CO and SV higher in HFpEF
+- wiki/sources/vandebovenkamp2025hemodynamics.md — van de Bovenkamp 2025 hemodynamics meta-analysis; 21 RCTs; reverse remodeling essentially absent in HFpEF vs robust in HFrEF; SV not increased in HFpEF; LVMi −2.8 g/m²
+- wiki/sources/ammar2025bnp.md — Ammar 2025 BNP/NT-proBNP; 22 studies; 10,158 HFpEF patients; adverse events HR 1.34–1.80; CV mortality HR 1.44–1.65; low BNP = poor prognosis in HFpEF
+
+### New entity pages created (2)
+- wiki/entities/rehab-hf.md — REHAB-HF trial entity; NCT02196038; main results + HFpEF subgroup; completed; published NEJM 2021 + JACC HF 2021
+- wiki/entities/optimex-clin.md — OptimEx-Clin trial entity; NCT02078947; HIIT vs MCT vs control results; completed; published JAMA 2021
+
+### New meta-analysis candidates file created
+- wiki/sources-pending-from-meta-analyses.md — 25+ candidate papers from 6 ingested meta-analyses; prioritised for future ingest; high-priority: PARAMOUNT (Solomon 2012), Shah 2018 CMD, Arnold 2022 CMD, Lam 2018 beta-blockers, Tamaki NLR/PLR (N=1,026), Zhu/Zhou WBC (N=2,898), Kitzman 2016 SECRET diet arm
+
+### Registry files updated
+- wiki/trials.md — added REHAB-HF row; updated OPTIMEX-CLIN row with correct NCT (NCT02078947) and wiki links
+- wiki/citations.md — 13 new ingested citekeys added to table; 13 formatted references added to Full Formatted References section
+
+### Metadata updated
+- wiki/index.md — added 5 exercise trial source pages under Clinical Trial Papers; added new "Systematic Reviews and Meta-Analyses" section (8 meta-analysis sources); added [[rehab-hf]] and [[optimex-clin]] under Clinical Trial Entities; added [[sources-pending-from-meta-analyses]] to Core Pages
+- wiki/entities/supervised-exercise-training.md — added OptimEx-Clin and DonelliDaSilveira 2020 rows to Key Individual Trials table; added Post-Hospitalisation Rehabilitation section (REHAB-HF); updated Related Pages and sources frontmatter
+- wiki/overview.md — updated SET bullet (OptimEx-Clin + REHAB-HF references); updated Active Debates (HIIT vs MCT + beta-blockers); added session 22 Recent Additions; added 3 new Knowledge Gaps (post-hospitalisation rehab, beta-blockers RCT gap, inflammatory marker-guided therapy)
+- wiki/timeline.md — added REHAB-HF (2021) and OptimEx-Clin (2021) rows to Treatment table
 - wiki/log.md — this entry

@@ -9,9 +9,9 @@ tags:
   - treatment
   - no-cgmp
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-16
 sources:
-  - file: ~ # pending ingest
+  - file: raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf
     citekey: Pieske2017SOCRATES
 ---
 # SOCRATES-PRESERVED

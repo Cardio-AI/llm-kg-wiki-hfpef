@@ -7,6 +7,7 @@
 - [[citations]] — master citekey → full citation registry; read this when asked for a reference
 - [[trials]] — master clinical trials overview table (all trials in wiki: title, abbreviation, intervention, condition, NCT, dates)
 - [[trials-pending]] — trials referenced in sources but not yet added; review before deciding to ingest
+- [[sources-pending-from-meta-analyses]] — candidate primary studies from meta-analyses for future ingest; prioritised by evidence potential
 
 ---
 
@@ -38,6 +39,13 @@
 - [[bozkurt2020sex]] — Bozkurt 2020 (JACC): sex and gender differences across the HF spectrum; women higher LVEF explains ARNI sex-treatment interaction
 - [[lange2024cmr]] — Lange 2024 (Int J Cardiovasc Imaging): cross-sectional CMR n=54 HF (22 HFpEF, 17 HFmrEF, 15 HFrEF) + 19 controls; HFpEF vs controls: LA reservoir strain 28.9 vs 35.9% (P=0.008), LV GLS −15.0 vs −19.2% (P=0.001), native T1 1012 vs 988 ms (P=0.003); LACI elevated (P=0.004)
 - [[akerman2025ai]] — Akerman 2025 (Nat Commun): EchoGo HF v2 (Ultromics) external validation in 240 cases + 256 controls; AUROC 0.797 vs H₂FPEF 0.788 (P=0.001); 9.1% AI intermediate vs 61.7% H₂FPEF; AI-positive HR 2.56 for composite outcome; high sensitivity vs high specificity diagnostic trade-off
+- [[haykowsky2011exercise]] — Haykowsky 2011 (JACC): exercise physiology; n=48 HFpEF vs 25 HCs; peak VO₂ −30%; A-VO₂ Diff reserve strongest independent predictor of peak VO₂ (β=0.66; P=0.0002); implicates peripheral noncardiac factors
+- [[reddy2017artstiff]] — Reddy 2017 (JACC; Borlaug lab): invasive exercise arterial stiffness; n=98 HFpEF vs 22 controls; no resting difference; exercise unmasks higher arterial elastance + lower TACI (both P<0.001); correlated with higher PCWP (r=−0.42) and lower CO (r=−0.66); inorganic nitrite reduces wave reflections and PCWP −8 mmHg at exercise
+- [[shah2018promis]] — PROMIS-HFpEF (Shah 2018, Eur Heart J): 75% CMD prevalence (151/202) in guideline-defined HFpEF; multinational 5-centre; CMD correlates with UACR, NT-proBNP, impaired RV function; CRP NOT associated with CMD
+- [[arnold2022diamond]] — DIAMOND-HFpEF (Arnold 2022, JACC CI): CMR-based; 70% MVD (MPR<2.0) in HFpEF vs 48% controls; MPR independently predicts death/HF hosp (HR 0.69, P=0.03); NO correlation between MPR and ECV/fibrosis — CMD and fibrosis are independent prognostic mechanisms
+- [[tamaki2023nlrplr]] — Tamaki 2023 (JAHA; PURSUIT-HFpEF; n=1,026): NLR+PLR combined HR 2.66 for cardiac death; serial NLR+PLR HR 2.71; CRP not independently associated; largest NLR/PLR study in ADHF-HFpEF
+- [[boralkar2019nlr]] — Boralkar 2019 (Am J Cardiol; Stanford; n=443): NLR on admission HR 1.18 (P=0.04); NLR trajectory HR 1.26 (P=0.001); both incremental to GWTG-HF risk score; NLR trajectory improves AUC at 1-, 2-, 3-year follow-up
+- [[zhuzhou2021leukocyte]] — Zhu and Zhou 2021 (BMC Cardiovasc Disord; TOPCAT substudy; n=2,898): U-shaped leukocyte-mortality relationship; Q1 (lowest) HR 1.44 and Q4 (highest) HR 1.90 vs Q2 reference; women-predominant effect
 
 ### Scientific Statements
 - [[sachdev2023exercise]] — Sachdev 2023 AHA Statement: SET meta-analysis (8 RCTs, n=503); VO2 +2.8 mL/kg/min; skeletal muscle as primary exercise intolerance mechanism
@@ -77,6 +85,7 @@
 - [[kramer2025summit-cmr]] — SUMMIT CMR substudy (JACC 2025;85:699): N=106; LV mass −11 g (P=0.004); paracardiac fat −45 mL (P<0.001); first GIP/GLP-1 RA to reduce LV mass in HFpEF by CMR
 - [[kosiborod2024stephfpefdm]] — STEP-HFpEF DM (2024): semaglutide in obese HFpEF with T2DM; N=616; KCCQ-CSS +7.3 pts, 6MWD +14.3m, weight −6.4%, CRP ratio 0.67; HF hosp HR 0.40 (nominal); NCT04916470
 - [[cleland2006pepchf]] — PEP-CHF: perindopril in elderly HFpEF (LVEF >40%); N=850; HR 0.92 (P=0.55); oldest RAAS trial in HFpEF
+- [[solomon2012paramount]] — PARAMOUNT (Phase 2): LCZ696 (ARNi precursor) vs. valsartan in HFpEF; N=301; NT-proBNP −23% at 12 weeks (P=0.005); LA volume improvement at 36 weeks; Phase 2 mechanistic bridge to PARAGON-HF
 - [[solomon2024finearts]] — FINEARTS-HF: finerenone vs. placebo in HFmrEF/HFpEF; N=6001; RR 0.84 (95% CI 0.74–0.95; P=0.007) for total WHF events + CV death; first non-steroidal MRA positive trial in HFpEF
 - [[edelmann2013aldodhf]] — ALDO-DHF: spironolactone 25 mg in ambulatory HFpEF; N=422; E/e' improved (P<0.001), LV mass reduced (P=0.009); peak VO₂ and symptoms unchanged; structural-functional dissociation
 - [[paulus2013novelparadigm]] — Paulus & Tschöpe 2013 (JACC): foundational HFpEF mechanistic paradigm; comorbidities → systemic inflammation → coronary microvascular endothelial inflammation → ↓NO → ↓cGMP → ↓PKG → titin stiffness + fibrosis → diastolic dysfunction
@@ -88,6 +97,14 @@
 - [[pandey2025humain]] — HuMAIN Phase 2A (Circ Heart Fail 2025): HU6 (mitochondrial uncoupler small molecule; **not** Humacyte bioartificial kidney) in HFpEF + obesity; NCT05284617; fat-selective catabolism mechanism
 - [[sharif2024locomotor]] — Sharif 2024 (JCF): pilot RCT n=22 HFpEF; 12.5-week resistance training; VO₂peak 17.1→19.4 mL/kg/min; fat-selective improvement; lean mass increased; supports skeletal muscle mechanism
 - [[obaya2024aerobic]] — Obaya 2024 (Physiol Res Int): RCT n=40 HFpEF; lower-limb aerobic cycling superior to upper-limb arm ergometry (21.51 vs 19.26 mL/kg/min; P<0.001); LVEF unchanged both arms
+- [[borlaug2024inable]] — INABLE-Training (Mayo Clin Proc 2024): N=73, inorganic nitrite 40 mg TID vs. placebo + exercise training; exercise improved VO₂ +0.79, KCCQ, 6MWD; nitrite added no benefit (P=0.77); fifth NO/cGMP negative trial in HFpEF; 75% NYHA III, 63% rural population
+- [[brubaker2023secret2]] — SECRET-II (Circ Heart Fail 2023): N=88, CR+AT vs. RT+CR+AT, 20 weeks; both improved VO₂ ~5–7% and KCCQ ~15–20 pts; resistance training added leg strength and muscle quality but NOT additional VO₂ and did NOT prevent skeletal muscle mass loss
+- [[alonso2022heartcamp]] — HEART Camp HFpEF subgroup (J Card Fail 2022): N=59 HFpEF; behavioral coaching; adherence 42% vs. 14% at 12 mo, 56% vs. 0% at 18 mo; 6MWT +63 m vs. +13 m (P=0.048); KCCQ all domains improved; HFrEF subgroup: no benefit — HFpEF-specific adherence responsiveness
+- [[kitzman2021rehabhf]] — REHAB-HF main results (Kitzman 2021, NEJM): transitional progressive multidomain rehab in 349 acute HF patients (any EF; ≥60y; 97% frail); SPPB +1.5 pts (P<0.001); 6MWD +34 m; 60-day rehospitalisation NS; NCT02196038
+- [[mentz2021rehabhfhfpef]] — REHAB-HF HFpEF subgroup (Mentz 2021, JACC HF): HFpEF arm SPPB +1.9 vs. HFrEF +1.1; global rank endpoint significant in HFpEF (P=0.04) not HFrEF (P=0.69); interaction P=0.098
+- [[mueller2021optimex]] — OptimEx-Clin (Mueller 2021, JAMA): HIIT vs. MCT vs. guideline control in HFpEF (N=180, 5 European sites); HIIT = MCT at 3 and 12 months; neither met MCID; gains not sustained at 12 months; closes the HIIT superiority debate
+- [[donelli2020hiit]] — DonelliDaSilveira 2020 (Eur J Prev Cardiol): N=19 single-centre RCT; HIIT +3.5 vs. MCT +1.9 mL/kg/min (P<0.001 between-group); likely false positive; contradicted by OptimEx-Clin (N=180)
+- [[azhar2020protein]] — Azhar 2020 (Gerontol Geriatr Med): protein supplementation ± exercise pilot in HFpEF (N=16 analysed); combined arm: 6MWD +36.6 m, quadriceps strength +21.5 kg; PS alone: no functional benefit, increased body fat
 
 ### Review Articles
 - [[yi2025ai]] — Yi 2025 (J Cardiol): systematic review of 38 AI/ML studies in HFpEF; ECG-AI AUC 0.87; NLP identifies 75.4% undiagnosed; ML spironolactone responders reframe TOPCAT as enrichment failure
@@ -99,6 +116,16 @@
 - [[ipek2024cmr]] — Ipek 2024 (EHJ Cardiovasc Imaging): comprehensive CMR review in HFpEF; covers FT-CMR strain, LGE, ECV, T1/T2, perfusion (CFR), spectroscopy (31P-MRS, 1H-MRS), exercise CMR; LACI as HFpEF severity marker
 - [[fayyaz2025pathophys]] — Fayyaz 2025 (Nat Rev Cardiol 22:90–104): systematic review of 56 human myocardial tissue studies in HFpEF; 8-pathway framework (fibrosis, hypertrophy, microvascular rarefaction, diastolic dysfunction [titin/SERCA2a/T-tubule], metabolic [ATP/NAD⁺ deficit], inflammation/ROS, cGMP-PKG impairment, ER stress/DNA damage); comorbidity-dependent heterogeneity explains monotherapy failure
 - [[attia2019ecgaf]] — Attia 2019 (Lancet): CNN ECG-AI for AF detection in patients in sinus rhythm; AUC 0.87; **NOT an HFpEF study** — methodological precursor to ECG-AI screening in HFpEF
+
+### Systematic Reviews and Meta-Analyses
+- [[jin2022la]] — Jin 2022 (Heart Fail Rev): 61 studies (8,806 HFrEF + 9,928 HFpEF); LA global longitudinal strain markedly worse in HFrEF (LAGLS_R 9–12.8%) vs. HFpEF (18.9–23.4%); AF 34–43% in HFpEF despite better LA function
+- [[lin2023cmd]] — Lin 2023 (Heart Fail Rev): 10 studies, 1,267 patients; pooled CMD prevalence 71% in HFpEF (invasive 79%; non-invasive 66%); CFR lower by −1.28 vs. controls; CMD risk 2.21× higher in HFpEF than controls
+- [[kaddoura2024betablocker]] — Kaddoura 2024 (Curr Probl Cardiol): 16 observational studies (27,188 patients); beta-blockers in HFpEF: all-cause mortality OR 0.81 (95% CI 0.65–0.99; P=0.044); HF rehospitalisation NS; predominantly observational evidence
+- [[fu2024inflammation]] — Fu 2024 (Front Cardiovasc Med): 8 cohort studies (9,744 patients); inflammatory markers in HFpEF: all-cause mortality HR 1.43; CV mortality HR 2.04; CV rehospitalisation HR 2.83; I²=0% throughout
+- [[lee2024lifestyle]] — Lee 2024 (Heart Lung Circ): 6 RCTs (375 patients); lifestyle interventions in HFpEF: body weight −5.30 kg (P=0.002); 6MWD +43.63 m (P<0.001); NYHA −0.54; MLHFQ −17.77 (P<0.001)
+- [[prokopidis2025exercise]] — Prokopidis 2025 (Eur Heart J Open): 46 studies; exercise capacity HFpEF vs. HFrEF comparison; VO₂peak higher in HFpEF by 0.78 mL/kg/min (P=0.02; NS after comorbidity adjustment); CO and SV higher in HFpEF
+- [[vandebovenkamp2025hemodynamics]] — van de Bovenkamp 2025 (Am J Physiol Heart Circ Physiol): 21 RCTs; pharmacological reverse remodeling in HFpEF essentially absent vs. robust in HFrEF; SV not increased; LV volumes unchanged; LVMi −2.8 g/m²
+- [[ammar2025bnp]] — Ammar 2025 (Heart Fail Rev): 22 studies (10,158 patients); BNP/NT-proBNP in HFpEF: adverse events HR 1.34–1.80; CV mortality HR 1.44–1.65; low BNP = poor prognosis in HFpEF (inverse of HFrEF pattern)
 
 ### Secondary Analyses
 - [[docherty2025determine]] — Docherty 2025 (JCF): DETERMINE accelerometry substudy; accelerometer/KCCQ/6MWD measure distinct dimensions; weak cross-correlations
@@ -154,6 +181,8 @@
 - [[rehab-hfpef]] — Cardiac rehabilitation in HFpEF; NCT05525663; ongoing; addresses CR evidence gap
 - [[myomobile]] — App-based PA coaching in HFpEF; NCT04940312; DZHK; design published; results pending
 - [[paraglide-hf]] — PARAGLIDE-HF (NCT03988634): sacubitril/valsartan vs. valsartan in 467 post-WHF HFpEF patients (LVEF >40%); NT-proBNP ratio 0.85 (0.73–0.999); LVEF ≤60% subgroup drives benefit; 52% women, 22% Black; SH signal (24.0% vs 15.5%)
+- [[rehab-hf]] — REHAB-HF (NCT02196038): transitional progressive multidomain rehabilitation in acute HF (any EF; ≥60y; N=349); SPPB improved; HFpEF subgroup benefits more than HFrEF on global rank endpoint; rehospitalisation not reduced
+- [[optimex-clin]] — OptimEx-Clin (NCT02078947): HIIT vs. MCT vs. guideline control in HFpEF (5 sites; N=180); HIIT not superior to MCT; exercise gains not sustained at 12 months with telemedical supervision
 
 ### Registry Entities
 - [[torch]] — DZHK TORCH registry: 19 German centres; 2,300 (Phase 1) + 4,340 (TORCH-Plus) non-ischemic CMP patients; deep molecular phenotyping

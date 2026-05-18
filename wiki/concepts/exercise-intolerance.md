@@ -9,7 +9,7 @@ tags:
   - physiology
   - exercise-intolerance
 created: 2026-04-30
-last_updated: 2026-05-15
+last_updated: 2026-05-18
 sources:
   - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
     citekey: Sachdev2023Exercise
@@ -33,6 +33,12 @@ sources:
     citekey: sharif2024locomotor
   - file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
     citekey: obaya2024aerobic
+  - file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
+    citekey: Borlaug2024INABLE
+  - file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
+    citekey: Brubaker2023SECRET2
+  - file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
+    citekey: Alonso2022HEARTcamp
 ---
 # Exercise Intolerance in HFpEF
 
@@ -117,6 +123,9 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 - **2025** — Landsteiner et al. (N=872, MGH): exercise PCWP/CO slope >2 mmHg/L/min predicts CV outcomes independent of resting hemodynamics (HR 1.42, 95% CI 1.08–1.86, P=0.012); exercise-unmasked HFpEF is a distinct prognostic category. (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
 - **2024** — Sharif et al. (JCF, pilot RCT n=22): 12.5-week progressive resistance training in HFpEF; VO₂peak 17.1→19.4 mL/kg/min; leg press 92→129 kg; LF% 32.6→31.6% (unchanged — fat-selective improvement); lean mass increased — confirms resistance training reverses muscle mass loss without introducing fat mass gain; peripheral mechanism reinforced (source: sharif2024locomotor)
 - **2024** — Obaya et al. (Physiol Res Int, RCT n=40): lower-limb aerobic cycling (21.51 mL/kg/min post) superior to upper-limb arm ergometry (19.26 mL/kg/min; P<0.001); LVEF unchanged in both arms — VO₂ improvement is limb-specific, not cardiac, reinforcing peripheral skeletal muscle as the exercise intolerance mechanism (source: obaya2024aerobic)
+- **2023** — SECRET-II (Brubaker, Circ Heart Fail 2023; NCT02636439; N=88): CR+AT vs. RT+CR+AT in obese HFpEF; both improved VO₂peak ~5–7% and KCCQ ~15–20 pts; RT added leg strength (+4.9 Nm; P=0.05) and muscle quality (+0.07 Nm/cm²; P=0.043) but did NOT add VO₂ benefit (P=0.21) and did NOT prevent skeletal muscle mass loss — the primary hypothesis that RT offsets CR-induced lean mass loss was refuted. Confirms aerobic mechanism dominates; resistance and aerobic pathways are separable. (source: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf)
+- **2024** — INABLE-Training (Borlaug, Mayo Clin Proc 2024; NCT02713126; N=73; 75% NYHA III; 63% rural): inorganic sodium nitrite 40 mg TID vs. placebo added to 12-week supervised exercise training; exercise improved VO₂ +0.79 mL/kg/min (P<0.001), KCCQ, 6MWD; nitrite added no benefit on any endpoint (ΔVO₂ −0.13; P=0.77) — fifth major NO/cGMP negative trial in HFpEF; confirms exercise benefit extends to high-acuity rural NYHA III population. (source: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf)
+- **2022** — HEART Camp HFpEF subgroup (Alonso, J Card Fail 2022; NCT01658670; N=59 HFpEF): 18-month behavioral coaching vs. enhanced usual care; adherence 42% vs. 14% at 12 months (P=0.025), 56% vs. 0% at 18 months (P<0.001); 6MWT +63 m vs. +13 m (P=0.048); all KCCQ domains improved significantly. HFrEF subgroup showed no benefit — identifies adherence as the dominant implementation gap for exercise benefit in HFpEF specifically. (source: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf)
 - **2025** — Ex-DHF (Nat Med 2025, n=322, Edelmann): largest 12-month combined endurance+resistance training RCT in HFpEF; primary Packer composite NOT MET (tau-b=−0.073; P=0.17); VO₂ +1.3 mL/kg/min (P=0.003); NYHA class improved OR 5.89 (P<0.001); adherence ~53% — demonstrates VO₂ and functional improvement despite missing the composite primary endpoint; adherence remains a critical trial design constraint (source: edelmann2025exdhf)
 
 ## Evidence
@@ -145,12 +154,15 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 - Does the static vs. dynamic exercise distinction in sympathetic response have therapeutic implications (e.g., resistance training as a phenotype-specific intervention for those with predominant dynamic sympathoexcitation)?
 - Why did Ex-DHF miss its primary endpoint despite improving VO₂ and NYHA? Was the Packer composite insensitive to VO₂ and symptom gains, or was adherence (~53%) the limiting factor? Would a co-primary endpoint design (VO₂ + Packer composite) have reached significance? (source: edelmann2025exdhf)
 - Does resistance training's fat-selective effect (Sharif 2024) specifically benefit the cardiometabolic/obesity HFpEF phenotype, and does it add to aerobic training when combined? The Ex-DHF combined protocol achieved +1.3 mL/kg/min — less than the ~+2.8 mL/kg/min meta-analysis average — possibly reflecting the combined training dilution or patient mix. (source: sharif2024locomotor, edelmann2025exdhf)
+- Why did resistance training fail to prevent skeletal muscle mass loss in SECRET-II despite 20 weeks of supervised training? Is caloric restriction–induced catabolism dominant over anabolic RT stimulus at the doses used, or was protein intake inadequate? Does this finding apply to the pharmacological weight loss context (GLP-1RA trials SUMMIT, STEP-HFpEF) where weight loss rates are faster? (source: brubaker2023secret2)
+- Why did the HEART Camp behavioral coaching intervention improve exercise adherence and outcomes specifically in HFpEF but not HFrEF patients? Is this related to the peripheral (skeletal muscle) vs. cardiac mechanism distinction — HFpEF patients have a larger exercise capacity reserve that can be unlocked by motivation, whereas HFrEF patients are cardiac-limited? (source: alonso2022heartcamp)
+- Does the consistent NO/cGMP pathway failure across organic nitrate (NEAT-HFpEF), inorganic nitrate (INDIE-HFpEF), inorganic nitrite (INABLE-Training), PDE5i (RELAX), and sGC stimulators (SOCRATES, VITALITY) reflect fundamental biology — that skeletal muscle myopathy in HFpEF is not NO-mediated — or insufficient drug exposure during peak exercise states? (source: borlaug2024inable)
 
 ## Related Pages
 
 - Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]]
 - Entities: [[hfpef]], [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]]
-- Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]], [[bohmke2022nonpharm]], [[mirzai2025exercise]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[manabe2023sympathetic]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]]
+- Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]], [[bohmke2022nonpharm]], [[mirzai2025exercise]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[manabe2023sympathetic]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]]
 
 ## Contradictions
 

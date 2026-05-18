@@ -31,7 +31,7 @@ last_updated: 2026-05-15
 | ~~PARAGLIDE-HF~~ | ~~INGESTED~~ — entity [[paraglide-hf]] and sources [[mentz2023paraglide]], [[fudim2024paraglide]], [[nouhravesh2025paraglide]], [[rambarat2025paraglide]] created; NCT03988634 (corrected from NCT04164043); moved to [[trials]] | LVEF >40%, WHF | NCT03988634 | Removed from pending |
 | CADENCE | Cardiac resynchronization therapy vs. device pacing in HFpEF with AF | HFpEF + AF + pacing indication | [verify] | Pacing strategy |
 | PH-HFpEF | Macitentan vs. placebo in HFpEF with pulmonary hypertension | HFpEF + elevated PVR | [verify] | Pulmonary vascular phenotype |
-| INABLE-Training | Ivabradine vs. exercise training in HFpEF | LVEF ≥50%, chronotropic incompetence | [verify] | Tests chronotropic incompetence hypothesis |
+| ~~INABLE-Training~~ | ~~INGESTED~~ — INABLE-Training is inorganic sodium nitrite (40 mg TID) + exercise vs. placebo + exercise (NOT ivabradine); NCT02713126; Borlaug 2024, Mayo Clin Proc 2024;99(2):206–217; entity in [[trials]] and source [[borlaug2024inable]]; removed from pending | — | NCT02713126 | Removed from pending — entry description was incorrect |
 | KNO3CK OUT HFpEF | Inorganic nitrate vs. placebo in HFpEF | LVEF ≥50% | [verify] | Tests NO/cGMP pathway; same mechanistic target as NEAT-HFpEF, INDIE |
 | RESPONDER | Renal denervation in HFpEF | LVEF ≥50%, hypertension | [verify] | Sympathetic mechanism target |
 | RELIEVE-HF | Interatrial shunt device | HFpEF/HFmrEF | NCT04583527 | Successor to REDUCE LAP-HF II; PVR-stratified enrollment |

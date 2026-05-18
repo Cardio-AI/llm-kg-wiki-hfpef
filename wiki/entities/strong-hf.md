@@ -9,9 +9,9 @@ tags:
   - acute-hf
   - guideline
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-16
 sources:
-  - file: ~ # pending ingest
+  - file: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf
     citekey: Mebazaa2022STRONGHF
 ---
 # STRONG-HF
@@ -51,9 +51,18 @@ The biomarker-guided intensification model is conceptually concordant with the n
 
 ## Evidence
 
-Primary endpoint significantly reduced in the high-intensity arm: absolute risk reduction ~8 percentage points for 180-day death or HF readmission. [Source: Mebazaa2022STRONGHF — pending full ingest for exact HR/CI.]
+| Endpoint | High-intensity | Usual care | Effect (95% CI) | P |
+|---|---|---|---|---|
+| 180-day death or HF readmission (primary) | 15.2% (74/506) | 23.3% (109/502) | ARD 8.1% (2.9–13.2); RR 0.66 (0.50–0.86) | 0.0021 |
+| 180-day HF readmission | — | — | ARD 7.6% (3.0–12.1); RR 0.56 (0.38–0.81) | 0.0011 |
+| 180-day all-cause death | — | — | ARD 1.6% (−2.3 to 5.4); RR 0.84 (0.56–1.26) | NS |
+| EQ-5D VAS at day 90 | — | — | +3.49 pts (1.74–5.24) | <0.0001 |
 
-The benefit was observed despite a small but real excess of adverse events (hypotension, renal impairment, hyperkalaemia) in the intensification arm — acceptable safety tradeoff.
+LVEF subgroup (prespecified; not powered; P-interaction=0.27): LVEF ≤40% (HFrEF) ARD 6.3%; LVEF >40% (HFmrEF/HFpEF) ARD 12.5% — numerically larger HFpEF benefit, no significant interaction.
+
+Safety: excess adverse events 41% vs 29%; serious AEs similar (16% vs 17%); hypotension 5% vs <1%; renal impairment 3% vs <1%. Acceptable safety tradeoff vs. 8% absolute mortality/readmission reduction.
+
+(source: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf)
 
 ## Status
 
@@ -63,7 +72,7 @@ The benefit was observed despite a small but real excess of adverse events (hypo
 
 - Concepts: [[natriuretic-peptides]], [[hfpef-treatment-gap]]
 - Entities: [[sglt2-inhibitors]], [[empulse]], [[hfpef]]
-- Sources: [[mcdonagh2023escupdate]]
+- Sources: [[mebazaa2022stronghf]], [[mcdonagh2023escupdate]], [[voors2022empulse]]
 
 ## Contradictions
 

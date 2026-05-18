@@ -10,7 +10,7 @@ tags:
   - intervention
   - rehabilitation
 created: 2026-04-30
-last_updated: 2026-05-15
+last_updated: 2026-05-18
 sources:
   - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
     citekey: Sachdev2023Exercise
@@ -24,6 +24,20 @@ sources:
     citekey: sharif2024locomotor
   - file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
     citekey: obaya2024aerobic
+  - file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
+    citekey: Borlaug2024INABLE
+  - file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
+    citekey: Brubaker2023SECRET2
+  - file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
+    citekey: Alonso2022HEARTcamp
+  - file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
+    citekey: Kitzman2021REHABHF
+  - file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
+    citekey: Mentz2021REHABHFpEF
+  - file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
+    citekey: Mueller2021OptimEx
+  - file: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf
+    citekey: DonelliDaSilveira2020HIIT
 ---
 # Supervised Exercise Training (SET)
 
@@ -81,15 +95,35 @@ Context: [[hfpef-treatment-gap]] — no pharmacological agent has consistently i
 | SECRET (MCT arm) | MCT | 20 weeks | +1.2 mL/kg/min | Additive with caloric restriction |
 | EX-DHF | Combined | 12 weeks | +2.6 mL/kg/min | Improved LAVI; diastolic marker benefit |
 | 12-month progressive | Combined | 12 months | +5.3 mL/kg/min | Largest VO₂ gain; progressive loading |
-| HEART Camp (HFpEF subgroup) | MCT | 18 months | 6MWT +63.25 m | Long-term adherence trial |
+| HEART Camp (HFpEF subgroup) | MCT + behavioral coaching | 18 months | 6MWT +63 m vs. +13 m EUC (P=0.048) | N=59 HFpEF; adherence 56% vs. 0% at 18 mo; KCCQ all domains; HFrEF subgroup: no benefit |
+| INABLE-Training | MCT (+ nitrite or placebo) | 12 weeks | +0.79 mL/kg/min | N=73; 75% NYHA III; nitrite arm adds no benefit (P=0.77); confirms exercise benefit in high-acuity rural HFpEF |
+| SECRET-II (CR+AT arm) | CR + MCT | 20 weeks | +5% VO₂peak | N=44; KCCQ +15–20 pts; RT added muscle quality not VO₂; SM mass loss not prevented |
 | Palau 2014 | IMT | 12 weeks | +2.9 mL/kg/min | IMT 25–30% MIP; no echo change |
 | Kinugasa 2020 | IMT | 24 weeks | ↑anaerobic threshold | At-home protocol; improved % MIP |
-| OPTIMEX-CLIN | HIIT vs. MCT | 3 and 12 mo | HIIT = MCT | N=180; largest head-to-head; no HIIT superiority |
+| OptimEx-Clin (Mueller 2021) | HIIT vs. MCT vs. control | 3 mo (supervised) + 9 mo (telemedical) | HIIT +1.5, MCT +2.0 mL/kg/min at 3 mo; HIIT = MCT (P=NS); gains lost at 12 mo | N=180; 5 European sites; neither arm met MCID 2.5 mL/kg/min; definitive HIIT head-to-head; see [[optimex-clin]] |
+| DonelliDaSilveira 2020 | HIIT vs. MCT | 12 weeks | HIIT +3.5 vs. MCT +1.9 mL/kg/min (P<0.001) | N=19; single-centre Brazil; E/e' improved both arms; **contradicted by OptimEx-Clin** (N=180, HIIT=MCT) — likely false positive due to sample size |
 | Ex-DHF | Combined (endurance + resistance) | 12 months | +1.3 mL/kg/min (P=0.003) | N=322; largest 12-month exercise RCT in HFpEF; **primary endpoint NOT MET** (P=0.17); NYHA improved OR 5.89 (P<0.001); adherence ~53%; ISRCTN86879094 |
 | Sharif 2024 | Resistance training | 12.5 weeks | +2.3 mL/kg/min | N=22 pilot; fat-selective; lean mass gained; no change in LF%; confirms peripheral mechanism |
 | Obaya 2024 | Lower-limb aerobic vs. arm ergometry | 12 weeks | Lower-limb: 21.51; arm: 19.26 mL/kg/min (P<0.001) | N=40; LVEF unchanged both arms; supports limb-specific skeletal muscle mechanism |
 
-(source: 2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf; source: 2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf; source: edelmann2025exdhf; source: sharif2024locomotor; source: obaya2024aerobic)
+(source: 2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf; source: 2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf; source: edelmann2025exdhf; source: sharif2024locomotor; source: obaya2024aerobic; source: 2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf; source: 2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf)
+
+### Post-Hospitalisation Rehabilitation (REHAB-HF)
+
+REHAB-HF (Kitzman 2021, NEJM; N=349; NCT02196038) represents a distinct paradigm from outpatient VO₂-focused trials: transitional progressive multidomain rehabilitation (strength, balance, mobility, endurance) initiated during hospitalisation for acute decompensated HF and continued for 36 supervised outpatient sessions over 12 weeks. Population was markedly frail (97% frail/pre-frail, mean age 72.7, 5 comorbidities, 97% Black race, 53% HFpEF).
+
+| Endpoint | Rehab | Control | Difference (95% CI) | P |
+|---|---|---|---|---|
+| SPPB at 3 months | 8.3 | 6.9 | +1.5 (0.9–2.0) | <0.001 |
+| 6MWD at 3 months | — | — | +34 m | Significant |
+| KCCQ at 3 months | — | — | +7.1 | Significant |
+| 60-day rehospitalisation | — | — | RR 0.93 (0.66–1.19) | NS |
+
+HFpEF subgroup (Mentz 2021, JACC Heart Fail; n=185): SPPB +1.9 pts vs. +1.1 pts in HFrEF; global rank endpoint (death + rehospitalisation + SPPB) significant in HFpEF (PI=0.59; P=0.04) but not HFrEF (P=0.69); interaction P=0.098 (non-significant). The finding is consistent with HFpEF patients being more responsive to rehabilitation than HFrEF — but the interaction is not formally established.
+
+**Key distinction from outpatient SET:** REHAB-HF addresses the post-hospitalisation window in a population excluded from OPTIMEX-CLIN and most VO₂-focused trials. The primary outcome is SPPB (physical performance), not peak VO₂. Frailty, not EF, defines the target population.
+
+(source: 2021-NEJM-Kitzman-REHAB-HF_study.pdf; source: 2021-JACC-Mentz-REHAB-HF_study.pdf)
 
 ### Hard Outcomes
 
@@ -126,8 +160,8 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[ml-ai-hfpef]]
-- Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]]
-- Sources: [[sachdev2023exercise]], [[mirzai2025exercise]], [[bohmke2022nonpharm]], [[zeid2025myomobile]], [[mcdonagh2021esc]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]]
+- Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]], [[rehab-hf]], [[optimex-clin]]
+- Sources: [[sachdev2023exercise]], [[mirzai2025exercise]], [[bohmke2022nonpharm]], [[zeid2025myomobile]], [[mcdonagh2021esc]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]], [[kitzman2021rehabhf]], [[mentz2021rehabhfhfpef]], [[mueller2021optimex]], [[donelli2020hiit]]
 
 ## Contradictions
 

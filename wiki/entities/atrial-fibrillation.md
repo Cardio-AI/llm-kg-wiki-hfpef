@@ -87,6 +87,6 @@ Management of AF in HFpEF is recommended as part of comorbidity-centred treatmen
 - Sources: [[mcdonagh2021esc]], [[anker2023hfpefphenotype]], [[reddy2024afhfpef]]
 
 ## Contradictions
-- Higher NP and LA volume thresholds in AF reflect the independent NP-elevating effect of AF itself, not just worse HFpEF — this may lead to under-diagnosis of HFpEF in AF patients who are close to but below the higher threshold. [needs source]
+- Higher NP and LA volume thresholds in AF reflect the independent NP-elevating effect of AF itself, not just worse HFpEF — this may lead to under-diagnosis of HFpEF in AF patients who are close to but below the higher threshold. (source: [[pieske2019hfapeff]]; [[mcdonagh2021esc]]) Exercise RHC is the only reliable HFpEF diagnostic in AF: resting NP and echocardiographic scores are systematically confounded, and 83% of symptomatic AF patients have occult HFpEF by invasive exercise testing. (source: [[reddy2024afhfpef]])
 
 See [[contradictions]].
