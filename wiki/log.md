@@ -1,5 +1,64 @@
 # Change Log
 
+## 2026-05-18 (session 27 — NCT file processing complete)
+
+### trials.md
+- Added 3 Borlaug lab mechanistic studies to Mechanistic Studies table:
+  - **EXEC** (NCT01418248): Observational; simultaneous ExE + CPX vs invasive RHC; N=108 HFpEF+PH; Borlaug lab Mayo; completed; foundational dataset for multiple Obokata/Andersen papers 2015–2020.
+  - **Borlaug 2015 IV Nitrite** (NCT01932606): Phase 2 crossover RCT; IV NaNO₂ 50 mcg/kg/min vs saline; invasive RHC at rest and 20W; N=28 HFpEF; completed; primary paper Borlaug 2015 JACC.
+  - **AIR001-HFpEF** (NCT02262078): Phase 2 crossover RCT; nebulized AIR001 (NaNO₂) 90mg vs saline placebo; invasive RHC at rest and 20W; N=26 HFpEF; completed; primary paper Borlaug 2016 Circ Res.
+- All 51 NCT `.md` files in `raw/` now accounted for (48 matched existing tracked trials; 3 added above).
+
+---
+
+## 2026-05-18 (session 25/26 — 21 PDFs ingested)
+
+### Source pages created (21)
+
+**Sleep-Disordered Breathing / Ventilatory Mechanics (5):**
+- `wiki/sources/cowie2017sdb.md` — State-of-the-art review (JACC HF 2017;5:715–723). SDB prevalence 50–75% in HF; CSA vs. OSA mechanisms; SERVE-HF: ASV ↑CV mortality in HFrEF+CSA (HR 1.28); CPAP/BiPAP/ASV treatment landscape.
+- `wiki/sources/suzuki2018sdb.md` — Fukushima cross-sectional (ESC HF 2018;5:284–291; N=221). Severe SDB predicts higher PWV in HFpEF (β=0.234; P=0.005) but NOT HFrEF (P=0.068); first EF-subtype-differential SDB-arterial stiffness evidence.
+- `wiki/sources/wester2023sdb.md` — Biomedicines review (2023;11:3038; Wester et al.). SDB 58–80% in HFpEF; 3 HFpEF phenotypes; CaMKII pathway: intermittent hypoxia → ROS → CaMKII oxidation → diastolic SR Ca²⁺ leak → AF → HFpEF; GLP-1RA + SGLT2i as SDB treatment targets.
+- `wiki/sources/leahy2025heartlung.md` — JACC HF 2025;13:102523 (NCT04068844; N=55 obese HFpEF). Dynamic hyperinflation in 62% at 20W and 85% at peak; DH group PCWP higher at 20W (P=0.005) and peak (P=0.007); ΔEELV correlated with ΔPCWP (r²=0.167 at peak); non-cardiac mechanism for elevated exercise PCWP in obese HFpEF.
+- `wiki/sources/babb2026ventilatorylimit.md` — Respir Physiol Neurobiol 2026;341:104546 (NCT04068844; N=42 obese HFpEF; crossover RCT). NTG lowered PCWP but did NOT change exercise capacity or breathing mechanics (EELV R²=0.96); paradigm-shifting: ventilatory-limited exercise in obese HFpEF, not cardiac-limited.
+
+**Iron Deficiency / IV Iron (3):**
+- `wiki/sources/beale2019iron.md` — Systematic review + meta-analysis (Open Heart 2019;6:e001012; 15 studies, N=1,877 HFpEF). Iron deficiency prevalence 59%; functional 34%; absolute 30%; ID associated with worse VO₂/6MWT/QoL; no HFpEF RCT evidence at time of publication.
+- `wiki/sources/ponikowski2020affirm.md` — AFFIRM-AHF (Lancet 2020;396:1895–1904; NCT02937454; **HFrEF LVEF <50%**, N=1,132). IV FCM vs. placebo at AHF discharge; primary composite RR 0.79 (P=0.059, NS); total HFH RR 0.74 (P=0.013); pre-COVID RR 0.75 (P=0.024); CV death NS. NOTE: HFrEF population — context for FAIR-HFpEF.
+- `wiki/sources/vonhaehling2024fair.md` — FAIR-HFpEF (Eur Heart J 2024;45:3789–3800; NCT03074591; N=40, stopped early). First RCT of IV iron in HFpEF; FCM +65 m vs. placebo −8 m at week 32; week 24 difference +49 m (P=0.029); SAEs 5 vs. 19 (P=0.043). Directionally positive but underpowered.
+
+**Rhythm Control in AF+HF (2):**
+- `wiki/sources/rillig2021eastafnet4.md` — EAST-AFNET4 HF subgroup (Circulation 2021;144:845–858; NCT01288352; N=798 HF). Early rhythm control HR 0.74 (P=0.03); HFpEF 56.3% of HF subgroup; no HF-type interaction (P=0.63).
+- `wiki/sources/alsadawi2022rhythmcontrol.md` — Systematic review + meta-analysis (Heart Rhythm O² 2022;3:520–525; 5 studies, N=16,825 HFpEF+AF). Rhythm control OR 0.735 vs. rate control (P<0.001); I²=0%; 4/5 studies used catheter ablation.
+
+**Haemodynamic Monitoring (1):**
+- `wiki/sources/lindenfeld2021guidehf.md` — GUIDE-HF (Lancet 2021;398:991–1001; NCT03387813; N=1,000 all EF). CardioMEMS haemodynamic-guided management; primary HR 0.88 (NS); pre-COVID HR 0.81 (P=0.049); HFpEF subgroup (N=469) HR 0.85 (NS). COVID-19 confounded trial.
+
+**Biomarkers (3):**
+- `wiki/sources/joseph2016qrs.md` — TOPCAT post-hoc (JACC HF 2016;4:477–486; N=3,445). QRS ≥120 ms in 17.9%; HR 1.27 for primary composite (P=0.009); HFH HR 1.38 (P=0.003); continuous QRS risk from ~100 ms; no spironolactone interaction by QRS.
+- `wiki/sources/kasahara2018chart2.md` — CHART-2 registry (Heart Vessels 2018;33:997–1007; NCT00418041; N=4,301 HF; 6.3y follow-up). BNP prognostic across EF subtypes; median BNP HFpEF 85.3 vs. HFrEF 208 pg/mL; HR per log₂ BNP similar (P-interaction=0.300); CART thresholds 30/100/300 pg/mL.
+- `wiki/sources/shi2022sst2.md` — Systematic review (Front Cardiovasc Med 2022;9:937291; 16 studies, N=2,761 HFpEF). sST2 AUC <0.7 for HFpEF diagnosis (poor); prognostic: log sST2 HR 2.76 for all-cause death (I²=0%; P=0.013); composite HR 6.52.
+- `wiki/sources/sung2023fqrs.md` — Retrospective cohort (JAHA 2023;12:e028105; N=960 HFpEF; 657-day median follow-up). Anterior/lateral fQRS HR 1.90 for HFH (P<0.001); associated with myocardial perfusion defects.
+
+**EAT and Pericardial Fat (2):**
+- `wiki/sources/zamani2023pericardialfat.md` — Circulation research letter 2023;148:1410–1412 (NCT04068844; N=28 obese HFpEF). Epicardial fat r=0.88 with LV eccentricity index (P<0.001); paracardial fat r=0.91 (P<0.001); BMI/subcutaneous/visceral fat NOT correlated.
+- `wiki/sources/timoteo2024eat.md` — Review (Int J Cardiol 2024;412:132303). EAT pathways: pericardial restraint → ↑LVEDP; paracrine dysfunction (TNF-α/IL-1β → fibrosis/AF); treatment: statins, SGLT2i, GLP-1RA.
+
+**Treatment-Related (3):**
+- `wiki/sources/horiuchi2022npguided.md` — Review (Heart International 2022;16:112–116). NP-guided therapy benefits HFrEF <75y but NOT HFpEF; TIME-CHF HFpEF subgroup trended to worsen; GUIDE-IT neutral; meta-analyses show no benefit or harm trend in HFpEF.
+- `wiki/sources/ortegahernandez2024statins.md` — RICA registry cohort (J Clin Med 2024;13:5844; N=2,788 HFpEF; 52 Spanish hospitals). Statin HR 0.74 (P=0.002); benefit restricted to non-IHD patients (HR 0.69; P<0.001); IHD subgroup NS; aldosterone antagonists HR 1.34 (confounding likely).
+- `wiki/sources/kittleson2024accaha.md` — ACC/AHA 2024 Performance Measures (JACC 2024;84:1123–1143). PM-2: BP control in HFpEF with HTN (first HFpEF-specific performance measure); QM-1: SGLT2i for HFmrEF/HFpEF; QM-2: SDOH screening; QM-6: amyloid screen.
+
+**Disparities (1):**
+- `wiki/sources/ilonze2024disparities.md` — Review (Curr Cardiovasc Risk Rep 2025;19:5). Racial/ethnic disparities across HFpEF care continuum; Black patients: lowest NP levels (20–35% low BNP with elevated PCWP); ATTR V122I 3.43% in Black Americans ≥60y; SGLT2i + GLP-1RA underutilised in minority patients.
+
+### Registry updates
+- `wiki/citations.md` — 21 new citekeys added to Ingested Sources table + 21 full formatted references (Joseph2016QRS, Cowie2017SDB, Suzuki2018SDB, Kasahara2018CHART2, Beale2019Iron, Ponikowski2020AFFIRM, Rillig2021EastAFNET4, Lindenfeld2021GUIDEHF, Shi2022SST2, Horiuchi2022NPGuided, AlSadawi2022RhythmControl, Zamani2023PericardialFat, Sung2023fQRS, Wester2023SDB, vonHaehling2024FAIR, Timoteo2024EAT, Kittleson2024AccAha, Ilonze2024Disparities, OrtegaHernandez2024Statins, Leahy2025HeartLung, Babb2026VentilatoryLimit)
+- `wiki/index.md` — 21 new source entries added across: Guidelines (kittleson2024accaha), Observational Studies (joseph2016qrs, suzuki2018sdb, kasahara2018chart2, zamani2023pericardialfat, sung2023fqrs, leahy2025heartlung, ortegahernandez2024statins), Clinical Trial Papers (ponikowski2020affirm, rillig2021eastafnet4, lindenfeld2021guidehf, vonhaehling2024fair, babb2026ventilatorylimit), Review Articles (cowie2017sdb, horiuchi2022npguided, wester2023sdb, timoteo2024eat, ilonze2024disparities), Systematic Reviews (beale2019iron, shi2022sst2, alsadawi2022rhythmcontrol)
+- `wiki/trials.md` — FAIR-HFpEF row updated to add vonhaehling2024fair; GUIDE-HF added to Device Trials; new "Rhythm Control Trials with HF Subgroup Data" section (EAST-AFNET4, AFFIRM-AHF); NCT04068844 (IEEM Obese HFpEF) added to Mechanistic Studies; secondary analyses Rillig2021 and Lindenfeld2021 added to Secondary Analyses Tracked
+
+---
+
 ## 2026-05-18 (session 24 — 8 PDFs ingested)
 
 ### Source pages created (8)

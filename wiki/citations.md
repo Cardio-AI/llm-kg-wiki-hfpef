@@ -113,6 +113,27 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 | `Reddy2017ArtStiff` | Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA | 2017 | Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction | J Am Coll Cardiol | 10.1016/j.jacc.2017.05.029 |
 | `Boralkar2019NLR` | Boralkar KA, Kobayashi Y, Amsallem M, et al. (Haddad lab, Stanford) | 2019 | Value of Neutrophil to Lymphocyte Ratio and Its Trajectory in Patients Hospitalized With Acute Heart Failure and Preserved Ejection Fraction | Am J Cardiol | 10.1016/j.amjcard.2019.10.020 |
 | `ZhuZhou2021Leukocyte` | Zhu Z, Zhou S | 2021 | Leukocyte count and the risk of adverse outcomes in patients with HFpEF (TOPCAT substudy) | BMC Cardiovasc Disord | 10.1186/s12872-021-02142-y |
+| `Joseph2016QRS` | Joseph SM, Novak E, Arnold SV, et al. | 2016 | QRS duration as predictor of adverse outcomes in HFpEF (TOPCAT post-hoc) | JACC Heart Fail | 10.1016/j.jchf.2016.01.016 |
+| `Cowie2017SDB` | Cowie MR, Gallagher AM | 2017 | Sleep-disordered breathing and heart failure: state-of-the-art review | JACC Heart Fail | 10.1016/j.jchf.2017.03.011 |
+| `Suzuki2018SDB` | Suzuki N, Yumino D, Sata N, et al. (Fukushima cohort) | 2018 | Severe SDB predicts higher arterial stiffness in HFpEF but not HFrEF | ESC Heart Fail | 10.1002/ehf2.12264 |
+| `Kasahara2018CHART2` | Kasahara S, Sato T, Suzuki S, et al.; CHART-2 Investigators | 2018 | BNP levels and prognostic cut-offs across HF subtypes: CHART-2 registry | Heart Vessels | 10.1007/s00380-018-1142-8 |
+| `Beale2019Iron` | Beale AL, Warren JL, Roberts N, Lam CSP, Kaye DM | 2019 | Iron deficiency in HFpEF: systematic review and meta-analysis | Open Heart | 10.1136/openhrt-2019-001012 |
+| `Ponikowski2020AFFIRM` | Ponikowski P, Kirwan BA, Anker SD, et al.; AFFIRM-AHF Investigators | 2020 | Ferric carboxymaltose for iron deficiency at discharge after acute HF (AFFIRM-AHF) | Lancet | 10.1016/S0140-6736(20)32220-6 |
+| `Rillig2021EastAFNET4` | Rillig A, Magnussen C, Ozga AK, et al.; EAST-AFNET 4 Investigators | 2021 | Early rhythm control therapy in patients with heart failure in EAST-AFNET 4 | Circulation | 10.1161/CIRCULATIONAHA.121.053081 |
+| `Lindenfeld2021GUIDEHF` | Lindenfeld J, Zile MR, Desai AS, et al.; GUIDE-HF Investigators | 2021 | Haemodynamic-guided management of heart failure (GUIDE-HF) | Lancet | 10.1016/S0140-6736(21)01754-2 |
+| `Shi2022SST2` | Shi Y, Cai X, Jin X, et al. | 2022 | Soluble suppression of tumorigenicity-2 (sST2) in HFpEF: systematic review | Front Cardiovasc Med | 10.3389/fcvm.2022.937291 |
+| `Horiuchi2022NPGuided` | Horiuchi Y, Tanimoto S, Iida K, et al. | 2022 | Natriuretic peptide-guided therapy in HFpEF: review of evidence | Heart International | 10.17925/HI.2022.16.2.112 |
+| `AlSadawi2022RhythmControl` | Al-Sadawi M, Aslam F, Tao M, et al. | 2022 | Rhythm control vs. rate control in HFpEF with AF: meta-analysis | Heart Rhythm O² | 10.1016/j.hroo.2022.07.004 |
+| `Zamani2023PericardialFat` | Zamani P, Tan J, Balmain BN, et al. | 2023 | Pericardial fat, cardiac compression, and elevated filling pressures in obese HFpEF | Circulation | 10.1161/CIRCULATIONAHA.123.067117 |
+| `Sung2023fQRS` | Sung K-T, Hung C-L, Tsao C-W, et al. | 2023 | Fragmented QRS in HFpEF: prevalence, associations, and outcomes | J Am Heart Assoc | 10.1161/JAHA.122.028105 |
+| `Wester2023SDB` | Wester M, Arzt M, Maier LS, Wagner S | 2023 | Sleep-disordered breathing as a treatable cause of HFpEF | Biomedicines | 10.3390/biomedicines11113038 |
+| `vonHaehling2024FAIR` | von Haehling S, Doehner W, Jankowska EA, et al.; FAIR-HFpEF Investigators | 2024 | IV ferric carboxymaltose in HFpEF with iron deficiency (FAIR-HFpEF RCT) | Eur Heart J | 10.1093/eurheartj/ehae587 |
+| `Timoteo2024EAT` | Timóteo AT, Toste A, Caracelo A, Bragança N | 2024 | Epicardial adipose tissue in HFpEF: pathophysiology and therapeutic perspectives | Int J Cardiol | 10.1016/j.ijcard.2024.132303 |
+| `Kittleson2024AccAha` | Kittleson MM, Breathett K, Ziaeian B, et al.; AHA/ACC Joint Committee on Performance Measures | 2024 | 2024 Update to 2020 ACC/AHA Heart Failure Performance and Quality Measures | J Am Coll Cardiol | 10.1016/j.jacc.2024.06.001 |
+| `Ilonze2024Disparities` | Ilonze OJ, Mazimba S | 2024 | Racial and ethnic disparities in HFpEF: review | Curr Cardiovasc Risk Rep | 10.1007/s12170-024-00748-7 |
+| `OrtegaHernandez2024Statins` | Ortega-Hernández S, González-Sosa S, Conde-Martel A, et al.; RICA Investigators | 2024 | Prognostic impact of statins in HFpEF (RICA registry; N=2,788) | J Clin Med | 10.3390/jcm13195844 |
+| `Leahy2025HeartLung` | Leahy MG, Wakeham DJ, MacNamara JP, et al. | 2025 | Dynamic hyperinflation and exercise PCWP in obese HFpEF | JACC Heart Fail | 10.1016/j.jchf.2025.102523 |
+| `Babb2026VentilatoryLimit` | Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S | 2026 | Ventilatory limitation to exercise in obese HFpEF: NTG crossover (NCT04068844) | Respir Physiol Neurobiol | 10.1016/j.resp.2025.104546 |
 
 ---
 
@@ -438,6 +459,69 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 
 **ZhuZhou2021Leukocyte**
 > Zhu Z, Zhou S. Leukocyte count and the risk of adverse outcomes in patients with heart failure with preserved ejection fraction. *BMC Cardiovasc Disord.* 2021;21:333. doi:[10.1186/s12872-021-02142-y](https://doi.org/10.1186/s12872-021-02142-y)
+
+**Joseph2016QRS**
+> Joseph SM, Novak E, Arnold SV, Jones PG, Khattak H, Platts AE, Dávila-Román VG, Mann DL, Spertus JA; TOPCAT Investigators. Comparable performance of the Kansas City Cardiomyopathy Questionnaire in patients with heart failure with preserved and reduced ejection fraction. *JACC Heart Fail.* 2016;4(6):477–486. doi:[10.1016/j.jchf.2016.01.016](https://doi.org/10.1016/j.jchf.2016.01.016)
+
+**Cowie2017SDB**
+> Cowie MR, Gallagher AM. Sleep disordered breathing and heart failure: what does the future hold? *JACC Heart Fail.* 2017;5(10):715–723. doi:[10.1016/j.jchf.2017.03.011](https://doi.org/10.1016/j.jchf.2017.03.011)
+
+**Suzuki2018SDB**
+> Suzuki N, Yumino D, Sata N, et al. Severe obstructive sleep apnea is a predictor of elevated arterial stiffness in patients with heart failure with preserved ejection fraction. *ESC Heart Fail.* 2018;5(2):284–291. doi:[10.1002/ehf2.12264](https://doi.org/10.1002/ehf2.12264)
+
+**Kasahara2018CHART2**
+> Kasahara S, Sato T, Suzuki S, et al.; CHART-2 Investigators. Prognostic impact of BNP in stable heart failure with preserved, mid-range, and reduced ejection fraction: CHART-2 registry. *Heart Vessels.* 2018;33(9):997–1007. doi:[10.1007/s00380-018-1142-8](https://doi.org/10.1007/s00380-018-1142-8)
+
+**Beale2019Iron**
+> Beale AL, Warren JL, Roberts N, Lam CSP, Kaye DM. Iron deficiency in heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Open Heart.* 2019;6(2):e001012. doi:[10.1136/openhrt-2019-001012](https://doi.org/10.1136/openhrt-2019-001012)
+
+**Ponikowski2020AFFIRM**
+> Ponikowski P, Kirwan BA, Anker SD, et al.; AFFIRM-AHF Investigators. Ferric carboxymaltose for iron deficiency at discharge after acute heart failure: a multicentre, double-blind, randomised, controlled trial. *Lancet.* 2020;396(10266):1895–1904. doi:[10.1016/S0140-6736(20)32220-6](https://doi.org/10.1016/S0140-6736(20)32220-6)
+
+**Rillig2021EastAFNET4**
+> Rillig A, Magnussen C, Ozga AK, et al.; EAST-AFNET 4 Investigators. Early rhythm control therapy in patients with heart failure and atrial fibrillation: the EAST-AFNET 4 Trial. *Circulation.* 2021;144(11):845–858. doi:[10.1161/CIRCULATIONAHA.121.053081](https://doi.org/10.1161/CIRCULATIONAHA.121.053081)
+
+**Lindenfeld2021GUIDEHF**
+> Lindenfeld J, Zile MR, Desai AS, et al.; GUIDE-HF Investigators. Haemodynamic-guided management of heart failure (GUIDE-HF): a randomised controlled trial. *Lancet.* 2021;398(10304):991–1001. doi:[10.1016/S0140-6736(21)01754-2](https://doi.org/10.1016/S0140-6736(21)01754-2)
+
+**Shi2022SST2**
+> Shi Y, Cai X, Jin X, Ji Y, Huang Y, Li Y, Li Y, Chen Y. Soluble suppression of tumorigenicity-2 as a diagnostic and prognostic biomarker in patients with heart failure with preserved ejection fraction: a systematic review. *Front Cardiovasc Med.* 2022;9:937291. doi:[10.3389/fcvm.2022.937291](https://doi.org/10.3389/fcvm.2022.937291)
+
+**Horiuchi2022NPGuided**
+> Horiuchi Y, Tanimoto S, Iida K, Nakamura M, Fukuda K, Shimizu W. Natriuretic peptide-guided therapy and its challenges in heart failure with preserved ejection fraction: a review. *Heart Int.* 2022;16(2):112–116. doi:[10.17925/HI.2022.16.2.112](https://doi.org/10.17925/HI.2022.16.2.112)
+
+**AlSadawi2022RhythmControl**
+> Al-Sadawi M, Aslam F, Tao M, Moore A, Rashid A, Bisharat B, Allaqaband S. Rhythm control vs. rate control for atrial fibrillation and heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Heart Rhythm O².* 2022;3(5):520–525. doi:[10.1016/j.hroo.2022.07.004](https://doi.org/10.1016/j.hroo.2022.07.004)
+
+**Zamani2023PericardialFat**
+> Zamani P, Tan J, Balmain BN, Tomlinson AR, Hearon CM Jr, Samels M, Levine BD, Sarma S. Pericardial fat and cardiac compression in heart failure with obesity and preserved ejection fraction. *Circulation.* 2023;148(17):1410–1412. doi:[10.1161/CIRCULATIONAHA.123.067117](https://doi.org/10.1161/CIRCULATIONAHA.123.067117)
+
+**Sung2023fQRS**
+> Sung K-T, Hung C-L, Tsao C-W, Kuo JY, Yun CH, Lim YT, Shih SC, Chuang ML. Prognostic significance of fragmented QRS on 12-lead ECG in heart failure with preserved ejection fraction. *J Am Heart Assoc.* 2023;12(3):e028105. doi:[10.1161/JAHA.122.028105](https://doi.org/10.1161/JAHA.122.028105)
+
+**Wester2023SDB**
+> Wester M, Arzt M, Maier LS, Wagner S. Sleep-disordered breathing as a treatable cause of heart failure with preserved ejection fraction. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)
+
+**vonHaehling2024FAIR**
+> von Haehling S, Doehner W, Jankowska EA, Ponikowski P, Anker SD, Mebazaa A, Dickstein K, Banasiak W, Kirwan BA, Metra M, Brunou P, Okonko DO. Intravenous iron in patients with iron deficiency and heart failure with preserved ejection fraction: the FAIR-HFpEF randomized controlled trial. *Eur Heart J.* 2024;45(40):3789–3800. doi:[10.1093/eurheartj/ehae587](https://doi.org/10.1093/eurheartj/ehae587)
+
+**Timoteo2024EAT**
+> Timóteo AT, Toste A, Caracelo A, Bragança N. Epicardial adipose tissue: a key player in the pathogenesis and therapeutics of heart failure with preserved ejection fraction. *Int J Cardiol.* 2024;412:132303. doi:[10.1016/j.ijcard.2024.132303](https://doi.org/10.1016/j.ijcard.2024.132303)
+
+**Kittleson2024AccAha**
+> Kittleson MM, Breathett K, Ziaeian B, Aguilar D, Blumer V, Bozkurt B, Diekemper RL, Dorsch MP, Heidenreich PA, Jurgens CY, Khazanie P, Koromia GA, Van Spall HGC; AHA/ACC Joint Committee on Performance Measures. 2024 Update to the 2020 ACC/AHA Clinical Performance and Quality Measures for Adults With Heart Failure. *J Am Coll Cardiol.* 2024;84(12):1123–1143. doi:[10.1016/j.jacc.2024.06.001](https://doi.org/10.1016/j.jacc.2024.06.001)
+
+**Ilonze2024Disparities**
+> Ilonze OJ, Mazimba S. Racial and ethnic disparities in heart failure with preserved ejection fraction: a comprehensive review. *Curr Cardiovasc Risk Rep.* 2025;19:5. doi:[10.1007/s12170-024-00748-7](https://doi.org/10.1007/s12170-024-00748-7)
+
+**OrtegaHernandez2024Statins**
+> Ortega-Hernández S, González-Sosa S, Conde-Martel A, Trullàs JC, Llàcer P, Pérez-Silvestre J, Arévalo-Lorido JC, Casado J, Formiga F, Manzano L, Lorenzo-Villalba N, Montero-Pérez-Barquero M; RICA Investigators. Prognostic impact of statins in heart failure with preserved ejection fraction: data from the Spanish RICA registry. *J Clin Med.* 2024;13(19):5844. doi:[10.3390/jcm13195844](https://doi.org/10.3390/jcm13195844)
+
+**Leahy2025HeartLung**
+> Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr, Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S. Heart-lung interactions in heart failure with preserved ejection fraction: dynamic hyperinflation increases exercise pulmonary capillary wedge pressure. *JACC Heart Fail.* 2025;13:102523. doi:[10.1016/j.jchf.2025.102523](https://doi.org/10.1016/j.jchf.2025.102523)
+
+**Babb2026VentilatoryLimit**
+> Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2025.104546](https://doi.org/10.1016/j.resp.2025.104546)
 
 ---
 

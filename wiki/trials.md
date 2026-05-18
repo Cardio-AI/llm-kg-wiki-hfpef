@@ -36,7 +36,7 @@ last_updated: 2026-05-13 (session 13)
 | STEP-HFpEF DM | Semaglutide Treatment Effect in People with Obesity and HFpEF and Type 2 Diabetes | Semaglutide 2.4 mg weekly vs. placebo | HFpEF, LVEF ≥45%, BMI ≥30, T2DM (HbA1c ≤10%) | NCT04916470 | 2021 | 2023 | [[step-hfpef]] · [[kosiborod2024stephfpefdm]] |
 | SUMMIT | A Study of Tirzepatide (LY3298176) in Participants With Heart Failure With Preserved Ejection Fraction (HFpEF) and Obesity | Tirzepatide (GLP-1/GIP dual agonist, up to 15 mg weekly) vs. placebo | HFpEF (LVEF ≥50%), obesity (BMI ≥30), NYHA II–IV, T2DM permitted (HbA1c ≤9.5%) | NCT04847557 | 2021 | 2024 (NEJM Jan 2025) | [[summit]] · [[packer2025summit]] · [[packer2025summit-ckd]] · [[kramer2025summit-cmr]] |
 | SOTA-P-CARDIA | Sotagliflozin in Patients with Cardiometabolic Disease and Heart Failure | Sotagliflozin (SGLT2+SGLT1 inhibitor) vs. placebo | HFpEF, no T2DM | NCT05562063 | 2022 | Ongoing | [[sota-p-cardia]] |
-| FAIR-HFpEF | Ferric Carboxymaltose Assessment of Morbidity and Mortality in Heart Failure with Preserved Ejection Fraction | IV ferric carboxymaltose vs. placebo | HFpEF with iron deficiency | NCT03074591 | 2017 | Ongoing | [[fair-hfpef]] |
+| FAIR-HFpEF | Ferric Carboxymaltose Assessment of Morbidity and Mortality in Heart Failure with Preserved Ejection Fraction | IV ferric carboxymaltose vs. placebo | HFpEF with iron deficiency | NCT03074591 | 2017 | Stopped early (N=40 of 200); primary results published 2024 | [[fair-hfpef]] · [[vonhaehling2024fair]] |
 | SPIRIT-HF | Spironolactone In The Treatment of Heart Failure | Spironolactone vs. placebo | HFpEF | NCT04727073 | 2021 | Ongoing | [[spirit-hf]] |
 | SPIRRIT | Spironolactone for Heart Failure with Preserved Ejection Fraction | Spironolactone vs. usual care | HFpEF | NCT02901184 | 2017 | Ongoing | [[spirrit]] |
 | PARAGLIDE-HF | Prospective Comparison of ARNI with ARB Given following stabilization In DEcompensated HFpEF | Sacubitril/valsartan vs. valsartan | HFpEF/HFmrEF, LVEF >40%, recent WHF event | NCT03988634 | 2019 | 2022 | [[paraglide-hf]] · [[mentz2023paraglide]] · [[fudim2024paraglide]] · [[rambarat2025paraglide]] · [[nouhravesh2025paraglide]] |
@@ -89,8 +89,18 @@ last_updated: 2026-05-13 (session 13)
 | Abbreviation | Full Title | Intervention | Condition | Study ID | Start | Status | Wiki |
 |---|---|---|---|---|---|---|---|
 | CHAMPION | CardioMEMS Heart Sensor Allows Monitoring of Pressure to Improve Outcomes in NYHA Class III Heart Failure | CardioMEMS wireless PA pressure sensor vs. usual care | NYHA III HF (HFpEF + HFrEF), PAP ≥15 mmHg | NCT00531661 | 2007 | 2011 (randomised access); 2014 (open access) | [[abraham2016champion]] |
+| GUIDE-HF | Haemodynamic-GUIDEd Management of Heart Failure | CardioMEMS PA sensor + haemodynamic-guided management vs. sham control | HF all EF groups (HFpEF LVEF >40% N=469/1000); NYHA II–IV | NCT03387813 | 2018 | Published 2021 | [[lindenfeld2021guidehf]] |
 | REDUCE LAP-HF II | Reduce Elevated Left Atrial Pressure in Patients With Heart Failure — Phase II | Interatrial shunt device vs. sham | HFpEF/HFmrEF, LVEF ≥40%, elevated LA pressure | NCT03088033 | 2017 | Published 2022; echo substudy [[patel2024reducelaphf]] 2024 | [[reduce-lap-hf-ii]] · [[patel2024reducelaphf]] |
 | Pericardial Modification | Minimally Invasive Pericardial Modification | Pericardial modification procedure vs. sham | HFpEF with pericardial constraint | NCT03923673 | 2019 | Unknown | [[pfeffer2019hfpef]] |
+
+---
+
+## Rhythm Control Trials with HF Subgroup Data
+
+| Abbreviation | Full Title | Intervention | Condition (HF subgroup) | Study ID | Start | Completion | Wiki |
+|---|---|---|---|---|---|---|---|
+| EAST-AFNET4 | Early Treatment of Atrial Fibrillation for Stroke Prevention Trial | Early rhythm control (drugs/ablation) vs. usual care in recently diagnosed AF | All HF (N=798; HFpEF 56.3%, HFmrEF 26.5%, HFrEF 16.6%); AF ≤12 months | NCT01288352 | 2011 | 2020 | [[rillig2021eastafnet4]] |
+| AFFIRM-AHF | Study to Compare the Effect of Intravenous Ferric Carboxymaltose on Hospitalisation and Mortality in Iron Deficient Subjects Admitted for Acute Heart Failure | IV ferric carboxymaltose vs. placebo; initiated at hospitalisation, repeated to week 24 | **HFrEF (LVEF <50%)** with iron deficiency + acute HF; N=1,132 | NCT02937454 | 2015 | 2020 | [[ponikowski2020affirm]] |
 
 ---
 
@@ -122,7 +132,11 @@ last_updated: 2026-05-13 (session 13)
 |---|---|---|---|---|---|---|---|
 | Levine HFpEF Vascular | Abnormal Vascular, Metabolic, and Neural Function During Exercise in HFpEF | Cross-sectional + 8-week KE exercise training | HFpEF | NCT03465072 | 2018 | Suspended (first aim complete) | [[exercise-intolerance]] |
 | Bunsawat HFpEF Muscle | Mechanisms of Impaired Skeletal Muscle Blood Flow and Exercise Intolerance in Veterans With HFpEF | Cross-sectional (n=35 HFpEF vs. n=35 controls) + 8-week training | HFpEF (Veterans) | NCT05115890 | 2021 | Ongoing | [[exercise-intolerance]] |
+| IEEM Obese HFpEF | Ventilatory and Haemodynamic Mechanisms of Exercise Intolerance in Obese HFpEF | Cross-sectional + NTG/placebo crossover sub-studies; invasive RHC + breathing mechanics + CPET | Obese HFpEF (LVEF ≥50%, PCWP elevated, BMI >30); N=55–42 depending on substudy | NCT04068844 | 2019 | Multiple publications ongoing | [[leahy2025heartlung]] · [[babb2026ventilatorylimit]] · [[zamani2023pericardialfat]] |
 | MyoVasc | MyoVasc — Epidemiological Cohort to Investigate Development and Progression of Heart Failure | Prospective observational cohort; echo/CPET/vascular/multi-omics | All HF phenotypes + controls, age 35–84 | NCT04064450 | 2019 | Ongoing (n=3,289) | [[zeid2025myomobile]] |
+| EXEC | Study of Exercise and Heart Function in Patients With Heart Failure and Pulmonary Vascular Disease | Observational; simultaneous ExE + CPX vs invasive RHC at rest and exercise; N=108 | HFpEF+PH (LVEF ≥50%), exertional dyspnea | NCT01418248 | 2011 | Completed | [[exercise-intolerance]] |
+| Borlaug 2015 IV Nitrite | Acute Effects of Inorganic Nitrite on Cardiovascular Hemodynamics in Heart Failure With Preserved Ejection Fraction | Phase 2 crossover RCT; IV NaNO₂ 50 mcg/kg/min vs saline; invasive RHC at rest and 20W supine exercise; N=28 | HFpEF (LVEF ≥50%, PCWP >15 resting or ≥25 at exercise) | NCT01932606 | 2013 | Completed; published Borlaug 2015 JACC | — |
+| AIR001-HFpEF | Inhaled Sodium Nitrite on Heart Failure With Preserved Ejection Fraction | Phase 2 crossover RCT; AIR001 (NaNO₂) 90 mg nebulized vs saline placebo; invasive RHC at rest and 20W supine exercise; N=26 | HFpEF (LVEF ≥50%, PCWP >15 resting or ≥25 at exercise) | NCT02262078 | 2014 | Completed; published Borlaug 2016 Circ Res | — |
 
 ---
 
@@ -166,6 +180,8 @@ last_updated: 2026-05-13 (session 13)
 | `rambarat2025paraglide` | PARAGLIDE-HF | Sex analysis: NT-proBNP benefit consistent (P-interaction=0.908); women excess SH (OR 2.29; P=0.012) | [[rambarat2025paraglide]] |
 | `patel2024reducelaphf` | REDUCE LAP-HF II | Echocardiographic substudy (n=621): LV EDV −5.65 mL; LA EF +1.88 pp; RV EDV +9.58 mL; PVR subgroup interaction P=0.01 | [[patel2024reducelaphf]] |
 | `verma2024inflammation` | STEP-HFpEF | CRP-independent mechanism: semaglutide benefit persists independent of baseline inflammatory biomarkers | [[verma2024inflammation]] |
+| `Rillig2021EastAFNET4` | EAST-AFNET4 | HF subgroup (N=798): early rhythm control HR 0.74 (P=0.03); HFpEF 56.3%; no HF-type interaction (P=0.63) | [[rillig2021eastafnet4]] |
+| `Lindenfeld2021GUIDEHF` | GUIDE-HF | Full trial (N=1,000; all EF): primary composite HR 0.88 (NS); pre-COVID HR 0.81 (P=0.049); HFpEF subgroup HR 0.85 (NS) | [[lindenfeld2021guidehf]] |
 
 ---
 

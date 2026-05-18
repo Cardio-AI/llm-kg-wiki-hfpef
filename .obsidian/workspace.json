@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF 1.md",
+                "file": "raw/Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF 1"
+              "title": "Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 252.5
   },
   "right": {
     "id": "8c1fefa39a076768",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure"
             }
           },
           {
@@ -174,13 +175,11 @@
               "title": "Dateieigenschaften von Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics in Patients With HFpEF"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,43 +192,43 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "38583799bd7d17ad",
+  "active": "c62fd058c8a4578a",
   "lastOpenFiles": [
-    "raw/Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF.md",
-    "raw/Study Details  NCT05115890  Muscle Blood Flow Regulation in HFpEF 1.md",
-    "raw/Study - NCT03184311  High-intensity Interval Training in Heart Failure Patients With Preserved Ejection Fraction.md",
-    "raw/Study - NCT05002075  Efficacy of an m-Health Cardiac Rehabilitation Program in Heart Failure With Preserved Ejection Fraction.md",
-    "raw/Study - NCT05162859  Exercise Training in Heart Failure With Preserved Ejection Fraction - a Long-term Follow-up.md",
-    "raw/Study - NCT03465072  Abnormal Vascular, Metabolic, and Neural Function During Exercise in Heart Failure With Preserved Ejection Fraction.md",
-    "raw/Study - NCT04940312  MyoMobile Study App-based Activity Coaching in Patients with Heart Failure and Preserved Ejection Fraction.md",
-    "raw/2022-Cardiol-Clin_Bohmke_Nonpharmacological_strategies_HFpEF.pdf",
-    "raw/2022-Cardiol-Clin_Bohmke_Nonpharmacological_strategies_HFpEF.pdf.crdownload",
-    "raw/Study - NCT04064450  MyoVasc Study on the Development and Progression of Heart Failure.md",
-    "raw/2025-ESC-Zeid-MyoMobile_study.pdf",
-    "raw/2025-ESC-Zeid-MyoMobile_study.pdf.crdownload",
-    "wiki/entities/hfpef.md",
-    "wiki/entities/atrial-fibrillation.md.tmp.22092.1778048142141",
-    "wiki/concepts/hfpef-phenotype-profiling.md",
-    "wiki/sources/anker2023hfpefphenotype.md",
-    "wiki/sources/kittleson2023acc.md",
-    "wiki/concepts/ml-ai-hfpef.md",
-    "wiki/sources/yi2025ai.md",
-    "wiki/contradictions.md",
-    "wiki/timeline.md",
-    "wiki/trials.md",
-    "raw/Study - NCT01919177  Effect of Inorganic Nitrates (Beetroot Juice) on Arterial Hemodynamics and Exercise Capacity.md",
-    "raw/2025-jjcc-Yi-AI_in_HFpEF.pdf",
-    "raw/2025-jjcc-Yi-AI_in_HFpEF.pdf.crdownload",
-    "raw/2022-ESC-Savarese-Global_burden_HF.pdf",
-    "raw/2022-ESC-Savarese-Global_burden_HF.pdf.crdownload",
-    "raw/2023-ESC-Anker_HFpEF_phenotyping.pdf",
-    "raw/Study - NCT03057977  EMPagliflozin outcomE tRial in Patients With chrOnic heaRt Failure With Reduced Ejection Fraction (EMPEROR-Reduced).md",
-    "raw/Study - NCT01035255  This Study Will Evaluate the Efficacy and Safety of LCZ696 Compared to Enalapril on Morbidity and Mortality of Patients With Chronic Heart Failure.md",
-    "raw/Study - NCT03036124  Study to Evaluate the Effect of Dapagliflozin on the Incidence of Worsening Heart Failure or Cardiovascular Death in Patients With Chronic Heart Failure.md",
-    "raw/Study - NCT03547583 Patient-reported Outcomes in Vericiguat-treated Patients With HFpEF.md",
-    "raw/Study - NCT03254485  A Study of the Effect of IW-1973 on the Exercise Capacity of Patients With Heart Failure With Preserved Ejection Fraction (HFpEF) (CAPACITY-HFpEF).md",
-    "Clippings/Medical World Model Workshop.md",
-    "wiki/sources/mirzai2025exercise.md",
-    "wiki/sources/docherty2025determine.md"
+    "raw/Study - NCT02262078  Inhaled Sodium Nitrite on Heart Failure With Preserved Ejection Fraction.md",
+    "raw/Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure.md",
+    "raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf",
+    "raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf.crdownload",
+    "raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf",
+    "raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf.crdownload",
+    "raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf",
+    "raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf.crdownload",
+    "wiki/sources/zhuzhou2021leukocyte.md",
+    "wiki/sources/boralkar2019nlr.md",
+    "wiki/sources/reddy2017artstiff.md",
+    "wiki/sources/haykowsky2011exercise.md",
+    "wiki/sources/tamaki2023nlrplr.md",
+    "wiki/sources/arnold2022diamond.md",
+    "wiki/sources/shah2018promis.md",
+    "wiki/sources/solomon2012paramount.md",
+    "raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf",
+    "raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf.crdownload",
+    "raw/Study - NCT01932606  Acute Effects of Inorganic Nitrite on Cardiovascular Hemodynamics in Heart Failure With Preserved Ejection Fraction.md",
+    "raw/Study - NCT01418248  Study of Exercise and Heart Function in Patients With Heart Failure and Pulmonary Vascular Disease.md",
+    "raw/Study - NCT03050593  Developing Imaging And plasMa biOmarkers iN Describing Heart Failure With Preserved Ejection Fraction (DIAMONDHFpEF).md",
+    "raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf",
+    "raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf.crdownload",
+    "raw/Study NCT03050593  Developing Imaging And plasMa biOmarkers iN Describing Heart Failure With Preserved Ejection Fraction (DIAMONDHFpEF).md",
+    "raw/Study - NCT00887588  LCZ696 Compared to Valsartan in Patients With Chronic Heart Failure and Preserved Left-ventricular Ejection Fraction.md",
+    "raw/Study - NCT02078947  Optimizing Exercise Training in Prevention and Treatment of Diastolic Heart Failure.md",
+    "wiki/sources-pending-from-meta-analyses.md",
+    "wiki/entities/optimex-clin.md",
+    "wiki/entities/rehab-hf.md",
+    "wiki/sources/ammar2025bnp.md",
+    "wiki/sources/vandebovenkamp2025hemodynamics.md",
+    "wiki/sources/prokopidis2025exercise.md",
+    "wiki/sources/lee2024lifestyle.md",
+    "wiki/sources/fu2024inflammation.md",
+    "wiki/sources/kaddoura2024betablocker.md",
+    "wiki/sources/lin2023cmd.md"
   ]
 }
