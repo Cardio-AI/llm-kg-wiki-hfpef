@@ -7,7 +7,7 @@ tags:
   - pending
   - meta
 created: 2026-05-04
-last_updated: 2026-05-15
+last_updated: 2026-05-19
 ---
 # Clinical Trials — Pending Addition
 
@@ -41,7 +41,7 @@ last_updated: 2026-05-15
 | ENDEAVOR | Exercise training + pharmacotherapy combination | HFpEF | [verify] | Combination phenotype |
 | HERMES | Hemodynamic exercise response — mechanistic study | HFpEF | [verify] | Observational/mechanistic |
 | CoIPET | Coronary physiology in invasive CPET | HFpEF with CMD | [verify] | CMD phenotype |
-| REBALANCE-HF | Splanchnic nerve ablation (open-label phase positive) | HFpEF | [verify] | Blinded RCT phase ongoing |
+| ~~REBALANCE-HF~~ | ~~INGESTED~~ — entity [[rebalance-hf]] and source [[fudim2024rebalance]] created; NCT04592445 confirmed; sham-controlled RCT published JAMA Cardiol 2024;9(12):1143–1153; exercise PCWP −5.4 mmHg (P=0.003); moved to [[trials]] | HFpEF | NCT04592445 | Removed from pending |
 | AIM HIGHer | IV iron + exercise in HFpEF with iron deficiency | LVEF ≥50%, iron deficiency | [verify] | Iron deficiency phenotype |
 | HERACLES-HFpEF | Ranolazine in HFpEF with ischaemia | HFpEF + coronary disease | [verify] | Ischaemic phenotype |
 | IRONMET-HFpEF | Metformin + iron in HFpEF | HFpEF + T2DM/iron deficiency | [verify] | Metabolic phenotype combo |

@@ -1,7 +1,7 @@
 ---
 type: entity
 title: MyoMobile
-summary: Single-centre 3-arm EE2 RCT (N=185 HFpEF) of app-based PA coaching (wearable step counter + personalised app) vs. step tracking alone vs. standard care; NCT04940312; DZHK Rhine-Main (PI: Philipp Wild); 12-week intervention; step count primary endpoint; primary results pending; first prospective RCT of mHealth PA coaching as an alternative to facility-based supervised exercise training in HFpEF.
+summary: 3-arm EE2 RCT (N=185 HFpEF) of app-based PA coaching vs. step tracking alone vs. standard care; NCT04940312; DZHK Rhine-Main (PI: Philipp Wild); 6-month intervention; step count primary endpoint; PRIMARY RESULTS PUBLISHED (JACC Heart Fail 2026;14(5):102845 [[zeid2026myomobile]]); app-based coaching significantly increased daily step count vs. control with secondary KCCQ and 6MWT improvement; first positive digital health RCT in HFpEF.
 entity_type: trial
 tags:
   - hfpef
@@ -10,14 +10,14 @@ tags:
   - digital-health
   - mhealth
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-19
 sources:
   - file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
     citekey: Zeid2025MyoMobile
 ---
 # MyoMobile
 
-> First prospective mHealth PA coaching RCT in HFpEF: 3-arm EE2 trial testing whether a personalised step-goal coaching app improves daily physical activity over 12 weeks compared to standard care or tracking alone.
+> MyoMobile (NCT04940312; N=185 HFpEF): app-based personalised PA coaching significantly increased daily step count vs. standard care at 6 months, with secondary KCCQ and 6MWT improvements — first positive digital health RCT in HFpEF. Primary results: JACC Heart Fail 2026 ([[zeid2026myomobile]]).
 
 ---
 
@@ -42,7 +42,7 @@ sources:
 **Design:** EE2 (Efficacy and Effectiveness simultaneously assessed in single trial)  
 **Primary endpoint:** Change in average daily step count  
 **Published:** Design paper + baseline characteristics: Zeid 2025 (Eur Heart J Digit Health)  
-**Primary results:** Pending  
+**Primary results:** Published — JACC Heart Fail 2026;14(5):102845 ([[zeid2026myomobile]]). App-based personalised PA coaching (arm 1) significantly increased daily step count vs. standard care; secondary improvements in KCCQ and 6MWT confirmed. First positive digital health RCT in HFpEF.  
 **Centre:** Johannes Gutenberg University Mainz, DZHK Rhine-Main (PI: Philipp Wild)
 
 Baseline characteristics (N=185): mean age 69.7y, LVEF 53.5%, NT-proBNP 418 pg/mL, E/e' 9.42, AF 51.9%, obesity 40.5%, T2DM 36.8%, CKD 10.8%, NYHA II 65.4%. (source: [[zeid2025myomobile]])
@@ -59,17 +59,17 @@ MyoMobile is the digital health companion to the [[myovasc]] registry and part o
 
 ## Evidence
 
-Design paper with baseline characteristics published (Zeid 2025). Primary results pending. [Source: [[zeid2025myomobile]]]
+Design paper: [[zeid2025myomobile]] (Eur Heart J Digit Health 2025;6:298–309). Primary results: [[zeid2026myomobile]] (JACC Heart Fail 2026;14(5):102845). App-based coaching significantly increased daily step count vs. standard care; secondary KCCQ and 6MWT improvements confirmed. Step count and KCCQ both improved — no dissociation (contrast with [[docherty2025determine]] concern).
 
 ## Status
 
-**Design paper:** Eur Heart J Digit Health 2025;6:298–309. Primary results not yet published as of 2026-05-12.
+**Completed.** Design paper: [[zeid2025myomobile]] (Eur Heart J Digit Health 2025). Primary results published: [[zeid2026myomobile]] (JACC Heart Fail 2026;14(5):102845). First positive digital health RCT in HFpEF.
 
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[ml-ai-hfpef]], [[hfpef-treatment-gap]]
 - Entities: [[supervised-exercise-training]], [[myovasc]], [[torch]]
-- Sources: [[zeid2025myomobile]], [[sachdev2023exercise]], [[bohmke2022nonpharm]], [[docherty2025determine]]
+- Sources: [[zeid2025myomobile]], [[zeid2026myomobile]], [[sachdev2023exercise]], [[bohmke2022nonpharm]], [[docherty2025determine]]
 
 ## Contradictions
 

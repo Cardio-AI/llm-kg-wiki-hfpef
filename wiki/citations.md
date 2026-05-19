@@ -134,6 +134,17 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 | `OrtegaHernandez2024Statins` | Ortega-Hernández S, González-Sosa S, Conde-Martel A, et al.; RICA Investigators | 2024 | Prognostic impact of statins in HFpEF (RICA registry; N=2,788) | J Clin Med | 10.3390/jcm13195844 |
 | `Leahy2025HeartLung` | Leahy MG, Wakeham DJ, MacNamara JP, et al. | 2025 | Dynamic hyperinflation and exercise PCWP in obese HFpEF | JACC Heart Fail | 10.1016/j.jchf.2025.102523 |
 | `Babb2026VentilatoryLimit` | Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S | 2026 | Ventilatory limitation to exercise in obese HFpEF: NTG crossover (NCT04068844) | Respir Physiol Neurobiol | 10.1016/j.resp.2025.104546 |
+| `lam2011hfpef` | Lam CSP, Donal E, Kraigher-Krainer E, Rosen BD | 2011 | Epidemiology and clinical course of heart failure with preserved ejection fraction | Eur J Heart Fail | 10.1002/ejhf.157 |
+| `abraham2011champion` | Abraham WT, Fisher WG, Smith AL, et al.; CHAMPION Trial Study Group | 2011 | Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial | Lancet | 10.1016/S0140-6736(10)61800-1 |
+| `adamson2014champion` | Adamson PB, Abraham WT, Bourge RC, et al. | 2014 | Wireless pulmonary artery pressure monitoring guides management to reduce decompensation in HFpEF | Circ Heart Fail | 10.1161/CIRCHEARTFAILURE.114.001567 |
+| `maier2013ralidhf` | Maier LS, Layug B, Karwatowska-Prokopczuk E, et al. | 2013 | Ranolazine for the treatment of diastolic heart failure (RALI-DHF) | JACC Heart Fail | 10.1016/j.jchf.2012.12.004 |
+| `vantassell2017dhart2` | Van Tassell BW, Buckley LF, Carbone S, et al. | 2017 | IL-1 blockade in HFpEF — rationale and design of D-HART2 | Clin Cardiol | 10.1002/clc.22709 |
+| `vantassell2018dhart2` | Van Tassell BW, Buckley LF, Carbone S, et al. | 2018 | IL-1 blockade in HFpEF (D-HART2): primary results | Circ Heart Fail | 10.1161/CIRCHEARTFAILURE.117.005036 |
+| `merrill2019topcat` | Merrill M, Sweitzer NK, Lindenfeld J, et al. | 2019 | Sex differences in outcomes and response to spironolactone in HFpEF: TOPCAT secondary analysis | JACC Heart Fail | 10.1016/j.jchf.2018.11.004 |
+| `carbone2024inflammation` | Carbone S, Lavie CJ, Baldassarre LA, et al. | 2024 | Inflammation, cardiorespiratory fitness, and obesity in HFpEF (editorial) | JACC Heart Fail | 10.1016/j.jchf.2024.04.024 |
+| `fudim2024rebalance` | Fudim M, Borlaug BA, Slivnick JA, et al. | 2024 | Splanchnic nerve modulation in HFpEF (REBALANCE-HF) | JAMA Cardiol | 10.1001/jamacardio.2024.3060 |
+| `zeid2026myomobile` | Zeid S, Prochaska JH, Schuch A, Tröbs SO, et al. | 2026 | MyoMobile primary results: app-based PA coaching in HFpEF | JACC Heart Fail | 10.1016/j.jchf.2026.102845 |
+| `masri2026attrcm` | Masri A, et al. | 2026 | ATTR cardiomyopathy: systematic review of clinical trials and emerging therapeutics | Prog Cardiovasc Dis | 10.1016/j.pcad.2026.04.004 |
 
 ---
 
@@ -522,6 +533,39 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 
 **Babb2026VentilatoryLimit**
 > Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2025.104546](https://doi.org/10.1016/j.resp.2025.104546)
+
+**lam2011hfpef**
+> Lam CSP, Donal E, Kraigher-Krainer E, Rosen BD. Epidemiology and clinical course of heart failure with preserved ejection fraction. *Eur J Heart Fail.* 2011;13(1):18–28. doi:10.1002/ejhf.157
+
+**abraham2011champion**
+> Abraham WT, Fisher WG, Smith AL, Delurgio DB, Leon AR, Loh E, Kocovic DZ, Packer M, Clavell AL, Hayes DL, Ellestad M, Messenger JC, Khalil KS, Narahara KA, Mehta FA, Warman EN, Parker ME, Gupta MS; CHAMPION Trial Study Group. Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial. *Lancet.* 2011;377(9766):658–666. doi:10.1016/S0140-6736(10)61800-1
+
+**adamson2014champion**
+> Adamson PB, Abraham WT, Bourge RC, Costanzo MR, Hasan A, Yadav C, Henderson J, Cowart P, Stevenson LW, Bauman JG. Wireless pulmonary artery pressure monitoring guides management to reduce decompensation in heart failure with preserved ejection fraction. *Circ Heart Fail.* 2014;7(6):935–944. doi:10.1161/CIRCHEARTFAILURE.114.001567
+
+**maier2013ralidhf**
+> Maier LS, Layug B, Karwatowska-Prokopczuk E, Belardinelli L, Lee S, Sander J, Lang C, Wachter R, Edelmann F, Hasenfuss G, Jacobshagen C. Ranolazine for the Treatment of Diastolic Heart Failure in Patients With Preserved Ejection Fraction: the RALI-DHF Proof-of-Concept Study. *JACC Heart Fail.* 2013;1(2):115–122. doi:10.1016/j.jchf.2012.12.004
+
+**vantassell2017dhart2**
+> Van Tassell BW, Buckley LF, Carbone S, Trankle CR, Canada JM, Dixon DL, Abouzaki N, Oddi-Erdle C, Biondi-Zoccai G, Arena R, Abbate A. Interleukin-1 Blockade in Patients with Heart Failure with Preserved Ejection Fraction: Rationale and Design of the Diastolic Heart Failure Anakinra Response Trial 2 (D-HART2). *Clin Cardiol.* 2017;40(9):626–632. doi:10.1002/clc.22709
+
+**vantassell2018dhart2**
+> Van Tassell BW, Buckley LF, Carbone S, Trankle CR, Canada JM, Mauro AG, Dessie S, Oddi C, Abouzaki NA, Melchior R, Christopher S, Dixon DL, Gailani MR, Turlington J, Thurber CJ, Thomas G, Vo N, Severin M, Jovin IS, Arena R, Biondi-Zoccai G, Abbate A. Interleukin-1 Blockade in Patients With Heart Failure and Preserved Ejection Fraction: a Randomized, Double-Blinded, Placebo-Controlled Pilot Study. *Circ Heart Fail.* 2018;11(4):e005036. doi:10.1161/CIRCHEARTFAILURE.117.005036
+
+**merrill2019topcat**
+> Merrill M, Sweitzer NK, Lindenfeld J, Kao DP. Sex Differences in Outcomes and Responses to Spironolactone in Heart Failure With Preserved Ejection Fraction: A Secondary Analysis of TOPCAT Trial. *JACC Heart Fail.* 2019;7(3):228–238. doi:10.1016/j.jchf.2018.11.004
+
+**carbone2024inflammation**
+> Carbone S, Lavie CJ, Baldassarre LA, et al. Inflammation, Cardiorespiratory Fitness, and Obesity in Heart Failure With Preserved Ejection Fraction. *JACC Heart Fail.* 2024;12(7):1270–1273. doi:10.1016/j.jchf.2024.04.024
+
+**fudim2024rebalance**
+> Fudim M, Borlaug BA, Slivnick JA, Piccini JP, Anstrom KJ, Sun JL, Al-Hindawi A, Devore AD, Al-Khatib SM, Khouri MG, Ahmad T, Johnson S, Kwiatkowski L, Lamba S, Kapetanakis EI, Basuray A, Leclercq C, Chetrit M, Schwartz LM, Haeusler KG, Schulz-Menger J, Voors AA, Fleg JL, Cooper LB, Hernandez AF, Walsh MN. Splanchnic Nerve Modulation in Heart Failure With Preserved Ejection Fraction: REBALANCE-HF Match-Controlled Pilot Trial. *JAMA Cardiol.* 2024;9(12):1143–1153. doi:10.1001/jamacardio.2024.3060
+
+**zeid2026myomobile**
+> Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized App-Based Coaching for Improving Physical Activity in Heart Failure With Preserved Ejection Fraction: Primary Results of the MyoMobile Randomized Trial. *JACC Heart Fail.* 2026;14(5):102845. doi:10.1016/j.jchf.2026.102845
+
+**masri2026attrcm**
+> Masri A, et al. ATTR Cardiomyopathy: A Systematic Review of Clinical Trials and Emerging Therapeutics. *Prog Cardiovasc Dis.* 2026 (pre-proof). doi:10.1016/j.pcad.2026.04.004
 
 ---
 

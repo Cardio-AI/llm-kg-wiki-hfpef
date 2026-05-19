@@ -47,6 +47,8 @@ last_updated: 2026-05-13 (session 13)
 | Abbreviation | Full Title | Intervention | Condition (LVEF threshold) | Study ID | Start | Completion | Wiki |
 |---|---|---|---|---|---|---|---|
 | PARAMOUNT | Prospective comparison of ARNI with ARB on Management Of heart failUre with preserved ejectioN fracTion | LCZ696 (sacubitril/valsartan precursor) 200 mg BID vs. valsartan 160 mg BID; 36 weeks | HFpEF, LVEF ≥45%, NT-proBNP >400 pg/mL, NYHA II–III, sinus rhythm | NCT00887588 | 2009 | 2011 | [[solomon2012paramount]] |
+| RALI-DHF | Ranolazine in the Treatment of Diastolic Heart Failure | Ranolazine IV loading → oral 500–750 mg BID vs. placebo; crossover; 2 weeks oral phase | HFpEF, LVEF ≥50%, elevated LVEDP (>12 mmHg rest or >15 mmHg exercise) | [verify on ingest] | ~2011 | 2013 | [[maier2013ralidhf]] |
+| D-HART2 | Diastolic Heart Failure Anakinra Response Trial 2 | Anakinra 100 mg/day SC vs. placebo; 24 weeks; enriched for hs-CRP >2 mg/L | HFpEF, LVEF ≥50%, NYHA II–III, hs-CRP >2 mg/L | NCT02173548 | ~2014 | 2018 | [[vantassell2017dhart2]] · [[vantassell2018dhart2]] |
 
 ---
 
@@ -88,9 +90,10 @@ last_updated: 2026-05-13 (session 13)
 
 | Abbreviation | Full Title | Intervention | Condition | Study ID | Start | Status | Wiki |
 |---|---|---|---|---|---|---|---|
-| CHAMPION | CardioMEMS Heart Sensor Allows Monitoring of Pressure to Improve Outcomes in NYHA Class III Heart Failure | CardioMEMS wireless PA pressure sensor vs. usual care | NYHA III HF (HFpEF + HFrEF), PAP ≥15 mmHg | NCT00531661 | 2007 | 2011 (randomised access); 2014 (open access) | [[abraham2016champion]] |
+| CHAMPION | CardioMEMS Heart Sensor Allows Monitoring of Pressure to Improve Outcomes in NYHA Class III Heart Failure | CardioMEMS wireless PA pressure sensor vs. usual care | NYHA III HF (HFpEF + HFrEF), PAP ≥15 mmHg | NCT00531661 | 2007 | 2011 (randomised access); 2014 (open access) | [[abraham2011champion]] · [[adamson2014champion]] · [[abraham2016champion]] |
 | GUIDE-HF | Haemodynamic-GUIDEd Management of Heart Failure | CardioMEMS PA sensor + haemodynamic-guided management vs. sham control | HF all EF groups (HFpEF LVEF >40% N=469/1000); NYHA II–IV | NCT03387813 | 2018 | Published 2021 | [[lindenfeld2021guidehf]] |
 | REDUCE LAP-HF II | Reduce Elevated Left Atrial Pressure in Patients With Heart Failure — Phase II | Interatrial shunt device vs. sham | HFpEF/HFmrEF, LVEF ≥40%, elevated LA pressure | NCT03088033 | 2017 | Published 2022; echo substudy [[patel2024reducelaphf]] 2024 | [[reduce-lap-hf-ii]] · [[patel2024reducelaphf]] |
+| REBALANCE-HF | REducing Symptoms and Reversing Atrial and Ventricular Remodeling Using Splanchnic Nerve Modulation in HFpEF | Endovascular greater splanchnic nerve ablation (SAVM) vs. sham | HFpEF, LVEF ≥50%, exercise PCWP ≥25 mmHg, NYHA II–III | NCT04592445 | ~2021 | Published 2024 (JAMA Cardiol) | [[rebalance-hf]] · [[fudim2024rebalance]] |
 | Pericardial Modification | Minimally Invasive Pericardial Modification | Pericardial modification procedure vs. sham | HFpEF with pericardial constraint | NCT03923673 | 2019 | Unknown | [[pfeffer2019hfpef]] |
 
 ---
@@ -119,7 +122,7 @@ last_updated: 2026-05-13 (session 13)
 | SECRET-II | Caloric Restriction and Exercise Training in Heart Failure with Preserved Ejection Fraction | Caloric restriction + aerobic training vs. CR + aerobic + resistance training (20 wk) | HFpEF with obesity, LVEF ≥50%, age ≥60 | NCT02636439 | 2016 | Published 2023 | [[brubaker2023secret2]] |
 | HEART Camp | Heart failure Exercise And Resistance Training Camp | Behavioral exercise coaching (18 mo) vs. enhanced usual care; adherence-focused | HF (all phenotypes; HFpEF subgroup N=59 in secondary analysis) | NCT01658670 | 2012 | Published 2022 | [[alonso2022heartcamp]] |
 | UFA-Preserved 2 | Unsaturated Fatty Acid Supplementation in HFpEF | Omega-3/UFA supplementation vs. placebo | HFpEF, LVEF ≥50% | NCT03966755 | 2019 | Ongoing | [[bohmke2022nonpharm]] |
-| MyoMobile | Personalized App-Based Coaching for Improving Physical Activity in HFpEF | App-based PA coaching vs. tracking vs. standard care | HFpEF, LVEF >40%, NYHA I–III | NCT04940312 | 2021 | Pending results | [[myomobile]] · [[zeid2025myomobile]] |
+| MyoMobile | Personalized App-Based Coaching for Improving Physical Activity in HFpEF | App-based PA coaching vs. tracking vs. standard care | HFpEF, LVEF >40%, NYHA I–III | NCT04940312 | 2021 | Published 2026 (JACC Heart Fail) | [[myomobile]] · [[zeid2025myomobile]] · [[zeid2026myomobile]] |
 | Ex-DHF | Exercise Training in Patients with Heart Failure and Preserved Ejection Fraction | Combined endurance + resistance training vs. usual care; 12 months | HFpEF | ISRCTN86879094 | ~2015 | Published 2025 | [[edelmann2025exdhf]] |
 | m-Health CR HFpEF | Efficacy of an m-Health Cardiac Rehabilitation Program in HFpEF | Home-based m-Health CR vs. standard care | HFpEF, LVEF ≥50% | NCT05002075 | 2021 | Completed | [[zeid2025myomobile]] |
 | OptimEx-LTF | Exercise Training in HFpEF — Long-Term Follow-up | Observational follow-up of OPTIMEX-CLIN and EX-DHF participants | HFpEF | NCT05162859 | 2021 | Ongoing | [[bohmke2022nonpharm]] |

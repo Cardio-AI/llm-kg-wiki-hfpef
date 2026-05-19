@@ -1,5 +1,58 @@
 # Change Log
 
+## 2026-05-19 (session 28 — 11 PDFs ingested)
+
+### Source pages created (11)
+
+**Epidemiology:**
+- `wiki/sources/lam2011hfpef.md` — Lam 2011 (Eur J Heart Fail 13:18–28): HFpEF epidemiology review; ~50% of all HF; rising prevalence; mortality similar to HFrEF; no proven treatment at time of publication
+
+**Device Trials — CHAMPION family:**
+- `wiki/sources/abraham2011champion.md` — CHAMPION primary RCT (Lancet 2011;377:658–666; N=550): CardioMEMS PA pressure monitoring; 28% HF hospitalisation reduction (HR 0.72; P=0.0002); NCT00531661
+- `wiki/sources/adamson2014champion.md` — CHAMPION HFpEF subgroup (Circ Heart Fail 2014;7:935–944; N=119 HFpEF): ~46% HF hospitalisation reduction; first positive device evidence specifically in HFpEF
+
+**Phase 2 Mechanistic Trials:**
+- `wiki/sources/maier2013ralidhf.md` — RALI-DHF (JACC Heart Fail 2013;1:115–122; N=20 HFpEF): ranolazine crossover; exercise LVEDP −4.7 mmHg (P=0.001); late I_Na→Ca²⁺ pathway proof-of-concept
+
+**Anti-inflammatory (D-HART2):**
+- `wiki/sources/vantassell2017dhart2.md` — D-HART2 design (Clin Cardiol 2017;40:626–632; NCT02173548): anakinra 24 weeks in HFpEF; rationale: Paulus–Tschöpe IL-1 pathway
+- `wiki/sources/vantassell2018dhart2.md` — D-HART2 results (Circ Heart Fail 2018;11:e005036; N=31 HFpEF): hs-CRP AUC ratio 0.40 (P=0.001) — target engaged; VO₂ NS (P=0.54) — critical null for inflammation→exercise pathway
+
+**Secondary Analyses:**
+- `wiki/sources/merrill2019topcat.md` — TOPCAT sex differences (JACC Heart Fail 2019;7:228–238; N=3,445): women higher LVEF (~63% vs. ~58%); spironolactone sex×treatment P=0.26 (NS)
+
+**Device Trial — REBALANCE-HF:**
+- `wiki/sources/fudim2024rebalance.md` — REBALANCE-HF (JAMA Cardiol 2024;9(12):1143–1153; N=80 HFpEF; NCT04592445): splanchnic nerve ablation vs. sham; exercise PCWP −5.4 mmHg (P=0.003); KCCQ improved
+
+**Editorial:**
+- `wiki/sources/carbone2024inflammation.md` — Carbone 2024 (JACC Heart Fail 12:1270–1273): inflammation-obesity-CRF triad; GLP-1RA mechanism synthesis
+
+**Digital Health:**
+- `wiki/sources/zeid2026myomobile.md` — MyoMobile primary results (JACC Heart Fail 2026;14(5):102845; N=185 HFpEF; NCT04940312): app-based PA coaching significantly increased step count; KCCQ + 6MWT improved; first positive digital health RCT in HFpEF
+
+**Systematic Review:**
+- `wiki/sources/masri2026attrcm.md` — Masri 2026 (Prog Cardiovasc Dis pre-proof; doi:10.1016/j.pcad.2026.04.004): ATTR-CM trials SR; tafamidis, acoramidis, patisiran (APOLLO-B), vutrisiran (HELIOS-B; HR 0.72), eplontersen; multiple approved options
+
+### Entity pages created (1)
+- `wiki/entities/rebalance-hf.md` — REBALANCE-HF entity; promoted from trials-pending.md to trials.md
+
+### Entity pages updated (1)
+- `wiki/entities/myomobile.md` — updated: primary results published (zeid2026myomobile); removed "results pending" language
+
+### Source pages updated (1)
+- `wiki/sources/zeid2025myomobile.md` — updated: cross-reference to primary results (zeid2026myomobile) added
+
+### Registry files updated
+- `wiki/citations.md` — 11 new rows added to Ingested Sources table; 11 APA references added to Full Formatted References
+- `wiki/trials.md` — added RALI-DHF and D-HART2 to Phase 2 section; added REBALANCE-HF to Device Trials section; updated CHAMPION entry to link all 3 source pages; updated MyoMobile entry with published results
+- `wiki/trials-pending.md` — REBALANCE-HF marked as ingested/removed from pending
+- `wiki/index.md` — 13 new entries added across Observational Studies, Clinical Trial Papers, Review Articles, Systematic Reviews, Secondary Analyses, Trial Design Papers, and Entities sections
+- `wiki/overview.md` — High-Level Summary updated (REBALANCE-HF, MyoMobile, ATTR-CM multi-drug landscape); D-HART2 Active Debate added; ATTR-CM screening + digital health Knowledge Gaps added; session 28 Recent Additions entry added
+- `wiki/timeline.md` — Epidemiology: Lam 2011 row added; Treatment: CHAMPION 2011, RALI-DHF 2013, CHAMPION HFpEF subgroup 2014, D-HART2 2018, TOPCAT sex 2019, REBALANCE-HF 2024, MyoMobile 2026 rows added; Landmark Trials: RALI-DHF 2013, D-HART2 2018, APOLLO-B 2022, ATTRibute-CM 2023, HELIOS-B 2024, REBALANCE-HF 2024, MyoMobile 2026 rows added
+- `wiki/log.md` — this entry
+
+---
+
 ## 2026-05-18 (session 27 — NCT file processing complete)
 
 ### trials.md

@@ -21,7 +21,7 @@ sources:
 ---
 # Personalized App-Based Coaching for Improving Physical Activity in HFpEF: Rationale and Design of the MyoMobile Study
 
-> Study design paper for the MyoMobile trial — first prospective RCT of personalized app-based physical activity coaching in HFpEF; three-arm EE2 design (standard care vs. wearable tracking vs. tracking + coaching) with step count as primary endpoint; N=185; primary results pending.
+> Study design paper for the MyoMobile trial — first prospective RCT of personalized app-based physical activity coaching in HFpEF; three-arm EE2 design (standard care vs. wearable tracking vs. tracking + coaching) with step count as primary endpoint; N=185. **Primary results now published:** [[zeid2026myomobile]] (JACC Heart Fail 2026;14(5):102845) — app-based coaching significantly increased step count and KCCQ vs. standard care.
 
 **File:** `raw/2025-ESC-Zeid-MyoMobile_study.pdf` · **Authors:** Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS (Johannes Gutenberg University Mainz; DZHK Rhine-Main) · **Year:** 2025 · **Journal/Source:** *Eur Heart J Digit Health.* 2025;6:298–309. doi:[10.1093/ehjdh/ztae096](https://doi.org/10.1093/ehjdh/ztae096)
 
@@ -128,7 +128,7 @@ Linear regression analysis, ITT population.
 - **DZHK context** — same DZHK network as [[torch]] registry (Rhine-Main site); institutional biobank and multi-omics infrastructure shared; deep phenotyping enables molecular-mechanism exploration alongside intervention
 - **Baseline data (N=185 pragmatic HFpEF sample):** median E/e' 9.42 (below many guideline cut-offs), 51.9% AF, 40.5% obesity, 54.6% CAD — representative real-world HFpEF cohort with high comorbidity burden; differs from clinical trial populations (EMPEROR-Preserved, DELIVER excluded unstable comorbidities)
 - **LVEF ≥40% threshold:** includes HFmrEF (41–49%) — same as EMPEROR-Preserved/DELIVER; complicates interpretation for pure HFpEF questions
-- **Results pending:** primary endpoint (step count change at 12 weeks) not yet published in this paper
+- **Primary results published:** [[zeid2026myomobile]] (JACC Heart Fail 2026;14(5):102845) — app-based coaching significantly increased daily step count vs. standard care; secondary improvements in KCCQ and 6MWT confirmed; first positive digital health RCT in HFpEF
 
 ---
 
