@@ -1,25 +1,30 @@
 ---
 type: study
-title: "Rillig 2021 — Early Rhythm Control in HF Patients: EAST-AFNET4 Substudy"
+title: "Rillig 2021 \u2014 Early Rhythm Control in HF Patients: EAST-AFNET4 Substudy"
 citekey: Rillig2021EastAFNET4
 year: 2021
-authors: Rillig A, Magnussen C, Ozga AK, Suling A, Brandes A, Breithardt G, Declerk L, Drögemöller T, Eckardt L, Gessler N, Goette A, Gulizia MM, Kuck KH, Leclercq C, Loeffler M, Lubinski A, Morsbach F, Münzel T, Neuberger HU, Schotten U, Simantirakis E, Wijeysundera HC, Zapf A, Zeller T, Kirchhof P; EAST-AFNET4 Trial Investigators
+authors: "Rillig A, Magnussen C, Ozga AK, Suling A, Brandes A, Breithardt G, Declerk\
+  \ L, Dr\xF6gem\xF6ller T, Eckardt L, Gessler N, Goette A, Gulizia MM, Kuck KH, Leclercq\
+  \ C, Loeffler M, Lubinski A, Morsbach F, M\xFCnzel T, Neuberger HU, Schotten U,\
+  \ Simantirakis E, Wijeysundera HC, Zapf A, Zeller T, Kirchhof P; EAST-AFNET4 Trial\
+  \ Investigators"
 journal: Circulation
 study_type: pre-specified subgroup analysis (EAST-AFNET4)
 evidence_level: high (subgroup)
 tags:
-  - atrial-fibrillation
-  - rhythm-control
-  - hfpef
-  - hfref
-  - hfmref
-  - trial
-  - east-afnet4
+- atrial-fibrillation
+- rhythm-control
+- hfpef
+- hfref
+- hfmref
+- trial
+- east-afnet4
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf
-    citekey: Rillig2021EastAFNET4
+- file: raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf
+  citekey: Rillig2021EastAFNET4
+page-type: source-summary-page
 ---
 # Rillig 2021 — Early Rhythm Control in AF+HF: EAST-AFNET4 HF Substudy
 

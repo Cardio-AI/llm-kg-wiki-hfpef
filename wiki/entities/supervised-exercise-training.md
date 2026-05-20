@@ -1,43 +1,49 @@
 ---
 type: entity
 title: Supervised Exercise Training (SET)
-summary: Structured, supervised aerobic exercise programmes (MCT, HIIT, combined resistance/aerobic, or IMT modalities) that improve peak VO2 by ~2.8 mL/kg/min in HFpEF via reversal of skeletal muscle myopathy; the most consistently positive HFpEF intervention in RCTs; 2022 AHA/ACC Class I, Level A recommendation across all HF phenotypes; Ex-DHF (2025, n=322, 12 months) missed its primary composite endpoint despite improving VO₂ and NYHA.
+summary: "Structured, supervised aerobic exercise programmes (MCT, HIIT, combined\
+  \ resistance/aerobic, or IMT modalities) that improve peak VO2 by ~2.8 mL/kg/min\
+  \ in HFpEF via reversal of skeletal muscle myopathy; the most consistently positive\
+  \ HFpEF intervention in RCTs; 2022 AHA/ACC Class I, Level A recommendation across\
+  \ all HF phenotypes; Ex-DHF (2025, n=322, 12 months) missed its primary composite\
+  \ endpoint despite improving VO\u2082 and NYHA."
 entity_type: intervention
 tags:
-  - hfpef
-  - treatment
-  - exercise
-  - intervention
-  - rehabilitation
+- hfpef
+- treatment
+- exercise
+- intervention
+- rehabilitation
 created: 2026-04-30
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-    citekey: Sachdev2023Exercise
-  - file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
-    citekey: Bohmke2022Nonpharm
-  - file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
-    citekey: Mirzai2025Exercise
-  - file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
-    citekey: edelmann2025exdhf
-  - file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
-    citekey: sharif2024locomotor
-  - file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
-    citekey: obaya2024aerobic
-  - file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
-    citekey: Borlaug2024INABLE
-  - file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
-    citekey: Brubaker2023SECRET2
-  - file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
-    citekey: Alonso2022HEARTcamp
-  - file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
-    citekey: Kitzman2021REHABHF
-  - file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
-    citekey: Mentz2021REHABHFpEF
-  - file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
-    citekey: Mueller2021OptimEx
-  - file: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf
-    citekey: DonelliDaSilveira2020HIIT
+- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
+  citekey: Sachdev2023Exercise
+- file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
+  citekey: Bohmke2022Nonpharm
+- file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
+  citekey: Mirzai2025Exercise
+- file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
+  citekey: edelmann2025exdhf
+- file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
+  citekey: sharif2024locomotor
+- file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
+  citekey: obaya2024aerobic
+- file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
+  citekey: Borlaug2024INABLE
+- file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
+  citekey: Brubaker2023SECRET2
+- file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
+  citekey: Alonso2022HEARTcamp
+- file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
+  citekey: Kitzman2021REHABHF
+- file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
+  citekey: mentz2021rehabhfhfpef
+- file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
+  citekey: Mueller2021OptimEx
+- file: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf
+  citekey: donelli2020hiit
+page-type: entity-page
 ---
 # Supervised Exercise Training (SET)
 

@@ -1,21 +1,25 @@
 ---
 type: entity
 title: Sacubitril/Valsartan (ARNI)
-summary: Angiotensin receptor-neprilysin inhibitor; Class I for HFrEF (PARADIGM-HF); PARAGON-HF missed its primary endpoint in HFpEF overall but showed benefit in those with LVEF below the median (~57%), leading to FDA endorsement for LVEF 'less than normal' — a designation without an ESC equivalent.
+summary: "Angiotensin receptor-neprilysin inhibitor; Class I for HFrEF (PARADIGM-HF);\
+  \ PARAGON-HF missed its primary endpoint in HFpEF overall but showed benefit in\
+  \ those with LVEF below the median (~57%), leading to FDA endorsement for LVEF 'less\
+  \ than normal' \u2014 a designation without an ESC equivalent."
 entity_type: drug
 tags:
-  - sacubitril-valsartan
-  - arni
-  - pharmacotherapy
-  - hfref
-  - hfpef
+- sacubitril-valsartan
+- arni
+- pharmacotherapy
+- hfref
+- hfpef
 created: 2026-04-30
 last_updated: 2026-05-04
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+page-type: entity-page
 ---
 # Sacubitril/Valsartan
 

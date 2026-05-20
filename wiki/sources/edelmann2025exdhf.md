@@ -1,20 +1,22 @@
 ---
 type: source
-title: "Exercise training in patients with heart failure and preserved ejection fraction: the Ex-DHF randomised clinical trial"
+title: 'Exercise training in patients with heart failure and preserved ejection fraction:
+  the Ex-DHF randomised clinical trial'
 citekey: edelmann2025exdhf
 year: 2025
 authors: Edelmann F, et al.
 journal: Nature Medicine
 tags:
-  - trial
-  - treatment
-  - exercise
-  - open-question
+- trial
+- treatment
+- exercise
+- open-question
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
-    citekey: edelmann2025exdhf
+- file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
+  citekey: edelmann2025exdhf
+page-type: source-summary-page
 ---
 # Ex-DHF Trial: Exercise Training in HFpEF
 

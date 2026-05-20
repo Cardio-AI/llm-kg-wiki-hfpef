@@ -1,24 +1,26 @@
 ---
 type: study
-title: "Boralkar 2019 — NLR and NLR Trajectory in Acute HFpEF (Stanford STRIDE)"
+title: "Boralkar 2019 \u2014 NLR and NLR Trajectory in Acute HFpEF (Stanford STRIDE)"
 citekey: Boralkar2019NLR
 year: 2019
-authors: Boralkar KA, Kobayashi Y, Amsallem M, Arthur Ataam J, Moneghetti KJ, Cauwenberghs N, Horne BD, Knowlton KU, Maecker H, Kuznetsova T, Heidenreich PA, Haddad F
+authors: Boralkar KA, Kobayashi Y, Amsallem M, Arthur Ataam J, Moneghetti KJ, Cauwenberghs
+  N, Horne BD, Knowlton KU, Maecker H, Kuznetsova T, Heidenreich PA, Haddad F
 journal: Am J Cardiol
 study_type: observational-retrospective
 evidence_level: low-moderate
 tags:
-  - inflammation
-  - biomarker
-  - hfpef
-  - acute-hf
-  - prognosis
-  - nlr
+- inflammation
+- biomarker
+- hfpef
+- acute-hf
+- prognosis
+- nlr
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2019-AJCariol-Boralkar-lymphocyte_NLR_hospitalization_hfpef.pdf
-    citekey: Boralkar2019NLR
+- file: raw/2019-AJCariol-Boralkar-lymphocyte_NLR_hospitalization_hfpef.pdf
+  citekey: Boralkar2019NLR
+page-type: source-summary-page
 ---
 # Boralkar 2019 — NLR and NLR Trajectory in Acute HFpEF (Stanford)
 

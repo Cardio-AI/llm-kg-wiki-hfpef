@@ -1,23 +1,25 @@
 ---
 type: study
-title: STEP-HFpEF — Semaglutide in Obese HFpEF (non-DM)
+title: "STEP-HFpEF \u2014 Semaglutide in Obese HFpEF (non-DM)"
 citekey: Kosiborod2023STEPHFPEF
 year: 2023
-authors: Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators
+authors: Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees
+  and Investigators
 journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - glp1ra
-  - treatment
-  - obesity
+- trial
+- hfpef
+- glp1ra
+- treatment
+- obesity
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
-    citekey: Kosiborod2023STEPHFPEF
+- file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
+  citekey: Kosiborod2023STEPHFPEF
+page-type: source-summary-page
 ---
 # STEP-HFpEF
 
@@ -79,6 +81,7 @@ Phase 3 double-blind placebo-controlled RCT. Eligibility: LVEF ≥45%, BMI ≥30
 ## Connections
 
 - Supports: [[step-hfpef]] (entity page) — primary source, confirmed NCT04788511, exact primary endpoints
+- Supports: [[obesity-hfpef]] — first large RCT demonstrating symptomatic benefit of GLP-1RA in obese HFpEF without T2DM; KCCQ +7.8 pts, 6MWD +20.3m, weight −10.7 pp
 - Supports: [[hfpef-phenotype-profiling]] — establishes GLP-1RA as evidence-based obese HFpEF phenotype therapy
 - Supports: [[hfpef-treatment-gap]] — first large positive pharmacological trial in HFpEF for symptomatic/functional endpoints (excluding hard outcomes)
 - Connects to: [[kosiborod2024stephfpefdm]] — DM companion trial (NCT04916470; KCCQ-CSS +7.3 pts, 6MWD +14.3m, weight −6.4%)
@@ -92,8 +95,8 @@ Phase 3 double-blind placebo-controlled RCT. Eligibility: LVEF ≥45%, BMI ≥30
 
 ## Related Pages
 
-- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[step-hfpef]], [[summit]], [[hfpef]], [[sglt2-inhibitors]]
+- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[obese-metabolic-hfpef]]
+- Entities: [[obesity-hfpef]], [[step-hfpef]], [[summit]], [[hfpef]], [[sglt2-inhibitors]]
 - Sources: [[kosiborod2024stephfpefdm]], [[kittleson2023acc]], [[anker2023hfpefphenotype]]
 
 ## Contradictions

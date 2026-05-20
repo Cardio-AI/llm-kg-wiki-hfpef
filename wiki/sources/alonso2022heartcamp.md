@@ -1,23 +1,25 @@
 ---
 type: source
-title: "HEART Camp: Behavioral Exercise Coaching in Heart Failure with Preserved Ejection Fraction"
+title: 'HEART Camp: Behavioral Exercise Coaching in Heart Failure with Preserved Ejection
+  Fraction'
 citekey: Alonso2022HEARTcamp
 year: 2022
 authors: Alonso WW, Kupzyk K, Mukherjee R, et al.
 journal: J Card Fail
 tags:
-  - hfpef
-  - trial
-  - exercise
-  - behavioral-intervention
-  - adherence
-  - exercise-intolerance
-  - rehabilitation
+- hfpef
+- trial
+- exercise
+- behavioral-intervention
+- adherence
+- exercise-intolerance
+- rehabilitation
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
-    citekey: Alonso2022HEARTcamp
+- file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
+  citekey: Alonso2022HEARTcamp
+page-type: source-summary-page
 ---
 # HEART Camp HFpEF Subgroup
 

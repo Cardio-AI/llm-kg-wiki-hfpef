@@ -1,5 +1,6 @@
 ---
 type: entity
+page-type: entity-page
 title: MyoMobile
 summary: 3-arm EE2 RCT (N=185 HFpEF) of app-based PA coaching vs. step tracking alone vs. standard care; NCT04940312; DZHK Rhine-Main (PI: Philipp Wild); 6-month intervention; step count primary endpoint; PRIMARY RESULTS PUBLISHED (JACC Heart Fail 2026;14(5):102845 [[zeid2026myomobile]]); app-based coaching significantly increased daily step count vs. control with secondary KCCQ and 6MWT improvement; first positive digital health RCT in HFpEF.
 entity_type: trial

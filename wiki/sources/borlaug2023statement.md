@@ -1,24 +1,25 @@
 ---
 type: source
-title: "Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement"
+title: 'Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement'
 citekey: borlaug2023statement
 year: 2023
 authors: Borlaug BA, Sharma K, Shah SJ, Ho JE
 journal: Journal of the American College of Cardiology
 tags:
-  - hfpef
-  - review
-  - epidemiology
-  - pathophysiology
-  - diagnosis
-  - treatment
-  - phenotype
+- hfpef
+- review
+- epidemiology
+- pathophysiology
+- diagnosis
+- treatment
+- phenotype
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
-  - file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-    citekey: borlaug2023statement
-    zotero: unverified
+- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
+  citekey: borlaug2023statement
+  zotero: unverified
+page-type: source-summary-page
 ---
 # Heart Failure With Preserved Ejection Fraction — JACC Scientific Statement
 
@@ -114,14 +115,17 @@ This is the single most comprehensive synthesis of HFpEF knowledge through 2023.
 - Updates: [[exercise-intolerance]] — noncardiac contributors quantified; skeletal muscle, lung, autonomic
 - Updates: [[natriuretic-peptides]] — comprehensive NP deficiency causes in HFpEF; can't rule out HFpEF
 - Updates: [[atrial-fibrillation]] — AF as LA myopathy biomarker; caution with aggressive rate control (↓SV in LA dysfunction)
+- Updates: [[obesity-hfpef]] — 5-phenotype model, obesity-cardiometabolic pathways, pericardial restraint mechanism
+- Updates: [[hypertension-hfpef]] — arterial stiffening phenogroup; phenotypic shift from isolated HTN-LVH to multimorbid
+- Supports: [[pericardial-restraint]] — pericardial fat → ventricular interdependence mechanism in obesity HFpEF
 - Supports: [[hfpef-treatment-gap]] — 24 knowledge gaps enumerated; treatment shown possible but incomplete
 - Supports: [[diastolic-dysfunction]] — pathophysiology synthesis
 - Supports: [[sglt2-inhibitors]] — mechanistic rationale (nutrient deprivation/autophagy) and clinical evidence consolidated
 
 ## Related Pages
 
-- Concepts: [[hfpef-diagnosis]], [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]]
-- Entities: [[hfpef]], [[sglt2-inhibitors]], [[atrial-fibrillation]], [[spironolactone]], [[sacubitril-valsartan]]
+- Concepts: [[hfpef-diagnosis]], [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[pericardial-restraint]]
+- Entities: [[obesity-hfpef]], [[hypertension-hfpef]], [[hfpef]], [[sglt2-inhibitors]], [[atrial-fibrillation]], [[spironolactone]], [[sacubitril-valsartan]]
 - Sources: [[anker2021emperor]], [[solomon2022deliver]], [[solomon2019paragon]], [[pitt2014topcat]], [[kittleson2023acc]], [[anker2023hfpefphenotype]]
 
 ## Contradictions

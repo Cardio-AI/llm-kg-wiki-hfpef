@@ -1,24 +1,28 @@
 ---
 type: concept
 title: Diastolic Dysfunction
-summary: Impaired LV relaxation and increased myocardial stiffness leading to elevated LV filling pressures; the core haemodynamic mechanism underlying HFpEF, assessed by echocardiographic markers (E/e', LA volume index) and confirmed invasively by PCWP.
+summary: Impaired LV relaxation and increased myocardial stiffness leading to elevated
+  LV filling pressures; the core haemodynamic mechanism underlying HFpEF, assessed
+  by echocardiographic markers (E/e', LA volume index) and confirmed invasively by
+  PCWP.
 tags:
-  - diastolic-dysfunction
-  - mechanism
-  - hfpef
-  - physiology
-  - haemodynamics
+- diastolic-dysfunction
+- mechanism
+- hfpef
+- physiology
+- haemodynamics
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-    citekey: Sachdev2023Exercise
-  - file: "raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf"
-    citekey: D'Amario2019CMD
-  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
-    citekey: Pfeffer2019HFpEF
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
+  citekey: Sachdev2023Exercise
+- file: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf
+  citekey: damario2019cmd
+- file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+  citekey: Pfeffer2019HFpEF
+page-type: mechanism-page
 ---
 # Diastolic Dysfunction
 

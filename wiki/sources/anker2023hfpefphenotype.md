@@ -1,22 +1,24 @@
 ---
 type: source
-title: Patient Phenotype Profiling in HFpEF to Guide Therapeutic Decision Making (HFA/ESC/ESH Scientific Statement)
+title: Patient Phenotype Profiling in HFpEF to Guide Therapeutic Decision Making (HFA/ESC/ESH
+  Scientific Statement)
 citekey: Anker2023HFpEFPhenotype
 year: 2023
-authors: Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al.
+authors: "Anker SD, Usman MS, Anker MS, Butler J, B\xF6hm M, Abraham WT, et al."
 journal: European Journal of Heart Failure
 tags:
-  - hfpef
-  - phenotype
-  - treatment
-  - guideline
-  - consensus
-  - comorbidity
+- hfpef
+- phenotype
+- treatment
+- guideline
+- consensus
+- comorbidity
 created: 2026-05-06
 last_updated: 2026-05-06
 sources:
-  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-    citekey: Anker2023HFpEFPhenotype
+- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
+  citekey: Anker2023HFpEFPhenotype
+page-type: source-summary-page
 ---
 # Patient Phenotype Profiling in HFpEF — Anker 2023 (HFA/ESC Scientific Statement)
 
@@ -159,6 +161,9 @@ New data not previously in wiki:
 - Updates: [[atrial-fibrillation]] — adds CABA-HFpEF, prevalence data up to 50%, EAST-AFNET4 context
 - Updates: [[spironolactone]] — adds SPIRIT-HF/SPIRRIT ongoing; ESC "may be considered" framing
 - Updates: [[guideline-comparison]] — third ESC/HFA 2023 perspective alongside ACC 2023 ECDP
+- Updates: [[obesity-hfpef]] — 30–40% prevalence, semaglutide/tirzepatide treatment wheel position
+- Updates: [[hypertension-hfpef]] — 72% prevalence (highest of all phenotypes); HYVET evidence; phenotype-specific agents
+- Updates: [[fair-hfpef]] — iron deficiency 50–75%; FAIR-HFpEF/PREFER-HF ongoing (note: FAIR-HFpEF subsequently published 2024)
 - Supports: [[hfpef-phenotype-profiling]] — primary source for this concept page
 - Supports: [[exercise-intolerance]] — peripheral mechanism and HIIT data (Mueller 2021, referenced)
 - Supports: [[ml-ai-hfpef]] — phenotype subgrouping as ML target
@@ -166,8 +171,8 @@ New data not previously in wiki:
 ---
 
 ## Related Pages
-- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]]
-- Entities: [[hfpef]], [[sglt2-inhibitors]], [[spironolactone]], [[sacubitril-valsartan]], [[atrial-fibrillation]], [[supervised-exercise-training]]
+- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[obese-metabolic-hfpef]], [[hypertensive-fibrotic-hfpef]], [[atrial-fibrillation-hfpef]]
+- Entities: [[obesity-hfpef]], [[hypertension-hfpef]], [[fair-hfpef]], [[hfpef]], [[sglt2-inhibitors]], [[spironolactone]], [[sacubitril-valsartan]], [[atrial-fibrillation]], [[supervised-exercise-training]]
 - Sources: [[kittleson2023acc]], [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[pitt2014topcat]], [[solomon2019paragon]]
 
 ## Contradictions

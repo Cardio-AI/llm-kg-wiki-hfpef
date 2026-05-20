@@ -1,18 +1,23 @@
 ---
 type: entity
 title: ATTR-ACT
-summary: Double-blind RCT (N=441) of tafamidis (transthyretin stabiliser) vs. placebo in ATTR cardiomyopathy; published NEJM 2018; all-cause mortality reduced (risk ratio 0.70); established first disease-modifying therapy for ATTR-CM; basis for AHA 2022 Class I recommendation; relevant to HFpEF workup because ATTR-CM is an important HFpEF subphenotype.
+summary: Double-blind RCT (N=441) of tafamidis (transthyretin stabiliser) vs. placebo
+  in ATTR cardiomyopathy; published NEJM 2018; all-cause mortality reduced (risk ratio
+  0.70); established first disease-modifying therapy for ATTR-CM; basis for AHA 2022
+  Class I recommendation; relevant to HFpEF workup because ATTR-CM is an important
+  HFpEF subphenotype.
 entity_type: trial
 tags:
-  - trial
-  - treatment
-  - attr-cm
-  - hfpef
+- trial
+- treatment
+- attr-cm
+- hfpef
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-  - file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
-    citekey: Maurer2018ATTRACT
+- file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
+  citekey: Maurer2018ATTRACT
+page-type: entity-page
 ---
 # ATTR-ACT
 

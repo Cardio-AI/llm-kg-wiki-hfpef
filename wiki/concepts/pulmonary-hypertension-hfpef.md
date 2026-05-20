@@ -1,20 +1,24 @@
 ---
 type: concept
 title: Pulmonary Hypertension in HFpEF
-summary: PH is present in ~50–80% of HFpEF patients (PASP >35 mmHg); ESC classifies as Group 2 PH (LHD); two haemodynamic subtypes — IpcPH (isolated post-capillary; pure passive) and CpcPH (combined pre+post-capillary; with pulmonary vasculopathy); PAC is a stronger outcome predictor than PVR in HFpEF-PH.
+summary: "PH is present in ~50\u201380% of HFpEF patients (PASP >35 mmHg); ESC classifies\
+  \ as Group 2 PH (LHD); two haemodynamic subtypes \u2014 IpcPH (isolated post-capillary;\
+  \ pure passive) and CpcPH (combined pre+post-capillary; with pulmonary vasculopathy);\
+  \ PAC is a stronger outcome predictor than PVR in HFpEF-PH."
 tags:
-  - hfpef
-  - mechanism
-  - diagnosis
-  - pulmonary
-  - haemodynamics
+- hfpef
+- mechanism
+- diagnosis
+- pulmonary
+- haemodynamics
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-  - file: raw/2015-JACC-Al-Naamani-pulmonary-arterial-capacitance.pdf
-    citekey: AlNaamani2015PAC
-  - file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-    citekey: Paulus2013NovelParadigm
+- file: raw/2015-JACC-Al-Naamani-pulmonary-arterial-capacitance.pdf
+  citekey: AlNaamani2015PAC
+- file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
+  citekey: Paulus2013NovelParadigm
+page-type: concept-page
 ---
 # Pulmonary Hypertension in HFpEF
 

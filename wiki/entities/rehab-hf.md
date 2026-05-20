@@ -1,22 +1,27 @@
 ---
 type: entity
 title: REHAB-HF
-summary: Multicentre RCT (N=349) of transitional progressive multidomain rehabilitation in older patients hospitalised for acute decompensated HF (any EF); improved SPPB by 1.5 points and 6MWD by 34 m at 3 months (P<0.001) with no effect on rehospitalisation; HFpEF subgroup showed larger functional gains and benefit on global rank endpoint (death + rehospitalisation + SPPB) vs HFrEF subgroup.
+summary: Multicentre RCT (N=349) of transitional progressive multidomain rehabilitation
+  in older patients hospitalised for acute decompensated HF (any EF); improved SPPB
+  by 1.5 points and 6MWD by 34 m at 3 months (P<0.001) with no effect on rehospitalisation;
+  HFpEF subgroup showed larger functional gains and benefit on global rank endpoint
+  (death + rehospitalisation + SPPB) vs HFrEF subgroup.
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - exercise
-  - rehabilitation
-  - frailty
-  - functional-capacity
+- trial
+- hfpef
+- exercise
+- rehabilitation
+- frailty
+- functional-capacity
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
-    citekey: Kitzman2021REHABHF
-  - file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
-    citekey: Mentz2021REHABHFpEF
+- file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
+  citekey: Kitzman2021REHABHF
+- file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
+  citekey: mentz2021rehabhfhfpef
+page-type: entity-page
 ---
 # REHAB-HF
 

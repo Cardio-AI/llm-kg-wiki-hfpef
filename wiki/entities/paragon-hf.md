@@ -1,18 +1,22 @@
 ---
 type: entity
 title: PARAGON-HF
-summary: RCT of sacubitril/valsartan vs. valsartan in HFpEF (LVEF ≥45%); missed its primary composite endpoint overall but showed a significant EF-by-treatment interaction with benefit in LVEF below the median (~57%), informing FDA endorsement of sacubitril/valsartan for LVEF 'less than normal'.
+summary: "RCT of sacubitril/valsartan vs. valsartan in HFpEF (LVEF \u226545%); missed\
+  \ its primary composite endpoint overall but showed a significant EF-by-treatment\
+  \ interaction with benefit in LVEF below the median (~57%), informing FDA endorsement\
+  \ of sacubitril/valsartan for LVEF 'less than normal'."
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - sacubitril-valsartan
-  - arni
+- trial
+- hfpef
+- sacubitril-valsartan
+- arni
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+page-type: entity-page
 ---
 # PARAGON-HF
 

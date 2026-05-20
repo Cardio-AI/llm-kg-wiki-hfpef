@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Wester 2023 — HFpEF and Sleep-Disordered Breathing: Mechanistic Review"
+title: "Wester 2023 \u2014 HFpEF and Sleep-Disordered Breathing: Mechanistic Review"
 citekey: Wester2023SDB
 year: 2023
 authors: Wester M, Arzt M, Sinha F, Maier LS, Lebek S
@@ -8,19 +8,20 @@ journal: Biomedicines
 study_type: review
 evidence_level: low-moderate
 tags:
-  - sleep-disordered-breathing
-  - obstructive-sleep-apnea
-  - central-sleep-apnea
-  - hfpef
-  - hfpef-phenotypes
-  - camkii
-  - mechanism
-  - review
+- sleep-disordered-breathing
+- obstructive-sleep-apnea
+- central-sleep-apnea
+- hfpef
+- hfpef-phenotypes
+- camkii
+- mechanism
+- review
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-MDPIBioMed-Wester-sleep-disordered_breathing_hfpef_insights.pdf
-    citekey: Wester2023SDB
+- file: raw/2023-MDPIBioMed-Wester-sleep-disordered_breathing_hfpef_insights.pdf
+  citekey: Wester2023SDB
+page-type: source-summary-page
 ---
 # Wester 2023 — Insights into HFpEF and Sleep-Disordered Breathing
 

@@ -1,6 +1,6 @@
 ---
 type: study
-title: PEP-CHF — Perindopril in Elderly People With Chronic Heart Failure
+title: "PEP-CHF \u2014 Perindopril in Elderly People With Chronic Heart Failure"
 citekey: Cleland2006PEPCHF
 year: 2006
 authors: Cleland JGF, Tendera M, Adamus J, et al.
@@ -8,15 +8,16 @@ journal: Eur Heart J
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - treatment
-  - raas
+- trial
+- hfpef
+- treatment
+- raas
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest — no PDF obtained
-    citekey: Cleland2006PEPCHF
+- file: null
+  citekey: Cleland2006PEPCHF
+page-type: source-summary-page
 ---
 # PEP-CHF
 

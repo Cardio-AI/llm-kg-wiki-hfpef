@@ -1,20 +1,22 @@
 ---
 type: source
-title: "Inflammation, Cardiorespiratory Fitness, and Obesity in Heart Failure With Preserved Ejection Fraction"
+title: Inflammation, Cardiorespiratory Fitness, and Obesity in Heart Failure With
+  Preserved Ejection Fraction
 citekey: carbone2024inflammation
 year: 2024
 authors: Carbone S, Lavie CJ, Baldassarre LA, et al.
 journal: JACC Heart Failure
 tags:
-  - editorial
-  - inflammation
-  - exercise-intolerance
-  - obesity
+- editorial
+- inflammation
+- exercise-intolerance
+- obesity
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2024-JACCHeartFail-Carbone-Inflammation_cardiorespiratory_fitness_hfpef.pdf
-    citekey: carbone2024inflammation
+- file: raw/2024-JACCHeartFail-Carbone-Inflammation_cardiorespiratory_fitness_hfpef.pdf
+  citekey: carbone2024inflammation
+page-type: source-summary-page
 ---
 # Inflammation, CRF, and Obesity in HFpEF (Carbone 2024 — Editorial)
 

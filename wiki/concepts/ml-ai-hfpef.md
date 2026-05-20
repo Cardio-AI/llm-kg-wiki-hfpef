@@ -1,23 +1,25 @@
 ---
 type: concept
 title: Machine Learning and AI in HFpEF
-summary: Application of artificial intelligence and machine learning to HFpEF diagnosis, phenotyping, prognosis, and treatment selection
+summary: Application of artificial intelligence and machine learning to HFpEF diagnosis,
+  phenotyping, prognosis, and treatment selection
 tags:
-  - ml-ai
-  - mechanism
-  - diagnosis
-  - hfpef
+- ml-ai
+- mechanism
+- diagnosis
+- hfpef
 created: 2026-05-05
 last_updated: 2026-05-15
 sources:
-  - file: raw/2025-jjcc-Yi-AI_in_HFpEF.pdf
-    citekey: Yi2025AI
-  - file: raw/2025-ESC-Zeid-MyoMobile_study.pdf
-    citekey: Zeid2025MyoMobile
-  - file: raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf
-    citekey: akerman2025ai
-  - file: raw/2019-Lancet-Attia-ECG_AI_AF.pdf
-    citekey: attia2019ecgaf
+- file: raw/2025-jjcc-Yi-AI_in_HFpEF.pdf
+  citekey: Yi2025AI
+- file: raw/2025-ESC-Zeid-MyoMobile_study.pdf
+  citekey: Zeid2025MyoMobile
+- file: raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf
+  citekey: akerman2025ai
+- file: raw/2019-Lancet-Attia-ECG_AI_AF.pdf
+  citekey: attia2019ecgaf
+page-type: concept-page
 ---
 # Machine Learning and AI in HFpEF
 

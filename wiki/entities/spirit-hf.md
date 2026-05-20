@@ -1,18 +1,23 @@
 ---
 type: entity
 title: SPIRIT-HF
-summary: Ongoing RCT of spironolactone vs. placebo in HFpEF; NCT04727073; one of two trials (alongside SPIRRIT NCT02901184) seeking to definitively resolve the MRA question left open by TOPCAT — whether the TOPCAT neutral overall result was due to geographic contamination or true lack of benefit.
+summary: "Ongoing RCT of spironolactone vs. placebo in HFpEF; NCT04727073; one of\
+  \ two trials (alongside SPIRRIT NCT02901184) seeking to definitively resolve the\
+  \ MRA question left open by TOPCAT \u2014 whether the TOPCAT neutral overall result\
+  \ was due to geographic contamination or true lack of benefit."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - mra
-  - treatment
+- hfpef
+- trial
+- mra
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest
-    citekey: [pending — verify on ingest]
+- file: null
+  citekey:
+  - "pending \u2014 verify on ingest"
+page-type: entity-page
 ---
 # SPIRIT-HF
 
@@ -39,7 +44,7 @@ sources:
 
 SPIRIT-HF and [[spirrit]] (NCT02901184) are the two ongoing trials that represent the definitive attempt to answer the MRA question in HFpEF. The background: TOPCAT (N=3,445; 2006–2013) was overall neutral (HR 0.89, P=0.14) but the Americas subgroup showed benefit while the Russia/Georgia sites showed near-zero urinary spironolactone metabolites, suggesting non-compliance or drug substitution. The contamination controversy means TOPCAT cannot be used as definitive evidence either for or against spironolactone in HFpEF. (source: [[pitt2014topcat]])
 
-FINEARTS-HF (finerenone, NEJM 2024) has now provided positive evidence for the non-steroidal MRA class in HFpEF (HR ~0.84, P=0.007). SPIRIT-HF will determine whether the benefit is class-wide (extending to steroidal spironolactone) or specific to finerenone's electrolyte/renal profile. (source: [[finearts-hf]])
+FINEARTS-HF (finerenone, NEJM 2024) has now provided positive evidence for the non-steroidal MRA class in HFpEF (HR ~0.84, P=0.007). SPIRIT-HF will determine whether the benefit is class-wide (extending to steroidal spironolactone) or specific to finerenone's electrolyte/renal profile. (source: [[solomon2024finearts]])
 
 ## Role in HFpEF
 

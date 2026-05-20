@@ -1,23 +1,28 @@
 ---
 type: entity
 title: Spironolactone
-summary: Mineralocorticoid receptor antagonist (MRA); Class I for HFrEF; TOPCAT showed benefit in the Americas subgroup but was neutral overall in HFpEF, with substantial regional heterogeneity raising questions about trial integrity.
+summary: Mineralocorticoid receptor antagonist (MRA); Class I for HFrEF; TOPCAT showed
+  benefit in the Americas subgroup but was neutral overall in HFpEF, with substantial
+  regional heterogeneity raising questions about trial integrity.
 entity_type: drug
 tags:
-  - spironolactone
-  - mra
-  - pharmacotherapy
-  - hfref
-  - hfpef
+- spironolactone
+- mra
+- pharmacotherapy
+- hfref
+- hfpef
 created: 2026-04-30
-last_updated: 2026-05-04
+last_updated: 2026-05-19
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-    citekey: Anker2023HFpEFPhenotype
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
+  citekey: Anker2023HFpEFPhenotype
+- file: raw/2023-ESC-Ferreira-spironolactone_effect_hfpef.pdf
+  citekey: ferreira2023spironolactone
+page-type: entity-page
 ---
 # Spironolactone
 
@@ -56,6 +61,17 @@ Spironolactone was the leading pharmacological candidate for HFpEF given its ant
 
 **HFmrEF:** Retrospective analysis of TOPCAT patients with LVEF 45–55% showed reduced HF hospitalizations with spironolactone. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
 
+**Echocardiographic effects — IPD meta-analysis ([[ferreira2023spironolactone]]):**
+- Pooled individual patient data (IPD) from HOMAGE (N=452), Aldo-DHF (N=398), TOPCAT Americas (N=134); total N=984
+- LAVi: –1.1 mL/m² (P=0.03) — structural LA reverse remodelling
+- LVMi: –3.6 g/m² (P=0.01) — LV mass regression
+- IVS thickness: –0.2 cm (P=0.01) — septal remodelling
+- E/e' ratio: –1.3 (P=0.02; heterogeneity between studies P<0.01) — improved diastolic function
+- LVEF: +1.7% (P<0.01) — modest systolic improvement
+- No significant interaction by trial, sex, age, or comorbidities in any endpoint except E/e' (heterogeneity driven by TOPCAT > HOMAGE/Aldo-DHF)
+- First IPD-level evidence that spironolactone improves cardiac structure and filling pressures in patients without HFrEF; supports the mechanistic rationale for SPIRRIT-HFpEF and SPIRIT-HF
+(source: raw/2023-ESC-Ferreira-spironolactone_effect_hfpef.pdf)
+
 ## Status
 
 | Guideline | HFrEF | HFpEF |
@@ -74,7 +90,7 @@ Spironolactone was the leading pharmacological candidate for HFpEF given its ant
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[guideline-comparison]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[topcat]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2023hfpefphenotype]], [[pitt2014topcat]], [[desai2011topcat]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2023hfpefphenotype]], [[pitt2014topcat]], [[desai2011topcat]], [[ferreira2023spironolactone]]
 
 ## Contradictions
 - TOPCAT overall vs. Americas subgroup results are directly contradictory. Regional data quality in Eastern European cohort is disputed. This is one of the most significant unresolved controversies in HFpEF pharmacotherapy.

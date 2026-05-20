@@ -1,19 +1,21 @@
 ---
 type: source
-title: "CMR-based cardiac phenotyping in different forms of heart failure"
+title: CMR-based cardiac phenotyping in different forms of heart failure
 citekey: lange2024cmr
 year: 2024
-authors: Lange T, Backhaus SJ, Schulz A, Hashem D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A
+authors: "Lange T, Backhaus SJ, Schulz A, Hashem D, Evertz R, Kowallick JT, Hasenfu\xDF\
+  \ G, Kelle S, Schuster A"
 journal: International Journal of Cardiovascular Imaging
 tags:
-  - imaging
-  - diagnosis
-  - hf-phenotype
+- imaging
+- diagnosis
+- hf-phenotype
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-IJCI-Lange-CMR_phenotyping_HF.pdf
-    citekey: lange2024cmr
+- file: raw/2024-IJCI-Lange-CMR_phenotyping_HF.pdf
+  citekey: lange2024cmr
+page-type: source-summary-page
 ---
 # CMR Phenotyping Across HF Subtypes
 

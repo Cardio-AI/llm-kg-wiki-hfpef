@@ -1,22 +1,26 @@
 ---
 type: entity
 title: TOPCAT
-summary: RCT of spironolactone vs. placebo in HFpEF (LVEF ≥45%); neutral overall primary endpoint, but the Americas subgroup showed significant benefit; suspected enrollment contamination in Eastern Europe has made interpretation permanently contested.
+summary: "RCT of spironolactone vs. placebo in HFpEF (LVEF \u226545%); neutral overall\
+  \ primary endpoint, but the Americas subgroup showed significant benefit; suspected\
+  \ enrollment contamination in Eastern Europe has made interpretation permanently\
+  \ contested."
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - spironolactone
-  - mra
+- trial
+- hfpef
+- spironolactone
+- mra
 created: 2026-04-30
 last_updated: 2026-05-15
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2014-NEJM-Pitt-TOPCAT_study.pdf
-    citekey: pitt2014topcat
-  - file: raw/2022-CirculationAHA-Pfeffer-TOPCAT_post_hoc_analysis.pdf
-    citekey: pfeffer2022topcat
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2014-NEJM-Pitt-TOPCAT_study.pdf
+  citekey: pitt2014topcat
+- file: raw/2022-CirculationAHA-Pfeffer-TOPCAT_post_hoc_analysis.pdf
+  citekey: pfeffer2022topcat
+page-type: entity-page
 ---
 # TOPCAT
 

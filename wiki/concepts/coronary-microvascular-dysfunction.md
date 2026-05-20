@@ -1,19 +1,24 @@
 ---
 type: concept
 title: Coronary Microvascular Dysfunction
-summary: Impaired vasodilatory and/or increased vasoconstrictive responses of the coronary microcirculation (vessels <500 µm); proposed as a key intermediate mechanism linking systemic inflammation, comorbidities, and HFpEF — the "common soil" hypothesis (Paulus & Tschöpe 2013, D'Amario 2019); associated with reduced coronary flow reserve, myocardial fibrosis, and diastolic dysfunction.
+summary: "Impaired vasodilatory and/or increased vasoconstrictive responses of the\
+  \ coronary microcirculation (vessels <500 \xB5m); proposed as a key intermediate\
+  \ mechanism linking systemic inflammation, comorbidities, and HFpEF \u2014 the \"\
+  common soil\" hypothesis (Paulus & Tsch\xF6pe 2013, D'Amario 2019); associated with\
+  \ reduced coronary flow reserve, myocardial fibrosis, and diastolic dysfunction."
 tags:
-  - mechanism
-  - hfpef
-  - coronary
-  - inflammation
+- mechanism
+- hfpef
+- coronary
+- inflammation
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-  - file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-    citekey: Paulus2013NovelParadigm
-  - file: raw/2019-FrontPhysiol-DAmario-CMD_in_HFpEF.pdf
-    citekey: D'Amario2019CMD
+- file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
+  citekey: Paulus2013NovelParadigm
+- file: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf
+  citekey: damario2019cmd
+page-type: mechanism-page
 ---
 # Coronary Microvascular Dysfunction
 
@@ -49,7 +54,7 @@ This pathway positions CMD as the mechanistic interface between systemic metabol
 
 ### D'Amario Extension (2019)
 
-D'Amario 2019 (Front. Physiol.) elaborated the "common soil" concept: CMD is not merely a downstream effector but an active driver shared across multiple HFpEF comorbidities. Additional mechanisms: endothelial-to-mesenchymal transition (EndoMT); calcium overload; OSA-associated oxidative stress (OSA prevalence in HFpEF: RR 2.2 for event prediction). (source: raw/2019-FrontPhysiol-DAmario-CMD_in_HFpEF.pdf)
+D'Amario 2019 (Front. Physiol.) elaborated the "common soil" concept: CMD is not merely a downstream effector but an active driver shared across multiple HFpEF comorbidities. Additional mechanisms: endothelial-to-mesenchymal transition (EndoMT); calcium overload; OSA-associated oxidative stress (OSA prevalence in HFpEF: RR 2.2 for event prediction). (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf)
 
 ## Clinical Significance
 

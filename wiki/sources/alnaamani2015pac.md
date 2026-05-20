@@ -1,6 +1,8 @@
 ---
 type: study
-title: Pulmonary Arterial Capacitance Is a Better Predictor of Mortality Than Pulmonary Vascular Resistance and Resting Hemodynamics in Patients With Pulmonary Hypertension due to Left Heart Failure
+title: Pulmonary Arterial Capacitance Is a Better Predictor of Mortality Than Pulmonary
+  Vascular Resistance and Resting Hemodynamics in Patients With Pulmonary Hypertension
+  due to Left Heart Failure
 citekey: AlNaamani2015PAC
 year: 2015
 authors: Al-Naamani N, Preston IR, Paulus JK, Hill NS, Roberts KE
@@ -8,16 +10,17 @@ journal: JACC Heart Failure
 study_type: cohort
 evidence_level: moderate
 tags:
-  - hfpef
-  - pulmonary-hypertension
-  - hemodynamics
-  - biomarker
-  - prognosis
+- hfpef
+- pulmonary-hypertension
+- hemodynamics
+- biomarker
+- prognosis
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2015-JACC-Al-Naamani-pulmonary-arterial-capacitance.pdf
-    citekey: AlNaamani2015PAC
+- file: raw/2015-JACC-Al-Naamani-pulmonary-arterial-capacitance.pdf
+  citekey: AlNaamani2015PAC
+page-type: source-summary-page
 ---
 # Pulmonary Arterial Capacitance in HFpEF+PH (Al-Naamani 2015)
 

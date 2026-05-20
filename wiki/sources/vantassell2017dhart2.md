@@ -1,21 +1,23 @@
 ---
 type: source
-title: "IL-1 Blockade in Patients with Heart Failure With Preserved Ejection Fraction: Rationale and Design of the Diastolic Heart Failure Anakinra Response Trial 2 (D-HART2)"
+title: 'IL-1 Blockade in Patients with Heart Failure With Preserved Ejection Fraction:
+  Rationale and Design of the Diastolic Heart Failure Anakinra Response Trial 2 (D-HART2)'
 citekey: vantassell2017dhart2
 year: 2017
 authors: Van Tassell BW, Buckley LF, Carbone S, et al.
 journal: Clinical Cardiology
 tags:
-  - trial
-  - design
-  - inflammation
-  - treatment
-  - phase-2
+- trial
+- design
+- inflammation
+- treatment
+- phase-2
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2017-WileyClinicalCardiol-VanTassell-D-HART2_study_interleukin-1.pdf
-    citekey: vantassell2017dhart2
+- file: raw/2017-WileyClinicalCardiol-VanTassell-D-HART2_study_interleukin-1.pdf
+  citekey: vantassell2017dhart2
+page-type: source-summary-page
 ---
 # D-HART2 Trial Design: Anakinra (IL-1 Blockade) in HFpEF (Van Tassell 2017)
 

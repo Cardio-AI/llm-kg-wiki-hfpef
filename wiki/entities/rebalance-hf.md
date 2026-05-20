@@ -3,12 +3,13 @@ type: entity
 title: REBALANCE-HF
 citekey: rebalance-hf
 tags:
-  - trial
-  - device
-  - treatment
-  - splanchnic
+- trial
+- device
+- treatment
+- splanchnic
 created: 2026-05-19
 last_updated: 2026-05-19
+page-type: entity-page
 ---
 # REBALANCE-HF
 

@@ -1,27 +1,28 @@
 ---
 type: source
-title: "Timóteo 2024 — Pericardium, Epicardial Adipose Tissue, and HFpEF"
+title: "Tim\xF3teo 2024 \u2014 Pericardium, Epicardial Adipose Tissue, and HFpEF"
 citekey: Timoteo2024EAT
 year: 2024
-authors: Timóteo AT, Barbas Albuquerque F, Lacerda Teixeira B
+authors: "Tim\xF3teo AT, Barbas Albuquerque F, Lacerda Teixeira B"
 journal: Int J Cardiol
 study_type: review
 evidence_level: low-moderate
 tags:
-  - epicardial-adipose-tissue
-  - pericardium
-  - pericardial-restraint
-  - obesity
-  - hfpef
-  - glp1-agonists
-  - sglt2-inhibitors
-  - statins
-  - review
+- epicardial-adipose-tissue
+- pericardium
+- pericardial-restraint
+- obesity
+- hfpef
+- glp1-agonists
+- sglt2-inhibitors
+- statins
+- review
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-IJCard-Timóteo-pericardium_epicardial_adipose_tissue_hf.pdf
-    citekey: Timoteo2024EAT
+- file: "raw/2024-IJCard-Tim\xF3teo-pericardium_epicardial_adipose_tissue_hf.pdf"
+  citekey: Timoteo2024EAT
+page-type: source-summary-page
 ---
 # Timóteo 2024 — Pericardium, Epicardial Adipose Tissue, and HFpEF
 

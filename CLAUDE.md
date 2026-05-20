@@ -64,6 +64,7 @@ html/
 - [[summarize]] — synthesize one topic/source into `wiki/summaries/`
 - [[compare]] — side-by-side analysis of trials/guidelines → `wiki/comparisons/`
 - [[html-generation]] — compile `wiki/` markdown → `html/` site + `graph/` JSON artifacts
+- [[node-graph]] — generate SVG cross-reference graph for any wiki node → `html/<node-name>-graph.svg`
 - [[self-improving-sync]] — propagate canonical page changes to derived artifacts
 - [[lint]] — audit wiki for broken links, missing citations, stale content
 
@@ -115,6 +116,22 @@ Citekeys are stable and Zotero-synced. Format: `AuthorYearKeyword`.
 - Explicit about uncertainty and evidence quality
 - Historical development: trace prior → current understanding with dates in `## History` sections; update `wiki/timeline.md`
 - Standard tags: `mechanism` · `trial` · `diagnosis` · `treatment` · `biomarker` · `imaging` · `guideline` · `ml-ai` · `open-question`
+
+## Page Type Taxonomy
+
+**Each markdown file in `wiki/` must have exactly one page-type tag in frontmatter:**
+- `source-summary-page` — ingested source document summary (named by citekey)
+- `concept-page` — mechanistic or physiological concept, relationships
+- `entity-page` — named thing (drug, trial, biomarker, guideline, tool)
+- `mechanism-page` — molecular or cellular mechanism (subset of concept; use when mechanism warrants standalone depth)
+- `phenotype-page` — patient or disease phenotype (e.g. HFpEF subtypes, patient cohorts)
+
+**Frontmatter example:**
+```yaml
+page-type: entity-page
+```
+
+Metabolic pages, comparisons, queries, and index pages (index.md, overview.md, etc.) are exempt. Tag audit via lint task.
 
 ## Clinical Trials Rule
 

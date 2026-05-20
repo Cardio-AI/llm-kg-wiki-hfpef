@@ -1,5 +1,6 @@
 ---
 type: source
+page-type: source-summary-page
 title: "Interleukin-1 Blockade in Patients With Heart Failure and Preserved Ejection Fraction: a Randomized, Double-Blinded, Placebo-Controlled Pilot Study"
 citekey: vantassell2018dhart2
 year: 2018

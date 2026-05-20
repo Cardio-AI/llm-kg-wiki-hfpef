@@ -1,26 +1,28 @@
 ---
 type: source
-title: "Long-term Hemodynamic Responses and Reverse Remodeling after Pharmacotherapy in HFpEF versus HFrEF (van de Bovenkamp 2025)"
+title: Long-term Hemodynamic Responses and Reverse Remodeling after Pharmacotherapy
+  in HFpEF versus HFrEF (van de Bovenkamp 2025)
 citekey: vanDeBovenkamp2025Hemodynamics
 year: 2025
 authors: van de Bovenkamp AA, Nassiri S, Bakermans AJ, et al.
 journal: Am J Physiol Heart Circ Physiol
 tags:
-  - hfpef
-  - hfref
-  - hemodynamics
-  - reverse-remodeling
-  - pharmacotherapy
-  - raas
-  - beta-blocker
-  - sglt2-inhibitor
-  - systematic-review
-  - meta-analysis
+- hfpef
+- hfref
+- hemodynamics
+- reverse-remodeling
+- pharmacotherapy
+- raas
+- beta-blocker
+- sglt2-inhibitor
+- systematic-review
+- meta-analysis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf
-    citekey: vanDeBovenkamp2025Hemodynamics
+- file: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf
+  citekey: vanDeBovenkamp2025Hemodynamics
+page-type: source-summary-page
 ---
 # Hemodynamic Responses and Reverse Remodeling to Pharmacotherapy: HFpEF vs HFrEF (van de Bovenkamp 2025)
 

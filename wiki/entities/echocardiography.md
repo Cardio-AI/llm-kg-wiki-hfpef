@@ -1,18 +1,25 @@
 ---
 type: entity
 title: Echocardiography
-summary: Transthoracic ultrasound-based cardiac imaging; the primary modality for LVEF measurement, diastolic function assessment, and HFpEF diagnosis; widely available but limited by acoustic windows and inter-observer variability.
+summary: Transthoracic ultrasound-based cardiac imaging; the primary modality for
+  LVEF measurement, diastolic function assessment, and HFpEF diagnosis; no single
+  TTE parameter defines HFpEF; the integration of E/e', LAVi, TRV, GLS, and LA reservoir
+  strain (LASr) provides the most accurate non-invasive estimation of LVFP; exercise
+  echocardiography unmasks exertional LVFP elevation in equivocal cases.
 entity_type: imaging-tool
 tags:
-  - echocardiography
-  - imaging
-  - diagnosis
-  - hfpef
+- echocardiography
+- imaging
+- diagnosis
+- hfpef
 created: 2026-04-30
-last_updated: 2026-04-30
+last_updated: 2026-05-19
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2025-HeartFailRev-Upadhya-role_echocradiography_hfpef.pdf
+  citekey: upadhya2025echo
+page-type: entity-page
 ---
 # Echocardiography
 
@@ -64,32 +71,94 @@ Key markers from ESC 2021 Table 9:
 
 (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
 
+## Advanced Parameters and LA Strain (Upadhya 2025)
+
+Key parameters from comprehensive review (source: [[upadhya2025echo]]):
+
+| Parameter | Utility in HFpEF | Key limitation |
+|---|---|---|
+| E/e' ratio | Best single LVFP estimator; OR per unit 1.22 (CI 1.16-1.30); high specificity (91-98%) at lateral e'>12/13 and septal E/e'>15 | Poor sensitivity (24-37%); not applicable in AF; load-dependent |
+| LASr (LA reservoir strain) | Superior to TRV for LVFP estimation; <18% = third criterion in ASE/EACVI 2016 algorithm when two of three primary criteria unavailable; when LASr <18% added, 99% of patients classified | Requires speckle tracking; lower replicability in clinical practice |
+| LA stiffness (E/e'/LASr) | Best TTE correlate of elevated filling pressures at rest or exercise | Requires speckle tracking |
+| GLS (global longitudinal strain) | Subclinical systolic dysfunction in HFpEF; minor HFA-PEFF criterion (<−16% absolute); correlates with collagen III propeptide (fibrosis marker) | Load-dependent; angle-dependent; cannot be calculated from all echocardiograms |
+| TRV (TR velocity) | Indicator of pulmonary hypertension; >2.8 m/s suggests precapillary cause; one of the three primary 2016 ASE/EACVI criteria | PV Doppler technically not feasible in all patients |
+| LAVi | Chronic diastolic barometer; "hemoglobin A1C of the heart diastolic function" | Misleading in obese HFpEF (larger BSA mathematically decreases LAVi); minimum LAV better reflects chronic LVFP exposure than maximum LAV; in AF, separate sinus rhythm vs. AF cutoffs required |
+
+**LA minimum vs. maximum LAV:** Minimum LAV (not maximum LAV) better reflects chronic LVFP exposure because it captures the LA emptying at its most unloaded state. Patients with permanent AF had LAV 35% greater than sinus rhythm patients in HFpEF, even without LVDD.
+
+### Exercise Echocardiography (Upadhya 2025)
+
+In equivocal HFpEF, exercise echocardiography unmasks:
+- LAVi increase with exercise
+- Mitral E velocity increase
+- E/e' increase (high diagnostic value — "highly demonstrative of HFpEF" at peak stress)
+- e' remains low throughout exercise
+- LA stiffness worsens (LASr decreases during exercise)
+- Peak exercise a' significantly lower in HFpEF
+
+E/e' >14 has high specificity but low sensitivity at rest; during exercise, the E/e' dynamic is more informative as a continuous variable.
+
+### HFpEF Mimickers — TTE Differential Diagnosis (Table 1, Upadhya 2025)
+
+| Condition | Distinguishing TTE features |
+|---|---|
+| Cardiac amyloidosis | ↓LV dimensions, ↑wall thickness, sparkling myocardium, markedly ↓lateral e', ↓GLS with apical sparing; e' remains higher than septal e' |
+| HCM | Asymmetric LVH (septal hypertrophy), >15 mm for diagnosis, dynamic LVOT obstruction, SAM of anterior mitral leaflet |
+| Fabry disease | Hyper-refractile subendocardial border (binary sign), concentric LVH, GLS decreased in basal inferolateral wall |
+| Constrictive pericarditis | Pericardial thickening, diastolic septal bounce, medial e' > lateral e' (annulus reversal), respiratory IVC variation |
+| Stiff LA syndrome | ↑RVSP, absent A wave, large E wave, short DT, no MVD; ↓↓LAsr and contractile strain; extremely small retrograde flow reversal |
+| Precapillary PAH | ↑RVSP, isolated RH hypertension, normal LA size, notching in RV outflow tract pulsed-wave Doppler |
+
+### HFpEF Phenotyping by TTE (Table 4, Upadhya 2025)
+
+| Phenotype | Key TTE signatures |
+|---|---|
+| CAD-HFpEF | LV segmental wall motion, ↑LVMi, ↑E/e', impaired GLS; adenosine stress echo for coronary flow reserve |
+| LA-dysfunction | ↓LVEDV, ↑LAVi; ↓a', ↓A-wave; impaired LA function; ↓LASr at rest or with volume challenge; ↑LA stiffness |
+| RV dysfunction | Right chamber dilation, ↓TAPSE, ↓RV FAC, ↓RV longitudinal strain; TAPSE/RVSP ratio <0.36 mm/mmHg |
+| PH/PVD | ↑PASP, ↑PADP (>4[PR velocity]²+ RAP); ↑PVR; mid-RVOT spectral Doppler notching |
+| Obesity | ↑LV dimensions/mass; biventricular hypertrophy; ↑epicardial fat thickness (perpendicular to RV in parasternal long-axis); pericardial restraint (septal bounce, eccentricity index) |
+
+### LVEF Measurement Challenges (Upadhya 2025)
+
+- Biplane Simpson's or 3D recommended over visual estimates
+- LVEF follows U-shaped mortality curve; lowest mortality at 60–65%; deviation in either direction increases risk
+- Women have higher EF and preserved GLS — LVEF 50% cutoff may underestimate LV dysfunction in women and African American men (who have the lowest normal LVEF, GLS, and circumferential strain)
+- LVH: 88% specific but only 26% sensitive for HFpEF — no longer a fundamental defining feature; both concentric and eccentric LVH present
+- Presence of LVH (via increased LV mass) can falsely increase LVEF by decreasing LV end-diastolic volume
+
 ## Evidence
 
 **Benefits in HFpEF:**
 - Widely available, no radiation, real-time assessment
-- Can assess filling pressures non-invasively (E/e')
+- Can assess filling pressures non-invasively (E/e', LASr)
 - Enables diastolic stress testing without invasive catheterisation
-- Monitors structural changes over time (LA size, LV mass)
+- Phenotyping utility: identifies CAD, LA dysfunction, RV dysfunction, PH, obesity phenotypes
 
 **Drawbacks in HFpEF:**
-- Inter-observer variability in LVEF measurement (~5–10% absolute) can shift patients between phenotype categories
+- Inter-observer variability in LVEF (~5–10% absolute) can shift patients between EF categories
 - Acoustic window limitations (obesity, COPD) reduce image quality
-- E/e' ratio has only moderate diagnostic accuracy for elevated filling pressures (specificity only 59% at threshold >9)
-- Cannot directly measure PCWP or LVEDP — invasive confirmation remains gold standard
+- No single parameter sufficient for diagnosis
+- H₂FPEF sensitivity 52.7%, specificity 82.5%; HFA-PEFF 70%, 90.5%; both output substantial intermediate rates requiring invasive evaluation
+- GLS and LASr require speckle tracking — not universally feasible or reproducible
+- E/e' has only moderate diagnostic accuracy at low thresholds; high-specificity thresholds (>15) have poor sensitivity (~24%)
 
-(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+(source: [[upadhya2025echo]], 2021-ESC-Guidelines-Heart-Failure.pdf)
 
 ## Status
 
-**ESC 2021:** Recommended as the primary imaging modality in the HF diagnostic pathway. Stress echocardiography (diastolic stress test) is Class IIb for equivocal HFpEF cases. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+**ESC 2021:** Primary imaging modality in HF diagnostic pathway. Stress echocardiography Class IIb for equivocal cases.
+**EACVI 2022 multimodality imaging:** LASr added as third substitute criterion to the 2016 algorithm — when LASr <18% is used and the two primary criteria are discordant, 99% of patients are classified.
+
+(source: [[mcdonagh2021esc]], [[upadhya2025echo]])
 
 ## Related Pages
-- Concepts: [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[hf-phenotype-classification]]
-- Entities: [[hfpef]], [[hfref]], [[hfmref]], [[cardiac-mri]], [[atrial-fibrillation]]
-- Sources: [[mcdonagh2021esc]]
+- Concepts: [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[hfpef-phenotype-profiling]]
+- Entities: [[hfpef]], [[hfref]], [[hfmref]], [[cardiac-mri]], [[atrial-fibrillation]], [[attr-cm]]
+- Sources: [[mcdonagh2021esc]], [[upadhya2025echo]], [[reddy2018h2fpef]], [[pieske2019hfapeff]]
 
 ## Contradictions
-- LVEF measured by echocardiography has substantial inter-observer variability; a patient with true LVEF ~50% may be classified as HFrEF, HFmrEF, or HFpEF depending on measurement technique and observer. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- LVEF inter-observer variability: a patient with true LVEF ~50% may be classified as HFrEF, HFmrEF, or HFpEF depending on technique and observer. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **LASr vs. TRV hierarchy (Upadhya 2025):** LASr argued superior to TRV for LVFP estimation; the 2016 algorithm weights them equally. EACVI 2022 includes LASr as a substitute when other criteria are discordant — evolving consensus, not a hard contradiction. See [[contradictions]].
 
 See [[contradictions]].

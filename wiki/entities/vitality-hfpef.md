@@ -1,20 +1,25 @@
 ---
 type: entity
 title: VITALITY-HFpEF
-summary: Phase 2b RCT (N=789) of vericiguat 15 mg or 10 mg vs. placebo in HFpEF (LVEF ≥45%) with recent decompensation; published JAMA 2020 (Armstrong et al.); neutral on KCCQ-PLS (P=0.47/0.80) and 6MWD; large placebo response (+6.9 pts) inflated by post-decompensation recovery; closes sGC stimulator class for HFpEF alongside CAPACITY-HFpEF.
+summary: "Phase 2b RCT (N=789) of vericiguat 15 mg or 10 mg vs. placebo in HFpEF (LVEF\
+  \ \u226545%) with recent decompensation; published JAMA 2020 (Armstrong et al.);\
+  \ neutral on KCCQ-PLS (P=0.47/0.80) and 6MWD; large placebo response (+6.9 pts)\
+  \ inflated by post-decompensation recovery; closes sGC stimulator class for HFpEF\
+  \ alongside CAPACITY-HFpEF."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - cgmp
-  - vericiguat
-  - no-pathway
-  - treatment
+- hfpef
+- trial
+- cgmp
+- vericiguat
+- no-pathway
+- treatment
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-  - file: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf
-    citekey: Armstrong2020VITALITY
+- file: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf
+  citekey: Armstrong2020VITALITY
+page-type: entity-page
 ---
 # VITALITY-HFpEF
 

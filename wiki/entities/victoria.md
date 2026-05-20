@@ -1,18 +1,22 @@
 ---
 type: entity
 title: VICTORIA
-summary: Phase 3 RCT (N=5,050) of vericiguat vs. placebo in HFrEF (LVEF <45%); published NEJM 2020; HR 0.90 (P=0.02) for CV death/HF hospitalisation; positive in HFrEF contrast with neutral VITALITY-HFpEF — illustrates EF-specific divergence of sGC stimulation.
+summary: "Phase 3 RCT (N=5,050) of vericiguat vs. placebo in HFrEF (LVEF <45%); published\
+  \ NEJM 2020; HR 0.90 (P=0.02) for CV death/HF hospitalisation; positive in HFrEF\
+  \ contrast with neutral VITALITY-HFpEF \u2014 illustrates EF-specific divergence\
+  \ of sGC stimulation."
 entity_type: trial
 tags:
-  - trial
-  - hfref
-  - treatment
-  - no-cgmp
+- trial
+- hfref
+- treatment
+- no-cgmp
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest
-    citekey: Armstrong2020VICTORIA
+- file: null
+  citekey: Armstrong2020VICTORIA
+page-type: entity-page
 ---
 # VICTORIA
 

@@ -1,21 +1,23 @@
 ---
 type: study
-title: "DIG-Preserved: Digoxin in Diastolic Heart Failure (Ancillary DIG Trial)"
+title: 'DIG-Preserved: Digoxin in Diastolic Heart Failure (Ancillary DIG Trial)'
 citekey: Ahmed2006DIG
 year: 2006
-authors: Ahmed A, Rich MW, Fleg JL, Zile MR, Young JB, Kitzman DW, Love TE, Aronow WS, Adams KF Jr, Gheorghiade M
+authors: Ahmed A, Rich MW, Fleg JL, Zile MR, Young JB, Kitzman DW, Love TE, Aronow
+  WS, Adams KF Jr, Gheorghiade M
 journal: Circulation
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - digoxin
+- trial
+- hfpef
+- digoxin
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2006-CirculationAHA-Ahmed-DIG_HF.pdf
-    citekey: Ahmed2006DIG
+- file: raw/2006-CirculationAHA-Ahmed-DIG_HF.pdf
+  citekey: Ahmed2006DIG
+page-type: source-summary-page
 ---
 # DIG-Preserved (Ancillary DIG Trial)
 

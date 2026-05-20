@@ -1,19 +1,22 @@
 ---
 type: source
-title: "Sex Differences in Heart Failure With Preserved Ejection Fraction Pathophysiology: A Detailed Invasive Hemodynamic and Echocardiographic Analysis"
+title: 'Sex Differences in Heart Failure With Preserved Ejection Fraction Pathophysiology:
+  A Detailed Invasive Hemodynamic and Echocardiographic Analysis'
 citekey: beale2019sex
 year: 2019
-authors: Beale AL, Nanayakkara S, Segan L, Mariani JA, Maeder MT, van Empel V, Vizi D, Evans S, Lam CSP, Kaye DM
+authors: Beale AL, Nanayakkara S, Segan L, Mariani JA, Maeder MT, van Empel V, Vizi
+  D, Evans S, Lam CSP, Kaye DM
 journal: JACC Heart Failure
 tags:
-  - mechanism
-  - diagnosis
-  - exercise-hemodynamics
+- mechanism
+- diagnosis
+- exercise-hemodynamics
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2019-JACC-Beale-sex_differences_HFpEF.pdf
-    citekey: beale2019sex
+- file: raw/2019-JACC-Beale-sex_differences_HFpEF.pdf
+  citekey: beale2019sex
+page-type: source-summary-page
 ---
 # Sex Differences in Heart Failure With Preserved Ejection Fraction Pathophysiology: A Detailed Invasive Hemodynamic and Echocardiographic Analysis
 

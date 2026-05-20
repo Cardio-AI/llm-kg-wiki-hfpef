@@ -1,20 +1,22 @@
 ---
 type: source
-title: "Splanchnic Nerve Modulation in Heart Failure With Preserved Ejection Fraction: REBALANCE-HF Match-Controlled Pilot Trial"
+title: 'Splanchnic Nerve Modulation in Heart Failure With Preserved Ejection Fraction:
+  REBALANCE-HF Match-Controlled Pilot Trial'
 citekey: fudim2024rebalance
 year: 2024
 authors: Fudim M, Borlaug BA, Slivnick JA, et al.
 journal: JAMA Cardiology
 tags:
-  - trial
-  - device
-  - treatment
-  - sympathetic-nervous-system
+- trial
+- device
+- treatment
+- sympathetic-nervous-system
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2024-JAMACardiol-Fudim-REBALANCE-HF_stduy_endovascular_ablation.pdf
-    citekey: fudim2024rebalance
+- file: raw/2024-JAMACardiol-Fudim-REBALANCE-HF_stduy_endovascular_ablation.pdf
+  citekey: fudim2024rebalance
+page-type: source-summary-page
 ---
 # REBALANCE-HF: Splanchnic Nerve Ablation in HFpEF (Fudim 2024)
 

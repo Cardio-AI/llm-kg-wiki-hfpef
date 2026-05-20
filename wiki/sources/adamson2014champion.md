@@ -1,5 +1,6 @@
 ---
 type: source
+page-type: source-summary-page
 title: "Wireless pulmonary artery pressure monitoring guides management to reduce decompensation in heart failure with preserved ejection fraction"
 citekey: adamson2014champion
 year: 2014

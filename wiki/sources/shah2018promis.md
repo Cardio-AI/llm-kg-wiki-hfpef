@@ -1,24 +1,26 @@
 ---
 type: study
-title: "PROMIS-HFpEF: Coronary Microvascular Dysfunction Prevalence in HFpEF"
+title: 'PROMIS-HFpEF: Coronary Microvascular Dysfunction Prevalence in HFpEF'
 citekey: Shah2018PROMIS
 year: 2018
-authors: Shah SJ, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, Beussink-Nelson L, Ljung-Osterberg L, Fermer ML, Broberg MA, Gan LM, Lund LH
+authors: Shah SJ, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, Beussink-Nelson
+  L, Ljung-Osterberg L, Fermer ML, Broberg MA, Gan LM, Lund LH
 journal: Eur Heart J
 study_type: observational-prospective
 evidence_level: moderate
 tags:
-  - cmd
-  - coronary-microvascular-dysfunction
-  - hfpef
-  - diagnosis
-  - biomarker
-  - imaging
+- cmd
+- coronary-microvascular-dysfunction
+- hfpef
+- diagnosis
+- biomarker
+- imaging
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2018-ESC-Shah-PROMIS-HFpEF_study_cmd_in_hfpef.pdf
-    citekey: Shah2018PROMIS
+- file: raw/2018-ESC-Shah-PROMIS-HFpEF_study_cmd_in_hfpef.pdf
+  citekey: Shah2018PROMIS
+page-type: source-summary-page
 ---
 # PROMIS-HFpEF — CMD Prevalence in HFpEF (Shah 2018)
 

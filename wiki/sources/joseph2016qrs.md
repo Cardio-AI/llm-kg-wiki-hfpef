@@ -1,24 +1,27 @@
 ---
 type: study
-title: "Joseph 2016 — QRS Duration as Predictor of Outcomes in HFpEF (TOPCAT Post-Hoc)"
+title: "Joseph 2016 \u2014 QRS Duration as Predictor of Outcomes in HFpEF (TOPCAT\
+  \ Post-Hoc)"
 citekey: Joseph2016QRS
 year: 2016
-authors: Joseph J, Claggett BC, Anand IS, Fleg JL, Pieske B, Pitt B, Pfeffer MA, Solomon SD
+authors: Joseph J, Claggett BC, Anand IS, Fleg JL, Pieske B, Pitt B, Pfeffer MA, Solomon
+  SD
 journal: JACC Heart Fail
 study_type: post-hoc analysis (TOPCAT)
 evidence_level: moderate
 tags:
-  - ecg
-  - qrs-duration
-  - biomarker
-  - prognosis
-  - hfpef
-  - topcat
+- ecg
+- qrs-duration
+- biomarker
+- prognosis
+- hfpef
+- topcat
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2016-JACCHeartFail-Joseph-QRS_duration_predictor_hfpef.pdf
-    citekey: Joseph2016QRS
+- file: raw/2016-JACCHeartFail-Joseph-QRS_duration_predictor_hfpef.pdf
+  citekey: Joseph2016QRS
+page-type: source-summary-page
 ---
 # Joseph 2016 — QRS Duration as Predictor of Outcomes in HFpEF (TOPCAT)
 

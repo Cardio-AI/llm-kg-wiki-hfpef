@@ -1,6 +1,7 @@
 ---
 type: study
-title: "OptimEx-Clin: High-Intensity Interval Training versus Moderate Continuous Training versus Guideline Control in HFpEF"
+title: 'OptimEx-Clin: High-Intensity Interval Training versus Moderate Continuous
+  Training versus Guideline Control in HFpEF'
 citekey: Mueller2021OptimEx
 year: 2021
 authors: Mueller S, Winzer EB, Duvinage A, et al.
@@ -8,18 +9,19 @@ journal: JAMA
 study_type: RCT
 evidence_level: high
 tags:
-  - hfpef
-  - exercise
-  - hiit
-  - mct
-  - trial
-  - functional-capacity
-  - peak-vo2
+- hfpef
+- exercise
+- hiit
+- mct
+- trial
+- functional-capacity
+- peak-vo2
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
-    citekey: Mueller2021OptimEx
+- file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
+  citekey: Mueller2021OptimEx
+page-type: source-summary-page
 ---
 # OptimEx-Clin
 

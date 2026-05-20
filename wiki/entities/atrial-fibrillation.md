@@ -1,22 +1,26 @@
 ---
 type: entity
 title: Atrial Fibrillation (AF)
-summary: The most common sustained cardiac arrhythmia; both a cause and consequence of HFpEF; associated with elevated LA pressure, atrial fibrosis, and worse outcomes; requires adjusted diagnostic thresholds for natriuretic peptides and LA volume index in HFpEF workup; exercise RHC is the only reliable HFpEF diagnostic in AF.
+summary: The most common sustained cardiac arrhythmia; both a cause and consequence
+  of HFpEF; associated with elevated LA pressure, atrial fibrosis, and worse outcomes;
+  requires adjusted diagnostic thresholds for natriuretic peptides and LA volume index
+  in HFpEF workup; exercise RHC is the only reliable HFpEF diagnostic in AF.
 entity_type: comorbidity
 tags:
-  - atrial-fibrillation
-  - arrhythmia
-  - hfpef
-  - comorbidity
+- atrial-fibrillation
+- arrhythmia
+- hfpef
+- comorbidity
 created: 2026-04-30
 last_updated: 2026-05-15
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-    citekey: Anker2023HFpEFPhenotype
-  - file: raw/2024-NEJM_Reddy-AF_HFpEF_study.pdf
-    citekey: reddy2024afhfpef
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
+  citekey: Anker2023HFpEFPhenotype
+- file: raw/2024-NEJM_Reddy-AF_HFpEF_study.pdf
+  citekey: reddy2024afhfpef
+page-type: entity-page
 ---
 # Atrial Fibrillation
 

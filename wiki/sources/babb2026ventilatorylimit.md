@@ -1,27 +1,30 @@
 ---
 type: study
-title: "Babb 2026 — Ventilatory Limitation to Exercise in HFpEF and Obesity: No Room to Breathe"
+title: "Babb 2026 \u2014 Ventilatory Limitation to Exercise in HFpEF and Obesity:\
+  \ No Room to Breathe"
 citekey: Babb2026VentilatoryLimit
 year: 2026
-authors: Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S
+authors: Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma
+  S
 journal: Respir Physiol Neurobiol
 study_type: randomized crossover
 evidence_level: moderate
 tags:
-  - ventilatory-limitation
-  - exercise-intolerance
-  - dynamic-hyperinflation
-  - expiratory-flow-limitation
-  - obesity
-  - hfpef
-  - nitroglycerin
-  - heart-lung-interactions
-  - pcwp
+- ventilatory-limitation
+- exercise-intolerance
+- dynamic-hyperinflation
+- expiratory-flow-limitation
+- obesity
+- hfpef
+- nitroglycerin
+- heart-lung-interactions
+- pcwp
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2026-RespPhysiolNeuro-Babb-ventilatory_limitation_hfpef_no_room_to_breath.pdf
-    citekey: Babb2026VentilatoryLimit
+- file: raw/2026-RespPhysiolNeuro-Babb-ventilatory_limitation_hfpef_no_room_to_breath.pdf
+  citekey: Babb2026VentilatoryLimit
+page-type: source-summary-page
 ---
 # Babb 2026 — Ventilatory Limitation to Exercise in Obese HFpEF: No Room to Breathe
 
@@ -97,4 +100,4 @@ This is the most direct challenge to the cardiac-centric model of exercise intol
 
 ## Contradictions
 
-Directly challenges the assumption that elevated exercise PCWP is the primary driver of exercise intolerance in obese HFpEF. Lowering PCWP with NTG did not improve exercise capacity. This is a paradigm-shifting finding with implications for the design of exercise-intervention trials in obese HFpEF — targeting cardiac filling pressures alone may be insufficient. Document in [[contradictions.md]].
+Directly challenges the assumption that elevated exercise PCWP is the primary driver of exercise intolerance in obese HFpEF. Lowering PCWP with NTG did not improve exercise capacity. This is a paradigm-shifting finding with implications for the design of exercise-intervention trials in obese HFpEF — targeting cardiac filling pressures alone may be insufficient. Document in [[contradictions]].

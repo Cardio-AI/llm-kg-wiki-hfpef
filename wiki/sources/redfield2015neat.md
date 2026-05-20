@@ -1,23 +1,25 @@
 ---
 type: study
-title: "NEAT-HFpEF: Isosorbide Mononitrate in HFpEF"
+title: 'NEAT-HFpEF: Isosorbide Mononitrate in HFpEF'
 citekey: Redfield2015NEAT
 year: 2015
-authors: Redfield MM, Anstrom KJ, Levine JA, et al. (NHLBI Heart Failure Clinical Research Network)
+authors: Redfield MM, Anstrom KJ, Levine JA, et al. (NHLBI Heart Failure Clinical
+  Research Network)
 journal: New England Journal of Medicine
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - nitrate
-  - no-pathway
-  - accelerometry
+- trial
+- hfpef
+- nitrate
+- no-pathway
+- accelerometry
 created: 2026-04-30
 last_updated: 2026-05-04
 sources:
-  - file: raw/2015-NEJM-Redfield-NEAT-HFpEF_study.pdf
-    citekey: Redfield2015NEAT
+- file: raw/2015-NEJM-Redfield-NEAT-HFpEF_study.pdf
+  citekey: Redfield2015NEAT
+page-type: source-summary-page
 ---
 # NEAT-HFpEF
 

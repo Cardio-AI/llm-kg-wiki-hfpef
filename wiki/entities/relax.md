@@ -1,18 +1,22 @@
 ---
 type: entity
 title: RELAX
-summary: Double-blind RCT (N=216) of sildenafil (PDE5 inhibitor) vs. placebo in HFpEF (LVEF ≥50%); published JAMA 2013; fully neutral on peak VO₂ and all secondary endpoints — part of the series of failed NO/cGMP-pathway trials in HFpEF.
+summary: "Double-blind RCT (N=216) of sildenafil (PDE5 inhibitor) vs. placebo in HFpEF\
+  \ (LVEF \u226550%); published JAMA 2013; fully neutral on peak VO\u2082 and all\
+  \ secondary endpoints \u2014 part of the series of failed NO/cGMP-pathway trials\
+  \ in HFpEF."
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - treatment
-  - no-cgmp
+- trial
+- hfpef
+- treatment
+- no-cgmp
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-  - file: raw/2013-JAMA-Redfield-RELAX_study.pdf
-    citekey: Redfield2013RELAX
+- file: raw/2013-JAMA-Redfield-RELAX_study.pdf
+  citekey: Redfield2013RELAX
+page-type: entity-page
 ---
 # RELAX
 
@@ -59,7 +63,16 @@ The convergent failure of these trials in the full HFpEF population suggests eit
 
 ## Evidence
 
-Primary endpoint: peak VO₂ — no significant difference, sildenafil vs. placebo. All secondary endpoints neutral (6MWT, LVEF, E/e', BNP, KCCQ). No worsening of renal function. Fully negative trial. [Source: Redfield2013RELAX — pending full ingest for exact numbers.]
+| Endpoint | Placebo | Sildenafil | P |
+|---|---|---|---|
+| Peak VO₂ change at 24 wk (mL/kg/min) | −0.20 | −0.20 | 0.90 |
+| 6MWD change (m) | +15.0 | +5.0 | 0.92 |
+| Clinical rank score | 95.8 | 94.2 | 0.85 |
+| MLHFQ change | −8 | −8 | 0.44 |
+
+**Safety signal (sildenafil vs. placebo):** creatinine +0.05 mg/dL (P=0.047); cystatin C increased (P=0.01); NT-proBNP +15 pg/mL (P=0.03); endothelin-1 +0.38 (P=0.046). **cGMP increased** with sildenafil (P=0.006) — target engagement confirmed but no functional benefit.
+
+Baseline: median age 69y, 48% women, BMI 32.9 kg/m², peak VO₂ 11.7 mL/kg/min (41% predicted), 6MWD 308m, NT-proBNP 700 pg/mL, chronotropic incompetence 77%. (source: [[redfield2013relax]])
 
 Hypothesis 7 in Ho 2019: RELAX criteria defined one of 7 HFpEF enrollment definitions applied to the same cohort — enrolled ~50% of the reference cohort (sensitivity ~50%, specificity ~70% for invasive HFpEF). (source: [[ho2019hfpefdefinitions]])
 
@@ -71,7 +84,7 @@ Hypothesis 7 in Ho 2019: RELAX criteria defined one of 7 HFpEF enrollment defini
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
 - Entities: [[hfpef]], [[victoria]], [[socrates-preserved]], [[vitality-hfpef]]
-- Sources: [[armstrong2020vitality]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]]
+- Sources: [[redfield2013relax]], [[armstrong2020vitality]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]]
 
 ## Contradictions
 

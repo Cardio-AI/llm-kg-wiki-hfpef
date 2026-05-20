@@ -1,25 +1,27 @@
 ---
 type: source
-title: "Exercise Training Effects in HFpEF versus HFrEF: Systematic Review and Meta-Analysis (Prokopidis 2025)"
+title: 'Exercise Training Effects in HFpEF versus HFrEF: Systematic Review and Meta-Analysis
+  (Prokopidis 2025)'
 citekey: Prokopidis2025Exercise
 year: 2025
 authors: Prokopidis K, Isanejad M, Akpan A, et al.
 journal: Eur Heart J Open
 tags:
-  - hfpef
-  - hfref
-  - exercise
-  - peak-vo2
-  - 6mwd
-  - systematic-review
-  - meta-analysis
-  - cardiac-output
-  - stroke-volume
+- hfpef
+- hfref
+- exercise
+- peak-vo2
+- 6mwd
+- systematic-review
+- meta-analysis
+- cardiac-output
+- stroke-volume
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2025-ESC-Prokopidis-exercise_HFrEF_vs_HFpEF_systematic_review.pdf
-    citekey: Prokopidis2025Exercise
+- file: raw/2025-ESC-Prokopidis-exercise_HFrEF_vs_HFpEF_systematic_review.pdf
+  citekey: Prokopidis2025Exercise
+page-type: source-summary-page
 ---
 # Exercise Training in HFpEF vs HFrEF (Prokopidis 2025)
 

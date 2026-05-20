@@ -1,22 +1,27 @@
 ---
 type: study
-title: "EMPULSE — Empagliflozin in Patients Hospitalized for Acute Heart Failure"
+title: "EMPULSE \u2014 Empagliflozin in Patients Hospitalized for Acute Heart Failure"
 citekey: Voors2022EMPULSE
 year: 2022
-authors: Voors AA, Angermann CE, Teerlink JR, Collins SP, Kosiborod M, Biegus J, Ferreira JP, Nassif ME, Psotka MA, Tromp J, Borleffs CJW, Ma C, Comin-Colet J, Fu M, Janssens SP, Kiss RG, Mentz RJ, Sakata Y, Schirmer H, Schou M, Schulze PC, Spinarova L, Volterrani M, Wranicz JK, Zeymer U, Zieroth S, Brueckmann M, Blatchford JP, Salsali A, Ponikowski P
+authors: Voors AA, Angermann CE, Teerlink JR, Collins SP, Kosiborod M, Biegus J, Ferreira
+  JP, Nassif ME, Psotka MA, Tromp J, Borleffs CJW, Ma C, Comin-Colet J, Fu M, Janssens
+  SP, Kiss RG, Mentz RJ, Sakata Y, Schirmer H, Schou M, Schulze PC, Spinarova L, Volterrani
+  M, Wranicz JK, Zeymer U, Zieroth S, Brueckmann M, Blatchford JP, Salsali A, Ponikowski
+  P
 journal: Nat Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - acute-hf
-  - sglt2i
-  - treatment
+- trial
+- acute-hf
+- sglt2i
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2022-NatureMed-Voors-EMPULSE_study.pdf
-    citekey: Voors2022EMPULSE
+- file: raw/2022-NatureMed-Voors-EMPULSE_study.pdf
+  citekey: Voors2022EMPULSE
+page-type: source-summary-page
 ---
 # EMPULSE — In-Hospital Empagliflozin in Acute HF (Voors 2022)
 

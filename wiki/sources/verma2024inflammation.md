@@ -1,20 +1,22 @@
 ---
 type: source
-title: "Inflammation and the Effects of Semaglutide in Patients With Heart Failure With Preserved Ejection Fraction: The STEP-HFpEF Program"
+title: 'Inflammation and the Effects of Semaglutide in Patients With Heart Failure
+  With Preserved Ejection Fraction: The STEP-HFpEF Program'
 citekey: verma2024inflammation
 year: 2024
 authors: Verma S, Butler J, Bhatt DL, et al.
 journal: Journal of the American College of Cardiology
 tags:
-  - trial
-  - treatment
-  - biomarker
-  - mechanism
+- trial
+- treatment
+- biomarker
+- mechanism
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-JACC-Verma-STEP-HFpEF_study_inflammation.pdf
-    citekey: verma2024inflammation
+- file: raw/2024-JACC-Verma-STEP-HFpEF_study_inflammation.pdf
+  citekey: verma2024inflammation
+page-type: source-summary-page
 ---
 # Inflammation and the Effects of Semaglutide in Patients With Heart Failure With Preserved Ejection Fraction: The STEP-HFpEF Program
 

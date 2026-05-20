@@ -2,17 +2,21 @@
 type: entity
 subtype: trial
 title: PARAGLIDE-HF
-summary: Prospective comparison of ARNI with ARB Given following stabilization In DEcompensated HFpEF; sacubitril/valsartan vs. valsartan in 467 patients with LVEF >40% and recent worsening HF event; NT-proBNP-based primary endpoint; published 2023.
+summary: Prospective comparison of ARNI with ARB Given following stabilization In
+  DEcompensated HFpEF; sacubitril/valsartan vs. valsartan in 467 patients with LVEF
+  >40% and recent worsening HF event; NT-proBNP-based primary endpoint; published
+  2023.
 tags:
-  - trial
-  - treatment
-  - sacubitril-valsartan
-  - worsening-hf
+- trial
+- treatment
+- sacubitril-valsartan
+- worsening-hf
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2023-JCF-Mentz-PARAGLIDE-HF_study_desing_rationale.pdf
-    citekey: mentz2023paraglide
+- file: raw/2023-JCF-Mentz-PARAGLIDE-HF_study_desing_rationale.pdf
+  citekey: mentz2023paraglide
+page-type: entity-page
 ---
 # PARAGLIDE-HF
 

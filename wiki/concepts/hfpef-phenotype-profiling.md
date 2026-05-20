@@ -1,24 +1,28 @@
 ---
 type: concept
 title: HFpEF Phenotype Profiling
-summary: Two-layer treatment model for HFpEF — SGLT2i universal foundation for all patients, with additional phenotype-guided therapy based on 18 comorbidity phenotypes; operationalised by the HFA/ESC 2023 consensus statement and complementary to the ACC 2023 ECDP.
+summary: "Two-layer treatment model for HFpEF \u2014 SGLT2i universal foundation for\
+  \ all patients, with additional phenotype-guided therapy based on 18 comorbidity\
+  \ phenotypes; operationalised by the HFA/ESC 2023 consensus statement and complementary\
+  \ to the ACC 2023 ECDP."
 tags:
-  - hfpef
-  - phenotype
-  - treatment
-  - comorbidity
-  - mechanism
+- hfpef
+- phenotype
+- treatment
+- comorbidity
+- mechanism
 created: 2026-05-06
 last_updated: 2026-05-14
 sources:
-  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-    citekey: Anker2023HFpEFPhenotype
-  - file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
-    citekey: Kittleson2023ACC
-  - file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-    citekey: borlaug2023statement
-  - file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
-    citekey: manabe2023sympathetic
+- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
+  citekey: Anker2023HFpEFPhenotype
+- file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
+  citekey: Kittleson2023ACC
+- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
+  citekey: borlaug2023statement
+- file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
+  citekey: manabe2023sympathetic
+page-type: phenotype-page
 ---
 # HFpEF Phenotype Profiling
 

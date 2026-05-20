@@ -1,18 +1,21 @@
 ---
 type: entity
 title: EMPULSE
-summary: RCT (N=530) of in-hospital empagliflozin initiation in acute HF across LVEF spectrum; win ratio 1.36 (P=0.0054); established safety and efficacy of SGLT2i initiation during acute HF admission; supports ESC 2023 Class I SGLT2i recommendation.
+summary: RCT (N=530) of in-hospital empagliflozin initiation in acute HF across LVEF
+  spectrum; win ratio 1.36 (P=0.0054); established safety and efficacy of SGLT2i initiation
+  during acute HF admission; supports ESC 2023 Class I SGLT2i recommendation.
 entity_type: trial
 tags:
-  - trial
-  - treatment
-  - sglt2i
-  - acute-hf
+- trial
+- treatment
+- sglt2i
+- acute-hf
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-  - file: raw/2022-NatureMed-Voors-EMPULSE_study.pdf
-    citekey: Voors2022EMPULSE
+- file: raw/2022-NatureMed-Voors-EMPULSE_study.pdf
+  citekey: Voors2022EMPULSE
+page-type: entity-page
 ---
 # EMPULSE
 

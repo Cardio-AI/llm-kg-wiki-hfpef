@@ -1,22 +1,24 @@
 ---
 type: source
-title: "Microvascular Dysfunction in HFpEF (D'Amario 2019)"
-citekey: D'Amario2019CMD
+title: Microvascular Dysfunction in HFpEF (D'Amario 2019)
+citekey: damario2019cmd
 year: 2019
-authors: "D'Amario D, Migliaro S, Borovac JA, Restivo A, Vergallo R, Galli M, Leone AM, Montone RA, Niccoli G, Aspromonte N, Crea F"
+authors: D'Amario D, Migliaro S, Borovac JA, Restivo A, Vergallo R, Galli M, Leone
+  AM, Montone RA, Niccoli G, Aspromonte N, Crea F
 journal: Frontiers in Physiology
 tags:
-  - hfpef
-  - review
-  - pathophysiology
-  - microvascular-dysfunction
-  - cmd
-  - cellular-mechanisms
+- hfpef
+- review
+- pathophysiology
+- microvascular-dysfunction
+- cmd
+- cellular-mechanisms
 created: 2026-05-06
-last_updated: 2026-05-06
+last_updated: 2026-05-19
 sources:
-  - file: "raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf"
-    citekey: D'Amario2019CMD
+- file: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf
+  citekey: damario2019cmd
+page-type: source-summary-page
 ---
 # Microvascular Dysfunction in HFpEF
 

@@ -1,21 +1,30 @@
 ---
 type: entity
 title: FINEARTS-HF
-summary: Phase III RCT of finerenone (non-steroidal mineralocorticoid receptor antagonist) vs. placebo in HFmrEF/HFpEF (LVEF ≥40%); N=6001; median 32 months; RR 0.84 (95% CI 0.74–0.95; P=0.007) for total WHF events + CV death — first non-steroidal MRA and first pharmacological class beyond SGLT2i to show outcome benefit in HFpEF.
+summary: "Phase III RCT of finerenone (non-steroidal mineralocorticoid receptor antagonist)\
+  \ vs. placebo in HFmrEF/HFpEF (LVEF \u226540%); N=6001; median 32 months; RR 0.84\
+  \ (95% CI 0.74\u20130.95; P=0.007) for total WHF events + CV death \u2014 first\
+  \ non-steroidal MRA and first pharmacological class beyond SGLT2i to show outcome\
+  \ benefit in HFpEF."
 entity_type: trial
 tags:
-  - hfpef
-  - hfmref
-  - trial
-  - mra
-  - finerenone
-  - treatment
-  - outcomes
+- hfpef
+- hfmref
+- trial
+- mra
+- finerenone
+- treatment
+- outcomes
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-19
 sources:
-  - file: raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf
-    citekey: Solomon2024FINEARTS
+- file: raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf
+  citekey: Solomon2024FINEARTS
+- file: raw/2025-JCF-Turgeon-FINEARTS-HF_restoration_steroidal_mieralocorticoid.pdf
+  citekey: turgeon2025finearts
+- file: raw/2026-ESC-Sauer-pharmacological_options_and_needs_hfpef_hfmref.pdf
+  citekey: sauer2026pharmacological
+page-type: entity-page
 ---
 # FINEARTS-HF
 
@@ -78,6 +87,31 @@ No formal guideline update yet incorporating FINEARTS-HF results (post-dates ESC
 - Entities: [[topcat]], [[aldo-dhf]], [[hfpef]], [[hfmref]]
 - Sources: [[solomon2024finearts]], [[pitt2014topcat]], [[edelmann2013aldodhf]], [[anker2023hfpefphenotype]]
 
+## MRA Class Effect — Turgeon 2025 Bayesian Analysis
+
+Turgeon & Beavers (J Cardiac Failure 2025;31:603–605) performed a Bayesian re-analysis of TOPCAT using FINEARTS-HF results as a strong prior — arguing FINEARTS-HF proves an MRA class effect and restores confidence in spironolactone as a viable alternative when finerenone is unaffordable.
+
+**Bayesian posterior results (FINEARTS-HF as prior; Turgeon 2025):**
+
+| Analysis | Posterior HR (95% CrI) | P(HR<1) | P(HR<0.95, clinically relevant) |
+|---|---|---|---|
+| TOPCAT overall | 0.87 (0.79–0.94) | 100% | 98% |
+| TOPCAT-Americas | 0.85 (0.77–0.93) | 100% | 99% |
+
+Pooled FINEARTS-HF + TOPCAT meta-analysis: HR 0.87 (95% CI 0.79–0.95) for CV death/HF hospitalisation = ~1.5% absolute risk reduction over ~3 years.
+
+**Access/cost argument:** Finerenone ~$3.61/day vs. spironolactone ~$0.15/day (Canada) — ~24× cost difference. For patients without coverage or income, spironolactone remains the only accessible MRA. The Bayesian posterior data support using spironolactone when finerenone is inaccessible.
+
+**MRA class effect:** No between-drug differences in hemodynamic or biochemical safety. Gynecomastia/sexual side effects isolated to spironolactone (androgen receptor); not eplerenone or finerenone. The theoretical safety advantage of finerenone over sMRAs is not confirmed by trial outcome data.
+
+(source: [[turgeon2025finearts]])
+
+**Emerging MRA alternatives (Sauer 2026):**
+- **Balcinrenone** (MR modulator): BALANCED-HF Phase 3 (~N=4800) ongoing with dapagliflozin — see [[balcinrenone]]
+- **Vicadrostat** (ASI, CYP11B2 inhibitor): EASi-HF Phase 3 (~N=6000) ongoing with empagliflozin — see [[vicadrostat]]
+
+(source: [[sauer2026pharmacological]])
+
 ## Contradictions
 
-TOPCAT (neutral overall HR 0.89 P=0.14) vs. FINEARTS-HF (positive RR 0.84 P=0.007): different drugs (spironolactone vs. finerenone), geographic contamination resolved, eGFR threshold pre-specified. Whether benefit is drug-specific or trial-execution-specific remains debated. See [[contradictions]] #21.
+TOPCAT (neutral overall HR 0.89 P=0.14) vs. FINEARTS-HF (positive RR 0.84 P=0.007): different drugs (spironolactone vs. finerenone), geographic contamination resolved, eGFR threshold pre-specified. Turgeon 2025 Bayesian re-analysis substantially resolves this tension — posterior probability of any spironolactone benefit = 100% when FINEARTS-HF used as prior. Whether benefit is drug-specific or class-level is now strongly favoured as class-level. See [[contradictions]] #21.

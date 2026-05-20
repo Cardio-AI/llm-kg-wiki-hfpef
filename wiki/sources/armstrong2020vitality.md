@@ -1,6 +1,6 @@
 ---
 type: study
-title: "VITALITY-HFpEF: Vericiguat in HFpEF"
+title: 'VITALITY-HFpEF: Vericiguat in HFpEF'
 citekey: Armstrong2020VITALITY
 year: 2020
 authors: Armstrong PW, Lam CSP, Anstrom KJ, et al. (VITALITY-HFpEF Study Group)
@@ -8,16 +8,17 @@ journal: JAMA
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - cgmp
-  - vericiguat
-  - no-pathway
+- trial
+- hfpef
+- cgmp
+- vericiguat
+- no-pathway
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf
-    citekey: Armstrong2020VITALITY
+- file: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf
+  citekey: Armstrong2020VITALITY
+page-type: source-summary-page
 ---
 # VITALITY-HFpEF
 
@@ -139,6 +140,7 @@ sources:
 - 21-country geographic distribution: 71% European centres — may not represent global HFpEF burden
 
 ## Connections
+- Supports: [[vitality-hfpef]] (entity page) — primary source for VITALITY-HFpEF trial results
 - NO/cGMP pathway: together with [[udelson2020capacity]] (praliciguat, same JAMA issue) closes sGC stimulator class for HFpEF
 - SOCRATES-PRESERVED → VITALITY-HFpEF: phase 2a signal not confirmed despite enhanced design; classic biomarker signal not translating to clinical benefit
 - Contrast VICTORIA: vericiguat positive in HFrEF (HR 0.90, NEJM 2020) but neutral in HFpEF — EF-dependent cGMP biology
@@ -154,7 +156,7 @@ sources:
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]]
+- Entities: [[vitality-hfpef]], [[hfpef]]
 - Sources: [[udelson2020capacity]], [[redfield2015neat]], [[zamani2015indie]], [[massie2008ipreserve]]
 
 ## Contradictions

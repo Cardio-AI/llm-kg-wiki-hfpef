@@ -1,6 +1,7 @@
 ---
 type: study
-title: Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity (SUMMIT)
+title: Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity
+  (SUMMIT)
 citekey: Packer2025SUMMIT
 year: 2025
 authors: Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group
@@ -8,16 +9,17 @@ journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - glp1ra
-  - treatment
-  - obesity
+- trial
+- hfpef
+- glp1ra
+- treatment
+- obesity
 created: 2026-05-13
 last_updated: 2026-05-16
 sources:
-  - file: raw/2025-NEJM-Packer-SUMMIT_primary.pdf
-    citekey: Packer2025SUMMIT
+- file: raw/2025-NEJM-Packer-SUMMIT_primary.pdf
+  citekey: Packer2025SUMMIT
+page-type: source-summary-page
 ---
 # Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity — SUMMIT
 

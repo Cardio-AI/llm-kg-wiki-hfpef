@@ -1,26 +1,30 @@
 ---
 type: study
-title: "Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen Consumption and Quality of Life in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial (SECRET)"
+title: 'Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen
+  Consumption and Quality of Life in Obese Older Patients With Heart Failure With
+  Preserved Ejection Fraction: A Randomized Clinical Trial (SECRET)'
 citekey: Kitzman2016SECRET
 year: 2016
-authors: "Kitzman DW, Brubaker P, Morgan T, Haykowsky M, Hundley G, Kraus WE, Eggebeen J, Nicklas BJ"
-journal: "JAMA"
+authors: Kitzman DW, Brubaker P, Morgan T, Haykowsky M, Hundley G, Kraus WE, Eggebeen
+  J, Nicklas BJ
+journal: JAMA
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - exercise-capacity
-  - caloric-restriction
-  - diet
-  - exercise-training
-  - obesity
-  - treatment
+- trial
+- hfpef
+- exercise-capacity
+- caloric-restriction
+- diet
+- exercise-training
+- obesity
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2015-JAMA-Kitzman-SECRET_study.pdf
-    citekey: Kitzman2016SECRET
+- file: raw/2015-JAMA-Kitzman-SECRET_study.pdf
+  citekey: Kitzman2016SECRET
+page-type: source-summary-page
 ---
 # SECRET (Kitzman 2016)
 

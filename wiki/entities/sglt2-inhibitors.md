@@ -1,24 +1,34 @@
 ---
 type: entity
 title: SGLT2 Inhibitors
-summary: Sodium-glucose co-transporter 2 inhibitors (dapagliflozin, empagliflozin); Class I, Level A for all HFrEF (ESC 2021); Class I, Level A for HFpEF and HFmrEF (ESC 2023 Focused Update); Class 2a, B-R for HFpEF (AHA 2022); first pharmacological therapy with Class I guideline endorsement for HFpEF.
+summary: Sodium-glucose co-transporter 2 inhibitors (dapagliflozin, empagliflozin);
+  Class I, Level A for all HFrEF (ESC 2021); Class I, Level A for HFpEF and HFmrEF
+  (ESC 2023 Focused Update); Class 2a, B-R for HFpEF (AHA 2022); first pharmacological
+  therapy with Class I guideline endorsement for HFpEF.
 entity_type: drug
 tags:
-  - sglt2-inhibitors
-  - pharmacotherapy
-  - hfref
-  - hfpef
+- sglt2-inhibitors
+- pharmacotherapy
+- hfref
+- hfpef
 created: 2026-04-30
-last_updated: 2026-05-04
+last_updated: 2026-05-19
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
-    citekey: Ferreira2026Emperor
-  - file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
-    citekey: McDonagh2023ESCupdate
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+- file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
+  citekey: Ferreira2026Emperor
+- file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
+  citekey: McDonagh2023ESCupdate
+- file: raw/2025-BMC-CardiovasDisease-Minisy-SGLT2-role_systematic_review.pdf
+  citekey: minisy2025sglt2
+- file: raw/2025-EJMR-Albulushi-SGLT2-inhibtors_diabetic_hfpef.pdf
+  citekey: albulushi2025sglt2fibrosis
+- file: raw/2024-BMCCardiovascDis-Gonzalez-SGLT2_inhibitors_trend_2013-2021.pdf
+  citekey: gonzalez2024sglt2trends
+page-type: entity-page
 ---
 # SGLT2 Inhibitors
 
@@ -65,6 +75,35 @@ The former discordance between ESC 2021 and AHA 2022 was explained by publicatio
 - **Serum Mg interaction** ([[ferreira2026emperor]]): Secondary analysis of EMPEROR-Preserved showing empagliflozin raises serum Mg; higher baseline Mg → greater relative treatment benefit in HFpEF. Mechanism unclear; opposite direction from HFrEF data. (source: 2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf)
 - **CV risk reduction in T2DM**: Class I, Level A for patients with T2DM at CV risk or established CVD (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
 
+**Class effect meta-analysis ([[minisy2025sglt2]]):**
+- 9 RCTs, >20,000 patients (CHIEF-HF, DEFINE-HF, DELIVER, DETERMINE-Preserved, EMPEROR-Pooled, EMPEROR-Preserved, EMPULSE, PRESERVED-HF, SOLOIST-WHF); searched through June 2025
+- CV death or HHF: **HR 0.83 (95% CI 0.76–0.90; P<0.0001)** — GRADE high certainty
+- HHF alone: **HR 0.75 (0.68–0.84)** — GRADE high certainty
+- All-cause mortality: HR 0.92 (0.85–1.01; NS) — GRADE low certainty
+- KCCQ improvement: +1.8 points vs. placebo — GRADE moderate
+- Moderate heterogeneity (I²=62%); no funnel plot asymmetry (Egger); no publication bias
+- Mortality neutrality reflects heterogeneous HFpEF phenotypes + competing non-CV death, not necessarily absence of effect (HR directionally favorable)
+(source: raw/2025-BMC-CardiovasDisease-Minisy-SGLT2-role_systematic_review.pdf)
+
+**Antifibrotic mechanism — myocardial ECV ([[albulushi2025sglt2fibrosis]]):**
+- Multicenter double-blind RCT; N=100 HFpEF+T2DM; dapagliflozin 10 mg vs. placebo; 12 months; serial CMR T1 mapping
+- Primary: ΔECV: **–3.5% (CI –4.2 to –2.8) vs. –0.8% (P<0.001)** — progressive separation from 6 months
+- Secondary: ΔLVMI –8.2 vs. –2.1 g/m² (P=0.002); ΔLVEF +3.8 vs. +1.5% (P=0.02); Δ6MWT +45 vs. +10m (P=0.01); ΔNT-proBNP –210 vs. –50 pg/mL (P=0.008)
+- HF hospitalization: 4% vs. 12% (P=0.03)
+- Proposed mechanisms: TGF-β pathway inhibition, oxidative stress reduction, metalloproteinase/TIMP remodelling, direct cardiomyocyte SGLT2 effects, synergy with concurrent MRA therapy (64–68% background MRA use)
+- First prospective serial CMR evidence for SGLT2i-mediated myocardial fibrosis regression in HFpEF; supports ECV as surrogate endpoint for antifibrotic trials
+(source: raw/2025-EJMR-Albulushi-SGLT2-inhibtors_diabetic_hfpef.pdf)
+
+## Implementation Gap
+
+**Real-world prescribing trends ([[gonzalez2024sglt2trends]]):**
+- US claims data (Merative MarketScan); January 2020–June 2023; N=218,066 HFrEF + 150,437 HFpEF with incident HF
+- HFpEF overall SGLT2i uptake: 0.5% (Jan 2020) → 9.9% (Jun 2023) — steeply rising after EMPEROR-Preserved (Aug 2021) and DELIVER (Aug 2022)
+- HFpEF with T2DM: ~20% by Jun 2023; HFpEF without T2DM: ~1.2% — **17-fold gap** at latest time point
+- Non-diabetic HFpEF prescribing essentially flat despite strong trial evidence (the final data point, Jun 2023, precedes the ESC 2023 Focused Update; clinician mental model of SGLT2i as a diabetes drug persists)
+- Canagliflozin prescribing collapsed after CANVAS safety concerns; dapagliflozin + empagliflozin dominate
+(source: raw/2024-BMCCardiovascDis-Gonzalez-SGLT2_inhibitors_trend_2013-2021.pdf)
+
 ## Status
 
 | Guideline | HFrEF | HFmrEF | HFpEF |
@@ -84,7 +123,7 @@ The former discordance between ESC 2021 and AHA 2022 was explained by publicatio
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[guideline-comparison]]
 - Entities: [[hfref]], [[hfpef]], [[hfmref]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[ferreira2026emperor]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[ferreira2026emperor]], [[minisy2025sglt2]], [[albulushi2025sglt2fibrosis]], [[gonzalez2024sglt2trends]], [[requenaibanez2022sglt2]]
 
 ## Contradictions
 - **ESC 2021 (no recommendation) vs. AHA 2022 (Class 2a)** for HFpEF: same underlying evidence (EMPEROR-Preserved, DELIVER), different publication timing. See [[guideline-comparison]].

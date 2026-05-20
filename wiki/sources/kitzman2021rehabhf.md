@@ -1,6 +1,7 @@
 ---
 type: study
-title: "REHAB-HF: Transitional, Progressive, Multidomain Rehabilitation for Older Patients with Acute Decompensated Heart Failure"
+title: 'REHAB-HF: Transitional, Progressive, Multidomain Rehabilitation for Older
+  Patients with Acute Decompensated Heart Failure'
 citekey: Kitzman2021REHABHF
 year: 2021
 authors: Kitzman DW, Whellan DJ, Duncan P, et al.
@@ -8,18 +9,19 @@ journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - hfpef
-  - exercise
-  - rehabilitation
-  - frailty
-  - trial
-  - functional-capacity
-  - physical-performance
+- hfpef
+- exercise
+- rehabilitation
+- frailty
+- trial
+- functional-capacity
+- physical-performance
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
-    citekey: Kitzman2021REHABHF
+- file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
+  citekey: Kitzman2021REHABHF
+page-type: source-summary-page
 ---
 # REHAB-HF
 

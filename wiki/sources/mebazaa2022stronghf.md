@@ -1,23 +1,28 @@
 ---
 type: study
-title: "STRONG-HF — Safety, Tolerability, and Efficacy of Up-Titration of GDMT in Acute Heart Failure"
+title: "STRONG-HF \u2014 Safety, Tolerability, and Efficacy of Up-Titration of GDMT\
+  \ in Acute Heart Failure"
 citekey: Mebazaa2022STRONGHF
 year: 2022
-authors: Mebazaa A, Davison B, Chioncel O, Edwards C, Sliwa K, Damasceno A, Athanasakis K, Ezekowitz J, Perrone SV, Herrera-Garza EH, Gayat E, Ponikowski P, Arrigo M, Maggioni A, Peacock F, Diaz R, Metra M, Cleland JGF, Voors AA, Zannad F, Nieminen M, Filippatos G, Anker SD, Celutkiene J
+authors: Mebazaa A, Davison B, Chioncel O, Edwards C, Sliwa K, Damasceno A, Athanasakis
+  K, Ezekowitz J, Perrone SV, Herrera-Garza EH, Gayat E, Ponikowski P, Arrigo M, Maggioni
+  A, Peacock F, Diaz R, Metra M, Cleland JGF, Voors AA, Zannad F, Nieminen M, Filippatos
+  G, Anker SD, Celutkiene J
 journal: Lancet
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - acute-hf
-  - treatment
-  - guideline
-  - gdmt
+- trial
+- acute-hf
+- treatment
+- guideline
+- gdmt
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf
-    citekey: Mebazaa2022STRONGHF
+- file: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf
+  citekey: Mebazaa2022STRONGHF
+page-type: source-summary-page
 ---
 # STRONG-HF — Rapid GDMT Uptitration in Acute HF (Mebazaa 2022)
 

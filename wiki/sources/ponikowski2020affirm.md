@@ -1,24 +1,30 @@
 ---
 type: study
-title: "Ponikowski 2020 — AFFIRM-AHF: Ferric Carboxymaltose After Acute HF (Primarily HFrEF)"
+title: "Ponikowski 2020 \u2014 AFFIRM-AHF: Ferric Carboxymaltose After Acute HF (Primarily\
+  \ HFrEF)"
 citekey: Ponikowski2020AFFIRM
 year: 2020
-authors: Ponikowski P, Kirwan BA, Anker SD, McDonagh T, Dorobantu M, Drozdz J, Fabien V, Filippatos G, Göhring UM, Keren A, Khintibidze I, Kragten H, Martinez FA, Metra M, Milicic D, Mirtovska L, Nikolaou M, Ohlsson M, Parkhomenko A, Pascual-Figal D, Ruschitzka F, Sim D, Skouri H, van der Meer P, van Veldhuisen DJ, Wysocki P, Zelentsenkova V, Zeymer U, Lewis BS; AFFIRM-AHF Investigators
+authors: "Ponikowski P, Kirwan BA, Anker SD, McDonagh T, Dorobantu M, Drozdz J, Fabien\
+  \ V, Filippatos G, G\xF6hring UM, Keren A, Khintibidze I, Kragten H, Martinez FA,\
+  \ Metra M, Milicic D, Mirtovska L, Nikolaou M, Ohlsson M, Parkhomenko A, Pascual-Figal\
+  \ D, Ruschitzka F, Sim D, Skouri H, van der Meer P, van Veldhuisen DJ, Wysocki P,\
+  \ Zelentsenkova V, Zeymer U, Lewis BS; AFFIRM-AHF Investigators"
 journal: Lancet
 study_type: randomized controlled trial
 evidence_level: high
 tags:
-  - iron-deficiency
-  - ferric-carboxymaltose
-  - acute-heart-failure
-  - hfref
-  - trial
-  - iv-iron
+- iron-deficiency
+- ferric-carboxymaltose
+- acute-heart-failure
+- hfref
+- trial
+- iv-iron
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2020-LANCET-Ponikowski-AFFIRM-AHF_study_ferric_carboxymaltose_for_hf.pdf
-    citekey: Ponikowski2020AFFIRM
+- file: raw/2020-LANCET-Ponikowski-AFFIRM-AHF_study_ferric_carboxymaltose_for_hf.pdf
+  citekey: Ponikowski2020AFFIRM
+page-type: source-summary-page
 ---
 # Ponikowski 2020 — AFFIRM-AHF: IV Iron After Acute HF
 

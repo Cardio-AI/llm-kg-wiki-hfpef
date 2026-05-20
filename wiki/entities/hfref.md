@@ -1,17 +1,19 @@
 ---
 type: entity
-title: HFrEF — Heart Failure with Reduced Ejection Fraction
-summary: Heart failure with LVEF ≤40%; the phenotype with the strongest evidence base and four guideline-endorsed pillars of mortality-reducing therapy.
+title: "HFrEF \u2014 Heart Failure with Reduced Ejection Fraction"
+summary: "Heart failure with LVEF \u226440%; the phenotype with the strongest evidence\
+  \ base and four guideline-endorsed pillars of mortality-reducing therapy."
 entity_type: phenotype
 tags:
-  - hfref
-  - heart-failure
-  - phenotype
+- hfref
+- heart-failure
+- phenotype
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+page-type: entity-page
 ---
 # HFrEF
 

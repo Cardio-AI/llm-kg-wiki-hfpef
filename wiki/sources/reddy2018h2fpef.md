@@ -1,20 +1,21 @@
 ---
 type: source
-title: "H₂FPEF Score: A Simple Diagnostic Score for HFpEF"
+title: "H\u2082FPEF Score: A Simple Diagnostic Score for HFpEF"
 citekey: Reddy2018H2FPEF
 year: 2018
 authors: Reddy YNV, Carter RE, Obokata M, Redfield MM, Borlaug BA
 journal: Circulation
 tags:
-  - diagnosis
-  - hfpef
-  - scoring
-  - echocardiography
+- diagnosis
+- hfpef
+- scoring
+- echocardiography
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf
-    citekey: Reddy2018H2FPEF
+- file: raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf
+  citekey: Reddy2018H2FPEF
+page-type: source-summary-page
 ---
 # H₂FPEF Score
 

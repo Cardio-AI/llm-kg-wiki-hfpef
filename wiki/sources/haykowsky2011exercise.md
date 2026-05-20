@@ -1,6 +1,6 @@
 ---
 type: study
-title: "Haykowsky 2011 — Determinants of Exercise Intolerance in Elderly HFpEF"
+title: "Haykowsky 2011 \u2014 Determinants of Exercise Intolerance in Elderly HFpEF"
 citekey: Haykowsky2011Exercise
 year: 2011
 authors: Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW
@@ -8,17 +8,18 @@ journal: J Am Coll Cardiol
 study_type: observational
 evidence_level: moderate
 tags:
-  - exercise-intolerance
-  - cardiopulmonary-exercise-testing
-  - hfpef
-  - cardiac-output
-  - peripheral-mechanisms
-  - mechanism
+- exercise-intolerance
+- cardiopulmonary-exercise-testing
+- hfpef
+- cardiac-output
+- peripheral-mechanisms
+- mechanism
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf
-    citekey: Haykowsky2011Exercise
+- file: raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf
+  citekey: Haykowsky2011Exercise
+page-type: source-summary-page
 ---
 # Haykowsky 2011 — Determinants of Exercise Intolerance in HFpEF
 

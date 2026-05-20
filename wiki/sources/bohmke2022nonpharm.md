@@ -1,22 +1,24 @@
 ---
 type: source
-title: "Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction (Bohmke 2022)"
+title: Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction
+  (Bohmke 2022)
 citekey: Bohmke2022Nonpharm
 year: 2022
 authors: Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S
 journal: Cardiol Clin
 tags:
-  - hfpef
-  - exercise
-  - treatment
-  - rehabilitation
-  - diet
-  - review
+- hfpef
+- exercise
+- treatment
+- rehabilitation
+- diet
+- review
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
-    citekey: Bohmke2022Nonpharm
+- file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
+  citekey: Bohmke2022Nonpharm
+page-type: source-summary-page
 ---
 # Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction
 

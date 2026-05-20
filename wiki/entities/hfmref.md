@@ -1,19 +1,22 @@
 ---
 type: entity
-title: HFmrEF — Heart Failure with Mildly Reduced Ejection Fraction
-summary: Heart failure with LVEF 41–49%, renamed from 'mid-range' in the 2021 ESC Guidelines; a heterogeneous, poorly characterised group where all pharmacological recommendations are Class IIb, Level C.
+title: "HFmrEF \u2014 Heart Failure with Mildly Reduced Ejection Fraction"
+summary: "Heart failure with LVEF 41\u201349%, renamed from 'mid-range' in the 2021\
+  \ ESC Guidelines; a heterogeneous, poorly characterised group where all pharmacological\
+  \ recommendations are Class IIb, Level C."
 entity_type: phenotype
 tags:
-  - hfmref
-  - heart-failure
-  - phenotype
+- hfmref
+- heart-failure
+- phenotype
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
-    citekey: Savarese2022GlobalBurden
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
+  citekey: Savarese2022GlobalBurden
+page-type: entity-page
 ---
 # HFmrEF
 

@@ -1,24 +1,27 @@
 ---
 type: study
-title: "STEP-HFpEF DM — Semaglutide in Obesity-Related HFpEF with Type 2 Diabetes"
+title: "STEP-HFpEF DM \u2014 Semaglutide in Obesity-Related HFpEF with Type 2 Diabetes"
 citekey: Kosiborod2024STEPHFPEFDM
 year: 2024
-authors: Kosiborod MN, Abildstrom SZ, Borlaug BA, Butler J, Davies MJ, Hovingh GK, Kitzman DW, Lindegaard ML, Møller DV, de Boer RA, Shah SJ, Jhund PS, Desai AS, Lam CSP, McMurray JJV
+authors: "Kosiborod MN, Abildstrom SZ, Borlaug BA, Butler J, Davies MJ, Hovingh GK,\
+  \ Kitzman DW, Lindegaard ML, M\xF8ller DV, de Boer RA, Shah SJ, Jhund PS, Desai\
+  \ AS, Lam CSP, McMurray JJV"
 journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - glp1ra
-  - treatment
-  - obesity
-  - diabetes
+- trial
+- hfpef
+- glp1ra
+- treatment
+- obesity
+- diabetes
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2024-NEJM-Kosiborod-STEP-HFpEF_study.pdf
-    citekey: Kosiborod2024STEPHFPEFDM
+- file: raw/2024-NEJM-Kosiborod-STEP-HFpEF_study.pdf
+  citekey: Kosiborod2024STEPHFPEFDM
+page-type: source-summary-page
 ---
 # STEP-HFpEF DM — Semaglutide in Obese HFpEF with T2DM (Kosiborod 2024)
 

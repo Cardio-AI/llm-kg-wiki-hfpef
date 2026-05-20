@@ -1,24 +1,26 @@
 ---
 type: study
-title: "Sung 2023 — QRS Fragmentation and Outcomes in HFpEF"
+title: "Sung 2023 \u2014 QRS Fragmentation and Outcomes in HFpEF"
 citekey: Sung2023fQRS
 year: 2023
-authors: Sung KT, Tsai CT, Hou CJ, Hung CL, Chen YL, Hung TC, Kuo JY, Yun CH, Yeh HI
+authors: Sung KT, Tsai CT, Hou CJ, Hung CL, Chen YL, Hung TC, Kuo JY, Yun CH, Yeh
+  HI
 journal: J Am Heart Assoc
 study_type: retrospective cohort
 evidence_level: moderate
 tags:
-  - ecg
-  - qrs-fragmentation
-  - prognosis
-  - biomarker
-  - coronary-artery-disease
-  - hfpef
+- ecg
+- qrs-fragmentation
+- prognosis
+- biomarker
+- coronary-artery-disease
+- hfpef
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-JAHA-Sung-QRS_fragmentation_hfpef.pdf
-    citekey: Sung2023fQRS
+- file: raw/2023-JAHA-Sung-QRS_fragmentation_hfpef.pdf
+  citekey: Sung2023fQRS
+page-type: source-summary-page
 ---
 # Sung 2023 — QRS Fragmentation as a Prognostic Marker in HFpEF
 

@@ -1,6 +1,6 @@
 ---
 type: study
-title: "PARADIGM-HF: Sacubitril/Valsartan vs. Enalapril in HFrEF"
+title: 'PARADIGM-HF: Sacubitril/Valsartan vs. Enalapril in HFrEF'
 citekey: McMurray2014PARADIGM
 year: 2014
 authors: McMurray JJV, Packer M, Desai AS, et al. (PARADIGM-HF Investigators and Committees)
@@ -8,15 +8,16 @@ journal: New England Journal of Medicine
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfref
-  - sacubitril-valsartan
-  - arni
+- trial
+- hfref
+- sacubitril-valsartan
+- arni
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2014-NEJM-McMurray-PARADIGM-HF_study.pdf
-    citekey: McMurray2014PARADIGM
+- file: raw/2014-NEJM-McMurray-PARADIGM-HF_study.pdf
+  citekey: McMurray2014PARADIGM
+page-type: source-summary-page
 ---
 # PARADIGM-HF
 

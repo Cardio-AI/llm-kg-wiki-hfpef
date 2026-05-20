@@ -1,23 +1,25 @@
 ---
 type: study
-title: "DELIVER: Dapagliflozin in HFpEF/HFmrEF"
+title: 'DELIVER: Dapagliflozin in HFpEF/HFmrEF'
 citekey: Solomon2022DELIVER
 year: 2022
-authors: Solomon SD, McMurray JJV, Claggett B, et al. (DELIVER Trial Committees and Investigators)
+authors: Solomon SD, McMurray JJV, Claggett B, et al. (DELIVER Trial Committees and
+  Investigators)
 journal: New England Journal of Medicine
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - hfmref
-  - sglt2-inhibitors
-  - dapagliflozin
+- trial
+- hfpef
+- hfmref
+- sglt2-inhibitors
+- dapagliflozin
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2022-NEJM-Solomon-Deliver_study.pdf
-    citekey: Solomon2022DELIVER
+- file: raw/2022-NEJM-Solomon-Deliver_study.pdf
+  citekey: Solomon2022DELIVER
+page-type: source-summary-page
 ---
 # DELIVER
 

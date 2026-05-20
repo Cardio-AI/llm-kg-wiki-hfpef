@@ -1,18 +1,21 @@
 ---
 type: entity
 title: I-PRESERVE
-summary: RCT of irbesartan (ARB) vs. placebo in HFpEF (LVEF ≥45%); fully neutral primary endpoint with no meaningful subgroup signals — one of the most definitively negative trials in HFpEF.
+summary: "RCT of irbesartan (ARB) vs. placebo in HFpEF (LVEF \u226545%); fully neutral\
+  \ primary endpoint with no meaningful subgroup signals \u2014 one of the most definitively\
+  \ negative trials in HFpEF."
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - arb
-  - irbesartan
+- trial
+- hfpef
+- arb
+- irbesartan
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+page-type: entity-page
 ---
 # I-PRESERVE
 

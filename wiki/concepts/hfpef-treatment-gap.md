@@ -1,32 +1,36 @@
 ---
 type: concept
 title: HFpEF Treatment Gap
-summary: No large RCT has proven mortality reduction across the full HFpEF population; SGLT2i are now Class I (ESC 2023) and Class 2a (AHA 2022) — the first pharmacotherapy with major guideline endorsement for HFpEF; the benefit is hospitalization-driven; the mortality gap persists.
+summary: "No large RCT has proven mortality reduction across the full HFpEF population;\
+  \ SGLT2i are now Class I (ESC 2023) and Class 2a (AHA 2022) \u2014 the first pharmacotherapy\
+  \ with major guideline endorsement for HFpEF; the benefit is hospitalization-driven;\
+  \ the mortality gap persists."
 tags:
-  - hfpef
-  - treatment
-  - evidence-gap
-  - clinical-trials
-  - exercise
+- hfpef
+- treatment
+- evidence-gap
+- clinical-trials
+- exercise
 created: 2026-04-30
 last_updated: 2026-05-04
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-    citekey: Sachdev2023Exercise
-  - file: raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf
-    citekey: McMurray2024DETERMINE
-  - file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
-    citekey: Mirzai2025Exercise
-  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-    citekey: Anker2023HFpEFPhenotype
-  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
-    citekey: Pfeffer2019HFpEF
-  - file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
-    citekey: McDonagh2023ESCupdate
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
+  citekey: Sachdev2023Exercise
+- file: raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf
+  citekey: McMurray2024DETERMINE
+- file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
+  citekey: Mirzai2025Exercise
+- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
+  citekey: Anker2023HFpEFPhenotype
+- file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+  citekey: Pfeffer2019HFpEF
+- file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
+  citekey: McDonagh2023ESCupdate
+page-type: concept-page
 ---
 # HFpEF Treatment Gap
 
@@ -107,7 +111,7 @@ The CHAMPION trial (CardioMEMS implantable PA pressure sensor) showed that manag
 
 ### Exercise Training — Functional Gap Filled
 
-[[Supervised-exercise-training|Supervised exercise training (SET)]] is the most consistently positive HFpEF intervention for exercise capacity: meta-analysis (8 RCTs, n=503) shows peak VO₂ +2.8 mL/kg/min, 6MWD +40 m, no major adverse events. **2022 AHA/ACC:** Class I, Level A. Critical caveat: effects on mortality and HF hospitalisation unknown — individual trials underpowered; ~1/3 non-responders. SET fills the functional gap but not the mortality gap. See [[supervised-exercise-training]] for full evidence table, modality comparison (MICT vs. HIIT), and Mirzai 2025 state-of-the-art review. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf; source: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf)
+[[supervised-exercise-training]] (SET) is the most consistently positive HFpEF intervention for exercise capacity: meta-analysis (8 RCTs, n=503) shows peak VO₂ +2.8 mL/kg/min, 6MWD +40 m, no major adverse events. **2022 AHA/ACC:** Class I, Level A. Critical caveat: effects on mortality and HF hospitalisation unknown — individual trials underpowered; ~1/3 non-responders. SET fills the functional gap but not the mortality gap. See [[supervised-exercise-training]] for full evidence table, modality comparison (MICT vs. HIIT), and Mirzai 2025 state-of-the-art review. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf; source: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf)
 
 **SGLT2i symptom gap — partially resolved:** DELIVER (Solomon 2022) showed dapagliflozin improved KCCQ-TSS at 8 months (win ratio 1.11, P=0.009; mean +2.4 pts). DETERMINE-Preserved (McMurray 2024) was neutral at 16 weeks (P=0.079). Reconciliation: DELIVER used win-ratio approach at 8 months; DETERMINE used change score at 16 weeks. SGLT2i symptom benefit in HFpEF is likely real but may require ≥8 months or specific analytical sensitivity to detect. See [[contradictions]] #16. (source: raw/2022-NEJM-Solomon-Deliver_study.pdf; source: raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf)
 

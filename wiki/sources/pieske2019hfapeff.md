@@ -1,22 +1,23 @@
 ---
 type: source
-title: "HFA-PEFF Diagnostic Algorithm for HFpEF"
+title: HFA-PEFF Diagnostic Algorithm for HFpEF
 citekey: Pieske2019HFAPEFF
 year: 2019
-authors: Pieske B, Tschöpe C, de Boer RA, et al.
+authors: "Pieske B, Tsch\xF6pe C, de Boer RA, et al."
 journal: European Heart Journal
 tags:
-  - diagnosis
-  - algorithm
-  - guideline
-  - hfpef
-  - echocardiography
-  - natriuretic-peptides
+- diagnosis
+- algorithm
+- guideline
+- hfpef
+- echocardiography
+- natriuretic-peptides
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf
-    citekey: Pieske2019HFAPEFF
+- file: raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf
+  citekey: Pieske2019HFAPEFF
+page-type: source-summary-page
 ---
 # HFA-PEFF Diagnostic Algorithm
 

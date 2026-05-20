@@ -1,25 +1,28 @@
 ---
 type: study
-title: "Phenomapping for Novel Classification of Heart Failure With Preserved Ejection Fraction"
+title: Phenomapping for Novel Classification of Heart Failure With Preserved Ejection
+  Fraction
 citekey: Shah2015Phenomapping
 year: 2015
-authors: "Shah SJ, Katz DH, Selvaraj S, Burke MA, Yancy CW, Gheorghiade M, Bonow RO, Huang CC, Deo RC"
-journal: "Circulation"
+authors: Shah SJ, Katz DH, Selvaraj S, Burke MA, Yancy CW, Gheorghiade M, Bonow RO,
+  Huang CC, Deo RC
+journal: Circulation
 study_type: observational
 evidence_level: moderate
 tags:
-  - ml-ai
-  - hfpef
-  - phenotyping
-  - cluster-analysis
-  - machine-learning
-  - prognosis
-  - heterogeneity
+- ml-ai
+- hfpef
+- phenotyping
+- cluster-analysis
+- machine-learning
+- prognosis
+- heterogeneity
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2014-CirculationAHA-Shah-Phenomapping.pdf
-    citekey: Shah2015Phenomapping
+- file: raw/2014-CirculationAHA-Shah-Phenomapping.pdf
+  citekey: Shah2015Phenomapping
+page-type: source-summary-page
 ---
 # Shah et al. 2015 — HFpEF Phenomapping
 

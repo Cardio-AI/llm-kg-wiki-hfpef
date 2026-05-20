@@ -1,21 +1,26 @@
 ---
 type: entity
 title: SECRET
-summary: 2×2 factorial RCT of caloric restriction vs. aerobic exercise in N=100 obese older HFpEF patients (LVEF ≥50%, BMI ≥30, age ≥60y) over 20 weeks; both interventions independently improved peak VO₂ (~+1.2–1.3 mL/kg/min; P<0.001); effects additive (+2.5 combined); diet improved KCCQ+7 pts (P=0.004); MLHF QoL co-primary not met by either.
+summary: "2\xD72 factorial RCT of caloric restriction vs. aerobic exercise in N=100\
+  \ obese older HFpEF patients (LVEF \u226550%, BMI \u226530, age \u226560y) over\
+  \ 20 weeks; both interventions independently improved peak VO\u2082 (~+1.2\u2013\
+  1.3 mL/kg/min; P<0.001); effects additive (+2.5 combined); diet improved KCCQ+7\
+  \ pts (P=0.004); MLHF QoL co-primary not met by either."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - exercise-training
-  - caloric-restriction
-  - obesity
-  - treatment
-  - non-pharmacological
+- hfpef
+- trial
+- exercise-training
+- caloric-restriction
+- obesity
+- treatment
+- non-pharmacological
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: raw/2015-JAMA-Kitzman-SECRET_study.pdf
-    citekey: Kitzman2016SECRET
+- file: raw/2015-JAMA-Kitzman-SECRET_study.pdf
+  citekey: Kitzman2016SECRET
+page-type: entity-page
 ---
 # SECRET
 

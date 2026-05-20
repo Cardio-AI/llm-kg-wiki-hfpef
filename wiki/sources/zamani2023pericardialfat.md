@@ -1,25 +1,28 @@
 ---
 type: study
-title: "Zamani 2023 — Pericardial Fat and LV Eccentricity in Obese HFpEF"
+title: "Zamani 2023 \u2014 Pericardial Fat and LV Eccentricity in Obese HFpEF"
 citekey: Zamani2023PericardialFat
 year: 2023
-authors: Zamani P, Oldland G, Doulias PT, Bhatt A, Prenner SB, Margulies KB, Cappola T, Levin MG, Khokhar AA, Esslinger U, Mair GK, Balmain BN, Sarma S, Levine BD, Chirinos JA
+authors: Zamani P, Oldland G, Doulias PT, Bhatt A, Prenner SB, Margulies KB, Cappola
+  T, Levin MG, Khokhar AA, Esslinger U, Mair GK, Balmain BN, Sarma S, Levine BD, Chirinos
+  JA
 journal: Circulation
 study_type: observational, cross-sectional
 evidence_level: low-moderate
 tags:
-  - epicardial-adipose-tissue
-  - pericardial-fat
-  - lv-eccentricity
-  - obesity
-  - hfpef
-  - mechanism
-  - cardiac-mri
+- epicardial-adipose-tissue
+- pericardial-fat
+- lv-eccentricity
+- obesity
+- hfpef
+- mechanism
+- cardiac-mri
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-CirculationAHA-percardial_fat_hfpef.pdf
-    citekey: Zamani2023PericardialFat
+- file: raw/2023-CirculationAHA-percardial_fat_hfpef.pdf
+  citekey: Zamani2023PericardialFat
+page-type: source-summary-page
 ---
 # Zamani 2023 — Pericardial Fat and LV Eccentricity Index in Obese HFpEF
 

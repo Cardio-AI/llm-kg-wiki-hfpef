@@ -1,6 +1,6 @@
 ---
 type: study
-title: VICTORIA — Vericiguat in HFrEF
+title: "VICTORIA \u2014 Vericiguat in HFrEF"
 citekey: Armstrong2020VICTORIA
 year: 2020
 authors: Armstrong PW, Roessig L, Patel MJ, et al.
@@ -8,15 +8,16 @@ journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfref
-  - treatment
-  - no-cgmp
+- trial
+- hfref
+- treatment
+- no-cgmp
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest — no PDF obtained
-    citekey: Armstrong2020VICTORIA
+- file: null
+  citekey: Armstrong2020VICTORIA
+page-type: source-summary-page
 ---
 # VICTORIA
 

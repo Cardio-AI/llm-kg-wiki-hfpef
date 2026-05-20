@@ -1,25 +1,29 @@
 ---
 type: study
-title: "Ortega-Hernández 2024 — Prognostic Impact of Statins in HFpEF (RICA Registry)"
+title: "Ortega-Hern\xE1ndez 2024 \u2014 Prognostic Impact of Statins in HFpEF (RICA\
+  \ Registry)"
 citekey: OrtegaHernandez2024Statins
 year: 2024
-authors: Ortega-Hernández S, González-Sosa S, Conde-Martel A, Trullàs JC, Llàcer P, Pérez-Silvestre J, Arévalo-Lorido JC, Casado J, Formiga F, Manzano L, Lorenzo-Villalba N, Montero-Pérez-Barquero M; RICA Investigators
+authors: "Ortega-Hern\xE1ndez S, Gonz\xE1lez-Sosa S, Conde-Martel A, Trull\xE0s JC,\
+  \ Ll\xE0cer P, P\xE9rez-Silvestre J, Ar\xE9valo-Lorido JC, Casado J, Formiga F,\
+  \ Manzano L, Lorenzo-Villalba N, Montero-P\xE9rez-Barquero M; RICA Investigators"
 journal: J Clin Med
 study_type: prospective observational cohort (RICA registry)
 evidence_level: moderate
 tags:
-  - statins
-  - prognosis
-  - mortality
-  - hfpef
-  - ischaemic-heart-disease
-  - registry
-  - spain
+- statins
+- prognosis
+- mortality
+- hfpef
+- ischaemic-heart-disease
+- registry
+- spain
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-MDPIJCM-Ortega-Hernandez_prognostic_impact_statin_hfpef.pdf
-    citekey: OrtegaHernandez2024Statins
+- file: raw/2024-MDPIJCM-Ortega-Hernandez_prognostic_impact_statin_hfpef.pdf
+  citekey: OrtegaHernandez2024Statins
+page-type: source-summary-page
 ---
 # Ortega-Hernández 2024 — Prognostic Impact of Statins in HFpEF (RICA Registry)
 

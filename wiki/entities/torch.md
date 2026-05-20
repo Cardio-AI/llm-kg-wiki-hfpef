@@ -1,19 +1,23 @@
 ---
 type: entity
 title: TORCH / TORCH-Plus Registry
-summary: DZHK TranslatiOnal Registry for CardiomyopatHies — German multi-centre registry and biobank for non-ischemic cardiomyopathies; 19 DZHK centres; n=2,300 (Phase 1); n=4,340 (Phase 2, TORCH-Plus); deep molecular phenotyping with genomics, inflammation, and biomarker modules.
+summary: "DZHK TranslatiOnal Registry for CardiomyopatHies \u2014 German multi-centre\
+  \ registry and biobank for non-ischemic cardiomyopathies; 19 DZHK centres; n=2,300\
+  \ (Phase 1); n=4,340 (Phase 2, TORCH-Plus); deep molecular phenotyping with genomics,\
+  \ inflammation, and biomarker modules."
 entity_type: registry
 tags:
-  - registry
-  - cardiomyopathy
-  - dzhk
-  - germany
-  - molecular-phenotyping
+- registry
+- cardiomyopathy
+- dzhk
+- germany
+- molecular-phenotyping
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf
-    citekey: Seyler2017TORCH
+- file: raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf
+  citekey: Seyler2017TORCH
+page-type: entity-page
 ---
 # TORCH / TORCH-Plus Registry
 

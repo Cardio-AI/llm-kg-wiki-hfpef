@@ -1,6 +1,6 @@
 ---
 type: study
-title: "DETERMINE: Dapagliflozin on Symptoms and 6MWD in HF"
+title: 'DETERMINE: Dapagliflozin on Symptoms and 6MWD in HF'
 citekey: McMurray2024DETERMINE
 year: 2024
 authors: McMurray JJV, Docherty KF, de Boer RA, et al.
@@ -8,18 +8,19 @@ journal: Circulation
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - hfref
-  - sglt2-inhibitors
-  - dapagliflozin
-  - exercise
-  - symptoms
+- trial
+- hfpef
+- hfref
+- sglt2-inhibitors
+- dapagliflozin
+- exercise
+- symptoms
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf
-    citekey: McMurray2024DETERMINE
+- file: raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf
+  citekey: McMurray2024DETERMINE
+page-type: source-summary-page
 ---
 # DETERMINE
 

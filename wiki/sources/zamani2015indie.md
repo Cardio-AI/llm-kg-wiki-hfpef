@@ -1,6 +1,6 @@
 ---
 type: study
-title: "INDIE-HFpEF: Inorganic Nitrate (Beetroot Juice) in HFpEF"
+title: 'INDIE-HFpEF: Inorganic Nitrate (Beetroot Juice) in HFpEF'
 citekey: Zamani2015INDIE
 year: 2015
 authors: Zamani P, Rawat D, Shiva-Kumar P, et al.
@@ -8,16 +8,17 @@ journal: Circulation
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - nitrate
-  - no-pathway
-  - exercise
+- trial
+- hfpef
+- nitrate
+- no-pathway
+- exercise
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2014-CirculationAHA-Zamani-Indie_Beetroot_HFpEF.pdf
-    citekey: Zamani2015INDIE
+- file: raw/2014-CirculationAHA-Zamani-Indie_Beetroot_HFpEF.pdf
+  citekey: Zamani2015INDIE
+page-type: source-summary-page
 ---
 # INDIE-HFpEF
 

@@ -1,23 +1,25 @@
 ---
 type: source
-title: "Systemic Inflammatory Markers and Clinical Outcomes in HFpEF: Systematic Review and Meta-Analysis (Fu 2024)"
+title: 'Systemic Inflammatory Markers and Clinical Outcomes in HFpEF: Systematic Review
+  and Meta-Analysis (Fu 2024)'
 citekey: Fu2024Inflammation
 year: 2024
 authors: Fu Z, Liu P, Gao X, et al.
 journal: Front Cardiovasc Med
 tags:
-  - hfpef
-  - inflammation
-  - nlr
-  - biomarker
-  - prognosis
-  - systematic-review
-  - meta-analysis
+- hfpef
+- inflammation
+- nlr
+- biomarker
+- prognosis
+- systematic-review
+- meta-analysis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf
-    citekey: Fu2024Inflammation
+- file: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf
+  citekey: Fu2024Inflammation
+page-type: source-summary-page
 ---
 # Systemic Inflammatory Markers in HFpEF (Fu 2024)
 
@@ -67,7 +69,7 @@ sources:
 
 ## Relevance to HFpEF Wiki
 
-- Provides quantitative support for the inflammation-driven HFpEF endotype ([[anker2023hfpefphenotype]], Paulus-Tschöpe paradigm [[paulus2013paradigm]])
+- Provides quantitative support for the inflammation-driven HFpEF endotype ([[anker2023hfpefphenotype]], Paulus-Tschöpe paradigm [[paulus2013novelparadigm]])
 - NLR and hs-CRP are accessible clinical markers that predict outcomes — potential future addition to HFpEF risk scores
 - Methodologically notable: I²=0% across all three outcomes is very unusual for a clinical meta-analysis and suggests either genuine homogeneity or selective study inclusion
 
@@ -84,7 +86,7 @@ sources:
 
 - Concepts: [[exercise-intolerance]]
 - Entities: [[hfpef]]
-- Sources: [[paulus2013paradigm]], [[anker2023hfpefphenotype]], [[ammar2025bnp]]
+- Sources: [[paulus2013novelparadigm]], [[anker2023hfpefphenotype]], [[ammar2025bnp]]
 
 ---
 

@@ -1,23 +1,25 @@
 ---
 type: source
-title: "Prevalence of Coronary Microvascular Dysfunction in HFpEF: Systematic Review and Meta-Analysis (Lin 2023)"
+title: 'Prevalence of Coronary Microvascular Dysfunction in HFpEF: Systematic Review
+  and Meta-Analysis (Lin 2023)'
 citekey: Lin2023CMD
 year: 2023
 authors: Lin X, Wu G, Wang S, Huang J
 journal: Heart Fail Rev
 tags:
-  - hfpef
-  - cmd
-  - coronary-microvascular-dysfunction
-  - systematic-review
-  - meta-analysis
-  - prevalence
-  - cfr
+- hfpef
+- cmd
+- coronary-microvascular-dysfunction
+- systematic-review
+- meta-analysis
+- prevalence
+- cfr
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf
-    citekey: Lin2023CMD
+- file: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf
+  citekey: Lin2023CMD
+page-type: source-summary-page
 ---
 # CMD Prevalence in HFpEF (Lin 2023)
 
@@ -74,7 +76,7 @@ sources:
 
 - Updates: [[hfpef]] — CMD highly prevalent; mechanistic target
 - Supports: CMD as a distinct HFpEF endotype ([[anker2023hfpefphenotype]])
-- Relevant to: [[d'amario2019cmd]] — individual CMD-HFpEF mechanistic review
+- Relevant to: [[damario2019cmd]] — individual CMD-HFpEF mechanistic review
 
 ---
 
@@ -82,7 +84,7 @@ sources:
 
 - Concepts: [[exercise-intolerance]]
 - Entities: [[cardiac-mri]]
-- Sources: [[d'amario2019cmd]], [[anker2023hfpefphenotype]]
+- Sources: [[damario2019cmd]], [[anker2023hfpefphenotype]]
 
 ---
 

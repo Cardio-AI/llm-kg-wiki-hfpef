@@ -1,18 +1,21 @@
 ---
 type: entity
 title: CHARM-Preserved
-summary: RCT of candesartan (ARB) vs. placebo in HF with LVEF >40%; missed its primary endpoint of CV death + HF hospitalization but showed a trend toward reduced HF hospitalizations, and retrospective analyses suggest benefit in the HFmrEF subgroup.
+summary: RCT of candesartan (ARB) vs. placebo in HF with LVEF >40%; missed its primary
+  endpoint of CV death + HF hospitalization but showed a trend toward reduced HF hospitalizations,
+  and retrospective analyses suggest benefit in the HFmrEF subgroup.
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - arb
-  - candesartan
+- trial
+- hfpef
+- arb
+- candesartan
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+page-type: entity-page
 ---
 # CHARM-Preserved
 

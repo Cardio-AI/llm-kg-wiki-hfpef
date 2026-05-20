@@ -1,19 +1,23 @@
 ---
 type: entity
 title: MyoVasc
-summary: Prospective observational cohort (N=3,289 HF patients + controls, age 35–84) at Johannes Gutenberg University Mainz (DZHK Rhine-Main); 10-year follow-up; PI Philipp Wild; deep multi-omics phenotyping (echo, CPET, vascular, omics); design published Gobel et al., Eur J Prev Cardiol 2021; NCT04064450.
+summary: "Prospective observational cohort (N=3,289 HF patients + controls, age 35\u2013\
+  84) at Johannes Gutenberg University Mainz (DZHK Rhine-Main); 10-year follow-up;\
+  \ PI Philipp Wild; deep multi-omics phenotyping (echo, CPET, vascular, omics); design\
+  \ published Gobel et al., Eur J Prev Cardiol 2021; NCT04064450."
 entity_type: registry
 tags:
-  - hfpef
-  - registry
-  - exercise
-  - ml-ai
-  - biomarker
+- hfpef
+- registry
+- exercise
+- ml-ai
+- biomarker
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-  - file: ~ # pending ingest — design paper: Gobel S et al. Eur J Prev Cardiol. 2021. doi:10.1093/eurjpc/zwab168
-    citekey: Gobel2021MyoVasc
+- file: null
+  citekey: Gobel2021MyoVasc
+page-type: entity-page
 ---
 # MyoVasc
 

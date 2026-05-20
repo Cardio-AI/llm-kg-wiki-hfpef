@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Effect of HU6 on Body Weight and Cardiac Function in Patients With Obese Heart Failure With Preserved Ejection Fraction: The HuMAIN-HFpEF Randomized Clinical Trial"
+title: 'Effect of HU6 on Body Weight and Cardiac Function in Patients With Obese Heart
+  Failure With Preserved Ejection Fraction: The HuMAIN-HFpEF Randomized Clinical Trial'
 citekey: pandey2025humain
 year: 2025
 authors: Pandey A, et al.
 journal: JAMA Cardiology
 tags:
-  - trial
-  - treatment
-  - open-question
+- trial
+- treatment
+- open-question
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2025-JAMA-Pandey-HuMAIN-HFpEF_study.pdf
-    citekey: pandey2025humain
+- file: raw/2025-JAMA-Pandey-HuMAIN-HFpEF_study.pdf
+  citekey: pandey2025humain
+page-type: source-summary-page
 ---
 # Effect of HU6 on Body Weight and Cardiac Function in Patients With Obese Heart Failure With Preserved Ejection Fraction: The HuMAIN-HFpEF Randomized Clinical Trial
 

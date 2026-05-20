@@ -1,19 +1,25 @@
 ---
 type: entity
 title: STEP-HFpEF
-summary: Phase 3 RCT (N=529) of semaglutide 2.4 mg weekly vs. placebo in HFpEF with obesity (BMI ≥30); published NEJM 2023 (Kosiborod et al.); KCCQ-CSS +7.8 points (P<0.001); 6MWD +21.5m (P<0.001); significant weight loss −13%; first major GLP-1RA trial showing symptomatic benefit in HFpEF.
+summary: "Phase 3 RCT (N=529) of semaglutide 2.4 mg weekly vs. placebo in HFpEF with\
+  \ obesity (BMI \u226530); published NEJM 2023 (Kosiborod et al.); KCCQ-CSS +7.8\
+  \ points (P<0.001); 6MWD +21.5m (P<0.001); significant weight loss \u221213%; first\
+  \ major GLP-1RA trial showing symptomatic benefit in HFpEF."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - glp1ra
-  - treatment
-  - obesity
+- hfpef
+- trial
+- glp1ra
+- treatment
+- obesity
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-19
 sources:
-  - file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
-    citekey: Kosiborod2023STEPHFPEF
+- file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
+  citekey: Kosiborod2023STEPHFPEF
+- file: raw/2024-JACC-Petrie-semaglutide_NT-proBNP_obesity_hfpef.pdf
+  citekey: petrie2024stephfpef
+page-type: entity-page
 ---
 # STEP-HFpEF
 
@@ -70,15 +76,26 @@ The lean muscle mass concern: semaglutide reduces lean mass as well as fat mass.
 
 Safety: SAEs 13.3% vs. 26.7%; cardiac disorders 7 (2.7%) vs. 30 (11.3%). (source: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf)
 
+**NT-proBNP analysis — STEP-HFpEF Program ([[petrie2024stephfpef]]):**
+- Pooled STEP-HFpEF (N=529) + STEP-HFpEF DM (N=616); total N=1,145; prespecified secondary analysis
+- Semaglutide reduced NT-proBNP by 22% vs. 4.9% with placebo at 52 weeks; **ETR 0.82 (95% CI 0.74–0.91; P=0.0002)**; effect evident by week 20
+- NT-proBNP reduction was **independent of weight loss** (P interaction=0.58 across all weight loss strata including <5%, 5–<10%, 10–<15%, 15–<20%, ≥20%)
+- Weight-loss paradox: patients with greatest weight loss (≥15–20%) showed less NT-proBNP reduction — weight loss reduces EAT/pericardial restraint, releasing myocardial stretch and counteracting the direct HF effect
+- KCCQ-CSS improvement by NT-proBNP tertile: T1 (<300 pg/mL) +4.5 pts; T2 (300–810) +6.2 pts; T3 (>810 pg/mL) +11.9 pts — P interaction=0.02
+- Win ratio by tertile: T1 1.45; T2 1.42; T3 2.17 — P interaction=0.04
+- Body weight reduction uniform across tertiles (P interaction=0.21); CRP reduction consistent
+- **Interpretation:** Direct HF disease-modifying mechanism operative beyond mechanical unloading; higher neurohormonal burden (elevated NT-proBNP) predicts greater symptomatic benefit
+(source: raw/2024-JACC-Petrie-semaglutide_NT-proBNP_obesity_hfpef.pdf)
+
 ## Status
 
 **Published:** NEJM September 2023. No formal guideline update yet for GLP-1RA in HFpEF (publication post-dates ESC 2023 Focused Update and AHA 2022). The 2023 ACC ECDP (Kittleson 2023) flagged GLP-1RA as an emerging therapy for obese HFpEF phenotype. SUMMIT (NCT04847557) will provide further outcome data. (source: [[kittleson2023acc]])
 
 ## Related Pages
 
-- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[summit]], [[hfpef]], [[sglt2-inhibitors]]
-- Sources: [[kittleson2023acc]], [[anker2023hfpefphenotype]], [[mahmood2024guidelines]]
+- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[pericardial-restraint]]
+- Entities: [[obesity-hfpef]], [[summit]], [[hfpef]], [[sglt2-inhibitors]]
+- Sources: [[kittleson2023acc]], [[anker2023hfpefphenotype]], [[mahmood2024guidelines]], [[petrie2024stephfpef]]
 
 ## Contradictions
 

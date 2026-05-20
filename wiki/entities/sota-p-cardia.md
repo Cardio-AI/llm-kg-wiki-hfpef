@@ -1,18 +1,23 @@
 ---
 type: entity
 title: SOTA-P-CARDIA
-summary: Phase 3 RCT of sotagliflozin (combined SGLT2+SGLT1 inhibitor) vs. placebo in HFpEF without T2DM; NCT05562063; tests whether dual SGLT2/1 inhibition provides benefit beyond selective SGLT2i in the non-diabetic HFpEF population that represents the majority of HFpEF patients.
+summary: Phase 3 RCT of sotagliflozin (combined SGLT2+SGLT1 inhibitor) vs. placebo
+  in HFpEF without T2DM; NCT05562063; tests whether dual SGLT2/1 inhibition provides
+  benefit beyond selective SGLT2i in the non-diabetic HFpEF population that represents
+  the majority of HFpEF patients.
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - sglt2i
-  - treatment
+- hfpef
+- trial
+- sglt2i
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest
-    citekey: [pending — verify on ingest]
+- file: null
+  citekey:
+  - "pending \u2014 verify on ingest"
+page-type: entity-page
 ---
 # SOTA-P-CARDIA
 

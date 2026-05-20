@@ -1,26 +1,29 @@
 ---
 type: source
-title: "Kittleson 2024 — 2024 Update to ACC/AHA HF Performance and Quality Measures"
+title: "Kittleson 2024 \u2014 2024 Update to ACC/AHA HF Performance and Quality Measures"
 citekey: Kittleson2024AccAha
 year: 2024
-authors: Kittleson MM, Breathett K, Ziaeian B, Aguilar D, Blumer V, Bozkurt B, Diekemper RL, Dorsch MP, Heidenreich PA, Jurgens CY, Khazanie P, Koromia GA, Van Spall HGC; AHA/ACC Joint Committee on Performance Measures
+authors: Kittleson MM, Breathett K, Ziaeian B, Aguilar D, Blumer V, Bozkurt B, Diekemper
+  RL, Dorsch MP, Heidenreich PA, Jurgens CY, Khazanie P, Koromia GA, Van Spall HGC;
+  AHA/ACC Joint Committee on Performance Measures
 journal: J Am Coll Cardiol
 study_type: guideline/performance measures document
 evidence_level: N/A (regulatory/standards document)
 tags:
-  - guideline
-  - accaha
-  - performance-measures
-  - quality-measures
-  - hfpef
-  - sglt2-inhibitors
-  - blood-pressure
-  - gdmt
+- guideline
+- accaha
+- performance-measures
+- quality-measures
+- hfpef
+- sglt2-inhibitors
+- blood-pressure
+- gdmt
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-JACC-Kittleson-Update_to_2020_ACC_AHA_in_HF.pdf
-    citekey: Kittleson2024AccAha
+- file: raw/2024-JACC-Kittleson-Update_to_2020_ACC_AHA_in_HF.pdf
+  citekey: Kittleson2024AccAha
+page-type: source-summary-page
 ---
 # Kittleson 2024 — 2024 Update to 2020 ACC/AHA HF Performance & Quality Measures
 
@@ -71,12 +74,12 @@ This document formalises SGLT2i use and BP control as measurable standards for H
 
 - Updates: [[acc-aha-hf-guidelines]] — 2024 performance measure update; first HFpEF performance measure (BP control)
 - Supports: [[sglt2-inhibitors]] — SGLT2i now a quality measure for HFpEF (QM-1)
-- Connects to: [[attr-act]] / [[transthyretin-amyloid-cardiomyopathy]] — QM-6 formalises amyloid screening protocol
+- Connects to: [[attr-act]] / [[attr-cm]] — QM-6 formalises amyloid screening protocol
 - Connects to: [[ilonze2024disparities]] — SDOH screening (QM-2) directly addresses racial/ethnic disparities framework
 
 ## Related Pages
 
-- Concepts: [[hfpef-treatment]], [[hypertension-in-hfpef]]
+- Concepts: [[hfpef-treatment]], [[hypertension-hfpef]]
 - Entities: [[sglt2-inhibitors]], [[attr-act]]
 - Sources: [[packer2025summit]]
 

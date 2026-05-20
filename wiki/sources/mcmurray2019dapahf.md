@@ -1,22 +1,24 @@
 ---
 type: study
-title: "DAPA-HF: Dapagliflozin in HFrEF"
+title: 'DAPA-HF: Dapagliflozin in HFrEF'
 citekey: McMurray2019DAPAHF
 year: 2019
-authors: McMurray JJV, Solomon SD, Inzucchi SE, et al. (DAPA-HF Trial Committees and Investigators)
+authors: McMurray JJV, Solomon SD, Inzucchi SE, et al. (DAPA-HF Trial Committees and
+  Investigators)
 journal: New England Journal of Medicine
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfref
-  - sglt2-inhibitors
-  - dapagliflozin
+- trial
+- hfref
+- sglt2-inhibitors
+- dapagliflozin
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2019-NEJM-McMurray-DAPA-HF_study.pdf
-    citekey: McMurray2019DAPAHF
+- file: raw/2019-NEJM-McMurray-DAPA-HF_study.pdf
+  citekey: McMurray2019DAPAHF
+page-type: source-summary-page
 ---
 # DAPA-HF
 

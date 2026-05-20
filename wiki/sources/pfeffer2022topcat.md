@@ -1,19 +1,20 @@
 ---
 type: source
-title: "Behind the Scenes of TOPCAT — Bending to Inform"
+title: "Behind the Scenes of TOPCAT \u2014 Bending to Inform"
 citekey: pfeffer2022topcat
 year: 2022
 authors: Pfeffer MA, Claggett B
 journal: NEJM Evidence
 tags:
-  - trial
-  - treatment
-  - open-question
+- trial
+- treatment
+- open-question
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2022-NEJM-Pfeffer-TOPCAT_behind_scenes.pdf
-    citekey: pfeffer2022topcat
+- file: raw/2022-NEJM-Pfeffer-TOPCAT_behind_scenes.pdf
+  citekey: pfeffer2022topcat
+page-type: source-summary-page
 ---
 # Behind the Scenes of TOPCAT — Bending to Inform
 

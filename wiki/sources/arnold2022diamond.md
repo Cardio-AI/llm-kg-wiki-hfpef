@@ -1,25 +1,31 @@
 ---
 type: study
-title: "DIAMOND-HFpEF: CMR-Based Microvascular Dysfunction and Prognosis in HFpEF"
+title: 'DIAMOND-HFpEF: CMR-Based Microvascular Dysfunction and Prognosis in HFpEF'
 citekey: Arnold2022DIAMOND
 year: 2022
-authors: Arnold JR, Bhindi R, Bhatt DL, Chong JJ, Chow CK, Clark DJ, Cullen J, Davies JE, Figtree GA, Goldsmith DJ, Hamilton-Craig C, Kotlyar E, Lau GT, Lee A, Leung MO, Lim CK, Morel O, Muller DWM, Nicholls SJ, Playford DA, Psaltis PJ, Rabineau J, Rahimi K, Rashid H, Rodrigue MF, Rosenberg AJ, Saad H, Shah SJ, Sherwood M, Stanton T, Stokes M, Than MP, Tong DC, Tow H, Uchikado Y, Voskuil M, Walters DL, Waugh N, Wong DT, Xue J, Yang JH, Zaman S, Zulueta MC
+authors: Arnold JR, Bhindi R, Bhatt DL, Chong JJ, Chow CK, Clark DJ, Cullen J, Davies
+  JE, Figtree GA, Goldsmith DJ, Hamilton-Craig C, Kotlyar E, Lau GT, Lee A, Leung
+  MO, Lim CK, Morel O, Muller DWM, Nicholls SJ, Playford DA, Psaltis PJ, Rabineau
+  J, Rahimi K, Rashid H, Rodrigue MF, Rosenberg AJ, Saad H, Shah SJ, Sherwood M, Stanton
+  T, Stokes M, Than MP, Tong DC, Tow H, Uchikado Y, Voskuil M, Walters DL, Waugh N,
+  Wong DT, Xue J, Yang JH, Zaman S, Zulueta MC
 journal: JACC Cardiovasc Imaging
 study_type: observational-prospective
 evidence_level: moderate
 tags:
-  - cmd
-  - coronary-microvascular-dysfunction
-  - cardiac-mri
-  - hfpef
-  - prognosis
-  - imaging
-  - fibrosis
+- cmd
+- coronary-microvascular-dysfunction
+- cardiac-mri
+- hfpef
+- prognosis
+- imaging
+- fibrosis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2022-JACC-Arnold-DIAMOND-HFpEF_study_cmd_in_hfpef.pdf
-    citekey: Arnold2022DIAMOND
+- file: raw/2022-JACC-Arnold-DIAMOND-HFpEF_study_cmd_in_hfpef.pdf
+  citekey: Arnold2022DIAMOND
+page-type: source-summary-page
 ---
 # DIAMOND-HFpEF — CMR-Based CMD and Prognosis in HFpEF (Arnold 2022)
 

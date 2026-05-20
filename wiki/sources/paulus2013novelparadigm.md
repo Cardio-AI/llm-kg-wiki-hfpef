@@ -1,25 +1,28 @@
 ---
 type: study
-title: "A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation"
+title: 'A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities
+  Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial
+  Inflammation'
 citekey: Paulus2013NovelParadigm
 year: 2013
-authors: "Paulus WJ, Tschöpe C"
-journal: "J Am Coll Cardiol"
+authors: "Paulus WJ, Tsch\xF6pe C"
+journal: J Am Coll Cardiol
 study_type: review
 evidence_level: moderate
 tags:
-  - mechanism
-  - hfpef
-  - microvascular
-  - inflammation
-  - no-cgmp
-  - cardiomyocyte-stiffness
-  - paradigm
+- mechanism
+- hfpef
+- microvascular
+- inflammation
+- no-cgmp
+- cardiomyocyte-stiffness
+- paradigm
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-    citekey: Paulus2013NovelParadigm
+- file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
+  citekey: Paulus2013NovelParadigm
+page-type: source-summary-page
 ---
 # Paulus & Tschöpe 2013 — Novel HFpEF Paradigm
 
@@ -138,6 +141,8 @@ Note: PDE5i (RELAX trial, published same year) subsequently demonstrated neutral
 - Foundational reference for: [[damario2019cmd]] — builds directly on this cascade; cites Paulus2013 as primary reference
 - Updates: [[diastolic-dysfunction]] — mechanistic framework for how cardiomyocyte stiffness develops
 - Supports: [[hfpef]] — explains why comorbidity burden is central to HFpEF pathophysiology
+- Supports: [[obesity-hfpef]] — obesity and T2DM as primary upstream drivers of the comorbidity → inflammation → CMD cascade
+- Supports: [[hypertension-hfpef]] — HTN as contributing comorbidity; but ALL-HAT data show BMI (not BP) discriminates HFrEF vs. HFpEF
 - Challenged by: [[relax]] (sildenafil neutral), [[armstrong2020vitality]] (vericiguat neutral), [[udelson2020capacity]] (praliciguat neutral) — NO/cGMP pathway interventions failed clinically despite compelling mechanistic rationale
 - Supports: [[finearts-hf]] — MRA blockade (reducing fibrosis/TGF-β/aldosterone) consistent with Paulus-Tschöpe cascade
 - See [[contradictions]] — NO/cGMP pathway failure series
@@ -150,8 +155,8 @@ Note: PDE5i (RELAX trial, published same year) subsequently demonstrated neutral
 
 ## Related Pages
 
-- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]], [[relax]], [[vitality-hfpef]]
+- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[coronary-microvascular-dysfunction]], [[nitric-oxide-pathway]], [[myocardial-fibrosis]]
+- Entities: [[obesity-hfpef]], [[hypertension-hfpef]], [[hfpef]], [[relax]], [[vitality-hfpef]], [[spironolactone]]
 - Sources: [[damario2019cmd]], [[redfield2013relax]], [[armstrong2020vitality]], [[udelson2020capacity]]
 
 ## Contradictions

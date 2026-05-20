@@ -1,24 +1,26 @@
 ---
 type: source
-title: "BNP and NT-proBNP as Prognostic Biomarkers in HFpEF: Systematic Review and Meta-Analysis (Ammar 2025)"
+title: 'BNP and NT-proBNP as Prognostic Biomarkers in HFpEF: Systematic Review and
+  Meta-Analysis (Ammar 2025)'
 citekey: Ammar2025BNP
 year: 2025
 authors: Ammar LA, Massoud GP, Chidiac C, et al.
 journal: Heart Fail Rev
 tags:
-  - hfpef
-  - bnp
-  - nt-probnp
-  - biomarker
-  - prognosis
-  - mortality
-  - systematic-review
-  - meta-analysis
+- hfpef
+- bnp
+- nt-probnp
+- biomarker
+- prognosis
+- mortality
+- systematic-review
+- meta-analysis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf
-    citekey: Ammar2025BNP
+- file: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf
+  citekey: Ammar2025BNP
+page-type: source-summary-page
 ---
 # BNP and NT-proBNP as Prognostic Biomarkers in HFpEF (Ammar 2025)
 

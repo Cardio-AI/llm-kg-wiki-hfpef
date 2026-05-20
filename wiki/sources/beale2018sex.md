@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Sex Differences in Cardiovascular Pathophysiology: Why Women Are Overrepresented in Heart Failure With Preserved Ejection Fraction"
+title: 'Sex Differences in Cardiovascular Pathophysiology: Why Women Are Overrepresented
+  in Heart Failure With Preserved Ejection Fraction'
 citekey: beale2018sex
 year: 2018
 authors: Beale AL, Meyer P, Marwick TH, Lam CSP, Kaye DM
 journal: Circulation
 tags:
-  - mechanism
-  - diagnosis
-  - open-question
+- mechanism
+- diagnosis
+- open-question
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2018-CirculationAHA-Beale-sex_differences_HFpEF.pdf
-    citekey: beale2018sex
+- file: raw/2018-CirculationAHA-Beale-sex_differences_HFpEF.pdf
+  citekey: beale2018sex
+page-type: source-summary-page
 ---
 # Sex Differences in Cardiovascular Pathophysiology: Why Women Are Overrepresented in Heart Failure With Preserved Ejection Fraction
 

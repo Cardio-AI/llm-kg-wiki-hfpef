@@ -1,6 +1,6 @@
 ---
 type: study
-title: "TOPCAT Design Paper: Rationale, Design, and Baseline Characteristics"
+title: 'TOPCAT Design Paper: Rationale, Design, and Baseline Characteristics'
 citekey: Desai2011TOPCAT
 year: 2011
 authors: Desai AS, Lewis EF, Li R, et al. (TOPCAT Investigators)
@@ -8,16 +8,17 @@ journal: American Heart Journal
 study_type: observational
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - spironolactone
-  - mra
-  - design
+- trial
+- hfpef
+- spironolactone
+- mra
+- design
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2011-AHA-Desai-TOPCAT_study.pdf
-    citekey: Desai2011TOPCAT
+- file: raw/2011-AHA-Desai-TOPCAT_study.pdf
+  citekey: Desai2011TOPCAT
+page-type: source-summary-page
 ---
 # TOPCAT Design Paper (Desai 2011)
 

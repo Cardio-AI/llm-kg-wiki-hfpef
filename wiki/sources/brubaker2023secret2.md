@@ -1,24 +1,26 @@
 ---
 type: source
-title: "SECRET-II: Resistance Training Added to Caloric Restriction and Aerobic Exercise Training in Obese Older HFpEF"
+title: 'SECRET-II: Resistance Training Added to Caloric Restriction and Aerobic Exercise
+  Training in Obese Older HFpEF'
 citekey: Brubaker2023SECRET2
 year: 2023
 authors: Brubaker PH, Kitzman DW, et al.
 journal: Circ Heart Fail
 tags:
-  - hfpef
-  - trial
-  - exercise
-  - resistance-training
-  - caloric-restriction
-  - obesity
-  - skeletal-muscle
-  - exercise-intolerance
+- hfpef
+- trial
+- exercise
+- resistance-training
+- caloric-restriction
+- obesity
+- skeletal-muscle
+- exercise-intolerance
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
-    citekey: Brubaker2023SECRET2
+- file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
+  citekey: Brubaker2023SECRET2
+page-type: source-summary-page
 ---
 # SECRET-II
 

@@ -1,19 +1,23 @@
 ---
 type: source
-title: "An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction"
+title: 'An artificial intelligence-enabled ECG algorithm for the identification of
+  patients with atrial fibrillation during sinus rhythm: a retrospective analysis
+  of outcome prediction'
 citekey: attia2019ecgaf
 year: 2019
-authors: Attia ZI, Noseworthy PA, Lopez-Jimenez F, Asirvatham SJ, Deshmukh AJ, Gersh BJ, Carter RE, Yao X, Rabinstein AA, Erickson BJ, Kapa S, Friedman PA
+authors: Attia ZI, Noseworthy PA, Lopez-Jimenez F, Asirvatham SJ, Deshmukh AJ, Gersh
+  BJ, Carter RE, Yao X, Rabinstein AA, Erickson BJ, Kapa S, Friedman PA
 journal: The Lancet
 tags:
-  - ml-ai
-  - atrial-fibrillation
-  - diagnosis
+- ml-ai
+- atrial-fibrillation
+- diagnosis
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2019-LANCET-Attia-AI_ecg_af.pdf
-    citekey: attia2019ecgaf
+- file: raw/2019-LANCET-Attia-AI_ecg_af.pdf
+  citekey: attia2019ecgaf
+page-type: source-summary-page
 ---
 # An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm
 

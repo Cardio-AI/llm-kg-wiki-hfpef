@@ -1,23 +1,29 @@
 ---
 type: study
-title: "RELAX — Phosphodiesterase-5 Inhibition to Improve Clinical Status and Exercise Capacity in Diastolic Heart Failure"
+title: "RELAX \u2014 Phosphodiesterase-5 Inhibition to Improve Clinical Status and\
+  \ Exercise Capacity in Diastolic Heart Failure"
 citekey: Redfield2013RELAX
 year: 2013
-authors: Redfield MM, Chen HH, Borlaug BA, Semigran MJ, Lee KL, Lewis G, LeWinter MM, Rouleau JL, Bull DA, Mann DL, Deswal A, Stevenson LW, Givertz MM, Ofili EO, O'Connor CM, Felker GM, Goldsmith SR, Bart BA, McNulty SE, Ibarra JC, Lin G, Oh JK, Patel MR, Kim RJ, Tracy RP, Velazquez EJ, Anstrom KJ, Hernandez AF, Mascette AM, Braunwald E
+authors: Redfield MM, Chen HH, Borlaug BA, Semigran MJ, Lee KL, Lewis G, LeWinter
+  MM, Rouleau JL, Bull DA, Mann DL, Deswal A, Stevenson LW, Givertz MM, Ofili EO,
+  O'Connor CM, Felker GM, Goldsmith SR, Bart BA, McNulty SE, Ibarra JC, Lin G, Oh
+  JK, Patel MR, Kim RJ, Tracy RP, Velazquez EJ, Anstrom KJ, Hernandez AF, Mascette
+  AM, Braunwald E
 journal: JAMA
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - treatment
-  - no-cgmp
-  - exercise-intolerance
+- trial
+- hfpef
+- treatment
+- no-cgmp
+- exercise-intolerance
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2013-JAMA-Redfield-RELAX_study.pdf
-    citekey: Redfield2013RELAX
+- file: raw/2013-JAMA-Redfield-RELAX_study.pdf
+  citekey: Redfield2013RELAX
+page-type: source-summary-page
 ---
 # RELAX — PDE5 Inhibition in HFpEF (Redfield 2013)
 

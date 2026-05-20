@@ -1,6 +1,6 @@
 ---
 type: study
-title: "CAPACITY-HFpEF: Praliciguat in HFpEF"
+title: 'CAPACITY-HFpEF: Praliciguat in HFpEF'
 citekey: Udelson2020CAPACITY
 year: 2020
 authors: Udelson JE, Lewis GD, Shah SJ, et al.
@@ -8,16 +8,17 @@ journal: JAMA
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - cgmp
-  - praliciguat
-  - no-pathway
+- trial
+- hfpef
+- cgmp
+- praliciguat
+- no-pathway
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2020-JAMA-Udelson-CAPACITY-HFpEF_study.pdf
-    citekey: Udelson2020CAPACITY
+- file: raw/2020-JAMA-Udelson-CAPACITY-HFpEF_study.pdf
+  citekey: Udelson2020CAPACITY
+page-type: source-summary-page
 ---
 # CAPACITY-HFpEF
 

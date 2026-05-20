@@ -1,6 +1,7 @@
 ---
 type: source
-title: "Beale 2019 — Iron Deficiency Prevalence and Impact in HFpEF (Systematic Review)"
+title: "Beale 2019 \u2014 Iron Deficiency Prevalence and Impact in HFpEF (Systematic\
+  \ Review)"
 citekey: Beale2019Iron
 year: 2019
 authors: Beale AL, Warren JL, Roberts N, Meyer P, Townsend M, Kaye DM
@@ -8,17 +9,18 @@ journal: Open Heart
 study_type: systematic review and meta-analysis
 evidence_level: moderate
 tags:
-  - iron-deficiency
-  - biomarker
-  - exercise-intolerance
-  - hfpef
-  - systematic-review
-  - meta-analysis
+- iron-deficiency
+- biomarker
+- exercise-intolerance
+- hfpef
+- systematic-review
+- meta-analysis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2019-BMJHeartFail-Beale-Iron_dficiency_hfpef_systematic_review.pdf
-    citekey: Beale2019Iron
+- file: raw/2019-BMJHeartFail-Beale-Iron_dficiency_hfpef_systematic_review.pdf
+  citekey: Beale2019Iron
+page-type: source-summary-page
 ---
 # Beale 2019 — Iron Deficiency in HFpEF: Systematic Review and Meta-Analysis
 

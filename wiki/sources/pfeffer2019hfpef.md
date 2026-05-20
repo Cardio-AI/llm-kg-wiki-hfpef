@@ -1,21 +1,22 @@
 ---
 type: source
-title: "HFpEF: In Perspective (Pfeffer 2019)"
+title: 'HFpEF: In Perspective (Pfeffer 2019)'
 citekey: Pfeffer2019HFpEF
 year: 2019
 authors: Pfeffer MA, Shah AM, Borlaug BA
 journal: Circulation Research
 tags:
-  - hfpef
-  - review
-  - pathophysiology
-  - clinical-trials
-  - cellular-mechanisms
+- hfpef
+- review
+- pathophysiology
+- clinical-trials
+- cellular-mechanisms
 created: 2026-05-06
 last_updated: 2026-05-06
 sources:
-  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
-    citekey: Pfeffer2019HFpEF
+- file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+  citekey: Pfeffer2019HFpEF
+page-type: source-summary-page
 ---
 # HFpEF: In Perspective
 

@@ -1,21 +1,22 @@
 ---
 type: source
-title: "Exercise Training in HFpEF: State-of-the-Art Review"
+title: 'Exercise Training in HFpEF: State-of-the-Art Review'
 citekey: Mirzai2025Exercise
 year: 2025
 authors: Mirzai S, Sandesara U, Haykowsky MJ, Brubaker PH, Kitzman DW, Peters AE
 journal: Heart Failure Reviews
 tags:
-  - review
-  - exercise
-  - hfpef
-  - treatment
-  - physical-activity
+- review
+- exercise
+- hfpef
+- treatment
+- physical-activity
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
-    citekey: Mirzai2025Exercise
+- file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
+  citekey: Mirzai2025Exercise
+page-type: source-summary-page
 ---
 # Exercise Training in HFpEF — 2025 Review
 

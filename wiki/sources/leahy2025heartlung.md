@@ -1,26 +1,29 @@
 ---
 type: study
-title: "Leahy 2025 — Heart-Lung Interactions in HFpEF: Dynamic Hyperinflation and Exercise PCWP"
+title: "Leahy 2025 \u2014 Heart-Lung Interactions in HFpEF: Dynamic Hyperinflation\
+  \ and Exercise PCWP"
 citekey: Leahy2025HeartLung
 year: 2025
-authors: Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr, Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S
+authors: Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr,
+  Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S
 journal: JACC Heart Fail
 study_type: observational, exercise physiology
 evidence_level: moderate
 tags:
-  - dynamic-hyperinflation
-  - exercise-pcwp
-  - heart-lung-interactions
-  - ventilatory-limitation
-  - exercise-intolerance
-  - hfpef
-  - obesity
-  - pulmonary-artery-catheterisation
+- dynamic-hyperinflation
+- exercise-pcwp
+- heart-lung-interactions
+- ventilatory-limitation
+- exercise-intolerance
+- hfpef
+- obesity
+- pulmonary-artery-catheterisation
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2025-JACC-Leahy-heart-lung_interactions_hfpef.pdf
-    citekey: Leahy2025HeartLung
+- file: raw/2025-JACC-Leahy-heart-lung_interactions_hfpef.pdf
+  citekey: Leahy2025HeartLung
+page-type: source-summary-page
 ---
 # Leahy 2025 — Dynamic Hyperinflation and Exercise PCWP in HFpEF
 
@@ -93,4 +96,4 @@ This study introduces a non-cardiac mechanism for elevated exercise PCWP in obes
 
 ## Contradictions
 
-The finding that PCWP elevation in obese HFpEF is partially driven by external ventilatory mechanics challenges the assumption that elevated exercise PCWP is purely a cardiac/diastolic marker. This has implications for exercise catheterisation as a diagnostic test in obese HFpEF — PCWP may be overestimated. Transmural pressures (corrected for pleural pressure) would be lower. Document in [[contradictions.md]].
+The finding that PCWP elevation in obese HFpEF is partially driven by external ventilatory mechanics challenges the assumption that elevated exercise PCWP is purely a cardiac/diastolic marker. This has implications for exercise catheterisation as a diagnostic test in obese HFpEF — PCWP may be overestimated. Transmural pressures (corrected for pleural pressure) would be lower. Document in [[contradictions]].

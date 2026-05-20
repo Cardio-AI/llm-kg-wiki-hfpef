@@ -1,22 +1,25 @@
 ---
 type: source
-title: "Exercise Training in Heart Failure With Preserved Ejection Fraction: A Scientific Statement From the American Heart Association"
+title: 'Exercise Training in Heart Failure With Preserved Ejection Fraction: A Scientific
+  Statement From the American Heart Association'
 citekey: Sachdev2023Exercise
 year: 2023
-authors: Sachdev V, Sharma K, Keteyian SJ, Bhella PS, Darden D, Dhakal BP, Faraday N, Kitzman DW, Liu M, Rao VN, Shah SJ, Wokhlu A, Forman DE
+authors: Sachdev V, Sharma K, Keteyian SJ, Bhella PS, Darden D, Dhakal BP, Faraday
+  N, Kitzman DW, Liu M, Rao VN, Shah SJ, Wokhlu A, Forman DE
 journal: Circulation
 tags:
-  - hfpef
-  - exercise
-  - supervised-exercise-training
-  - scientific-statement
-  - treatment
-  - exercise-intolerance
+- hfpef
+- exercise
+- supervised-exercise-training
+- scientific-statement
+- treatment
+- exercise-intolerance
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-    citekey: Sachdev2023Exercise
+- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
+  citekey: Sachdev2023Exercise
+page-type: source-summary-page
 ---
 # Sachdev 2023 — Exercise Training in HFpEF (AHA Scientific Statement)
 
@@ -30,7 +33,7 @@ sources:
 
 ### Exercise Training Efficacy
 
-Meta-analysis of 8 RCTs (n=503, HFpEF with LVEF ≥45–50%) comparing [[supervised-exercise-training|supervised exercise training (SET)]] vs. usual care:
+Meta-analysis of 8 RCTs (n=503, HFpEF with LVEF ≥45–50%) comparing [[supervised-exercise-training]] vs. usual care:
 
 | Outcome | Effect Size | 95% CI |
 |---|---|---|
@@ -44,7 +47,7 @@ Hard outcomes (all-cause mortality, HF hospitalization): **unknown** — individ
 
 ### Mechanisms of Exercise Intolerance in HFpEF
 
-[[Exercise-intolerance]] in HFpEF is multimechanistic. The relative contributions, assessed by invasive CPET:
+[[exercise-intolerance]] in HFpEF is multimechanistic. The relative contributions, assessed by invasive CPET:
 
 1. **Skeletal muscle myopathy (primary):** Peripheral A-VO2 difference accounts for >50% of the VO2 reduction vs. healthy controls. Myopathic changes include fibre-type shift (type I → type II), mitochondrial dysfunction, reduced oxidative capacity, and impaired O2 extraction. This is the dominant correctable mechanism — and the likely target of exercise training.
 

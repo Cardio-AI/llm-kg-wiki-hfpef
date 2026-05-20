@@ -1,34 +1,39 @@
 ---
 type: concept
 title: HFpEF Diagnosis
-summary: Diagnosing HFpEF requires symptoms + LVEF ≥50% + evidence of elevated LV filling pressures; ESC 2021 uses Table 9 structural/functional markers; AHA 2022 makes filling pressure elevation explicit; H₂FPEF score endorsed by AHA 2022; HFA-PEFF endorsed by ESC; invasive haemodynamic testing is the gold standard; competing definitions enroll 12–90% of the same cohort.
+summary: "Diagnosing HFpEF requires symptoms + LVEF \u226550% + evidence of elevated\
+  \ LV filling pressures; ESC 2021 uses Table 9 structural/functional markers; AHA\
+  \ 2022 makes filling pressure elevation explicit; H\u2082FPEF score endorsed by\
+  \ AHA 2022; HFA-PEFF endorsed by ESC; invasive haemodynamic testing is the gold\
+  \ standard; competing definitions enroll 12\u201390% of the same cohort."
 tags:
-  - hfpef
-  - diagnosis
-  - echocardiography
-  - natriuretic-peptides
-  - diastolic-dysfunction
+- hfpef
+- diagnosis
+- echocardiography
+- natriuretic-peptides
+- diastolic-dysfunction
 created: 2026-04-30
 last_updated: 2026-05-14
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-    citekey: Ho2019HFpEFDefinitions
-  - file: raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf
-    citekey: Pieske2019HFAPEFF
-  - file: raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf
-    citekey: Reddy2018H2FPEF
-  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
-    citekey: Pfeffer2019HFpEF
-  - file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
-    citekey: borlaug2010exercise
-  - file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-    citekey: landsteiner2025hemodynamics
-  - file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-    citekey: borlaug2023statement
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
+  citekey: Ho2019HFpEFDefinitions
+- file: raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf
+  citekey: Pieske2019HFAPEFF
+- file: raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf
+  citekey: Reddy2018H2FPEF
+- file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+  citekey: Pfeffer2019HFpEF
+- file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
+  citekey: borlaug2010exercise
+- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
+  citekey: landsteiner2025hemodynamics
+- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
+  citekey: borlaug2023statement
+page-type: concept-page
 ---
 # HFpEF Diagnosis
 

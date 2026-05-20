@@ -1,23 +1,24 @@
 ---
 type: source
-title: "INABLE-Training: Inorganic Nitrite Added to Exercise Training in HFpEF"
+title: 'INABLE-Training: Inorganic Nitrite Added to Exercise Training in HFpEF'
 citekey: Borlaug2024INABLE
 year: 2024
 authors: Borlaug BA, Koepp KE, Melenovsky V, et al.
 journal: Mayo Clin Proc
 tags:
-  - hfpef
-  - trial
-  - exercise
-  - nitrite
-  - no-cgmp
-  - exercise-intolerance
-  - treatment
+- hfpef
+- trial
+- exercise
+- nitrite
+- no-cgmp
+- exercise-intolerance
+- treatment
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
-    citekey: Borlaug2024INABLE
+- file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
+  citekey: Borlaug2024INABLE
+page-type: source-summary-page
 ---
 # INABLE-Training
 

@@ -1,24 +1,28 @@
 ---
 type: study
-title: "TOPCAT: Spironolactone for Heart Failure with Preserved Ejection Fraction"
+title: 'TOPCAT: Spironolactone for Heart Failure with Preserved Ejection Fraction'
 citekey: Pitt2014TOPCAT
 year: 2014
-authors: Pitt B, Pfeffer MA, Assmann SF, Boineau R, Anand IS, Claggett B, Clausell N, Desai AS, Diaz R, Fleg JL, Gordeev I, Harty B, Heitner JF, Kenwood CT, Lewis EF, O'Meara E, Probstfield JL, Shaburishvili T, Shah SJ, Solomon SD, Sweitzer NK, Yang S, McKinlay SM
+authors: Pitt B, Pfeffer MA, Assmann SF, Boineau R, Anand IS, Claggett B, Clausell
+  N, Desai AS, Diaz R, Fleg JL, Gordeev I, Harty B, Heitner JF, Kenwood CT, Lewis
+  EF, O'Meara E, Probstfield JL, Shaburishvili T, Shah SJ, Solomon SD, Sweitzer NK,
+  Yang S, McKinlay SM
 journal: N Engl J Med
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - spironolactone
-  - mra
+- trial
+- hfpef
+- spironolactone
+- mra
 created: 2026-04-30
 last_updated: 2026-05-13
 sources:
-  - file: raw/2014-NEJM-Pitt-TOPCAT_study.pdf
-    citekey: Pitt2014TOPCAT
-  - file: raw/2011-AHA-Desai-TOPCAT_study.pdf
-    citekey: Desai2011TOPCAT
+- file: raw/2014-NEJM-Pitt-TOPCAT_study.pdf
+  citekey: Pitt2014TOPCAT
+- file: raw/2011-AHA-Desai-TOPCAT_study.pdf
+  citekey: Desai2011TOPCAT
+page-type: source-summary-page
 ---
 # TOPCAT — Spironolactone in HFpEF (Pitt 2014)
 

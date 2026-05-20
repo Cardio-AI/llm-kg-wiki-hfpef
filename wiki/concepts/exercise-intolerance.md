@@ -1,44 +1,49 @@
 ---
 type: concept
 title: Exercise Intolerance in HFpEF
-summary: The dominant symptom of HFpEF; caused by four interacting mechanisms — skeletal muscle myopathy (primary, >50% of VO2 reduction), cardiac limitation (blunted SV augmentation, chronotropic incompetence), pulmonary hypertension, and peripheral vascular dysfunction — with skeletal muscle identified as the most tractable therapeutic target.
+summary: "The dominant symptom of HFpEF; caused by four interacting mechanisms \u2014\
+  \ skeletal muscle myopathy (primary, >50% of VO2 reduction), cardiac limitation\
+  \ (blunted SV augmentation, chronotropic incompetence), pulmonary hypertension,\
+  \ and peripheral vascular dysfunction \u2014 with skeletal muscle identified as\
+  \ the most tractable therapeutic target."
 tags:
-  - hfpef
-  - mechanism
-  - exercise
-  - physiology
-  - exercise-intolerance
+- hfpef
+- mechanism
+- exercise
+- physiology
+- exercise-intolerance
 created: 2026-04-30
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-    citekey: Sachdev2023Exercise
-  - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-    citekey: Ho2019HFpEFDefinitions
-  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
-    citekey: Pfeffer2019HFpEF
-  - file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
-    citekey: Bohmke2022Nonpharm
-  - file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
-    citekey: borlaug2010exercise
-  - file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
-    citekey: manabe2023sympathetic
-  - file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-    citekey: landsteiner2025hemodynamics
-  - file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-    citekey: borlaug2023statement
-  - file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
-    citekey: edelmann2025exdhf
-  - file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
-    citekey: sharif2024locomotor
-  - file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
-    citekey: obaya2024aerobic
-  - file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
-    citekey: Borlaug2024INABLE
-  - file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
-    citekey: Brubaker2023SECRET2
-  - file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
-    citekey: Alonso2022HEARTcamp
+- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
+  citekey: Sachdev2023Exercise
+- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
+  citekey: Ho2019HFpEFDefinitions
+- file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+  citekey: Pfeffer2019HFpEF
+- file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
+  citekey: Bohmke2022Nonpharm
+- file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
+  citekey: borlaug2010exercise
+- file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
+  citekey: manabe2023sympathetic
+- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
+  citekey: landsteiner2025hemodynamics
+- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
+  citekey: borlaug2023statement
+- file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
+  citekey: edelmann2025exdhf
+- file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
+  citekey: sharif2024locomotor
+- file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
+  citekey: obaya2024aerobic
+- file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
+  citekey: Borlaug2024INABLE
+- file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
+  citekey: Brubaker2023SECRET2
+- file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
+  citekey: Alonso2022HEARTcamp
+page-type: phenotype-page
 ---
 # Exercise Intolerance in HFpEF
 

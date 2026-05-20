@@ -1,23 +1,25 @@
 ---
 type: source
-title: "Beta-Blocker Therapy in HFpEF (B-HFpEF): Systematic Review and Meta-Analysis (Kaddoura 2024)"
+title: 'Beta-Blocker Therapy in HFpEF (B-HFpEF): Systematic Review and Meta-Analysis
+  (Kaddoura 2024)'
 citekey: Kaddoura2024BetaBlocker
 year: 2024
 authors: Kaddoura R, Madurasinghe V, Chapra A, et al.
 journal: Curr Probl Cardiol
 tags:
-  - hfpef
-  - beta-blocker
-  - treatment
-  - systematic-review
-  - meta-analysis
-  - mortality
-  - pharmacotherapy
+- hfpef
+- beta-blocker
+- treatment
+- systematic-review
+- meta-analysis
+- mortality
+- pharmacotherapy
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf
-    citekey: Kaddoura2024BetaBlocker
+- file: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf
+  citekey: Kaddoura2024BetaBlocker
+page-type: source-summary-page
 ---
 # Beta-Blocker Therapy in HFpEF (Kaddoura 2024)
 

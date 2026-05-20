@@ -1,19 +1,21 @@
 ---
 type: source
-title: "CMR to characterize myocardial structure and function in heart failure with preserved left ventricular ejection fraction"
+title: CMR to characterize myocardial structure and function in heart failure with
+  preserved left ventricular ejection fraction
 citekey: ipek2024cmr
 year: 2024
 authors: Ipek R, Holland J, Cramer M, Rider O
 journal: European Heart Journal - Cardiovascular Imaging
 tags:
-  - imaging
-  - diagnosis
-  - mechanism
+- imaging
+- diagnosis
+- mechanism
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-ESC-Ipek-CMR_characterization_HFpEF.pdf
-    citekey: ipek2024cmr
+- file: raw/2024-ESC-Ipek-CMR_characterization_HFpEF.pdf
+  citekey: ipek2024cmr
+page-type: source-summary-page
 ---
 # CMR in HFpEF: Comprehensive Phenotyping Review
 

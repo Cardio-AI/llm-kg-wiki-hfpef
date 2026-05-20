@@ -1,24 +1,30 @@
 ---
 type: study
-title: "EMPEROR-Preserved: Empagliflozin in HFpEF"
+title: 'EMPEROR-Preserved: Empagliflozin in HFpEF'
 citekey: Anker2021EMPEROR
 year: 2021
-authors: Anker SD, Butler J, Filippatos G, Ferreira JP, Bocchi E, Böhm M, Brunner-La Rocca HP, Choi DJ, Chopra V, Chuquiure-Valenzuela E, Giannetti N, Gomez-Mesa JE, Janssens S, Januzzi JL, Gonzalez-Juanatey JR, Merkely B, Nicholls SJ, Perrone SV, Piña IL, Ponikowski P, Senni M, Sim D, Spinar J, Squire I, Taddei S, Tsutsui H, Verma S, Vinereanu D, Zhang J, Carson P, Lam CSP, Marx N, Zeller C, Sattar N, Jamal W, Schnaidt S, Schnee JM, Brueckmann M, Pocock SJ, Zannad F, Packer M
+authors: "Anker SD, Butler J, Filippatos G, Ferreira JP, Bocchi E, B\xF6hm M, Brunner-La\
+  \ Rocca HP, Choi DJ, Chopra V, Chuquiure-Valenzuela E, Giannetti N, Gomez-Mesa JE,\
+  \ Janssens S, Januzzi JL, Gonzalez-Juanatey JR, Merkely B, Nicholls SJ, Perrone\
+  \ SV, Pi\xF1a IL, Ponikowski P, Senni M, Sim D, Spinar J, Squire I, Taddei S, Tsutsui\
+  \ H, Verma S, Vinereanu D, Zhang J, Carson P, Lam CSP, Marx N, Zeller C, Sattar\
+  \ N, Jamal W, Schnaidt S, Schnee JM, Brueckmann M, Pocock SJ, Zannad F, Packer M"
 journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - sglt2-inhibitors
-  - empagliflozin
+- trial
+- hfpef
+- sglt2-inhibitors
+- empagliflozin
 created: 2026-04-30
 last_updated: 2026-05-13
 sources:
-  - file: raw/2021-NEJM-Anker-EMPEROR-preserved.pdf
-    citekey: Anker2021EMPEROR
-  - file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
-    citekey: Ferreira2026Emperor
+- file: raw/2021-NEJM-Anker-EMPEROR-preserved.pdf
+  citekey: Anker2021EMPEROR
+- file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
+  citekey: Ferreira2026Emperor
+page-type: source-summary-page
 ---
 # EMPEROR-Preserved — Empagliflozin in HFpEF (Anker 2021)
 

@@ -1,25 +1,28 @@
 ---
 type: study
-title: "Kasahara 2018 — BNP Prognostic Impact Across HF Subtypes (CHART-2)"
+title: "Kasahara 2018 \u2014 BNP Prognostic Impact Across HF Subtypes (CHART-2)"
 citekey: Kasahara2018CHART2
 year: 2018
-authors: Kasahara S, Sakata Y, Nochioka K, Miura M, Oikawa T, Tamura Y, Sato M, Aoyanagi H, Shiroto T, Yamauchi T, Ito S, Hatanaka Y, Fujiwara T, Miyata S, Shimokawa H; CHART-2 Investigators
+authors: Kasahara S, Sakata Y, Nochioka K, Miura M, Oikawa T, Tamura Y, Sato M, Aoyanagi
+  H, Shiroto T, Yamauchi T, Ito S, Hatanaka Y, Fujiwara T, Miyata S, Shimokawa H;
+  CHART-2 Investigators
 journal: Heart Vessels
 study_type: prospective cohort (CHART-2 registry)
 evidence_level: moderate
 tags:
-  - bnp
-  - natriuretic-peptides
-  - prognosis
-  - biomarker
-  - hfpef
-  - hfref
-  - registry
+- bnp
+- natriuretic-peptides
+- prognosis
+- biomarker
+- hfpef
+- hfref
+- registry
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2018-JHeartVessel-Kasahara-CHART-2_study_report_bnp_in_hfpef.pdf
-    citekey: Kasahara2018CHART2
+- file: raw/2018-JHeartVessel-Kasahara-CHART-2_study_report_bnp_in_hfpef.pdf
+  citekey: Kasahara2018CHART2
+page-type: source-summary-page
 ---
 # Kasahara 2018 — BNP Prognostic Impact Across HF Subtypes: CHART-2
 

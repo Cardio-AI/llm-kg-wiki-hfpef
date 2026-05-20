@@ -1,21 +1,25 @@
 ---
 type: concept
 title: HF Phenotype Classification by Ejection Fraction
-summary: Heart failure classified into four EF-based phenotypes — HFrEF (≤40%), HFmrEF (41–49%), HFpEF (≥50%), HFimpEF (recovered from ≤40% to ≥40%) — with distinct pathophysiology and evidence bases; AHA 2022 introduced HFimpEF; cut-offs are pragmatic, not mechanistic.
+summary: "Heart failure classified into four EF-based phenotypes \u2014 HFrEF (\u2264\
+  40%), HFmrEF (41\u201349%), HFpEF (\u226550%), HFimpEF (recovered from \u226440%\
+  \ to \u226540%) \u2014 with distinct pathophysiology and evidence bases; AHA 2022\
+  \ introduced HFimpEF; cut-offs are pragmatic, not mechanistic."
 tags:
-  - classification
-  - ejection-fraction
-  - hf-phenotypes
-  - diagnosis
+- classification
+- ejection-fraction
+- hf-phenotypes
+- diagnosis
 created: 2026-04-30
 last_updated: 2026-05-04
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
-    citekey: Savarese2022GlobalBurden
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+- file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
+  citekey: Savarese2022GlobalBurden
+page-type: phenotype-page
 ---
 # HF Phenotype Classification
 

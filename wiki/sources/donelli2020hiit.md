@@ -1,25 +1,26 @@
 ---
 type: study
-title: "HIIT versus Moderate Continuous Training in HFpEF (DonelliDaSilveira 2020)"
-citekey: DonelliDaSilveira2020HIIT
+title: HIIT versus Moderate Continuous Training in HFpEF (DonelliDaSilveira 2020)
+citekey: donelli2020hiit
 year: 2020
 authors: Donelli da Silveira A, Beust de Lima J, da Silva Piardi D, et al.
 journal: Eur J Prev Cardiol
 study_type: RCT
 evidence_level: moderate
 tags:
-  - hfpef
-  - exercise
-  - hiit
-  - mct
-  - trial
-  - functional-capacity
-  - peak-vo2
+- hfpef
+- exercise
+- hiit
+- mct
+- trial
+- functional-capacity
+- peak-vo2
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf
-    citekey: DonelliDaSilveira2020HIIT
+- file: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf
+  citekey: donelli2020hiit
+page-type: source-summary-page
 ---
 # HIIT vs MCT in HFpEF (DonelliDaSilveira 2020)
 

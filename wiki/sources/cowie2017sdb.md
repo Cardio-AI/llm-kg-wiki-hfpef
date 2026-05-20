@@ -1,23 +1,25 @@
 ---
 type: source
-title: "Cowie 2017 — Sleep-Disordered Breathing in Heart Failure (State of the Art)"
+title: "Cowie 2017 \u2014 Sleep-Disordered Breathing in Heart Failure (State of the\
+  \ Art)"
 citekey: Cowie2017SDB
 year: 2017
 authors: Cowie MR, Gallagher AM
 journal: JACC Heart Fail
 tags:
-  - sleep-disordered-breathing
-  - central-sleep-apnea
-  - obstructive-sleep-apnea
-  - hfpef
-  - hfref
-  - serve-hf
-  - review
+- sleep-disordered-breathing
+- central-sleep-apnea
+- obstructive-sleep-apnea
+- hfpef
+- hfref
+- serve-hf
+- review
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2017-JACCHeartFail-Cowi-sleep-disordered_breathing_hf.pdf
-    citekey: Cowie2017SDB
+- file: raw/2017-JACCHeartFail-Cowi-sleep-disordered_breathing_hf.pdf
+  citekey: Cowie2017SDB
+page-type: source-summary-page
 ---
 # Cowie 2017 — Sleep-Disordered Breathing in Heart Failure (State of the Art Review)
 

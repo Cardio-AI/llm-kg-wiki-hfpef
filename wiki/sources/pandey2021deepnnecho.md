@@ -8,17 +8,18 @@ journal: JACC Cardiovascular Imaging
 study_type: observational
 evidence_level: moderate
 tags:
-  - hfpef
-  - ml-ai
-  - diastolic-dysfunction
-  - echocardiography
-  - phenotypes
-  - biomarker
+- hfpef
+- ml-ai
+- diastolic-dysfunction
+- echocardiography
+- phenotypes
+- biomarker
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2021-JACC-Pandey-DL_echo_detect_diastolic_dysfunction.pdf
-    citekey: Pandey2021DeepNNEcho
+- file: raw/2021-JACC-Pandey-DL_echo_detect_diastolic_dysfunction.pdf
+  citekey: Pandey2021DeepNNEcho
+page-type: source-summary-page
 ---
 # Deep-Learning Echocardiographic Assessment of Diastolic Dysfunction (Pandey 2021)
 

@@ -7,8 +7,36 @@ Outputs: `wiki/queries/`
 1. Resolve aliases first
 2. Check `wiki/queries/` for existing answers before generating a new one
 3. Revalidate against newer wiki knowledge before reusing old answers
-4. Preserve provenance — cite sources inline (`[[page]]`, APA format from `wiki/citations.md`)
+4. Preserve provenance — cite sources inline (`[[citekey]]`); include full APA references at end of answer
 5. Link densely
+
+---
+
+# Output Format
+
+**Style:** Concise, precise, scientific. No padding, no hedging beyond warranted uncertainty.  
+**Structure:** Prose for short answers; headers, bullet points, and tables where the content has multiple dimensions or comparisons.  
+**Citations:** Inline `[[citekey]]` for every factual claim. Full APA references listed under `## References` at the end, drawn from `wiki/citations.md`.  
+**Uncertainty rating:** End every answer with an `## Evidence Quality` block:
+
+```
+## Evidence Quality
+**Rating: X / 5**
+- Sources: [number and identity]
+- Evidence type: [RCT / meta-analysis / guideline / registry / expert opinion]
+- Publication year(s): [range]
+- Limitations: [any gaps, heterogeneity, outdated data, indirect evidence]
+```
+
+Rating scale:
+| Score | Meaning |
+|---|---|
+| 5 | Multiple concordant RCTs or high-certainty meta-analysis; recent (≤5 years); directly answers the question |
+| 4 | ≥1 RCT or high-quality cohort; recent; minor gaps or indirect evidence |
+| 3 | Single RCT or moderate cohort evidence; some limitations (age, population, surrogate endpoints) |
+| 2 | Registry data, subgroup analyses, or expert consensus; no direct RCT |
+| 1 | Case series, mechanistic reasoning, or single low-quality study |
+| 0 | No wiki sources; cannot answer from canonical knowledge base |
 
 ---
 
@@ -37,7 +65,8 @@ derived_from: []
 ## Answer
 ## Evidence
 ## Contradictions
-## Related Pages
+## References
+## Evidence Quality
 ```
 
 Save to `wiki/queries/`. Maintain `wiki/queries/index.md`.

@@ -1,6 +1,7 @@
 ---
 type: source
-title: "Horiuchi 2022 — NP-Guided Therapy in HF: Benefit in HFrEF, No Benefit in HFpEF"
+title: "Horiuchi 2022 \u2014 NP-Guided Therapy in HF: Benefit in HFrEF, No Benefit\
+  \ in HFpEF"
 citekey: Horiuchi2022NPGuided
 year: 2022
 authors: Horiuchi Y, Villacorta H, Maisel A
@@ -8,19 +9,20 @@ journal: Heart International
 study_type: review
 evidence_level: low-moderate
 tags:
-  - natriuretic-peptides
-  - bnp
-  - nt-probnp
-  - np-guided-therapy
-  - hfpef
-  - hfref
-  - treatment
-  - review
+- natriuretic-peptides
+- bnp
+- nt-probnp
+- np-guided-therapy
+- hfpef
+- hfref
+- treatment
+- review
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2022-HeartInternational-Horiuchi-NP_guided_therapy_hf.pdf
-    citekey: Horiuchi2022NPGuided
+- file: raw/2022-HeartInternational-Horiuchi-NP_guided_therapy_hf.pdf
+  citekey: Horiuchi2022NPGuided
+page-type: source-summary-page
 ---
 # Horiuchi 2022 — NP-Guided Therapy in Heart Failure: Efficacy by EF Subtype
 
@@ -71,4 +73,4 @@ This review highlights that NP-guided therapy — effective in HFrEF — should 
 
 ## Contradictions
 
-Direct contradiction with NP-guided therapy evidence in HFrEF — what works in HFrEF does not generalise to HFpEF. Document in [[contradictions.md]].
+Direct contradiction with NP-guided therapy evidence in HFrEF — what works in HFrEF does not generalise to HFpEF. Document in [[contradictions]].

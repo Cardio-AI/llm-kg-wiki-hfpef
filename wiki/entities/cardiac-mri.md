@@ -1,23 +1,28 @@
 ---
 type: entity
 title: Cardiac MRI (CMR)
-summary: Cardiovascular magnetic resonance imaging; the gold standard for LVEF measurement and myocardial tissue characterisation; higher accuracy than echocardiography for LVEF but limited availability and contraindications in pacemaker/ICD patients; LA reservoir strain, LV GLS, native T1, ECV, LACI, and exercise CMR are emerging HFpEF-specific markers.
+summary: Cardiovascular magnetic resonance imaging; the gold standard for LVEF measurement
+  and myocardial tissue characterisation; higher accuracy than echocardiography for
+  LVEF but limited availability and contraindications in pacemaker/ICD patients; LA
+  reservoir strain, LV GLS, native T1, ECV, LACI, and exercise CMR are emerging HFpEF-specific
+  markers.
 entity_type: imaging-tool
 tags:
-  - cardiac-mri
-  - cmr
-  - imaging
-  - diagnosis
-  - hfpef
+- cardiac-mri
+- cmr
+- imaging
+- diagnosis
+- hfpef
 created: 2026-04-30
 last_updated: 2026-05-15
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2024-ESC-Ipek-CMR_characterization_HFpEF.pdf
-    citekey: ipek2024cmr
-  - file: raw/2024-IJCI-Lange-CMR_phenotyping_HF.pdf
-    citekey: lange2024cmr
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2024-ESC-Ipek-CMR_characterization_HFpEF.pdf
+  citekey: ipek2024cmr
+- file: raw/2024-IJCI-Lange-CMR_phenotyping_HF.pdf
+  citekey: lange2024cmr
+page-type: entity-page
 ---
 # Cardiac MRI
 

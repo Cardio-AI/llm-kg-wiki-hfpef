@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial"
+title: 'Wireless pulmonary artery haemodynamic monitoring in chronic heart failure:
+  a randomised controlled trial'
 citekey: abraham2011champion
 year: 2011
 authors: Abraham WT, Fisher WG, Smith AL, et al.; CHAMPION Trial Study Group
 journal: The Lancet
 tags:
-  - trial
-  - device
-  - treatment
+- trial
+- device
+- treatment
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2011-LANCET-Abraham-CHAMPION_study_design.pdf
-    citekey: abraham2011champion
+- file: raw/2011-LANCET-Abraham-CHAMPION_study_design.pdf
+  citekey: abraham2011champion
+page-type: source-summary-page
 ---
 # CHAMPION Trial: Primary Results (Abraham 2011)
 

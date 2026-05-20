@@ -1,22 +1,24 @@
 ---
 type: study
-title: "PARAGON-HF: Sacubitril/Valsartan vs. Valsartan in HFpEF"
+title: 'PARAGON-HF: Sacubitril/Valsartan vs. Valsartan in HFpEF'
 citekey: Solomon2019PARAGON
 year: 2019
-authors: Solomon SD, McMurray JJV, Anand IS, et al. (PARAGON-HF Investigators and Committees)
+authors: Solomon SD, McMurray JJV, Anand IS, et al. (PARAGON-HF Investigators and
+  Committees)
 journal: New England Journal of Medicine
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - sacubitril-valsartan
-  - arni
+- trial
+- hfpef
+- sacubitril-valsartan
+- arni
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2019-NEJM-PARAGON-HF_study.pdf
-    citekey: Solomon2019PARAGON
+- file: raw/2019-NEJM-PARAGON-HF_study.pdf
+  citekey: Solomon2019PARAGON
+page-type: source-summary-page
 ---
 # PARAGON-HF
 

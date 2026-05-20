@@ -1,18 +1,22 @@
 ---
 type: entity
 title: PEP-CHF
-summary: Double-blind RCT (N=850) of perindopril (ACE inhibitor) vs. placebo in elderly HF patients (age ≥70, LVEF >40%) with diastolic dysfunction; published EHJ 2006; primary composite neutral (HR 0.92, P=0.55); oldest RAAS trial in HFpEF; high drug discontinuation limits interpretation.
+summary: "Double-blind RCT (N=850) of perindopril (ACE inhibitor) vs. placebo in elderly\
+  \ HF patients (age \u226570, LVEF >40%) with diastolic dysfunction; published EHJ\
+  \ 2006; primary composite neutral (HR 0.92, P=0.55); oldest RAAS trial in HFpEF;\
+  \ high drug discontinuation limits interpretation."
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - treatment
-  - raas
+- trial
+- hfpef
+- treatment
+- raas
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest
-    citekey: Cleland2006PEPCHF
+- file: null
+  citekey: Cleland2006PEPCHF
+page-type: entity-page
 ---
 # PEP-CHF
 
@@ -70,7 +74,7 @@ Primary composite HR 0.92 (95% CI 0.70–1.21; P=0.55). HF hospitalisation: HR 0
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
 - Entities: [[charm-preserved]], [[i-preserve]], [[paragon-hf]], [[hfpef]]
-- Sources: [[pfeffer2019hfpef]], [[yusuf2003charm]], [[massie2008ipreserve]], [[solomon2019paragon]]
+- Sources: [[cleland2006pepchf]], [[pfeffer2019hfpef]], [[yusuf2003charm]], [[massie2008ipreserve]], [[solomon2019paragon]]
 
 ## Contradictions
 

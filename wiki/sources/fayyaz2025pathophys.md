@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Pathophysiological insights into HFpEF from studies of human cardiac tissue"
+title: Pathophysiological insights into HFpEF from studies of human cardiac tissue
 citekey: fayyaz2025pathophys
 year: 2025
-authors: Fayyaz AU, Eltony M, Prokop LJ, Koepp KE, Borlaug BA, Dasari S, Bois MC, Margulies KB, Maleszewski JJ, Wang Y, Redfield MM
+authors: Fayyaz AU, Eltony M, Prokop LJ, Koepp KE, Borlaug BA, Dasari S, Bois MC,
+  Margulies KB, Maleszewski JJ, Wang Y, Redfield MM
 journal: Nature Reviews Cardiology
 tags:
-  - mechanism
-  - biomarker
-  - open-question
+- mechanism
+- biomarker
+- open-question
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2025-NatRevCardiol-Fayyaz-pathophysiological_insights_HFpEF_cardiac_tissue.pdf
-    citekey: fayyaz2025pathophys
+- file: raw/2025-NatRevCardiol-Fayyaz-pathophysiological_insights_HFpEF_cardiac_tissue.pdf
+  citekey: fayyaz2025pathophys
+page-type: source-summary-page
 ---
 # HFpEF Pathophysiology from Human Cardiac Tissue (Nat Rev Cardiol 2025)
 

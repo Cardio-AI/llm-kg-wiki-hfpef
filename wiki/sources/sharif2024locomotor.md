@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Resistance Training Effects on Locomotor Muscle Composition and Exercise Capacity in Heart Failure with Preserved Ejection Fraction"
+title: Resistance Training Effects on Locomotor Muscle Composition and Exercise Capacity
+  in Heart Failure with Preserved Ejection Fraction
 citekey: sharif2024locomotor
 year: 2024
 authors: Sharif M, et al.
 journal: Journal of Cardiac Failure
 tags:
-  - trial
-  - treatment
-  - exercise
+- trial
+- treatment
+- exercise
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
-    citekey: sharif2024locomotor
+- file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
+  citekey: sharif2024locomotor
+page-type: source-summary-page
 ---
 # Resistance Training and Locomotor Muscle Function in HFpEF
 

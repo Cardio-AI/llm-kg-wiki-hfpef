@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Effects of Aerobic Training Modality on Peak VO₂ and Ejection Fraction in Heart Failure with Preserved Ejection Fraction"
+title: "Effects of Aerobic Training Modality on Peak VO\u2082 and Ejection Fraction\
+  \ in Heart Failure with Preserved Ejection Fraction"
 citekey: obaya2024aerobic
 year: 2024
 authors: Obaya A, et al.
 journal: Physiotherapy Research International
 tags:
-  - trial
-  - treatment
-  - exercise
+- trial
+- treatment
+- exercise
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
-    citekey: obaya2024aerobic
+- file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
+  citekey: obaya2024aerobic
+page-type: source-summary-page
 ---
 # Upper vs Lower Limb Aerobic Training in HFpEF
 

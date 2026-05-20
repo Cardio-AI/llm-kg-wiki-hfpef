@@ -1,18 +1,22 @@
 ---
 type: entity
 title: STRONG-HF
-summary: International RCT (N=1,078) of high-intensity post-discharge GDMT uptitration (guided by NT-proBNP/GDF-15) vs. usual care in acute HF across the EF spectrum; 180-day death/readmission reduced by ~8% absolute; basis for ESC 2023 Class I post-discharge intensification recommendation.
+summary: International RCT (N=1,078) of high-intensity post-discharge GDMT uptitration
+  (guided by NT-proBNP/GDF-15) vs. usual care in acute HF across the EF spectrum;
+  180-day death/readmission reduced by ~8% absolute; basis for ESC 2023 Class I post-discharge
+  intensification recommendation.
 entity_type: trial
 tags:
-  - trial
-  - treatment
-  - acute-hf
-  - guideline
+- trial
+- treatment
+- acute-hf
+- guideline
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-  - file: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf
-    citekey: Mebazaa2022STRONGHF
+- file: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf
+  citekey: Mebazaa2022STRONGHF
+page-type: entity-page
 ---
 # STRONG-HF
 

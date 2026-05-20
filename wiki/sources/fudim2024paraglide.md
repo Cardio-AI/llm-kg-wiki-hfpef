@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Association of Sacubitril/Valsartan vs Valsartan with Blood Pressure Changes and Symptomatic Hypotension: The PARAGLIDE-HF Trial"
+title: 'Association of Sacubitril/Valsartan vs Valsartan with Blood Pressure Changes
+  and Symptomatic Hypotension: The PARAGLIDE-HF Trial'
 citekey: fudim2024paraglide
 year: 2024
 authors: Fudim M, Cyr DD, Ward JH, et al.
 journal: Journal of Cardiac Failure
 tags:
-  - trial
-  - treatment
-  - safety
+- trial
+- treatment
+- safety
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-JCF-Fudim-PARAGLIDE_study_analysis.pdf
-    citekey: fudim2024paraglide
+- file: raw/2024-JCF-Fudim-PARAGLIDE_study_analysis.pdf
+  citekey: fudim2024paraglide
+page-type: source-summary-page
 ---
 # Symptomatic Hypotension with Sac/Val in PARAGLIDE-HF
 

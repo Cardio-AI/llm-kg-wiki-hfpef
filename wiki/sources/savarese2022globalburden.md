@@ -1,24 +1,26 @@
 ---
 type: source
-title: Global burden of heart failure — a comprehensive and updated review of epidemiology
+title: "Global burden of heart failure \u2014 a comprehensive and updated review of\
+  \ epidemiology"
 citekey: Savarese2022GlobalBurden
 year: 2022
 authors: Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS
 journal: Cardiovascular Research
 tags:
-  - epidemiology
-  - hfpef
-  - hfref
-  - hfmref
-  - prevalence
-  - incidence
-  - mortality
-  - costs
+- epidemiology
+- hfpef
+- hfref
+- hfmref
+- prevalence
+- incidence
+- mortality
+- costs
 created: 2026-05-06
 last_updated: 2026-05-06
 sources:
-  - file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
-    citekey: Savarese2022GlobalBurden
+- file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
+  citekey: Savarese2022GlobalBurden
+page-type: source-summary-page
 ---
 # Global Burden of Heart Failure — Savarese 2022
 

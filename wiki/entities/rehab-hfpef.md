@@ -1,18 +1,24 @@
 ---
 type: entity
 title: REHAB-HFpEF
-summary: RCT of structured cardiac rehabilitation vs. usual care in HFpEF; NCT05525663; addresses the evidence gap for formal comprehensive cardiac rehabilitation programmes (as distinct from supervised exercise training) in HFpEF — identified in Mahmood 2024 as the most consistent cross-guideline treatment recommendation without a dedicated HFpEF-specific RCT.
+summary: "RCT of structured cardiac rehabilitation vs. usual care in HFpEF; NCT05525663;\
+  \ addresses the evidence gap for formal comprehensive cardiac rehabilitation programmes\
+  \ (as distinct from supervised exercise training) in HFpEF \u2014 identified in\
+  \ Mahmood 2024 as the most consistent cross-guideline treatment recommendation without\
+  \ a dedicated HFpEF-specific RCT."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - exercise
-  - treatment
+- hfpef
+- trial
+- exercise
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest
-    citekey: [pending — verify on ingest]
+- file: null
+  citekey:
+  - "pending \u2014 verify on ingest"
+page-type: entity-page
 ---
 # REHAB-HFpEF
 

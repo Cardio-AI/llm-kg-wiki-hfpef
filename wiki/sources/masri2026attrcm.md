@@ -1,20 +1,21 @@
 ---
 type: source
-title: "ATTR Cardiomyopathy: A Systematic Review of Clinical Trials and Emerging Therapeutics"
+title: 'ATTR Cardiomyopathy: A Systematic Review of Clinical Trials and Emerging Therapeutics'
 citekey: masri2026attrcm
 year: 2026
 authors: Masri A, et al.
 journal: Progress in Cardiovascular Diseases
 tags:
-  - review
-  - systematic-review
-  - attr-cm
-  - treatment
+- review
+- systematic-review
+- attr-cm
+- treatment
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2026-ProgressCardDisease-Masri-ATTR-CM_trials_systematic_review.pdf
-    citekey: masri2026attrcm
+- file: raw/2026-ProgressCardDisease-Masri-ATTR-CM_trials_systematic_review.pdf
+  citekey: masri2026attrcm
+page-type: source-summary-page
 ---
 # ATTR-CM Trials Systematic Review (Masri 2026)
 

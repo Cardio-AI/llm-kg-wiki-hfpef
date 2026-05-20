@@ -2,12 +2,30 @@
 
 ## Active Conflicts
 
+### Thematic Index (for navigation — numbered entries below are canonical)
+
+| Theme | Entries |
+|---|---|
+| **Diagnostic definitions & thresholds** | #1 (LVEF cut-off), #6 (7-definition heterogeneity), #11 (ESC vs AHA operational), #17 (E/e' threshold), #18 (LAVI threshold), #19 (NP threshold), #28 (trial NP exclusion), #29 (supine vs upright hemodynamics) |
+| **SGLT2i evidence** | #9 (ESC vs AHA class — resolved), #13 (symptom HFrEF vs HFpEF), #16 (DELIVER vs DETERMINE symptoms), #36 (antifibrotic CMR vs neutral mortality) |
+| **MRA evidence series** | #2 (TOPCAT regional → see #21), #21 (TOPCAT vs FINEARTS-HF vs Aldo-DHF), #24 (Aldo-DHF structural vs functional) |
+| **NO/cGMP pathway failures** | #20 (vericiguat), #25 (RELAX → see #33), #33 (tissue evidence vs clinical failure synthesis) |
+| **GLP-1 RA / GIP-GLP1 evidence** | #22 (STEP vs SUMMIT complementarity), #27 (tirzepatide vs semaglutide LV mass), #35 (NT-proBNP weight-loss independence paradox) |
+| **Exercise training** | #7 (functional benefit without hard outcomes), #8 (cardiac vs peripheral mechanism), #15 (HIIT vs MICT), #30 (Ex-DHF endpoint failure) |
+| **Sacubitril/valsartan** | #3 (FDA vs ESC), #32 (sex interaction: PARAGON-HF vs PARAGLIDE-HF) |
+| **Device trials** | #23 (REDUCE LAP-HF II PVR interaction), #31 (REDUCE LAP-HF II echocardiographic vs clinical dissociation) |
+| **Endpoint validity** | #14 (6MWD dissociation from KCCQ), #31 (echo surrogates), #24 (E/e' as surrogate) |
+| **Phenotype-specific** | #4 (NP in obesity), #10 (Mg interaction HFrEF vs HFpEF), #26 (ATTRwt vs ATTRm) |
+
+---
+
 ### 1. LVEF ≥50% Cut-off for HFpEF
 - **ESC 2021**: Uses LVEF ≥50% to define HFpEF (source: [[mcdonagh2021esc]])
 - **EACVI Position**: Defines LV systolic dysfunction as LVEF <52% (male) / <54% (female), creating a zone where patients meet the ESC HFpEF LVEF criterion but also have measurable systolic dysfunction
 - **Implication**: Patients with LVEF 50–54% (female) or 50–51% (male) occupy a definitional grey zone; classification depends on which guideline/definition is applied
 
 ### 2. TOPCAT: Regional Heterogeneity
+*→ For the full MRA evidence synthesis including FINEARTS-HF and Aldo-DHF, see #21.*
 - **Overall trial**: Spironolactone neutral vs. placebo in HFpEF (LVEF ≥45%); primary HR 0.89 (95% CI 0.77–1.04; P=0.14) (source: [[pitt2014topcat]])
 - **Americas subgroup (post-hoc)**: Region×treatment interaction P=0.12 in the main paper — **not statistically significant** (source: [[pitt2014topcat]]). Americas event rates: spironolactone 27.3% vs. placebo 31.8% — directionally favourable but the pre-specified interaction test does not reach significance. The "Americas positive" narrative derives from post-hoc analyses and separately published urinary spironolactone metabolite data (near-zero metabolite levels in Russia/Georgia placebo arm), not from the primary NEJM publication.
 - **Explanation**: Suspected enrollment of patients without true HFpEF in non-Americas (Russia/Georgia) cohort; Russia/Georgia event rates anomalously low (spiro 9.3% vs. placebo 8.4%); urinary metabolite evidence for open-label spironolactone use in controls published separately post-hoc
@@ -71,6 +89,7 @@
 - **Implication**: The two systems disagree on whether NPs add diagnostic information beyond clinical/echo variables. A patient with low NPs but high clinical pre-test probability (obese, AF, E/e'>9) scores high on H₂FPEF but may score low on HFA-PEFF biomarker domain. No prospective head-to-head validation in the same cohort.
 
 ### 13. DETERMINE: SGLT2i Symptom Benefit in HFrEF but Not HFpEF
+*→ For the within-HFpEF symptom discordance (DELIVER positive vs DETERMINE-Preserved neutral), see #16.*
 - **DETERMINE-Reduced (HFrEF)**: Dapagliflozin improved KCCQ-TSS +4.2 points, P=0.022 (source: [[mcmurray2024determine]])
 - **DETERMINE-Preserved (HFpEF)**: KCCQ-TSS +3.2 points, P=0.079 — not significant at 16 weeks (source: [[mcmurray2024determine]])
 - **Background context**: EMPEROR-Preserved and DELIVER show dapagliflozin/empagliflozin reduce HF hospitalisations in HFpEF — a hard outcome benefit exists; DETERMINE tests symptom/function endpoints with short follow-up
@@ -88,6 +107,7 @@
 - **Implication**: The peripheral/skeletal muscle mechanism of exercise intolerance (primary in HFpEF per Sachdev 2023) may explain why cardiac-targeted HIIT intensity does not translate to superior VO₂ gains — peripheral adaptations that MICT achieves sufficiently
 
 ### 16. DELIVER KCCQ Positive vs. DETERMINE-Preserved KCCQ Neutral: Same Drug, Both HFpEF
+*→ For the cross-phenotype comparison (DETERMINE HFrEF positive vs HFpEF neutral), see #13. For SGLT2i antifibrotic vs neutral mortality, see #36.*
 - **DELIVER (Solomon 2022):** Dapagliflozin 10 mg improved KCCQ-TSS vs. placebo at 8 months — win ratio 1.11 (95% CI 1.03–1.21), P=0.009; mean placebo-corrected difference +2.4 points (source: [[solomon2022deliver]])
 - **DETERMINE-Preserved (McMurray 2024):** Dapagliflozin 10 mg produced KCCQ-TSS change +3.2 points, P=0.079 — not significant at 16 weeks (source: [[mcmurray2024determine]])
 - **Same drug (dapagliflozin), same EF population (HFpEF), both placebo-controlled**
@@ -95,6 +115,7 @@
 - **Implication:** SGLT2i symptom benefit in HFpEF is likely real but may require ≥8 months to emerge, or the win-ratio analytical approach may be more sensitive. The DETERMINE result should not be interpreted as evidence of no symptom benefit.
 
 ### 17. E/e' Threshold: ESC >9 vs. AHA/ACC/HFSA ≥15 vs. NHFA/CSANZ/JCS/JHFS >14
+*→ Part of diagnostic threshold cluster. See also #18 (LAVI threshold) and #19 (NP threshold). Root cause common to all three: see #11 (ESC vs AHA operational definitions) and #6 (7-definition heterogeneity).*
 - **ESC (Table 9)**: E/e' ≥13 + mean e' <9 cm/s as a criterion for HFpEF; E/e' >9 used as suggestive of diastolic dysfunction in the HFA-PEFF score (source: [[mcdonagh2021esc]])
 - **AHA/ACC/HFSA**: Average E/e' ≥15 or lateral E/e' ≥15 as significant filling pressure elevation criterion (source: [[heidenreich2022aha]])
 - **NHFA/CSANZ, JCS/JHFS**: Septal E/e' >14 or average E/e' >13 as indicative (source: [[mahmood2024guidelines]])
@@ -102,21 +123,23 @@
 - **Implication**: ESC threshold anchored to mortality risk data; AHA/other thresholds use echocardiographic operating points for invasively confirmed elevated filling pressures. A patient with E/e' 10–14 meets ESC suggestive criterion but not AHA/ACC/HFSA criterion — diagnostic status depends entirely on which guideline is applied.
 
 ### 18. LAVI Threshold: AHA/ACC/HFSA ≥29 mL/m² vs. ESC/Others >34 mL/m²
+*→ Part of diagnostic threshold cluster. See also #17 (E/e') and #19 (NP threshold).*
 - **AHA/ACC/HFSA**: Left atrial volume index ≥29 mL/m² (body surface area) as a structural abnormality criterion (source: [[heidenreich2022aha]])
 - **ESC, NHFA/CSANZ, JCS/JHFS**: LA volume index >34 mL/m² (source: [[mcdonagh2021esc]]; [[mahmood2024guidelines]])
 - **Implication**: AHA uses a consistently lower LAVI threshold → more patients qualify for the structural HFpEF criterion under AHA criteria. This shifts diagnostic sensitivity at the cost of specificity. Patients with LAVI 29–34 mL/m² are in a grey zone: HFpEF by AHA criteria but not by ESC/international criteria.
 
 ### 19. NP Threshold: Uniform vs. Age-Stratified Thresholds
+*→ Part of diagnostic threshold cluster. See also #17 (E/e') and #18 (LAVI). For obesity-specific NP suppression, see #4.*
 - **Standard (ESC, AHA/ACC/HFSA, CCS/CHFS, SHA)**: NT-proBNP >125 pg/mL (ambulatory) as uniform threshold (source: [[mcdonagh2021esc]])
 - **NHFA/CSANZ (age-adjusted)**: NT-proBNP >450 pg/mL (age <50y) / >900 pg/mL (age 50–75y) / **>1800 pg/mL (age >75y)** (source: [[mahmood2024guidelines]])
 - **JCS/JHFS**: Similar age-adjusted pattern (>400 pg/mL and >1800 pg/mL for elderly)
 - **Implication**: An elderly patient (age >75y) with NT-proBNP of 300–1799 pg/mL meets standard ESC/AHA diagnostic threshold but fails NHFA/CSANZ criterion — categorised as HFpEF vs. non-HFpEF depending on which guideline is applied. Given that HFpEF is predominantly an elderly disease and NPs rise with age independent of HF, age-adjustment has clinical rationale but no prospective validation.
 
 ### 20. Vericiguat: Positive in HFrEF (VICTORIA) vs. Neutral in HFpEF (VITALITY-HFpEF)
-- **VICTORIA (HFrEF, LVEF <45%)**: Vericiguat reduced CV death/HF hospitalisation; HR 0.90 (P=0.02); N=5,050 (source: [[victoria]] · [[armstrong2020victoria]])
+- **VICTORIA (HFrEF, LVEF <45%)**: Vericiguat reduced CV death/HF hospitalisation; HR 0.90 (P=0.02); N=5,050 (source: [[armstrong2020victoria]])
 - **VITALITY-HFpEF (HFpEF, LVEF ≥45%)**: Vericiguat neutral on KCCQ-PLS; P=0.47 (15 mg) and P=0.80 (10 mg); N=789 (source: [[armstrong2020vitality]])
 - **Same drug (vericiguat, sGC stimulator), same year (2020), same first author (Armstrong PW), different EF population**
-- **Also relevant**: SOCRATES-PRESERVED (vericiguat phase 2b in HFpEF) showed NT-proBNP signal at 10 mg, motivating VITALITY-HFpEF phase 3 — which was neutral (source: [[socrates-preserved]] · [[pieske2017socrates]])
+- **Also relevant**: SOCRATES-PRESERVED (vericiguat phase 2b in HFpEF) showed NT-proBNP signal at 10 mg, motivating VITALITY-HFpEF phase 3 — which was neutral (source: [[pieske2017socrates]])
 - **Implication**: sGC stimulation is EF-specific in its therapeutic relevance. The cGMP/PKG pathway deficit may be more relevant to the adverse remodelling and systolic dysfunction of HFrEF than to the fibrosis/diastolic stiffness/peripheral limitation of HFpEF. The convergent NO/cGMP pathway failures in HFpEF (RELAX, NEAT-HFpEF, INDIE-HFpEF, VITALITY-HFpEF) reinforce this interpretation. See [[hfpef-treatment-gap]].
 
 ### 21. MRA in HFpEF: TOPCAT Neutral vs. FINEARTS-HF Positive
@@ -134,7 +157,7 @@
 - **Implication**: STEP-HFpEF established symptomatic improvement; SUMMIT added hard event reduction. Whether this constitutes class-wide evidence (any GLP-1RA) or is tirzepatide-specific remains unresolved pending cross-class head-to-head data. See [[summit]], [[step-hfpef]].
 
 ### 23. REDUCE LAP-HF II: Overall Neutral vs. PVR Subgroup Positive
-- **Overall**: Interatrial shunt device failed to significantly improve outcomes in the full HFpEF/HFmrEF population (source: [[reduce-lap-hf-ii]])
+- **Overall**: Interatrial shunt device failed to significantly improve outcomes in the full HFpEF/HFmrEF population [needs source — REDUCE LAP-HF II primary results paper not ingested]
 - **PVR subgroup**: Signal favouring shunt device in patients with lower pulmonary vascular resistance (lower PVR); harm or neutrality in higher PVR patients
 - **Implication**: The shunt decompresses LA pressure effectively when the right heart can handle the additional volume (low PVR), but is harmful or neutral when pulmonary hypertension already limits right heart reserve. Reinforces the broader pattern in HFpEF: device/pharmacological interventions that work mechanistically in a defined pathophysiological subtype fail in the heterogeneous full HFpEF population. PVR may become a treatment selection biomarker for shunt device therapy. See [[reduce-lap-hf-ii]].
 
@@ -145,6 +168,7 @@
 - **Implication**: E/e' and LV mass are biologically plausible but do not reliably predict short-term functional or symptomatic outcomes in HFpEF. Either (a) structural remodelling precedes functional recovery and 12 months is insufficient; (b) the low-risk, ambulatory Aldo-DHF population had insufficient baseline impairment to show functional improvement; (c) spironolactone 25 mg is subtherapeutic for functional endpoints; or (d) E/e' itself is an inadequate surrogate for patient-relevant outcomes. See [[aldo-dhf]], [[finearts-hf]].
 
 ### 25. RELAX: Molecular Target Engagement Without Functional Benefit
+*→ RELAX is the most detailed individual case of the pattern synthesized in #33 (tissue cGMP evidence vs. consistent clinical failure). See #33 for convergent evidence across all five NO/cGMP trials.*
 - **cGMP confirmation**: Sildenafil (PDE5i, 20→60 mg TID × 24 weeks) raised urinary cGMP 133% vs. placebo (P=0.006) — target pharmacologically engaged at the molecular level (source: [[redfield2013relax]])
 - **Primary endpoint**: Peak VO₂ unchanged — placebo −0.20 vs. sildenafil −0.20 mL/kg/min (P=0.90); VE/VCO₂ slope P=0.35; 6MWD P=0.40; KCCQ neutral (source: [[redfield2013relax]])
 - **Safety signal**: Creatinine P=0.047, NT-proBNP P=0.03, endothelin-1 P=0.046, uric acid P=0.02 — all worse with sildenafil, despite cGMP elevation
@@ -187,19 +211,20 @@
 - **Broader implication:** Ex-DHF mirrors the SET field's problem — functional gains are real but do not reach trial-level significance on composite event outcomes. SET has not been "proven" by a positive event-driven trial. See [[supervised-exercise-training]], [[exercise-intolerance]].
 
 ### 31. REDUCE LAP-HF II: Neutral Clinical Outcomes vs. Positive Echocardiographic Structural Changes
-- **Clinical outcomes (neutral):** REDUCE LAP-HF II overall trial failed to significantly reduce clinical events in the full HFpEF/HFmrEF population (source: [[reduce-lap-hf-ii]])
+- **Clinical outcomes (neutral):** REDUCE LAP-HF II overall trial failed to significantly reduce clinical events in the full HFpEF/HFmrEF population [needs source — REDUCE LAP-HF II primary results paper not ingested]
 - **Echocardiographic changes (positive, Patel 2024):** Shunt device vs sham over 24 months: LV EDV −5.65 mL (P<0.001); LA EF +1.88 pp (P=0.02); LV longitudinal strain improved (s' +0.69 cm/s, P<0.001); LA min volume −2.8 mL (P=0.01); RV EDV +9.58 mL (P<0.001) — significant structural reverse remodelling (source: [[patel2024reducelaphf]])
 - **PVR interaction:** The echocardiographic structural improvement was heterogeneous by PVR: RV EDV change interaction P=0.01 — low-PVR patients showed adaptive RV enlargement consistent with beneficial volume offloading; high-PVR patients showed maladaptive RV dilation (P_interaction<0.001 for RV/LV ratio)
 - **Implication:** The shunt device induces measurable structural remodelling (reduced LV filling pressure biomarkers) without translating to clinical event reduction overall. Echocardiographic surrogates are insufficient to predict clinical outcome benefit in HFpEF device trials — same problem seen in pharmacological trials. The PVR subgroup signal is the most actionable finding: device benefit may be restricted to low-PVR HFpEF. See [[reduce-lap-hf-ii]], [[hfpef-treatment-gap]].
 
 ### 32. PARAGLIDE-HF Sex Consistency vs. PARAGON-HF Sex Interaction
-- **PARAGON-HF (sex interaction, positive):** Women showed greater NT-proBNP reduction and clinical benefit with Sac/Val than men; sex-treatment interaction was statistically significant; women with LVEF near or below median benefited most (source: [[paragon-hf]], [[solomon2019paragon]])
+- **PARAGON-HF (sex interaction, positive):** Women showed greater NT-proBNP reduction and clinical benefit with Sac/Val than men; sex-treatment interaction was statistically significant; women with LVEF near or below median benefited most (source: [[solomon2019paragon]])
 - **PARAGLIDE-HF (sex consistent, neutral interaction):** NT-proBNP benefit with Sac/Val was **consistent between sexes** — P-interaction=0.908; women ratio 0.86 (0.69–1.07), men ratio 0.84 (0.67–1.05); neither differed significantly from each other or from 1.0 (source: [[rambarat2025paraglide]])
 - **Safety discordance:** Women excess symptomatic hypotension in PARAGLIDE-HF (OR 2.29, P=0.012), consistent with PARAGON-HF — safety signal is sex-consistent; NT-proBNP efficacy signal is not
 - **Explanation:** PARAGLIDE-HF enrolled 52% women (vs ~52% in PARAGON-HF) but higher LVEF women (27% LVEF >60% vs 19% men) — the LVEF-by-sex interaction in PARAGON-HF may be the key moderator, not sex per se. Both trials agree LVEF >60% is the low-benefit zone. (source: [[rambarat2025paraglide]], [[beale2018sex]], [[bozkurt2020sex]])
 - **Implication:** PARAGON-HF's sex interaction may have been LVEF-mediated rather than sex-specific. PARAGLIDE-HF's sex-neutral benefit is interpretable: both sexes benefit equivalently in LVEF ≤60%, and neither benefits in LVEF >60%. Sex per se is not a reliable treatment-selection biomarker for Sac/Val; LVEF threshold is. See [[paraglide-hf]], [[sacubitril-valsartan]].
 
 ### 33. Tissue-Level cGMP-PKG Impairment vs. Consistent Clinical Failure of cGMP-Amplifying Drugs
+*→ #25 (RELAX) provides the most detailed individual case with molecular target engagement data.*
 - **Tissue evidence (strong, Fayyaz 2025):** Systematic review of 56 human myocardial tissue studies confirms cGMP-PKG pathway is consistently impaired in HFpEF: downregulated sGC, reduced myocardial cGMP, loss of PKG-mediated anti-fibrotic and anti-stiffness signalling; titin hypophosphorylation — the most mechanistically grounded deficit across the 8 pathways identified (source: [[fayyaz2025pathophys]])
 - **Clinical failure (consistent):** Five consecutive cGMP-amplifying drugs failed in HFpEF RCTs: sildenafil/RELAX (PDE5i; cGMP confirmed elevated; VO₂ P=0.90); NEAT-HFpEF/INDIE-HFpEF (nitrates; NO/cGMP entry); VITALITY-HFpEF/vericiguat (sGC stimulator; NT-proBNP signal in phase 2, neutral in phase 3); CAPACITY-HFpEF/praliciguat (sGC stimulator; KCCQ worse P=0.007) (sources: [[redfield2013relax]], [[redfield2015neat]], [[zamani2015indie]], [[armstrong2020vitality]], [[udelson2020capacity]])
 - **Contradiction:** The tissue pathway is consistently identified; the drugs targeting it consistently fail. This is the sharpest mechanism-to-clinical discordance in HFpEF
@@ -217,6 +242,27 @@
   - *Hybrid pipeline:* AI first-pass for ruling-out HFpEF (high NPV context); then HFA-PEFF confirmation for screen-positive patients to improve PPV
 - **Key advantage of AI:** 9.1% intermediate rate vs. 61.7% for H₂FPEF — a 6.7-fold reduction in diagnostic uncertainty, which is clinically the most important quantitative difference between the approaches
 - **Implication:** Neither AI nor conventional scores dominate across all clinical scenarios. Optimal deployment depends on the diagnostic goal (screening vs. confirmation) and available resources (exercise RHC as confirmatory for indeterminates). See [[akerman2025ai]], [[hfpef-diagnosis]], [[ml-ai-hfpef]].
+
+### 35. Semaglutide NT-proBNP Reduction is Weight-Loss-Independent vs. Pericardial Restraint Prediction
+- **Petrie 2024 (STEP-HFpEF program, N=1,145):** Semaglutide reduced NT-proBNP by 18% (ETR 0.82; 95% CI 0.74–0.91; P=0.0002); the reduction was **consistent across all weight-loss categories** and P(interaction)=0.58 — the degree of weight loss has no bearing on the degree of NT-proBNP reduction. Paradoxically, patients with the **greatest** weight loss (≥15–20%) showed numerically **less** NT-proBNP reduction; placebo patients with ≥10% weight loss showed a trend toward increased NT-proBNP (P=0.08). (source: [[petrie2024stephfpef]])
+- **Pericardial restraint hypothesis predicts the opposite:** More weight loss → more pericardial/epicardial fat reduction → more ventricular volume unloading → more filling-pressure reduction → more NT-proBNP reduction. SUMMIT CMR confirmed pericardial fat −43 mL correlates with body weight (r=0.34) — the structural link exists. (source: [[kramer2025summit-cmr]])
+- **The contradiction:** If pericardial restraint is the dominant mechanism for GLP-1 RA benefit in HFpEF, NT-proBNP should fall proportionally with weight loss. It does not.
+- **Proposed resolution (from Petrie 2024):** Large weight loss releases pericardial restraint → filling pressure mechanism shifts from pericardial-constrained to intrinsic myocardial stiffness → different hemodynamic drivers of NP secretion. Simultaneously, semaglutide's anti-inflammatory effects (CRP −38.8% in SUMMIT) may reduce NP independently via reduced myocardial inflammation — this component is weight-loss-independent by definition.
+- **KCCQ modifier:** Higher baseline NT-proBNP predicts greater symptomatic benefit (KCCQ-CSS T1 +4.5 vs. T3 +11.9 pts; P=0.02 for interaction) — patients with greater filling pressure elevation benefit more symptomatically from semaglutide, consistent with a hemodynamic mechanism despite the weight-loss-independence of NT-proBNP change.
+- **Implication:** NT-proBNP change is not a reliable surrogate for the mechanism of GLP-1 RA benefit in HFpEF. Semaglutide operates through multiple simultaneous pathways (weight reduction, anti-inflammation, direct cardiac effects); no single surrogate captures the mechanistic contribution of each. See [[petrie2024stephfpef]], [[pericardial-restraint]], [[step-hfpef]].
+
+### 36. SGLT2i Myocardial Anti-fibrotic Effect (CMR) vs. Neutral All-Cause Mortality Signal
+- **Albulushi 2025 (dapagliflozin serial CMR, N=100, T2DM HFpEF; 12 months):** ΔECV −3.5% vs. −0.8% placebo (P<0.001); ΔLVMI −8.2 vs. −2.1 g/m²; LVEF +5.6 vs. +1.8%; 6MWT +47 vs. +8 m — first RCT serial CMR evidence for SGLT2i-mediated myocardial fibrosis regression in HFpEF. (source: [[albulushi2025sglt2fibrosis]])
+- **Minisy 2025 meta-analysis (9 RCTs, >20,000 patients; GRADE-assessed):** HHF HR 0.75 (GRADE high), CV death/HHF HR 0.83 (GRADE high), but **all-cause mortality HR 0.92 (95% CI 0.84–1.00; P=NS; GRADE low)** — no mortality signal despite ≥5 years of cumulative follow-up across trials. (source: [[minisy2025sglt2]])
+- **Contradiction:** If SGLT2i genuinely reverse myocardial fibrosis (ECV −3.5%), which is a dominant driver of adverse prognosis in HFpEF, why has no mortality signal emerged in >20,000 patient-years of RCT data?
+- **Four non-mutually-exclusive explanations:**
+  1. *Time lag:* Fibrosis reversal takes >2 years to translate to mortality benefit; existing trials have insufficient follow-up
+  2. *Surrogate mismatch:* ECV is a plausible but unvalidated surrogate for mortality in HFpEF; fibrosis reduction may improve compliance without preventing fatal arrhythmia or sudden death
+  3. *Population specificity:* Albulushi 2025 enrolled T2DM HFpEF — metabolic substrate may amplify antifibrotic effects not generalizable to non-diabetic HFpEF
+  4. *Competing mechanism:* The primary SGLT2i benefit is hemodynamic/diuretic (explains HHF reduction); antifibrotic effects may be real but insufficient alone to shift mortality
+- **Implication:** CMR ECV is not yet validated as a surrogate endpoint for mortality in HFpEF RCTs. SGLT2i benefit should be framed as HHF reduction (strong evidence) rather than fibrosis regression (mechanistic signal, mortality unproven). See [[albulushi2025sglt2fibrosis]], [[minisy2025sglt2]], [[sglt2-inhibitors]], [[myocardial-fibrosis]].
+
+---
 
 ## Notes
 This page aggregates contradictions across the wiki. Updated on every ingest.

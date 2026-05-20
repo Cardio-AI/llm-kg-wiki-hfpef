@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Ilonze 2024 — Racial and Ethnic Disparities in HFpEF"
+title: "Ilonze 2024 \u2014 Racial and Ethnic Disparities in HFpEF"
 citekey: Ilonze2024Disparities
 year: 2024
 authors: Ilonze OJ, Mazimba S
@@ -8,19 +8,20 @@ journal: Curr Cardiovasc Risk Rep
 study_type: review
 evidence_level: low-moderate
 tags:
-  - racial-disparities
-  - ethnic-disparities
-  - health-equity
-  - hfpef
-  - natriuretic-peptides
-  - amyloidosis
-  - review
-  - sdoh
+- racial-disparities
+- ethnic-disparities
+- health-equity
+- hfpef
+- natriuretic-peptides
+- amyloidosis
+- review
+- sdoh
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-JCardiovascRiskRep-Ilonze-racial_ethnic_disparities_hfpef.pdf
-    citekey: Ilonze2024Disparities
+- file: raw/2024-JCardiovascRiskRep-Ilonze-racial_ethnic_disparities_hfpef.pdf
+  citekey: Ilonze2024Disparities
+page-type: source-summary-page
 ---
 # Ilonze 2024 — Racial and Ethnic Disparities in HFpEF
 

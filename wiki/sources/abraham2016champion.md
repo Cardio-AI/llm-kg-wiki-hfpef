@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Sustained efficacy of pulmonary artery pressure to guide adjustment of chronic heart failure therapy: complete follow-up results from the CHAMPION randomised trial"
+title: 'Sustained efficacy of pulmonary artery pressure to guide adjustment of chronic
+  heart failure therapy: complete follow-up results from the CHAMPION randomised trial'
 citekey: abraham2016champion
 year: 2016
 authors: Abraham WT, Stevenson LW, Bourge RC, Lindenfeld JA, Bauman JG, Adamson PB
 journal: The Lancet
 tags:
-  - trial
-  - treatment
-  - device
+- trial
+- treatment
+- device
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2016-LANCET-Abraham-CHAMPION_stud_follow-up.pdf
-    citekey: abraham2016champion
+- file: raw/2016-LANCET-Abraham-CHAMPION_stud_follow-up.pdf
+  citekey: abraham2016champion
+page-type: source-summary-page
 ---
 # CHAMPION Trial: Complete Follow-Up and Open-Access Results
 

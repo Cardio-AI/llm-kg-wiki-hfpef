@@ -1,25 +1,26 @@
 ---
 type: study
-title: "REHAB-HF: HFpEF versus HFrEF Subgroup Analysis"
-citekey: Mentz2021REHABHFpEF
+title: 'REHAB-HF: HFpEF versus HFrEF Subgroup Analysis'
+citekey: mentz2021rehabhfhfpef
 year: 2021
 authors: Mentz RJ, Whellan DJ, Duncan PW, et al.
 journal: JACC Heart Fail
 study_type: RCT
 evidence_level: moderate
 tags:
-  - hfpef
-  - exercise
-  - rehabilitation
-  - frailty
-  - trial
-  - functional-capacity
-  - subgroup-analysis
+- hfpef
+- exercise
+- rehabilitation
+- frailty
+- trial
+- functional-capacity
+- subgroup-analysis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
-    citekey: Mentz2021REHABHFpEF
+- file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
+  citekey: mentz2021rehabhfhfpef
+page-type: source-summary-page
 ---
 # REHAB-HF HFpEF/HFrEF Subgroup Analysis
 

@@ -1,29 +1,33 @@
 ---
 type: entity
-title: HFpEF — Heart Failure with Preserved Ejection Fraction
-summary: Clinical syndrome of heart failure with LVEF ≥50%, elevated LV filling pressures, and a high comorbidity burden; SGLT2i (AHA 2022 Class 2a) are the first pharmacological therapy with guideline endorsement above Class 2b; the mortality gap persists.
+title: "HFpEF \u2014 Heart Failure with Preserved Ejection Fraction"
+summary: "Clinical syndrome of heart failure with LVEF \u226550%, elevated LV filling\
+  \ pressures, and a high comorbidity burden; SGLT2i (AHA 2022 Class 2a) are the first\
+  \ pharmacological therapy with guideline endorsement above Class 2b; the mortality\
+  \ gap persists."
 entity_type: phenotype
 tags:
-  - hfpef
-  - heart-failure
-  - phenotype
+- hfpef
+- heart-failure
+- phenotype
 created: 2026-04-30
 last_updated: 2026-05-04
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-    citekey: Ho2019HFpEFDefinitions
-  - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-    citekey: Sachdev2023Exercise
-  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-    citekey: Anker2023HFpEFPhenotype
-  - file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
-    citekey: Savarese2022GlobalBurden
-  - file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
-    citekey: Pfeffer2019HFpEF
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
+  citekey: Ho2019HFpEFDefinitions
+- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
+  citekey: Sachdev2023Exercise
+- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
+  citekey: Anker2023HFpEFPhenotype
+- file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
+  citekey: Savarese2022GlobalBurden
+- file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
+  citekey: Pfeffer2019HFpEF
+page-type: entity-page
 ---
 # HFpEF
 

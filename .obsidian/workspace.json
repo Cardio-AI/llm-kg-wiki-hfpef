@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "74eb95ac830d905e",
+        "id": "18715e1e26c0250f",
         "type": "tabs",
         "children": [
           {
-            "id": "38583799bd7d17ad",
+            "id": "fefbf9db6a0c68a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure.md",
+                "file": "wiki/entities/acc-aha-hf-guidelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure"
+              "title": "acc-aha-hf-guidelines"
+            }
+          },
+          {
+            "id": "5a2cba5567dfe3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/citations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "citations"
+            }
+          },
+          {
+            "id": "1dfd6817e09c1826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/shah2015phenomapping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shah2015phenomapping"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +103,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure.md",
+                "file": "wiki/citations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure"
+              "title": "Rückverweise auf citations"
             }
           },
           {
@@ -192,43 +222,44 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "c62fd058c8a4578a",
+  "active": "5a2cba5567dfe3cf",
   "lastOpenFiles": [
-    "raw/Study - NCT02262078  Inhaled Sodium Nitrite on Heart Failure With Preserved Ejection Fraction.md",
-    "raw/Study - NCT03387813  Hemodynamic-GUIDEd Management of Heart Failure.md",
-    "raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf",
-    "raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf.crdownload",
-    "raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf",
-    "raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf.crdownload",
-    "raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf",
-    "raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf.crdownload",
-    "wiki/sources/zhuzhou2021leukocyte.md",
-    "wiki/sources/boralkar2019nlr.md",
-    "wiki/sources/reddy2017artstiff.md",
-    "wiki/sources/haykowsky2011exercise.md",
-    "wiki/sources/tamaki2023nlrplr.md",
-    "wiki/sources/arnold2022diamond.md",
-    "wiki/sources/shah2018promis.md",
-    "wiki/sources/solomon2012paramount.md",
-    "raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf",
-    "raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf.crdownload",
-    "raw/Study - NCT01932606  Acute Effects of Inorganic Nitrite on Cardiovascular Hemodynamics in Heart Failure With Preserved Ejection Fraction.md",
-    "raw/Study - NCT01418248  Study of Exercise and Heart Function in Patients With Heart Failure and Pulmonary Vascular Disease.md",
-    "raw/Study - NCT03050593  Developing Imaging And plasMa biOmarkers iN Describing Heart Failure With Preserved Ejection Fraction (DIAMONDHFpEF).md",
-    "raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf",
-    "raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf.crdownload",
-    "raw/Study NCT03050593  Developing Imaging And plasMa biOmarkers iN Describing Heart Failure With Preserved Ejection Fraction (DIAMONDHFpEF).md",
-    "raw/Study - NCT00887588  LCZ696 Compared to Valsartan in Patients With Chronic Heart Failure and Preserved Left-ventricular Ejection Fraction.md",
-    "raw/Study - NCT02078947  Optimizing Exercise Training in Prevention and Treatment of Diastolic Heart Failure.md",
-    "wiki/sources-pending-from-meta-analyses.md",
-    "wiki/entities/optimex-clin.md",
-    "wiki/entities/rehab-hf.md",
-    "wiki/sources/ammar2025bnp.md",
-    "wiki/sources/vandebovenkamp2025hemodynamics.md",
-    "wiki/sources/prokopidis2025exercise.md",
-    "wiki/sources/lee2024lifestyle.md",
-    "wiki/sources/fu2024inflammation.md",
-    "wiki/sources/kaddoura2024betablocker.md",
-    "wiki/sources/lin2023cmd.md"
+    "wiki/concepts/nitric-oxide-pathway.md",
+    "_tasks/question-answering.md.tmp.22444.ed9190d4caf8",
+    "wiki/concepts/camkii.md",
+    "wiki/entities/hfpef.md",
+    "wiki/entities/spironolactone.md",
+    "wiki/log.md.tmp.22444.e02c26b8a2f7",
+    "wiki/contradictions.md.tmp.22444.305f9d0469fe",
+    "wiki/contradictions.md.tmp.22444.0a248febe478",
+    "wiki/contradictions.md.tmp.22444.19e380c01943",
+    "wiki/contradictions.md.tmp.22444.52bf2f87c6d2",
+    "wiki/entities/hemodynamic-monitoring.md.tmp.22444.f0c0d760b6fe",
+    "wiki/entities/spirit-hf.md.tmp.22444.d3378a4ce69a",
+    "wiki/concepts/peripheral-mechanisms-hfpef.md.tmp.22444.f66abda6377d",
+    "wiki/concepts/atrial-fibrillation-hfpef.md.tmp.22444.00ea87a1627e",
+    "wiki/entities/acc-aha-hf-guidelines.md",
+    "wiki/log.md",
+    "pericardial-restraint.md",
+    "obesity-hfpef.md",
+    "haemodynamic-monitoring.md",
+    "wiki/concepts/pericardial-restraint.md",
+    "wiki/concepts/obese-metabolic-hfpef.md",
+    "_empty_pages.md",
+    "wiki/concepts/treatment-hfpef.md",
+    "wiki/concepts/atrial-fibrillation-hfpef.md",
+    "wiki/concepts/hypertensive-fibrotic-hfpef.md",
+    "wiki/concepts/hfpef-inflammatory-metabolic-paradigm.md",
+    "wiki/concepts/hemodynamics.md",
+    "wiki/concepts/cardiac-remodelling.md",
+    "wiki/concepts/microvascular-dysfunction.md",
+    "wiki/concepts/left-atrial-remodelling.md",
+    "wiki/concepts/hfpef-fibrosis-paradigm.md",
+    "wiki/concepts/acute-hf.md",
+    "wiki/concepts/hfpef-treatment.md",
+    "wiki/concepts/pulmonary-arterial-pressure.md",
+    "wiki/entities/hemodynamic-monitoring.md",
+    "wiki/concepts/hfpef-disparities.md",
+    "html/sglt2-inhibitors-graph.svg"
   ]
 }

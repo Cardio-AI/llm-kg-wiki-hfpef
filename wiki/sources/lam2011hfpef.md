@@ -1,18 +1,19 @@
 ---
 type: source
-title: "Epidemiology and clinical course of heart failure with preserved ejection fraction"
+title: Epidemiology and clinical course of heart failure with preserved ejection fraction
 citekey: lam2011hfpef
 year: 2011
 authors: Lam CSP, Donal E, Kraigher-Krainer E, Rosen BD
 journal: European Journal of Heart Failure
 tags:
-  - epidemiology
-  - review
+- epidemiology
+- review
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2011-ESC-Lam-epidemiology_clinical_course_hfpef.pdf
-    citekey: lam2011hfpef
+- file: raw/2011-ESC-Lam-epidemiology_clinical_course_hfpef.pdf
+  citekey: lam2011hfpef
+page-type: source-summary-page
 ---
 # Epidemiology and Clinical Course of HFpEF (Lam 2011)
 

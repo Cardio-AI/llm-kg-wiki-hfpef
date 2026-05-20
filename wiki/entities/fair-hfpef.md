@@ -1,22 +1,27 @@
 ---
 type: entity
 title: FAIR-HFpEF
-summary: RCT of IV ferric carboxymaltose vs. placebo in HFpEF with iron deficiency; NCT03074591; primary endpoint 6MWT at 52 weeks; addresses iron deficiency — the most prevalent modifiable comorbidity in HFpEF (50–75% affected); part of the iron deficiency phenotype arm.
+summary: "RCT (N=40; stopped early) of IV ferric carboxymaltose (FCM) vs. placebo\
+  \ in HFpEF (LVEF \u226545%) with iron deficiency; NCT03074591; published Eur Heart\
+  \ J 2024 (von Haehling et al.); 6MWD improved +49m at week 24 (P=0.029); serious\
+  \ AEs fewer with FCM (rate ratio 0.27, P=0.043); secondary QoL endpoints non-significant;\
+  \ trial underpowered \u2014 stopped after 40/200 patients due to COVID and funding."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - iron-deficiency
-  - treatment
+- hfpef
+- trial
+- iron-deficiency
+- treatment
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-19
 sources:
-  - file: ~ # pending ingest
-    citekey: [pending — verify on ingest]
+- file: raw/2024-ESC-vonHaehling-FAIR-HFpEF_study_ferric_carboxymaltose_hfpef.pdf
+  citekey: vonHaehling2024FAIR
+page-type: entity-page
 ---
 # FAIR-HFpEF
 
-> RCT testing IV iron (ferric carboxymaltose) in HFpEF with iron deficiency — targeting the most prevalent treatable comorbidity associated with reduced exercise capacity in HFpEF.
+> First RCT of IV iron (ferric carboxymaltose) in HFpEF with iron deficiency — 6MWD improved +49m at week 24 (P=0.029), serious AEs fewer with FCM; but stopped at 40/200 patients and all conclusions are preliminary.
 
 ---
 
@@ -53,17 +58,29 @@ If FAIR-HFpEF is positive, IV iron would represent one of the most actionable ph
 
 ## Evidence
 
-Results pending. [Source: not yet published as of 2026-05-12.]
+**Published — Eur Heart J 2024;45:3789–3800 (von Haehling S et al.)**
+
+| Endpoint | FCM (n=18) | Placebo (n=22) | Difference | P |
+|---|---|---|---|---|
+| 6MWD change at week 24 | +49m (peak +65±22m at wk 32) | −8±61m | **+49m (95% CI 5–93)** | **0.029** |
+| KCCQ overall score | +6.5±5.1 pts | — | NS | 0.21 |
+| Serious AEs | 5 events | 19 events | Rate ratio 0.27 (0.07–0.96) | 0.043 |
+| NYHA class | — | — | NS | — |
+| EQ-5D-3L | — | — | NS | — |
+
+Population: median age 80y, 62% women, LVEF 55%, NT-proBNP 490–1129 pg/mL (imbalanced at baseline), ferritin <100 ng/mL in 81–83%.
+
+**Interpretation:** 6MWT improvement at week 24 is clinically meaningful (+49m exceeds typical MCID of ~30–35m) and consistent with HFrEF iron trials (FAIR-HF, CONFIRM-HF). However the trial was severely underpowered (N=40 of 200 planned); all secondary endpoints neutral. Fewer serious AEs with FCM (including 2 vs. 8 CV hospitalisations) is encouraging but also underpowered. Results are preliminary; replication in an adequately powered trial is required before clinical adoption. (source: [[vonhaehling2024fair]])
 
 ## Status
 
-**Ongoing as of Anker 2023 phenotype statement.** No published results confirmed in ingested sources.
+**Published:** Eur Heart J 2024. Stopped early after 40/200 planned patients due to COVID-19 disruption, budget constraints, and regulatory issues with non-German sites. No guideline recommendation for IV iron in HFpEF based on this trial alone. Companion trial PREFER-HF (NCT03833336) also tests IV FCM in HFpEF.
 
 ## Related Pages
 
 - Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
 - Entities: [[hfpef]], [[sglt2-inhibitors]]
-- Sources: [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[sachdev2023exercise]]
+- Sources: [[vonhaehling2024fair]], [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[sachdev2023exercise]]
 
 ## Contradictions
 

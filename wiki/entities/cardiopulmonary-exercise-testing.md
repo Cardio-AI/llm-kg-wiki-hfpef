@@ -1,28 +1,32 @@
 ---
 type: entity
 title: Cardiopulmonary Exercise Testing (CPET)
-summary: Integrated assessment of cardiorespiratory, metabolic, and gas exchange responses to graded exercise; in invasive form (with PA catheter and arterial line), it is the gold standard for diagnosing HFpEF in equivocal cases and for mechanistic dissection of exercise intolerance components.
+summary: Integrated assessment of cardiorespiratory, metabolic, and gas exchange responses
+  to graded exercise; in invasive form (with PA catheter and arterial line), it is
+  the gold standard for diagnosing HFpEF in equivocal cases and for mechanistic dissection
+  of exercise intolerance components.
 entity_type: diagnostic-tool
 tags:
-  - hfpef
-  - diagnosis
-  - cpet
-  - imaging
-  - physiology
-  - exercise
+- hfpef
+- diagnosis
+- cpet
+- imaging
+- physiology
+- exercise
 created: 2026-04-30
 last_updated: 2026-05-14
 sources:
-  - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-    citekey: Ho2019HFpEFDefinitions
-  - file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-    citekey: Sachdev2023Exercise
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
-    citekey: borlaug2010exercise
-  - file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-    citekey: landsteiner2025hemodynamics
+- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
+  citekey: Ho2019HFpEFDefinitions
+- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
+  citekey: Sachdev2023Exercise
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
+  citekey: borlaug2010exercise
+- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
+  citekey: landsteiner2025hemodynamics
+page-type: entity-page
 ---
 # Cardiopulmonary Exercise Testing (CPET)
 

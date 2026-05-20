@@ -1,22 +1,27 @@
 ---
 type: concept
-title: HFpEF Diagnostic Definitions — Heterogeneity and Consequences
-summary: Seven competing guideline definitions (ACC/AHA, ESC, HFSA, TOPCAT, PARAGON, I-PRESERVE, RELAX) enroll 12–90% of the same patient cohort; they differ fundamentally in sensitivity vs. specificity for invasively confirmed physiologic HFpEF, rendering trial populations non-comparable and partially explaining the history of failed trials.
+title: "HFpEF Diagnostic Definitions \u2014 Heterogeneity and Consequences"
+summary: "Seven competing guideline definitions (ACC/AHA, ESC, HFSA, TOPCAT, PARAGON,\
+  \ I-PRESERVE, RELAX) enroll 12\u201390% of the same patient cohort; they differ\
+  \ fundamentally in sensitivity vs. specificity for invasively confirmed physiologic\
+  \ HFpEF, rendering trial populations non-comparable and partially explaining the\
+  \ history of failed trials."
 tags:
-  - hfpef
-  - diagnosis
-  - definition
-  - heterogeneity
-  - mechanism
+- hfpef
+- diagnosis
+- definition
+- heterogeneity
+- mechanism
 created: 2026-04-30
 last_updated: 2026-05-14
 sources:
-  - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-    citekey: Ho2019HFpEFDefinitions
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-    citekey: landsteiner2025hemodynamics
+- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
+  citekey: Ho2019HFpEFDefinitions
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
+  citekey: landsteiner2025hemodynamics
+page-type: concept-page
 ---
 # HFpEF Diagnostic Definitions — Heterogeneity and Consequences
 

@@ -1,6 +1,7 @@
 ---
 type: study
-title: "Dietary Protein Supplementation with and without Exercise in Obese Elderly HFpEF (Azhar 2020)"
+title: Dietary Protein Supplementation with and without Exercise in Obese Elderly
+  HFpEF (Azhar 2020)
 citekey: Azhar2020Protein
 year: 2020
 authors: Azhar G, Wei JY, Schumaker GL, et al.
@@ -8,17 +9,18 @@ journal: Gerontol Geriatr Med
 study_type: RCT
 evidence_level: low
 tags:
-  - hfpef
-  - exercise
-  - nutrition
-  - obesity
-  - functional-capacity
-  - pilot-study
+- hfpef
+- exercise
+- nutrition
+- obesity
+- functional-capacity
+- pilot-study
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2020-GeroGeriMed-Azhar-dietry_exercise_hfpef_pilot_study.pdf
-    citekey: Azhar2020Protein
+- file: raw/2020-GeroGeriMed-Azhar-dietry_exercise_hfpef_pilot_study.pdf
+  citekey: Azhar2020Protein
+page-type: source-summary-page
 ---
 # Dietary Protein + Exercise in Obese Elderly HFpEF (Azhar 2020)
 

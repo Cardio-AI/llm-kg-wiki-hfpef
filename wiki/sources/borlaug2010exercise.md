@@ -1,6 +1,7 @@
 ---
 type: study
-title: Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction
+title: Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved
+  Ejection Fraction
 citekey: borlaug2010exercise
 year: 2010
 authors: Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM
@@ -8,17 +9,18 @@ journal: Circulation Heart Failure
 study_type: observational
 evidence_level: moderate
 tags:
-  - hfpef
-  - diagnosis
-  - exercise
-  - hemodynamics
-  - cpet
+- hfpef
+- diagnosis
+- exercise
+- hemodynamics
+- cpet
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
-  - file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
-    citekey: borlaug2010exercise
-    zotero: unverified
+- file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
+  citekey: borlaug2010exercise
+  zotero: unverified
+page-type: source-summary-page
 ---
 # Exercise Hemodynamics Enhance Diagnosis of Early HFpEF
 

@@ -1,6 +1,7 @@
 ---
 type: study
-title: Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related Heart Failure — SUMMIT CMR Substudy
+title: "Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related\
+  \ Heart Failure \u2014 SUMMIT CMR Substudy"
 citekey: Kramer2025SUMMITCMR
 year: 2025
 authors: Kramer CM, Borlaug BA, Zile MR, et al.; SUMMIT Trial Study Group
@@ -8,18 +9,19 @@ journal: J Am Coll Cardiol
 study_type: RCT imaging substudy
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - imaging
-  - glp1ra
-  - treatment
-  - obesity
-  - cmr
+- trial
+- hfpef
+- imaging
+- glp1ra
+- treatment
+- obesity
+- cmr
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-  - file: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf
-    citekey: Kramer2025SUMMITCMR
+- file: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf
+  citekey: Kramer2025SUMMITCMR
+page-type: source-summary-page
 ---
 # SUMMIT CMR Substudy — Tirzepatide and Cardiac Structure in Obesity-Related HFpEF
 
@@ -89,6 +91,8 @@ Paracardiac adipose tissue defined as epicardial fat (within visceral pericardiu
 - Establishes: [[summit]] — mechanistic CMR evidence for tirzepatide in HFpEF
 - Differentiates: [[step-hfpef]] — tirzepatide (CMR: LV mass −11 g, P=0.004) vs. semaglutide (echo: no LV mass change); see [[contradictions]]
 - Informs: [[hfpef-phenotype-profiling]] — concentric remodeling of obese HFpEF is reversible with tirzepatide
+- Supports: [[pericardial-restraint]] — pericardial fat (−43 mL, P<0.001) is primary CMR-measured reduction; directly quantifies the restraint mechanism
+- Supports: [[obesity-hfpef]] — first RCT CMR evidence that paracardiac fat reduction with GLP-1/GIP agonism accompanies LV mass regression
 - Supports: [[coronary-microvascular-dysfunction]] — paracardiac fat reduction removes paracrine proinflammatory source (Paulus-Tschöpe pathway)
 
 ## Secondary Analyses & Data Reuse
@@ -100,8 +104,8 @@ Paracardiac adipose tissue defined as epicardial fat (within visceral pericardiu
 
 ## Related Pages
 
-- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[coronary-microvascular-dysfunction]]
-- Entities: [[summit]], [[step-hfpef]], [[sglt2-inhibitors]]
+- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[coronary-microvascular-dysfunction]], [[pericardial-restraint]], [[obese-metabolic-hfpef]]
+- Entities: [[obesity-hfpef]], [[summit]], [[step-hfpef]], [[sglt2-inhibitors]]
 - Sources: [[packer2025summit]], [[packer2025summit-ckd]], [[kosiborod2023stephfpef]]
 
 ## Contradictions

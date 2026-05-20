@@ -1,6 +1,6 @@
 ---
 type: study
-title: "EMPEROR-Reduced: Empagliflozin in HFrEF"
+title: 'EMPEROR-Reduced: Empagliflozin in HFrEF'
 citekey: Packer2020EMPEROR
 year: 2020
 authors: Packer M, Anker SD, Butler J, et al. (EMPEROR-Reduced Trial Investigators)
@@ -8,15 +8,16 @@ journal: New England Journal of Medicine
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfref
-  - sglt2-inhibitors
-  - empagliflozin
+- trial
+- hfref
+- sglt2-inhibitors
+- empagliflozin
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2020-NEJM-Packer-EMPEROR-Reduced_study.pdf
-    citekey: Packer2020EMPEROR
+- file: raw/2020-NEJM-Packer-EMPEROR-Reduced_study.pdf
+  citekey: Packer2020EMPEROR
+page-type: source-summary-page
 ---
 # EMPEROR-Reduced
 

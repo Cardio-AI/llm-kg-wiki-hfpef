@@ -1,25 +1,28 @@
 ---
 type: study
-title: "Finerenone in Heart Failure with Mildly Reduced or Preserved Ejection Fraction (FINEARTS-HF)"
+title: Finerenone in Heart Failure with Mildly Reduced or Preserved Ejection Fraction
+  (FINEARTS-HF)
 citekey: Solomon2024FINEARTS
 year: 2024
-authors: "Solomon SD, McMurray JJV, Vaduganathan M, et al.; FINEARTS-HF Committees and Investigators"
-journal: "N Engl J Med"
+authors: Solomon SD, McMurray JJV, Vaduganathan M, et al.; FINEARTS-HF Committees
+  and Investigators
+journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - hfmref
-  - mra
-  - finerenone
-  - treatment
-  - outcomes
+- trial
+- hfpef
+- hfmref
+- mra
+- finerenone
+- treatment
+- outcomes
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf
-    citekey: Solomon2024FINEARTS
+- file: raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf
+  citekey: Solomon2024FINEARTS
+page-type: source-summary-page
 ---
 # FINEARTS-HF (Solomon 2024)
 

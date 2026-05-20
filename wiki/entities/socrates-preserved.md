@@ -1,18 +1,22 @@
 ---
 type: entity
 title: SOCRATES-PRESERVED
-summary: Phase 2b dose-finding RCT of vericiguat in HFpEF (LVEF ≥45%); published EHJ 2017; showed NT-proBNP reduction and LA volume signal at higher doses; motivated phase 3 VITALITY-HFpEF, which was then neutral — illustrates surrogate-to-outcome translation failure.
+summary: "Phase 2b dose-finding RCT of vericiguat in HFpEF (LVEF \u226545%); published\
+  \ EHJ 2017; showed NT-proBNP reduction and LA volume signal at higher doses; motivated\
+  \ phase 3 VITALITY-HFpEF, which was then neutral \u2014 illustrates surrogate-to-outcome\
+  \ translation failure."
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - treatment
-  - no-cgmp
+- trial
+- hfpef
+- treatment
+- no-cgmp
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-  - file: raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf
-    citekey: Pieske2017SOCRATES
+- file: raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf
+  citekey: Pieske2017SOCRATES
+page-type: entity-page
 ---
 # SOCRATES-PRESERVED
 

@@ -1,21 +1,25 @@
 ---
 type: entity
 title: OptimEx-Clin
-summary: Five-site European RCT (N=180 HFpEF) comparing HIIT, MCT, and guideline control; both exercise arms improved peak VO₂ vs. control at 3 months (HIIT +1.5, MCT +2.0 mL/kg/min) but neither met the MCID of 2.5 mL/kg/min; HIIT was not superior to MCT; gains lost at 12 months; no change in E/e' or NT-proBNP.
+summary: "Five-site European RCT (N=180 HFpEF) comparing HIIT, MCT, and guideline\
+  \ control; both exercise arms improved peak VO\u2082 vs. control at 3 months (HIIT\
+  \ +1.5, MCT +2.0 mL/kg/min) but neither met the MCID of 2.5 mL/kg/min; HIIT was\
+  \ not superior to MCT; gains lost at 12 months; no change in E/e' or NT-proBNP."
 entity_type: trial
 tags:
-  - trial
-  - hfpef
-  - exercise
-  - hiit
-  - mct
-  - functional-capacity
-  - peak-vo2
+- trial
+- hfpef
+- exercise
+- hiit
+- mct
+- functional-capacity
+- peak-vo2
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
-    citekey: Mueller2021OptimEx
+- file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
+  citekey: Mueller2021OptimEx
+page-type: entity-page
 ---
 # OptimEx-Clin
 

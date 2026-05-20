@@ -1,6 +1,6 @@
 ---
 type: study
-title: "Zhu and Zhou 2021 — Leukocyte Count and Adverse Outcomes in HFpEF (TOPCAT)"
+title: "Zhu and Zhou 2021 \u2014 Leukocyte Count and Adverse Outcomes in HFpEF (TOPCAT)"
 citekey: ZhuZhou2021Leukocyte
 year: 2021
 authors: Zhu Z, Zhou S
@@ -8,17 +8,18 @@ journal: BMC Cardiovasc Disord
 study_type: observational-secondary-analysis
 evidence_level: moderate
 tags:
-  - inflammation
-  - biomarker
-  - hfpef
-  - prognosis
-  - leukocyte
-  - topcat
+- inflammation
+- biomarker
+- hfpef
+- prognosis
+- leukocyte
+- topcat
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-BMC-CardiovascDis-Zhu-Zhou-TOPCAT-subanalysis-leukocyte.pdf
-    citekey: ZhuZhou2021Leukocyte
+- file: raw/2021-BMC-CardiovascDis-Zhu-Zhou-TOPCAT-subanalysis-leukocyte.pdf
+  citekey: ZhuZhou2021Leukocyte
+page-type: source-summary-page
 ---
 # Zhu and Zhou 2021 — Leukocyte Count and Adverse Outcomes in HFpEF (TOPCAT Substudy)
 

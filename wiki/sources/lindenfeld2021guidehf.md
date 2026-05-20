@@ -1,25 +1,28 @@
 ---
 type: study
-title: "Lindenfeld 2021 — GUIDE-HF: Haemodynamic-Guided Management of Heart Failure"
+title: "Lindenfeld 2021 \u2014 GUIDE-HF: Haemodynamic-Guided Management of Heart Failure"
 citekey: Lindenfeld2021GUIDEHF
 year: 2021
-authors: Lindenfeld J, Zile MR, Desai AS, Bhatt K, Ducharme A, Horstmanshof D, Krim SR, Maisel A, Mehra MR, Mitchell JE, O'Brien T, Ramani G, Refaat MM, Rich JD, Sears SF, Spertus JA, Stevenson LW, Whellan D, Abraham WT; GUIDE-HF Investigators
+authors: Lindenfeld J, Zile MR, Desai AS, Bhatt K, Ducharme A, Horstmanshof D, Krim
+  SR, Maisel A, Mehra MR, Mitchell JE, O'Brien T, Ramani G, Refaat MM, Rich JD, Sears
+  SF, Spertus JA, Stevenson LW, Whellan D, Abraham WT; GUIDE-HF Investigators
 journal: Lancet
 study_type: randomized controlled trial
 evidence_level: high
 tags:
-  - hemodynamic-monitoring
-  - cardiomems
-  - pulmonary-artery-pressure
-  - hfpef
-  - hfref
-  - trial
-  - guide-hf
+- hemodynamic-monitoring
+- cardiomems
+- pulmonary-artery-pressure
+- hfpef
+- hfref
+- trial
+- guide-hf
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf
-    citekey: Lindenfeld2021GUIDEHF
+- file: raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf
+  citekey: Lindenfeld2021GUIDEHF
+page-type: source-summary-page
 ---
 # Lindenfeld 2021 — GUIDE-HF: Haemodynamic-Guided HF Management (CardioMEMS)
 

@@ -1,20 +1,22 @@
 ---
 type: source
-title: "Sex Differences in Outcomes and Responses to Spironolactone in Heart Failure with Preserved Ejection Fraction: A Secondary Analysis of TOPCAT"
+title: 'Sex Differences in Outcomes and Responses to Spironolactone in Heart Failure
+  with Preserved Ejection Fraction: A Secondary Analysis of TOPCAT'
 citekey: merrill2019topcat
 year: 2019
 authors: Merrill M, Sweitzer NK, Lindenfeld J, et al.
 journal: JACC Heart Failure
 tags:
-  - trial
-  - sex-differences
-  - secondary-analysis
-  - pharmacology
+- trial
+- sex-differences
+- secondary-analysis
+- pharmacology
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2019-JACCHeartFail-Merrill-TOPCAT_secondary_analysis_sex_differences.pdf
-    citekey: merrill2019topcat
+- file: raw/2019-JACCHeartFail-Merrill-TOPCAT_secondary_analysis_sex_differences.pdf
+  citekey: merrill2019topcat
+page-type: source-summary-page
 ---
 # TOPCAT Sex Differences Secondary Analysis (Merrill 2019)
 

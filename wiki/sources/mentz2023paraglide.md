@@ -1,18 +1,20 @@
 ---
 type: source
-title: "Rationale and design of the PARAGLIDE-HF trial: Prospective comparison of ARNI with ARB Given following stabilization In DEcompensated HFpEF"
+title: 'Rationale and design of the PARAGLIDE-HF trial: Prospective comparison of
+  ARNI with ARB Given following stabilization In DEcompensated HFpEF'
 citekey: mentz2023paraglide
 year: 2023
 authors: Mentz RJ, Ward JH, Hernandez AF, et al.
 journal: Journal of Cardiac Failure
 tags:
-  - trial
-  - treatment
+- trial
+- treatment
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2023-JCF-Mentz-PARAGLIDE-HF_study_desing_rationale.pdf
-    citekey: mentz2023paraglide
+- file: raw/2023-JCF-Mentz-PARAGLIDE-HF_study_desing_rationale.pdf
+  citekey: mentz2023paraglide
+page-type: source-summary-page
 ---
 # PARAGLIDE-HF: Rationale and Design
 

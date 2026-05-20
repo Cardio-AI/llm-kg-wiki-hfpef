@@ -1,6 +1,6 @@
 ---
 type: study
-title: "Serum Magnesium and Empagliflozin in HFpEF: Secondary Analysis of EMPEROR-Preserved"
+title: 'Serum Magnesium and Empagliflozin in HFpEF: Secondary Analysis of EMPEROR-Preserved'
 citekey: Ferreira2026Emperor
 year: 2026
 authors: Ferreira JP, Butler J, Zannad F, et al.
@@ -8,17 +8,18 @@ journal: JACC Heart Failure
 study_type: observational
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - sglt2-inhibitors
-  - empagliflozin
-  - biomarker
-  - magnesium
+- trial
+- hfpef
+- sglt2-inhibitors
+- empagliflozin
+- biomarker
+- magnesium
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
-    citekey: Ferreira2026Emperor
+- file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
+  citekey: Ferreira2026Emperor
+page-type: source-summary-page
 ---
 # EMPEROR-Preserved Magnesium Secondary Analysis (Ferreira 2026)
 

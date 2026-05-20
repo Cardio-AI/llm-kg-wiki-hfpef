@@ -1,18 +1,21 @@
 ---
 type: source
-title: "In-Hospital Versus Out-of-Hospital Initiation of Sacubitril/Valsartan in Patients With Mildly Reduced or Preserved Ejection Fraction and Worsening Heart Failure: Insights From PARAGLIDE-HF"
+title: 'In-Hospital Versus Out-of-Hospital Initiation of Sacubitril/Valsartan in Patients
+  With Mildly Reduced or Preserved Ejection Fraction and Worsening Heart Failure:
+  Insights From PARAGLIDE-HF'
 citekey: nouhravesh2025paraglide
 year: 2025
 authors: Nouhravesh N, et al.
 journal: Journal of the American Heart Association
 tags:
-  - trial
-  - treatment
+- trial
+- treatment
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2025-JAHA-Nouhravesh_PARAGLIDE-HF_study.pdf
-    citekey: nouhravesh2025paraglide
+- file: raw/2025-JAHA-Nouhravesh_PARAGLIDE-HF_study.pdf
+  citekey: nouhravesh2025paraglide
+page-type: source-summary-page
 ---
 # In-Hospital vs Out-of-Hospital Sac/Val Initiation in PARAGLIDE-HF
 

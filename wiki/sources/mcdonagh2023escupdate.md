@@ -1,24 +1,26 @@
 ---
 type: source
-title: "2023 Focused Update of the 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure"
+title: 2023 Focused Update of the 2021 ESC Guidelines for the Diagnosis and Treatment
+  of Acute and Chronic Heart Failure
 citekey: McDonagh2023ESCupdate
 year: 2023
-authors: McDonagh TA, Metra M, Adamo M, Gardner RS, Baumbach A, Böhm M, et al.
+authors: "McDonagh TA, Metra M, Adamo M, Gardner RS, Baumbach A, B\xF6hm M, et al."
 journal: European Heart Journal
 tags:
-  - guideline
-  - hfpef
-  - hfmref
-  - hfref
-  - sglt2-inhibitors
-  - iron-deficiency
-  - acute-heart-failure
-  - treatment
+- guideline
+- hfpef
+- hfmref
+- hfref
+- sglt2-inhibitors
+- iron-deficiency
+- acute-heart-failure
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
-    citekey: McDonagh2023ESCupdate [zotero-unverified]
+- file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
+  citekey: McDonagh2023ESCupdate [zotero-unverified]
+page-type: source-summary-page
 ---
 # 2023 Focused Update of the 2021 ESC Guidelines
 

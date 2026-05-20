@@ -1,24 +1,26 @@
 ---
 type: source
-title: "Left Atrial Structure and Function in HFrEF versus HFpEF: Systematic Review and Meta-Analysis (Jin 2022)"
+title: 'Left Atrial Structure and Function in HFrEF versus HFpEF: Systematic Review
+  and Meta-Analysis (Jin 2022)'
 citekey: Jin2022LA
 year: 2022
 authors: Jin X, Nauta JF, Hung C-L, et al.
 journal: Heart Fail Rev
 tags:
-  - hfpef
-  - left-atrium
-  - echocardiography
-  - la-strain
-  - atrial-fibrillation
-  - systematic-review
-  - meta-analysis
-  - imaging
+- hfpef
+- left-atrium
+- echocardiography
+- la-strain
+- atrial-fibrillation
+- systematic-review
+- meta-analysis
+- imaging
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf
-    citekey: Jin2022LA
+- file: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf
+  citekey: Jin2022LA
+page-type: source-summary-page
 ---
 # LA Structure and Function in HFrEF vs HFpEF (Jin 2022)
 

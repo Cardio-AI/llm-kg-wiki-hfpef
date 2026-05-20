@@ -1,19 +1,20 @@
 ---
 type: source
-title: "Unrecognized Heart Failure With Preserved Ejection Fraction in Atrial Fibrillation"
+title: Unrecognized Heart Failure With Preserved Ejection Fraction in Atrial Fibrillation
 citekey: reddy2024afhfpef
 year: 2024
 authors: Reddy YNV, Borlaug BA
 journal: JACC Heart Failure
 tags:
-  - diagnosis
-  - atrial-fibrillation
-  - open-question
+- diagnosis
+- atrial-fibrillation
+- open-question
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-JACC-Reddy-unrecognized_HFpEF_in_AF.pdf
-    citekey: reddy2024afhfpef
+- file: raw/2024-JACC-Reddy-unrecognized_HFpEF_in_AF.pdf
+  citekey: reddy2024afhfpef
+page-type: source-summary-page
 ---
 # Unrecognized Heart Failure With Preserved Ejection Fraction in Atrial Fibrillation
 

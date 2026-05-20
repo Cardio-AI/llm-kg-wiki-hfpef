@@ -1,19 +1,22 @@
 ---
 type: source
-title: "Effects of angiotensin-neprilysin inhibition in women vs men: Insights from PARAGLIDE-HF"
+title: 'Effects of angiotensin-neprilysin inhibition in women vs men: Insights from
+  PARAGLIDE-HF'
 citekey: rambarat2025paraglide
 year: 2025
-authors: Rambarat P, Erickson T, Cyr D, Ward J, Hernandez AD, Morrow DA, Starling RC, Velazquez E, Zieroth S, Williamson K, Solomon S, Mentz RJ
+authors: Rambarat P, Erickson T, Cyr D, Ward J, Hernandez AD, Morrow DA, Starling
+  RC, Velazquez E, Zieroth S, Williamson K, Solomon S, Mentz RJ
 journal: American Heart Journal
 tags:
-  - trial
-  - treatment
-  - sex-differences
+- trial
+- treatment
+- sex-differences
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2025-AHJ-Rambarat-PARAGLIDE-HF_men-vs-women.pdf
-    citekey: rambarat2025paraglide
+- file: raw/2025-AHJ-Rambarat-PARAGLIDE-HF_men-vs-women.pdf
+  citekey: rambarat2025paraglide
+page-type: source-summary-page
 ---
 # Sex-Specific Effects of Sac/Val in PARAGLIDE-HF
 

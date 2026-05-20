@@ -1,23 +1,26 @@
 ---
 type: study
-title: "ATTR-ACT — Tafamidis in Patients with Transthyretin Amyloid Cardiomyopathy"
+title: "ATTR-ACT \u2014 Tafamidis in Patients with Transthyretin Amyloid Cardiomyopathy"
 citekey: Maurer2018ATTRACT
 year: 2018
-authors: Maurer MS, Schwartz JH, Gundapaneni B, Elliott PM, Merlini G, Waddington-Cruz M, Kristen AV, Grogan M, Witteles R, Drachman B, Shah SJ, Hanna M, Judge DP, Barsdorf AI, Huber P, Patterson TA, Riley S, Stewart M, Sultan MB, Rapezzi C
+authors: Maurer MS, Schwartz JH, Gundapaneni B, Elliott PM, Merlini G, Waddington-Cruz
+  M, Kristen AV, Grogan M, Witteles R, Drachman B, Shah SJ, Hanna M, Judge DP, Barsdorf
+  AI, Huber P, Patterson TA, Riley S, Stewart M, Sultan MB, Rapezzi C
 journal: N Engl J Med
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - attr-cm
-  - treatment
-  - hfpef
-  - amyloidosis
+- trial
+- attr-cm
+- treatment
+- hfpef
+- amyloidosis
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
-    citekey: Maurer2018ATTRACT
+- file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
+  citekey: Maurer2018ATTRACT
+page-type: source-summary-page
 ---
 # ATTR-ACT — Tafamidis in ATTR Cardiomyopathy (Maurer 2018)
 

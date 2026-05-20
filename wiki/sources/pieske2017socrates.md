@@ -1,23 +1,26 @@
 ---
 type: study
-title: "SOCRATES-PRESERVED — Vericiguat in HFpEF: Phase 2b Dose-Finding"
+title: "SOCRATES-PRESERVED \u2014 Vericiguat in HFpEF: Phase 2b Dose-Finding"
 citekey: Pieske2017SOCRATES
 year: 2017
-authors: Pieske B, Maggioni AP, Lam CSP, Pieske-Kraigher E, Filippatos G, Butler J, Ponikowski P, Shah SJ, Solomon SD, Bhatt DL, Camacho A, Lopatin Y, Gomez Mesa JE, Jourdain P, Scalise AV, Mueller K, Roessig L, Gheorghiade M
+authors: Pieske B, Maggioni AP, Lam CSP, Pieske-Kraigher E, Filippatos G, Butler J,
+  Ponikowski P, Shah SJ, Solomon SD, Bhatt DL, Camacho A, Lopatin Y, Gomez Mesa JE,
+  Jourdain P, Scalise AV, Mueller K, Roessig L, Gheorghiade M
 journal: Eur Heart J
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - treatment
-  - no-cgmp
-  - phase2
+- trial
+- hfpef
+- treatment
+- no-cgmp
+- phase2
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf
-    citekey: Pieske2017SOCRATES
+- file: raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf
+  citekey: Pieske2017SOCRATES
+page-type: source-summary-page
 ---
 # SOCRATES-PRESERVED — Vericiguat Phase 2b in HFpEF (Pieske 2017)
 

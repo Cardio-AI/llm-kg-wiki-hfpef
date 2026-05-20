@@ -1,24 +1,28 @@
 ---
 type: study
-title: "von Haehling 2024 — FAIR-HFpEF: Ferric Carboxymaltose in HFpEF and Iron Deficiency"
+title: "von Haehling 2024 \u2014 FAIR-HFpEF: Ferric Carboxymaltose in HFpEF and Iron\
+  \ Deficiency"
 citekey: vonHaehling2024FAIR
 year: 2024
-authors: von Haehling S, Doehner W, Evertz R, Garfias-Veitl T, Derad C, Diek M, Karakas M, Birkemeyer R, Fillippatos G, Lainscak M, Butler J, Ponikowski P, Böhm M, Friede T, Anker SD
+authors: "von Haehling S, Doehner W, Evertz R, Garfias-Veitl T, Derad C, Diek M, Karakas\
+  \ M, Birkemeyer R, Fillippatos G, Lainscak M, Butler J, Ponikowski P, B\xF6hm M,\
+  \ Friede T, Anker SD"
 journal: Eur Heart J
 study_type: randomized controlled trial
 evidence_level: moderate (small N, stopped early)
 tags:
-  - iron-deficiency
-  - ferric-carboxymaltose
-  - exercise-capacity
-  - hfpef
-  - trial
-  - fair-hfpef
+- iron-deficiency
+- ferric-carboxymaltose
+- exercise-capacity
+- hfpef
+- trial
+- fair-hfpef
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-ESC-vonHaehling-FAIR-HFpEF_study_ferric_carboxymaltose_hfpef.pdf
-    citekey: vonHaehling2024FAIR
+- file: raw/2024-ESC-vonHaehling-FAIR-HFpEF_study_ferric_carboxymaltose_hfpef.pdf
+  citekey: vonHaehling2024FAIR
+page-type: source-summary-page
 ---
 # von Haehling 2024 — FAIR-HFpEF Trial: IV Iron in HFpEF with Iron Deficiency
 
@@ -81,6 +85,7 @@ FAIR-HFpEF is the first and to date only RCT of IV iron in HFpEF with iron defic
 
 ## Connections
 
+- Supports: [[fair-hfpef]] (entity page) — primary source for FAIR-HFpEF trial results
 - Updates: [[iron-deficiency]] — first RCT evidence for IV FCM benefit (6MWT) in HFpEF; preliminary due to small N
 - Supports: [[beale2019iron]] — validates hypothesis that ID treatment improves exercise capacity in HFpEF
 - Connects to: [[ponikowski2020affirm]] — AFFIRM-AHF showed hospitalisation reduction in HFrEF+ID; FAIR-HFpEF shows analogous exercise capacity improvement in HFpEF
@@ -88,7 +93,7 @@ FAIR-HFpEF is the first and to date only RCT of IV iron in HFpEF with iron defic
 ## Related Pages
 
 - Concepts: [[iron-deficiency]], [[exercise-intolerance]]
-- Entities: [[hfpef]]
+- Entities: [[fair-hfpef]], [[hfpef]]
 - Sources: [[beale2019iron]], [[ponikowski2020affirm]]
 
 ## Contradictions

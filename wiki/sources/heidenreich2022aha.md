@@ -1,23 +1,24 @@
 ---
 type: source
-title: "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure"
+title: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure
 citekey: Heidenreich2022AHA
 year: 2022
 authors: Heidenreich PA, Bozkurt B, Aguilar D, et al.
 journal: Circulation
 tags:
-  - guideline
-  - hfpef
-  - hfref
-  - hfmref
-  - diagnosis
-  - treatment
-  - staging
+- guideline
+- hfpef
+- hfref
+- hfmref
+- diagnosis
+- treatment
+- staging
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+page-type: source-summary-page
 ---
 # 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure
 

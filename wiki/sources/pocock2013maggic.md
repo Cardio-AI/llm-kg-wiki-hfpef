@@ -1,23 +1,26 @@
 ---
 type: study
-title: "MAGGIC: Meta-analysis Global Group in Chronic Heart Failure — Individual Patient Data Meta-analysis"
+title: "MAGGIC: Meta-analysis Global Group in Chronic Heart Failure \u2014 Individual\
+  \ Patient Data Meta-analysis"
 citekey: Pocock2013MAGGIC
 year: 2013
-authors: Pocock SJ, Ariti CA, McMurray JJV, et al.; Meta-analysis Global Group in Chronic Heart Failure (MAGGIC)
+authors: Pocock SJ, Ariti CA, McMurray JJV, et al.; Meta-analysis Global Group in
+  Chronic Heart Failure (MAGGIC)
 journal: Eur Heart J
 study_type: meta-analysis
 evidence_level: high
 tags:
-  - meta-analysis
-  - hfpef
-  - hfref
-  - prognosis
-  - risk-score
+- meta-analysis
+- hfpef
+- hfref
+- prognosis
+- risk-score
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2013-ESC-Pocock-MAGGIC_meta-analysis.pdf
-    citekey: Pocock2013MAGGIC
+- file: raw/2013-ESC-Pocock-MAGGIC_meta-analysis.pdf
+  citekey: Pocock2013MAGGIC
+page-type: source-summary-page
 ---
 # MAGGIC Meta-analysis
 

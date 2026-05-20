@@ -1,6 +1,6 @@
 ---
 type: study
-title: "DETERMINE Accelerometry Substudy: Wearable Physical Activity in HF"
+title: 'DETERMINE Accelerometry Substudy: Wearable Physical Activity in HF'
 citekey: Docherty2025DETERMINE
 year: 2025
 authors: Docherty KF, Buendia Lopez R, Folkvaljon F, de Boer RA, et al.
@@ -8,17 +8,18 @@ journal: Journal of Cardiac Failure
 study_type: observational
 evidence_level: moderate
 tags:
-  - hfpef
-  - hfref
-  - exercise
-  - accelerometry
-  - wearables
-  - physical-activity
+- hfpef
+- hfref
+- exercise
+- accelerometry
+- wearables
+- physical-activity
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2025-JCF-Docherty-DETERIMINE_wearables_physical_activity.pdf
-    citekey: Docherty2025DETERMINE
+- file: raw/2025-JCF-Docherty-DETERIMINE_wearables_physical_activity.pdf
+  citekey: Docherty2025DETERMINE
+page-type: source-summary-page
 ---
 # DETERMINE Accelerometry Substudy
 

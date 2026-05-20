@@ -1,20 +1,22 @@
 ---
 type: source
-title: "Personalized App-Based Coaching for Improving Physical Activity in Heart Failure With Preserved Ejection Fraction: Primary Results of the MyoMobile Randomized Trial"
+title: 'Personalized App-Based Coaching for Improving Physical Activity in Heart Failure
+  With Preserved Ejection Fraction: Primary Results of the MyoMobile Randomized Trial'
 citekey: zeid2026myomobile
 year: 2026
-authors: Zeid S, Prochaska JH, Schuch A, Tröbs SO, et al.
+authors: "Zeid S, Prochaska JH, Schuch A, Tr\xF6bs SO, et al."
 journal: JACC Heart Failure
 tags:
-  - trial
-  - exercise
-  - digital-health
-  - treatment
+- trial
+- exercise
+- digital-health
+- treatment
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2026-JACCHeartFail-Zeid-MyoMobile_study_results_app_based_coaching.pdf
-    citekey: zeid2026myomobile
+- file: raw/2026-JACCHeartFail-Zeid-MyoMobile_study_results_app_based_coaching.pdf
+  citekey: zeid2026myomobile
+page-type: source-summary-page
 ---
 # MyoMobile Primary Results: App-Based PA Coaching in HFpEF (Zeid 2026)
 

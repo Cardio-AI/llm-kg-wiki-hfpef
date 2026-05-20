@@ -1,6 +1,6 @@
 ---
 type: study
-title: "I-PRESERVE: Irbesartan in Heart Failure with Preserved Ejection Fraction"
+title: 'I-PRESERVE: Irbesartan in Heart Failure with Preserved Ejection Fraction'
 citekey: Massie2008IPreserve
 year: 2008
 authors: Massie BM, Carson PE, McMurray JJ, et al. (I-PRESERVE Investigators)
@@ -8,15 +8,16 @@ journal: New England Journal of Medicine
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - raas
-  - arb
+- trial
+- hfpef
+- raas
+- arb
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2008-NEJM-Massie-I-PRESERVE_study.pdf
-    citekey: Massie2008IPreserve
+- file: raw/2008-NEJM-Massie-I-PRESERVE_study.pdf
+  citekey: Massie2008IPreserve
+page-type: source-summary-page
 ---
 # I-PRESERVE
 

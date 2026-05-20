@@ -1,20 +1,24 @@
 ---
 type: entity
 title: REDUCE LAP-HF II
-summary: Randomised, double-blind, sham-controlled trial of an implantable interatrial shunt device vs. sham in HFpEF/HFmrEF with elevated LA pressure; NCT03088033; tests haemodynamic decompression of elevated filling pressures as a device-based approach to HFpEF; overall result negative for the full population.
+summary: Randomised, double-blind, sham-controlled trial of an implantable interatrial
+  shunt device vs. sham in HFpEF/HFmrEF with elevated LA pressure; NCT03088033; tests
+  haemodynamic decompression of elevated filling pressures as a device-based approach
+  to HFpEF; overall result negative for the full population.
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - device
-  - treatment
+- hfpef
+- trial
+- device
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest — primary trial paper PDF not obtained
-    citekey: ~ # verify on ingest
-  - file: raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf
-    citekey: patel2024reducelaphf
+- file: null
+  citekey: null
+- file: raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf
+  citekey: patel2024reducelaphf
+page-type: entity-page
 ---
 # REDUCE LAP-HF II
 

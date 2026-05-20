@@ -1,20 +1,23 @@
 ---
 type: source
-title: "2023 ACC Expert Consensus Decision Pathway on Management of Heart Failure With Preserved Ejection Fraction"
+title: 2023 ACC Expert Consensus Decision Pathway on Management of Heart Failure With
+  Preserved Ejection Fraction
 citekey: Kittleson2023ACC
 year: 2023
-authors: Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL Jr, Yancy CW
+authors: Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi
+  JL Jr, Yancy CW
 journal: J Am Coll Cardiol
 tags:
-  - guideline
-  - hfpef
-  - treatment
-  - diagnosis
+- guideline
+- hfpef
+- treatment
+- diagnosis
 created: 2026-05-06
 last_updated: 2026-05-06
 sources:
-  - file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
-    citekey: Kittleson2023ACC
+- file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
+  citekey: Kittleson2023ACC
+page-type: source-summary-page
 ---
 # 2023 ACC Expert Consensus Decision Pathway — HFpEF
 

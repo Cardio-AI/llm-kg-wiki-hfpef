@@ -1,20 +1,24 @@
 ---
 type: entity
 title: ALDO-DHF
-summary: Multicenter RCT of spironolactone 25 mg vs. placebo in ambulatory HFpEF (LVEF ≥50%); 422 patients; 12 months; spironolactone improved diastolic function (E/e') and reversed LV remodelling but did not improve exercise capacity, symptoms, or QoL.
+summary: "Multicenter RCT of spironolactone 25 mg vs. placebo in ambulatory HFpEF\
+  \ (LVEF \u226550%); 422 patients; 12 months; spironolactone improved diastolic function\
+  \ (E/e') and reversed LV remodelling but did not improve exercise capacity, symptoms,\
+  \ or QoL."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - mra
-  - spironolactone
-  - diastolic-dysfunction
-  - treatment
+- hfpef
+- trial
+- mra
+- spironolactone
+- diastolic-dysfunction
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf
-    citekey: Edelmann2013ALDODHF
+- file: raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf
+  citekey: Edelmann2013ALDODHF
+page-type: entity-page
 ---
 # ALDO-DHF
 

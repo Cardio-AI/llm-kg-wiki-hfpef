@@ -1,24 +1,26 @@
 ---
 type: source
-title: "Effect of Weight Loss Through Lifestyle Interventions in HFpEF: Systematic Review and Meta-Analysis (Lee 2024)"
+title: 'Effect of Weight Loss Through Lifestyle Interventions in HFpEF: Systematic
+  Review and Meta-Analysis (Lee 2024)'
 citekey: Lee2024Lifestyle
 year: 2024
 authors: Lee VYJ, Houston L, Perkovic A, et al.
 journal: Heart Lung Circ
 tags:
-  - hfpef
-  - weight-loss
-  - lifestyle
-  - obesity
-  - exercise
-  - diet
-  - systematic-review
-  - meta-analysis
+- hfpef
+- weight-loss
+- lifestyle
+- obesity
+- exercise
+- diet
+- systematic-review
+- meta-analysis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf
-    citekey: Lee2024Lifestyle
+- file: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf
+  citekey: Lee2024Lifestyle
+page-type: source-summary-page
 ---
 # Lifestyle Interventions for Weight Loss in HFpEF (Lee 2024)
 
@@ -81,6 +83,7 @@ sources:
 ## Connections
 
 - Updates: [[supervised-exercise-training]] — lifestyle meta-analysis confirms exercise-based interventions work in HFpEF
+- Updates: [[obesity-hfpef]] — systematic evidence base for lifestyle (diet+exercise) in obese HFpEF; 6MWD +43.6m, weight −5.3 kg
 - Supports: [[step-hfpef]], [[summit]] — weight loss improves HFpEF outcomes (pharmacological analogue)
 - Contains: [[azhar2020protein]] as one of 6 included studies
 
@@ -89,7 +92,7 @@ sources:
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]]
-- Entities: [[supervised-exercise-training]], [[hfpef]]
+- Entities: [[obesity-hfpef]], [[supervised-exercise-training]], [[hfpef]]
 - Sources: [[azhar2020protein]], [[sachdev2023exercise]], [[kosiborod2023stephfpef]]
 
 ---

@@ -1,25 +1,27 @@
 ---
 type: study
-title: "Tamaki 2023 — NLR and PLR as Prognostic Markers in ADHF-HFpEF (PURSUIT-HFpEF)"
+title: "Tamaki 2023 \u2014 NLR and PLR as Prognostic Markers in ADHF-HFpEF (PURSUIT-HFpEF)"
 citekey: Tamaki2023NLRPLR
 year: 2023
-authors: Tamaki S, Yamada T, Watanabe T, Morita T, Kawasaki M, Kikuchi A, Kawai T, Seo M, Nakamura J, Fukunami M
+authors: Tamaki S, Yamada T, Watanabe T, Morita T, Kawasaki M, Kikuchi A, Kawai T,
+  Seo M, Nakamura J, Fukunami M
 journal: J Am Heart Assoc
 study_type: observational-prospective
 evidence_level: moderate
 tags:
-  - inflammation
-  - biomarker
-  - hfpef
-  - acute-hf
-  - prognosis
-  - nlr
-  - plr
+- inflammation
+- biomarker
+- hfpef
+- acute-hf
+- prognosis
+- nlr
+- plr
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2023-JAHA-Tamaki-ADHF-HFpEF_study_NLR_PLR.pdf
-    citekey: Tamaki2023NLRPLR
+- file: raw/2023-JAHA-Tamaki-ADHF-HFpEF_study_NLR_PLR.pdf
+  citekey: Tamaki2023NLRPLR
+page-type: source-summary-page
 ---
 # Tamaki 2023 — NLR + PLR Prognostic in ADHF-HFpEF (PURSUIT-HFpEF)
 

@@ -1,25 +1,29 @@
 ---
 type: concept
-title: HFpEF Guideline Comparison — ESC / AHA / NICE / International
-summary: Systematic comparison of major HF guidelines on HFpEF definition, EF classification, staging, diagnostics, and pharmacotherapy; ESC 2023 resolved main ESC vs. AHA divergence on SGLT2i; Mahmood 2024 systematic review documents diagnostic threshold disagreements across 7 guidelines (NP thresholds, E/e', LAVI) and evidence gaps.
+title: "HFpEF Guideline Comparison \u2014 ESC / AHA / NICE / International"
+summary: Systematic comparison of major HF guidelines on HFpEF definition, EF classification,
+  staging, diagnostics, and pharmacotherapy; ESC 2023 resolved main ESC vs. AHA divergence
+  on SGLT2i; Mahmood 2024 systematic review documents diagnostic threshold disagreements
+  across 7 guidelines (NP thresholds, E/e', LAVI) and evidence gaps.
 tags:
-  - guideline
-  - hfpef
-  - diagnosis
-  - treatment
+- guideline
+- hfpef
+- diagnosis
+- treatment
 created: 2026-05-04
 last_updated: 2026-05-12
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
-  - file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
-    citekey: McDonagh2023ESCupdate
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
-    citekey: Kittleson2023ACC
-  - file: raw/2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf
-    citekey: Mahmood2024Guidelines
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+- file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
+  citekey: McDonagh2023ESCupdate
+- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
+  citekey: Heidenreich2022AHA
+- file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
+  citekey: Kittleson2023ACC
+- file: raw/2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf
+  citekey: Mahmood2024Guidelines
+page-type: concept-page
 ---
 # HFpEF Guideline Comparison — ESC 2021 / ESC 2023 / AHA 2022 / ACC 2023 ECDP
 

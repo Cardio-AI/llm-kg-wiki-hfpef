@@ -1,6 +1,7 @@
 ---
 type: source
-title: "Shi 2022 — sST2 as Diagnostic and Prognostic Biomarker in HFpEF (Systematic Review)"
+title: "Shi 2022 \u2014 sST2 as Diagnostic and Prognostic Biomarker in HFpEF (Systematic\
+  \ Review)"
 citekey: Shi2022SST2
 year: 2022
 authors: Shi L, Zhu S, Liu P, Sun L, Lin S, Qin X, Yang Y, Ma J, Li Z
@@ -8,18 +9,19 @@ journal: Front Cardiovasc Med
 study_type: systematic review
 evidence_level: moderate
 tags:
-  - sst2
-  - biomarker
-  - prognosis
-  - diagnosis
-  - hfpef
-  - systematic-review
-  - inflammation
+- sst2
+- biomarker
+- prognosis
+- diagnosis
+- hfpef
+- systematic-review
+- inflammation
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2022-FrontierCardiovascMed-Shi-sST2_diagnostic_prognostic_biomarker_in_hfpef_systematic_review.pdf
-    citekey: Shi2022SST2
+- file: raw/2022-FrontierCardiovascMed-Shi-sST2_diagnostic_prognostic_biomarker_in_hfpef_systematic_review.pdf
+  citekey: Shi2022SST2
+page-type: source-summary-page
 ---
 # Shi 2022 — sST2 as Diagnostic and Prognostic Biomarker in HFpEF
 

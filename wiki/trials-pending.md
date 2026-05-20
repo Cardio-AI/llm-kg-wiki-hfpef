@@ -26,7 +26,7 @@ last_updated: 2026-05-19
 | CAMEO-SEMA | Semaglutide vs. placebo in HFpEF with obesity | LVEF ≥50%, BMI ≥30, NT-proBNP ≥300 | [verify] | Symptomatic and hemodynamic endpoints |
 | CAMEO-DAPA | Dapagliflozin vs. placebo in HFpEF | LVEF ≥50% | [verify] | Companion to CAMEO-SEMA |
 | ~~HuMAIN~~ | ~~INGESTED~~ — HuMAIN = HU6 (mitochondrial uncoupler small molecule, NOT bioartificial kidney); NCT05284617; Phase 2A; pandey2025humain ([[pandey2025humain]]); moved to [[trials]] | — | NCT05284617 | Removed from pending |
-| SPIRRIT | Spironolactone in HFpEF | LVEF ≥45%, NT-proBNP elevated | NCT02901184 | Ongoing; will clarify MRA class effect vs. TOPCAT |
+| ~~SPIRRIT~~ | ~~INGESTED~~ — entity [[spirrit]] and source [[lund2024spirrit]] created (session 30); full design from Lund et al. Eur J Heart Fail 2024;26:2453–2463; NCT02901184; moved to [[trials]] | — | NCT02901184 | Removed from pending |
 | SPIRIT-HF | Spironolactone in HFpEF | LVEF ≥45% | NCT04727073 | Companion spironolactone trial |
 | ~~PARAGLIDE-HF~~ | ~~INGESTED~~ — entity [[paraglide-hf]] and sources [[mentz2023paraglide]], [[fudim2024paraglide]], [[nouhravesh2025paraglide]], [[rambarat2025paraglide]] created; NCT03988634 (corrected from NCT04164043); moved to [[trials]] | LVEF >40%, WHF | NCT03988634 | Removed from pending |
 | CADENCE | Cardiac resynchronization therapy vs. device pacing in HFpEF with AF | HFpEF + AF + pacing indication | [verify] | Pacing strategy |
@@ -48,7 +48,26 @@ last_updated: 2026-05-19
 | REHAB-HFpEF | Rehabilitation-based exercise programme | LVEF ≥50%, recent HHF | [verify] | Post-discharge exercise |
 | AMETHYST | Aldosterone synthase inhibitor in HFpEF | LVEF ≥50%, elevated aldosterone | [verify] | MRA-alternative mechanism |
 
+---
+
+### Added 2026-05-19 (session 29) — from Sauer 2026 ESC Heart Failure review (source: [[sauer2026pharmacological]])
+
+| Trial | Full Title / Intervention | Population | NCT | Notes |
+|---|---|---|---|---|
+| BALANCED-HF | Balcinrenone (selective MR modulator) + dapagliflozin vs. dapagliflozin alone in HF with recent HF event and reduced eGFR | HF with recent HF event, eGFR 20–60 mL/min/1.73m², elevated NT-proBNP | [verify] | Phase 3; ~N=4,800; balcinrenone = [[balcinrenone]]; combination MR modulator + SGLT2i paradigm; primary endpoint: composite CV death, HF hospitalisation, urgent HF visit |
+| EASi-HF | Vicadrostat (aldosterone synthase inhibitor / CYP11B2 inhibitor) + empagliflozin vs. placebo + empagliflozin in HFpEF/HFmrEF | HFpEF and HFmrEF (EF ≥40%), elevated NT-proBNP, current diuretic or recent HF hospitalisation | [verify] | Phase 3; ~N=6,000; vicadrostat = [[vicadrostat]]; combination ASI + SGLT2i paradigm; tests upstream aldosterone suppression vs. MRA class |
+
 > **Note:** NCT numbers marked [verify] require verification against clinicaltrials.gov. Several of these trials may have updated status or have been published by 2026. Add PDFs to `raw/` and promote to `trials.md` on ingest.
+
+---
+
+### Added 2026-05-19 (session 30) — from Lund 2024 SPIRRIT-HFpEF design paper, Table 1 (source: [[lund2024spirrit]])
+
+| Trial | Full Title / Intervention | Population | NCT | Notes |
+|---|---|---|---|---|
+| SOGALDI-PEF | Spironolactone in combination with dapagliflozin in HFpEF | HFpEF, LVEF ≥40% or ≥50%; details per design paper Table 1 | NCT05676684 | Phase 3; combination MRA+SGLT2i paradigm; cited in SPIRRIT design paper as concurrent trial |
+| REDEFINE-HF | Redefining treatment targets in HFpEF (details per design paper) | HFpEF; LVEF ≥40%; elevated NT-proBNP | NCT06008197 | Phase 3; referenced alongside SPIRRIT and CONFIRMATION-HF in Lund 2024 Table 1; ~N=5,200 per Sauer 2026 |
+| CONFIRMATION-HF | Combination pharmacotherapy in HFpEF | HFpEF; LVEF ≥45% | NCT06024746 | Phase 3; ~N=1,500 per Sauer 2026; referenced in Lund 2024 Table 1 |
 
 ---
 

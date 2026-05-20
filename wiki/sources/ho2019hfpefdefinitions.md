@@ -1,24 +1,26 @@
 ---
 type: study
-title: "Competing HFpEF Definitions: Prognostic Implications and Diagnostic Accuracy"
+title: 'Competing HFpEF Definitions: Prognostic Implications and Diagnostic Accuracy'
 citekey: Ho2019HFpEFDefinitions
 year: 2019
-authors: Ho JE, Zern EK, Wooster L, Bailey CS, Cunningham T, Eisman AS, Hardin KM, Zampierollo GA, Basnet S, Bhatt DL, Lewis GD
+authors: Ho JE, Zern EK, Wooster L, Bailey CS, Cunningham T, Eisman AS, Hardin KM,
+  Zampierollo GA, Basnet S, Bhatt DL, Lewis GD
 journal: Circulation
 study_type: observational
 evidence_level: moderate
 tags:
-  - hfpef
-  - diagnosis
-  - cpet
-  - definition
-  - prognosis
-  - observational
+- hfpef
+- diagnosis
+- cpet
+- definition
+- prognosis
+- observational
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-    citekey: Ho2019HFpEFDefinitions
+- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
+  citekey: Ho2019HFpEFDefinitions
+page-type: source-summary-page
 ---
 # Ho 2019 — Competing HFpEF Definitions: Prognostic Implications
 
@@ -34,7 +36,7 @@ sources:
 ## Key Findings
 
 - **Definition heterogeneity:** Enrollment ranged from 12% (HFSA) to 90% (ACC/AHA) of the same 461-patient cohort depending on which guideline definition was applied
-- **Reference standard:** 243/461 (53%) had "physiologic HFpEF" (HFpEF_phys) — invasively elevated PCWP at rest or during exercise by [[cardiopulmonary-exercise-testing|invasive CPET]]
+- **Reference standard:** 243/461 (53%) had "physiologic HFpEF" (HFpEF_phys) — invasively elevated PCWP at rest or during exercise by [[cardiopulmonary-exercise-testing]]
 - **Sensitivity/specificity trade-off by definition:**
   - ACC/AHA: sensitivity 91%, specificity 11% for HFpEF_phys
   - HFSA: sensitivity 17%, specificity 94%

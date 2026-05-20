@@ -1,24 +1,28 @@
 ---
 type: study
-title: "Suzuki 2018 — Severe SDB Independently Predicts Arterial Stiffness in HFpEF But Not HFrEF"
+title: "Suzuki 2018 \u2014 Severe SDB Independently Predicts Arterial Stiffness in\
+  \ HFpEF But Not HFrEF"
 citekey: Suzuki2018SDB
 year: 2018
-authors: Suzuki S, Yoshihisa A, Sato Y, Kanno Y, Watanabe S, Yokokawa T, Abe S, Sato T, Oikawa M, Kobayashi A, Yamaki T, Sugimoto K, Kunii H, Nakazato K, Ishida T, Takeishi Y
+authors: Suzuki S, Yoshihisa A, Sato Y, Kanno Y, Watanabe S, Yokokawa T, Abe S, Sato
+  T, Oikawa M, Kobayashi A, Yamaki T, Sugimoto K, Kunii H, Nakazato K, Ishida T, Takeishi
+  Y
 journal: ESC Heart Fail
 study_type: prospective cross-sectional
 evidence_level: moderate
 tags:
-  - sleep-disordered-breathing
-  - arterial-stiffness
-  - pulse-wave-velocity
-  - hfpef
-  - hfref
-  - mechanism
+- sleep-disordered-breathing
+- arterial-stiffness
+- pulse-wave-velocity
+- hfpef
+- hfref
+- mechanism
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2018-ESCHeartFail-Suzuki-sleep-disordered_breathing_hf.pdf
-    citekey: Suzuki2018SDB
+- file: raw/2018-ESCHeartFail-Suzuki-sleep-disordered_breathing_hf.pdf
+  citekey: Suzuki2018SDB
+page-type: source-summary-page
 ---
 # Suzuki 2018 — Severe SDB Is an Independent Predictor of Arterial Stiffness in HFpEF but Not HFrEF
 

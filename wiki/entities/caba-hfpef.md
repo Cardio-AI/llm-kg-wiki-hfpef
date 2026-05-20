@@ -1,18 +1,23 @@
 ---
 type: entity
 title: CABA-HFpEF
-summary: Phase 3 DZHK international RCT of catheter ablation (pulmonary vein isolation) vs. conventional rate control in HFpEF with atrial fibrillation; NCT05508256; first dedicated ablation-vs-rate-control trial in HFpEF specifically; addresses the AF phenotype branch of HFpEF treatment.
+summary: Phase 3 DZHK international RCT of catheter ablation (pulmonary vein isolation)
+  vs. conventional rate control in HFpEF with atrial fibrillation; NCT05508256; first
+  dedicated ablation-vs-rate-control trial in HFpEF specifically; addresses the AF
+  phenotype branch of HFpEF treatment.
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - af
-  - treatment
+- hfpef
+- trial
+- af
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: ~ # pending ingest
-    citekey: [pending — verify on ingest]
+- file: null
+  citekey:
+  - "pending \u2014 verify on ingest"
+page-type: entity-page
 ---
 # CABA-HFpEF
 

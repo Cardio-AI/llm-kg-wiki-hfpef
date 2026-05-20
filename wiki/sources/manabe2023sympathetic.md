@@ -1,23 +1,25 @@
 ---
 type: source
-title: Sympathetic and Hemodynamic Responses to Exercise in Heart Failure With Preserved Ejection Fraction
+title: Sympathetic and Hemodynamic Responses to Exercise in Heart Failure With Preserved
+  Ejection Fraction
 citekey: manabe2023sympathetic
 year: 2023
 authors: Manabe K, D'Souza AW, Washio T, Takeda R, Hissen SL, Akins JD, Fu Q
 journal: Frontiers in Cardiovascular Medicine
 tags:
-  - hfpef
-  - exercise
-  - sympathetic
-  - hemodynamics
-  - mechanism
-  - peripheral
+- hfpef
+- exercise
+- sympathetic
+- hemodynamics
+- mechanism
+- peripheral
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
-  - file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
-    citekey: manabe2023sympathetic
-    zotero: unverified
+- file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
+  citekey: manabe2023sympathetic
+  zotero: unverified
+page-type: source-summary-page
 ---
 # Sympathetic and Hemodynamic Responses to Exercise in HFpEF
 

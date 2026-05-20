@@ -1,20 +1,24 @@
 ---
 type: source
-title: "Atrial Shunt Device Effects on Cardiac Structure and Function in Heart Failure With Preserved Ejection Fraction: The REDUCE LAP-HF II Randomized Clinical Trial"
+title: 'Atrial Shunt Device Effects on Cardiac Structure and Function in Heart Failure
+  With Preserved Ejection Fraction: The REDUCE LAP-HF II Randomized Clinical Trial'
 citekey: patel2024reducelaphf
 year: 2024
-authors: Patel RB, Silvestry FE, Komtebedde J, Solomon SD, Hasenfuß G, Litwin SE, Borlaug BA, Price MJ, Kawash R, Hummel SL, Cutlip DE, Leon MB, van Veldhuisen DJ, Rieth AJ, McKenzie S, Bugger H, Mazurek JA, Shah SJ
+authors: "Patel RB, Silvestry FE, Komtebedde J, Solomon SD, Hasenfu\xDF G, Litwin\
+  \ SE, Borlaug BA, Price MJ, Kawash R, Hummel SL, Cutlip DE, Leon MB, van Veldhuisen\
+  \ DJ, Rieth AJ, McKenzie S, Bugger H, Mazurek JA, Shah SJ"
 journal: JAMA Cardiology
 tags:
-  - trial
-  - treatment
-  - device
-  - imaging
+- trial
+- treatment
+- device
+- imaging
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf
-    citekey: patel2024reducelaphf
+- file: raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf
+  citekey: patel2024reducelaphf
+page-type: source-summary-page
 ---
 # REDUCE LAP-HF II: Atrial Shunt and Cardiac Structural Remodelling
 

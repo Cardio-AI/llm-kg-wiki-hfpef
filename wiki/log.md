@@ -1,4 +1,269 @@
+log page
 # Change Log
+
+## 2026-05-20 (session 32f — citation correctness fix)
+
+### Entity/concept pages removed from `(source: [[...]])` citations
+- Fixed 36 incorrect citations across 12 files where internal entity/concept pages were used as source citations instead of source-summary pages (citekeys)
+- **hypertensive-fibrotic-hfpef.md**: 15 fixes (→ shah2015phenomapping, paulus2013novelparadigm, shi2022sst2, arnold2022diamond, heidenreich2022aha, anker2021emperor, solomon2022deliver, albulushi2025sglt2fibrosis, pitt2014topcat, solomon2024finearts, solomon2012paramount, joseph2016qrs, pieske2019hfapeff, anker2023hfpefphenotype)
+- **obese-metabolic-hfpef.md**: 9 fixes (→ timoteo2024eat ×2, paulus2013novelparadigm, wester2023sdb, haykowsky2011exercise ×2, babb2026ventilatorylimit, ilonze2024disparities, albulushi2025sglt2fibrosis, sachdev2023exercise)
+- **obesity-hfpef.md**: 3 fixes (→ petrie2024stephfpef, packer2025summit, anker2021emperor + solomon2022deliver)
+- **hfpef-treatment.md**: 1 fix (→ anker2021emperor + solomon2022deliver)
+- **acute-hf.md**: 1 fix (→ vonhaehling2024fair)
+- **pulmonary-arterial-pressure.md**: 1 fix (→ abraham2011champion)
+- **hfpef-phenotypes.md**: 1 fix (→ cowie2017sdb)
+- **atrial-fibrillation-hfpef.md**: 5 fixes (→ anker2023hfpefphenotype, pieske2019hfapeff, wester2023sdb ×2, solomon2012paramount)
+- **peripheral-mechanisms-hfpef.md**: 2 fixes (→ sachdev2023exercise, beale2019iron)
+- **spirit-hf.md**: 1 fix (→ solomon2024finearts)
+- **hemodynamic-monitoring.md**: 1 fix (→ abraham2011champion + adamson2014champion)
+- **contradictions.md**: 5 fixes (removed entity refs from victoria, socrates-preserved, paragon-hf citations; marked reduce-lap-hf-ii ×2 as [needs source])
+
+---
+
+## 2026-05-19 (session 32e — contradictions audit)
+
+### contradictions.md restructured
+- Added thematic index table at top grouping all 36 entries by theme (diagnostic definitions, SGLT2i, MRA, NO/cGMP, GLP-1 RA, exercise, devices, endpoint validity, phenotype-specific)
+- Added cross-reference notes (→ see also #X) to related entries: #2↔#21 (MRA), #13↔#16 (SGLT2i symptoms), #17↔#18↔#19 (diagnostic threshold cluster), #25↔#33 (cGMP pathway)
+- Added 2 new contradictions:
+  - **#35: Semaglutide NT-proBNP weight-loss independence (Petrie 2024) vs. pericardial restraint prediction** — NT-proBNP reduction is weight-loss-independent (P interaction=0.58); greatest weight losers show paradoxically less NP reduction; contradicts simple pericardial restraint model; resolved by multi-mechanism hypothesis (anti-inflammatory + direct HF effects)
+  - **#36: SGLT2i CMR antifibrotic evidence (Albulushi 2025, ΔECV −3.5%) vs. neutral mortality (Minisy 2025 meta-analysis, HR 0.92 NS across 9 RCTs >20,000 patients)** — fibrosis reversal on CMR without mortality signal; 4 explanations discussed
+
+### Existing contradictions verified current
+- All 34 prior entries reviewed; status accurate as of 2026-05-19
+- #9 (SGLT2i ESC vs AHA) correctly marked RESOLVED
+- #21 (MRA) already reflects FINEARTS-HF published results ✓
+- #22 (GLP-1 RA) already reflects SUMMIT published results ✓
+
+---
+
+## 2026-05-19 (session 32d — lint pass 2)
+
+### Outdated content fixed (2 pages)
+- `wiki/concepts/obese-metabolic-hfpef.md` — SUMMIT updated from "pending publication" to published results (Packer 2025, NEJM; HR 0.62 CV death/worsening HF; KCCQ +6.9 pts); Open Questions updated to reflect SUMMIT answer
+- `wiki/concepts/hypertensive-fibrotic-hfpef.md` — FINEARTS-HF updated from "ongoing" to published results (Solomon 2024, NEJM; RR 0.84; P=0.007); guideline implication note added
+
+### Lint results (clean)
+1. Contradictions: no new contradictions; contradictions.md current
+2. Orphan pages: 0
+3. Missing concept pages: HFimpEF adequately covered in hf-phenotype-classification; no new page needed
+4. Outdated content: 2 fixed (above)
+5. Page format: all pages have page-type + Aliases blocks ✓
+6. Broken links: 0 real broken links ✓
+7. Missing citations: 0 [needs source] markers ✓
+8. Stub sources: armstrong2020victoria.md and cleland2006pepchf.md remain stubs (no PDF available); 2 "substudies not yet ingested" table notes in source pages (low priority)
+9. citations.md drift: 0 gaps ✓
+
+---
+
+## 2026-05-19 (session 32c — citations.md sync)
+
+### citations.md additions (3 missing citekeys)
+- Added `damario2019cmd` row to Ingested Sources table and Full Formatted References (apostrophe-free canonical form of `D'Amario2019CMD`)
+- Added `donelli2020hiit` row (filename-aligned form of `DonelliDaSilveira2020HIIT`; Eur J Prev Cardiol 2020;27:1733–1743)
+- Added `mentz2021rehabhfhfpef` row (filename-aligned form of `Mentz2021REHABHFpEF`; JACC Heart Fail 2021;9:747–757)
+
+### Citekey normalization (frontmatter + entity pages)
+- `wiki/sources/damario2019cmd.md` — frontmatter citekey `D'Amario2019CMD` → `damario2019cmd`
+- `wiki/sources/donelli2020hiit.md` — frontmatter citekey `DonelliDaSilveira2020HIIT` → `donelli2020hiit`
+- `wiki/sources/mentz2021rehabhfhfpef.md` — frontmatter citekey `Mentz2021REHABHFpEF` → `mentz2021rehabhfhfpef`
+- `wiki/entities/supervised-exercise-training.md` — updated both citekeys in sources block
+- `wiki/entities/rehab-hf.md` — updated citekey in sources block
+- `wiki/concepts/coronary-microvascular-dysfunction.md` — updated citekey
+- `wiki/concepts/diastolic-dysfunction.md` — updated citekey
+
+### Verification
+- 153 citekey-style wiki-links across wiki pages; 154 entries in citations.md; 0 unresolved gaps
+
+---
+
+## 2026-05-19 (session 32b — lint fixes)
+
+### Lint audit fixes
+- `wiki/concepts/arterial-stiffness-hfpef.md` — Added `## Aliases` block (lint: missing aliases on concept page)
+- `wiki/concepts/treatment-hfpef.md` — Added `## Aliases` block (lint: missing aliases on stub)
+- `wiki/concepts/pericardial-restraint.md` — Added `## Aliases` block with 4 aliases (lint: missing aliases on mechanism page)
+- `wiki/entities/champion.md` — Fixed `haemodynamic-monitoring` → `hemodynamic-monitoring` in YAML tag and wiki-link (British/American spelling mismatch)
+- `wiki/sources/fu2024inflammation.md` — Fixed `[[paulus2013paradigm]]` → `[[paulus2013novelparadigm]]` (2 instances; broken citekey)
+- `wiki/sources/lin2023cmd.md` — Fixed `[[d'amario2019cmd]]` → `[[damario2019cmd]]` (apostrophe breaks wiki-link)
+- `wiki/sources/sachdev2023exercise.md` — Fixed pipe-syntax link and capital-letter cross-reference
+- `wiki/sources/ho2019hfpefdefinitions.md` — Fixed pipe-syntax link `[[cardiopulmonary-exercise-testing|invasive CPET]]`
+- `wiki/sources/kittleson2024accaha.md` — Fixed `[[transthyretin-amyloid-cardiomyopathy]]` → `[[attr-cm]]`
+- 12 source files — Fixed `contradictions.md` → `[[contradictions]]` link format (sed -i)
+- 5 files — Fixed `shah2014phenomapping` → `shah2015phenomapping` (wrong year in citekey)
+- Deleted 4 empty root-level ghost stubs: `haemodynamic-monitoring.md`, `obesity-hfpef.md`, `pericardial-restraint.md`, `hypertension-in-hfpef.md`
+
+### Outstanding lint issue
+- `wiki/citations.md` drift: ~145 citekeys used in wiki pages not registered in citations.md — requires full sync pass
+
+---
+
+## 2026-05-19 (session 32 — missing pages batch creation)
+
+### New concept/phenotype pages created (29)
+
+**Phenotype pages:**
+- `wiki/concepts/obese-metabolic-hfpef.md` — Obese-metabolic HFpEF phenotype (~30%); STEP-HFpEF KCCQ +7.8 pts/6MWD +20.3m/weight −10.7%; EAT, lipotoxicity, OSA, CaMKII; SGLT2i + GLP-1 RA treatment; sources: kosiborod2023stephfpef, anker2023hfpefphenotype
+- `wiki/concepts/hypertensive-fibrotic-hfpef.md` — Hypertensive-fibrotic HFpEF phenotype (~50%); concentric LV hypertrophy; sST2 HR 2.76 (I²=0%); BP control, MRA, SGLT2i; PARAMOUNT LA reverse remodelling; sources: anker2023hfpefphenotype, shah2015phenomapping
+- `wiki/concepts/atrial-fibrillation-hfpef.md` — AF-dominant HFpEF phenotype (10–50%); loss of atrial kick (30–40% of LV filling); rhythm control OR 0.735 (I²=0%; Al-Sadawi 2022) and HR 0.74 (EAST-AFNET4 HF subgroup); CABA-HFpEF ongoing; sources: alsadawi2022rhythmcontrol, rillig2021eastafnet4, anker2023hfpefphenotype
+
+**Redirect/stub:**
+- `wiki/concepts/treatment-hfpef.md` — Stub resolving [[treatment-hfpef]] cross-references; canonical content at [[hfpef-treatment]]
+
+**Previously created in this session (earlier batch):**
+- `wiki/concepts/iron-deficiency.md` — Iron deficiency in HFpEF; 59% prevalence (Beale 2019); FAIR-HFpEF 6MWT +49m; sources: beale2019iron, vonhaehling2024fair, ponikowski2020affirm
+- `wiki/concepts/sleep-disordered-breathing.md` — SDB in HFpEF; 50–80% prevalence; CaMKII pathway; SERVE-HF context; sources: cowie2017sdb, suzuki2018sdb, wester2023sdb
+- `wiki/concepts/rhythm-control.md` — OR 0.735 (I²=0%); EAST-AFNET4 HR 0.74; sources: alsadawi2022rhythmcontrol, rillig2021eastafnet4
+- `wiki/concepts/ventilatory-limitation.md` — Babb 2026; 62–85% DH; NTG doesn't improve exercise; sources: babb2026ventilatorylimit, leahy2025heartlung
+- `wiki/concepts/heart-lung-interactions.md` — DH→↑PCWP; ΔEELV vs. ΔPCWP r²=0.167; sources: leahy2025heartlung, babb2026ventilatorylimit
+- `wiki/concepts/ecg-biomarkers-hfpef.md` — QRS≥120ms HR 1.27/1.38; fQRS HR 1.90; sources: joseph2016qrs, sung2023fqrs
+- `wiki/concepts/myocardial-fibrosis.md` — sST2 HR 2.76 (I²=0%); ECV vs. MPR r=−0.06; sources: shi2022sst2, arnold2022diamond
+- `wiki/concepts/epicardial-adipose-tissue.md` — EAT r=0.88 with LV eccentricity; pericardial restraint + paracrine; sources: timoteo2024eat, zamani2023pericardialfat
+- `wiki/concepts/arterial-stiffness.md` — Exercise-divergent Ea/TACI; nitrite reversal; sources: reddy2017artstiff, suzuki2018sdb
+- `wiki/concepts/arterial-stiffness-hfpef.md` — Cross-reference stub to [[arterial-stiffness]]
+- `wiki/concepts/nitric-oxide-pathway.md` — eNOS→cGMP-PKG→titin phosphorylation; inorganic nitrite benefit; sources: reddy2017artstiff, paulus2013novelparadigm
+- `wiki/concepts/camkii.md` — Intermittent hypoxia→ROS→CaMKII oxidation→Ca²⁺ dysregulation→AF; source: wester2023sdb
+- `wiki/concepts/peripheral-mechanisms-hfpef.md` — A-VO₂ Diff reserve β=0.66; source: haykowsky2011exercise
+- `wiki/concepts/cardiac-output-reserve.md` — Peak CO 6.3 vs 7.6 L/min; EDV vs ESV reserve; source: haykowsky2011exercise
+- `wiki/concepts/hfpef-disparities.md` — Black women 7.4/1,000 PY; low NP trap; ATTR V122I 3.43%; source: ilonze2024disparities
+- `wiki/entities/acc-aha-hf-guidelines.md` — PM-2 BP control; QM-1 SGLT2i; sources: heidenreich2022aha, kittleson2024accaha
+- `wiki/entities/hemodynamic-monitoring.md` — CardioMEMS; CHAMPION 28%; GUIDE-HF pre-COVID HR 0.81; NP-guided failure; sources: lindenfeld2021guidehf, horiuchi2022npguided
+- `wiki/concepts/pulmonary-arterial-pressure.md` — IpcPH vs CpcPH; PCWP 32 mmHg at 20W; source: lindenfeld2021guidehf
+- `wiki/concepts/hfpef-treatment.md` — SGLT2i Class 2a/1; statins HR 0.74 non-ischaemic; GLP-1 RA; hemodynamic monitoring; sources: kittleson2024accaha, ortegahernandez2024statins
+- `wiki/concepts/acute-hf.md` — ADHF-HFpEF; NLR trajectory HR 1.26; sources: boralkar2019nlr, tamaki2023nlrplr
+- `wiki/concepts/hfpef-fibrosis-paradigm.md` — CMD 70% prevalence; ECV vs MPR r=−0.06; independent mechanisms; source: arnold2022diamond
+- `wiki/concepts/left-atrial-remodelling.md` — LA volume −4.6 vs +0.37 mL (PARAMOUNT); source: solomon2012paramount
+- `wiki/concepts/microvascular-dysfunction.md` — 70% CMD; fQRS as ECG surrogate; independence from fibrosis; sources: arnold2022diamond, sung2023fqrs
+- `wiki/concepts/cardiac-remodelling.md` — Concentric vs eccentric; QRS as remodelling marker; source: joseph2016qrs
+- `wiki/concepts/hemodynamics.md` — PCWP 18→32 mmHg rest→exercise; haemodynamic reserve; sources: reddy2017artstiff, horiuchi2022npguided
+- `wiki/concepts/hfpef-inflammatory-metabolic-paradigm.md` — Paulus 2013 extension; HR 1.43/2.04/2.83 (I²=0%); inflammatory endotype ~30%; sources: fu2024inflammation, paulus2013novelparadigm, anker2023hfpefphenotype
+
+### Page-type taxonomy updates
+- All 210+ wiki markdown files: `page-type:` YAML tag added via bulk Python script
+- 4 YAML-error files manually fixed: attr-cm.md, myomobile.md, adamson2014champion.md, vantassell2018dhart2.md
+- Rule added to CLAUDE.md: ## Page Type Taxonomy section
+
+### Cross-reference audit
+- `_empty_pages.md` created: 35 missing cross-references identified; 32 resolved by page creation
+- Remaining issues: broken link formats (contradictions.md → [[contradictions]], apostrophe in d'amario2019cmd, paulus2013paradigm typo)
+
+### Index updated
+- All new concept, phenotype, entity pages added to Concepts section of index.md
+
+---
+
+## 2026-05-19 (session 31 — entity-source gap fill)
+
+### Entity pages created (3)
+- `wiki/entities/obesity-hfpef.md` — Obesity as HFpEF comorbidity; 30–40% prevalence; pericardial restraint + adipose inflammation mechanisms; STEP-HFpEF/SUMMIT/lifestyle evidence; sources: anker2023hfpefphenotype, borlaug2023statement, kramer2025summit-cmr, lee2024lifestyle, paulus2013novelparadigm
+- `wiki/entities/hypertension-hfpef.md` — Hypertension in HFpEF; 60–80% prevalence; RAAS trial failure series; historical paradigm evolution; phenotype-guided treatment; sources: anker2023hfpefphenotype, borlaug2023statement, paulus2013novelparadigm, pfeffer2019hfpef, charm-preserved, i-preserve, paragon-hf
+- `wiki/concepts/pericardial-restraint.md` — Pericardial restraint mechanism; EAT vs. pericardial fat compartments; SUMMIT CMR evidence (pericardial AT −43 mL); NT-proBNP paradox; therapeutic implications; sources: kramer2025summit-cmr, borlaug2023statement
+
+### Entity pages updated (5)
+- `wiki/entities/fair-hfpef.md` — Updated with published results (Eur Heart J 2024; 6MWT +49m P=0.029; SAEs ratio 0.27; stopped at N=40/200); status changed from Ongoing to Published; source frontmatter updated; vonhaehling2024fair added to Related Pages
+- `wiki/entities/relax.md` — Added full results table from redfield2013relax.md (peak VO₂ P=0.90; safety signal: creatinine, NT-proBNP, endothelin-1); added [[redfield2013relax]] to Related Pages Sources
+- `wiki/entities/pep-chf.md` — Added [[cleland2006pepchf]] to Related Pages Sources; source frontmatter path clarified
+- `wiki/entities/step-hfpef.md` — Added [[obesity-hfpef]] and [[pericardial-restraint]] to Related Pages
+- `wiki/entities/summit.md` — Added [[obesity-hfpef]] and [[pericardial-restraint]] to Related Pages
+
+### Source pages updated (7)
+- `wiki/sources/vonhaehling2024fair.md` — Added [[fair-hfpef]] entity backlink in Connections + Related Pages Entities
+- `wiki/sources/armstrong2020vitality.md` — Added [[vitality-hfpef]] entity backlink in Connections + Related Pages Entities
+- `wiki/sources/borlaug2023statement.md` — Added [[obesity-hfpef]], [[hypertension-hfpef]], [[pericardial-restraint]] to Connections + Related Pages
+- `wiki/sources/kramer2025summit-cmr.md` — Added [[pericardial-restraint]], [[obesity-hfpef]] to Connections + Related Pages
+- `wiki/sources/paulus2013novelparadigm.md` — Added [[obesity-hfpef]], [[hypertension-hfpef]] to Connections + Related Pages
+- `wiki/sources/anker2023hfpefphenotype.md` — Added [[obesity-hfpef]], [[hypertension-hfpef]], [[fair-hfpef]] to Connections + Related Pages
+- `wiki/sources/lee2024lifestyle.md` — Added [[obesity-hfpef]] to Connections + Related Pages
+
+### Index updated
+- Added [[obesity-hfpef]] and [[hypertension-hfpef]] to Comorbidity Entities section
+- Added [[pericardial-restraint]] to Concepts section
+- Updated [[fair-hfpef]] entry: published results
+- Updated [[myomobile]] entry: primary results published 2026
+
+## 2026-05-19 (session 30 — 10 PDFs ingested)
+
+### Source pages created (10)
+
+**Biomarkers:**
+- `wiki/sources/gori2021paragon.md` — Gori M et al. (JACC Heart Fail 2021;9:627–635; DOI: 10.1016/j.jchf.2021.04.009): PARAGON-HF biomarker secondary analysis; N=1,260; hs-TnT >14 ng/L in 58.3%; HR 1.38 per doubling; Sac/Val reduced hs-TnT 9–10% vs. valsartan; threshold 17 ng/L for outcomes prediction; P interaction NS for hs-TnT-modified Sac/Val benefit
+- `wiki/sources/morfino2022biomarkers.md` — Morfino P et al. (J Cardiovasc Dev Dis 2022;9:256; DOI: 10.3390/jcdd9080256): comprehensive HFpEF biomarker review; six pathways (NP, fibrosis, inflammation, endothelial, adipokine, metabolic/renal); NPs AUC 0.80; hs-TnT sex differential (HR 3.33 men vs. 1.35 women); Galectin-3 AUC 0.927 (cut-off 10.1 ng/mL); GDF-15 not AF-dependent; six-pathway map Figure 1
+
+**SGLT2 inhibitors:**
+- `wiki/sources/requenaibanez2022sglt2.md` — Requena-Ibáñez JA et al. (Cardiovasc Drugs Ther 2023;37:989–996; DOI: 10.1007/s10557-022-07371-7): SGLT2i mechanisms across HF EF spectrum; EAT/pericardial restraint reduction; EMPEROR-Preserved LVEF >60% attenuation; phenotype-based vs. EF-based patient selection; CMR to reduce EF variability
+- `wiki/sources/gonzalez2024sglt2trends.md` — González A et al. (BMC Cardiovasc Disord 2024;24:285; DOI: 10.1186/s12872-024-03961-5): US MarketScan claims Jan 2020–Jun 2023; HFpEF overall 0.5%→9.9%; T2DM ~20% vs. non-T2DM ~1.2% — 17-fold gap; canagliflozin collapse; implementation gap in non-diabetic HFpEF documented
+- `wiki/sources/minisy2025sglt2.md` — Minisy MM, Abdelaziz A (BMC Cardiovasc Disord 2025;25:765; DOI: 10.1186/s12872-025-05127-3): 9 RCTs, >20,000 patients; CV death/HHF HR 0.83 (GRADE high); HHF HR 0.75 (GRADE high); mortality HR 0.92 (GRADE low, NS); KCCQ +1.8 pts; I²=62%; no publication bias
+- `wiki/sources/albulushi2025sglt2fibrosis.md` — Albulushi A et al. (Eur J Med Res 2025;30:592; DOI: 10.1186/s40001-025-02834-7): N=100 HFpEF+T2DM; dapagliflozin 10 mg vs. placebo 12 months; serial CMR; ΔECV −3.5% vs. −0.8% (P<0.001); ΔLVMI −8.2 vs. −2.1 g/m²; first serial CMR evidence for SGLT2i antifibrotic mechanism in HFpEF
+
+**MRA/Spironolactone:**
+- `wiki/sources/ferreira2023spironolactone.md` — Ferreira JP et al. (Eur J Heart Fail 2023;25:108–113; DOI: 10.1002/ejhf.2726): IPD meta-analysis N=984 (HOMAGE+Aldo-DHF+TOPCAT Americas); LAVi −1.1 mL/m² (P=0.03); LVMi −3.6 g/m²; IVS −0.2 cm; E/e' −1.3; LVEF +1.7%; first IPD-level evidence for spironolactone echocardiographic remodelling in non-HFrEF
+- `wiki/sources/lund2024spirrit.md` — Lund LH et al. (Eur J Heart Fail 2024;26:2453–2463; DOI: 10.1002/ejhf.3453): SPIRRIT-HFpEF design paper; NCT02901184; PROBE design; SwedeHF + US TIN; LVEF ≥40%; ~2,200 enrolled mid-2024; primary endpoint amended to total recurrent events; first RRCT in chronic HF; new pending trials: SOGALDI-PEF (NCT05676684), REDEFINE-HF (NCT06008197), CONFIRMATION-HF (NCT06024746)
+
+**GLP-1RA:**
+- `wiki/sources/petrie2024stephfpef.md` — Petrie MC et al. (JACC 2024;84:27–40; DOI: 10.1016/j.jacc.2024.04.022): STEP-HFpEF program secondary analysis N=1,145; semaglutide reduced NT-proBNP ETR 0.82 (P=0.0002); weight-loss-independent (P interaction=0.58); KCCQ T3 +11.9 pts vs. T1 +4.5 (P=0.02); direct HF disease-modifying mechanism
+
+**Screening:**
+- `wiki/sources/achten2025screening.md` — Achten A et al. (Heart Fail Rev 2025;30:1207–1213; DOI: 10.1007/s10741-025-10540-z): HFpEF screening in obesity; onset one decade earlier; NT-proBNP sensitivity 77%→67% at BMI >35; height²-indexing for echo; HFpEF-ABA score; stepwise algorithm; SGLT2i + GLP-1RA treatment
+
+### Entity pages updated (3)
+
+- `wiki/entities/sglt2-inhibitors.md` — Added: antifibrotic ECV evidence section (Albulushi 2025); SGLT2i class-effect meta-analysis (Minisy 2025); Implementation Gap section (Gonzalez 2024 prescribing trends); updated sources frontmatter + last_updated
+- `wiki/entities/spironolactone.md` — Added: echocardiographic IPD meta-analysis section (Ferreira 2023: LAVi/LVMi/IVS/E/e'/LVEF); updated sources frontmatter + last_updated
+- `wiki/entities/step-hfpef.md` — Added: NT-proBNP analysis section (Petrie 2024: ETR 0.82, weight-loss-independent, NT-proBNP tertile interaction); updated sources frontmatter + last_updated
+
+### Entity pages updated (1)
+
+- `wiki/entities/spirrit.md` — Previously updated in session 30: frontmatter, Description, Role, Evidence, Status sections fully rewritten with Lund 2024 data; title changed to SPIRRIT-HFpEF; source changed from "pending" to `lund2024spirrit`
+
+### Registry files updated
+- `wiki/citations.md` — 10 new rows added to Ingested Sources table; 10 new full APA references added to Full Formatted References section
+- `wiki/index.md` — 10 new source entries added: gori2021paragon + ferreira2023spironolactone + petrie2024stephfpef (Secondary Analyses); albulushi2025sglt2fibrosis (Clinical Trial Papers); lund2024spirrit (Trial Design Papers); requenaibanez2022sglt2 + morfino2022biomarkers + achten2025screening (Review Articles); gonzalez2024sglt2trends (Observational Studies); minisy2025sglt2 (Systematic Reviews)
+- `wiki/trials-pending.md` — SPIRRIT entry struck through (session 19); added session 30 entry with SOGALDI-PEF (NCT05676684), REDEFINE-HF (NCT06008197), CONFIRMATION-HF (NCT06024746)
+- `wiki/overview.md` — High-Level Summary updated (SGLT2i antifibrotic mechanism; implementation gap; semaglutide NT-proBNP weight-loss-independent effect; spironolactone structural remodelling; HFpEF obesity screening); Active Debates: SGLT2i real-world implementation gap; Knowledge Gaps: SPIRRIT results; session 30 Recent Additions entry added
+- `wiki/timeline.md` — Treatment: Ferreira 2023 spiro IPD, Gonzalez 2024 prescribing trends, Albulushi 2025 antifibrotic CMR, Minisy 2025 meta-analysis, Petrie 2024 NT-proBNP; Diagnostics: Achten 2025 screening in obesity; Biomarkers: Gori 2021, Morfino 2022
+- `wiki/log.md` — this entry
+
+---
+
+## 2026-05-19 (session 29 — 4 PDFs ingested)
+
+### Source pages created (4)
+
+**Pharmacological landscape review:**
+- `wiki/sources/sauer2026pharmacological.md` — Sauer AJ et al. (ESC Heart Fail 2026; DOI: 10.1093/eschf/xvag056): four-society guideline table (ESC/AHA-ACC-HFSA/JCS-JHFS/iCARDIO); SGLT2i Class I all societies; finerenone Class I (ESC) / IIa (JCS) / recommended (iCARDIO); GLP-1RA strongly recommended for obesity (iCARDIO only); combination therapy — SGLT2i+nsMRA HR 0.69 (three-trial combined); emerging trials: BALANCED-HF, EASi-HF, REDEFINE-HF, CONFIRMATION-HF; Bayer-funded; aldosterone pathway map (Figure 2)
+
+**MRA class effect (editorial):**
+- `wiki/sources/turgeon2025finearts.md` — Turgeon RD, Beavers CJ (J Card Fail 2025;31:603–605; DOI: 10.1016/j.cardfail.2024.09.011): Bayesian re-analysis of TOPCAT using FINEARTS-HF as strong prior; TOPCAT overall posterior HR 0.87 (0.79–0.94), P(HR<1) = 100%, P(HR<0.95) = 98%; pooled HR 0.87 (0.79–0.95) ~1.5% ARR; spironolactone $0.15/day vs. finerenone $3.61/day — cost equity argument; MRA class effect established
+
+**NT-proBNP glycosylation:**
+- `wiki/sources/hage2026ntprobnp.md` — Hage C et al. (Int J Cardiol 2026;458:134554; DOI: 10.1016/j.ijcard.2026.134554): tNT-proBNP (Roche research assay) vs. standard Elecsys assay in KaRen (HFpEF, N=83) + MetAnEnd (HFrEF, N=79); NT-proBNP/tNT-proBNP ratio lower in HFpEF (0.27 vs. 0.32; P=0.019) — more glycosylation at Thr-71; tNT-proBNP independently prognostic (HR 1.77 [1.08–2.88]; P=0.022); standard NT-proBNP loses significance after eGFR adjustment; AUROC 0.710 vs. 0.682 (P=0.068, NS)
+
+**Echocardiography comprehensive review:**
+- `wiki/sources/upadhya2025echo.md` — Upadhya B et al. (Heart Fail Rev 2025;30:899–922; DOI: 10.1007/s10741-025-10516-z; Duke University): H₂FPEF sensitivity 52.7%, HFA-PEFF 70%; LASr <18% as third criterion → 99% classification; LA minimum LAV better than maximum for chronic LVFP; 6 mimicker patterns (Table 1); 5 TTE phenotype signatures (Table 4); LVEF U-shaped mortality nadir 60–65%; exercise E/e' "highly demonstrative" of HFpEF
+
+### Concept pages created (1)
+- `wiki/concepts/biomarkers-hfpef.md` — New hub page; six biomarker categories + structural/imaging-derived; history from BNP identification through tNT-proBNP 2026; multi-biomarker panels; open questions including obesity threshold adjustment and tNT-proBNP clinical validation
+
+### Entity pages created (2)
+- `wiki/entities/balcinrenone.md` — Selective MR modulator; MIRACLE Phase 2 neutral (N=133, all 3 doses, UACR endpoint); BALANCED-HF Phase 3 (~N=4,800, dapagliflozin combination) ongoing
+- `wiki/entities/vicadrostat.md` — Aldosterone synthase inhibitor (CYP11B2); upstream aldosterone suppression; EASi-HF Phase 3 (~N=6,000, empagliflozin combination, EF ≥40%) ongoing
+
+### Entity pages updated (1)
+- `wiki/entities/finearts-hf.md` — Added "MRA Class Effect — Turgeon 2025 Bayesian Analysis" section with full posterior table; added emerging MRA alternatives section (balcinrenone, vicadrostat); updated Contradictions section; updated sources frontmatter (added turgeon2025finearts, sauer2026pharmacological); last_updated 2026-05-19
+
+### Concept pages updated (2)
+- `wiki/concepts/natriuretic-peptides.md` — Added "NT-proBNP Glycosylation — The tNT-proBNP Problem" section with full data table; updated summary to include glycosylation mechanism; expanded Open Questions; updated Related Pages and Contradictions; sources frontmatter updated (added ammar2025bnp, hage2026ntprobnp)
+- `wiki/entities/echocardiography.md` — Added sections: Advanced Parameters and LA Strain, Exercise Echocardiography, HFpEF Mimickers TTE Differential Diagnosis, HFpEF Phenotyping by TTE, LVEF Measurement Challenges; updated summary and frontmatter (added upadhya2025echo); expanded Evidence and Contradictions
+
+### Registry files updated
+- `wiki/citations.md` — 4 new rows added to Ingested Sources table (sauer2026pharmacological, turgeon2025finearts, hage2026ntprobnp, upadhya2025echo); Packer2025SUMMIT moved from Stub Sources to Ingested Sources; 5 new full APA references added to Full Formatted References section
+- `wiki/trials-pending.md` — Added 2026-05-19 section with BALANCED-HF and EASi-HF entries (from sauer2026pharmacological)
+- `wiki/index.md` — 7 new entries added: sauer2026pharmacological (Guidelines section), turgeon2025finearts + upadhya2025echo + hage2026ntprobnp (Review/Secondary sections), balcinrenone + vicadrostat (Pharmacological Entities), biomarkers-hfpef (Concepts); natriuretic-peptides entry updated
+- `wiki/overview.md` — High-Level Summary updated (pharmacological landscape section); Active Debates: NT-proBNP glycosylation + Turgeon Bayesian MRA class effect added; Knowledge Gaps: tNT-proBNP commercial validation + echocardiography algorithm evolution added; session 29 Recent Additions entry added
+- `wiki/timeline.md` — Treatment: sauer2026pharmacological combination therapy 2026 row added; Pathophysiology: Hage 2026 glycosylation + Upadhya 2025 echo 2025 row added
+- `wiki/log.md` — this entry
+
+---
 
 ## 2026-05-19 (session 28 — 11 PDFs ingested)
 
@@ -362,7 +627,7 @@ Added `## Aliases` blocks to all entity and concept pages:
 ### Lint fixes
 - Task #2: [[hfpef-phenotypes]] → [[hfpef-phenotype-profiling]] in 4 source files (alnaamani2015pac.md ×2, gao2025ecgdl.md, maurer2018attract.md ×2, pandey2021deepnnecho.md ×2)
 - Task #4: [[hemodynamics]] → [[diastolic-dysfunction]] in alnaamani2015pac.md Related Pages
-- Task #6: [[atrial-fibrillation\|AF]] backslash → [[atrial-fibrillation|AF]] in hfpef-diagnosis.md (×2), natriuretic-peptides.md, echocardiography.md
+- Task #6: [[atrial-fibrillation|AF]] backslash → [[atrial-fibrillation|AF]] in hfpef-diagnosis.md (×2), natriuretic-peptides.md, echocardiography.md
 - Task #7: Removed redundant SET outcomes table from hfpef-treatment-gap.md; replaced with cross-reference to [[supervised-exercise-training]] with one-line evidence summary
 - Task #10: Standardised `raw/[pending ingest]` → `~ # pending ingest` in 13 entity files: attr-act, caba-hfpef, empulse, fair-hfpef, pep-chf, rehab-hfpef, relax, socrates-preserved, sota-p-cardia, spirit-hf, spirrit, strong-hf, victoria
 - Task #11: Added Notes column to citations.md Stub Sources table; flagged Armstrong2020VICTORIA as HFrEF trial + no PDF; Cleland2006PEPCHF as HFpEF + no PDF; Packer2025SUMMIT as PDF not yet in raw/
@@ -466,7 +731,7 @@ Added `## Aliases` blocks to all entity and concept pages:
 - wiki/index.md: updated mebazaa2022stronghf, voors2022empulse descriptions with exact numbers; added kosiborod2024stephfpefdm entry; updated kosiborod2023stephfpef entry to note stub status
 
 ### Meta-file updates (contradictions, overview, timeline)
-- wiki/contradictions.md:
+- wiki/contradictions:
   - Corrected #2 (TOPCAT Americas): Americas interaction P=0.12 — not significant in main paper; post-hoc narrative corrected; added exact primary HR 0.89 (P=0.14)
   - Added #25 (RELAX cGMP engagement without functional benefit): cGMP +133% (P=0.006) confirmed; VO2 P=0.90; safety signal; convergent NO/cGMP pathway failure
   - Added #26 (ATTR-ACT ATTRwt positive vs ATTRm neutral): ATTRwt P<0.001; ATTRm P=0.30 (underpowered N~36); NYHA III P=0.78

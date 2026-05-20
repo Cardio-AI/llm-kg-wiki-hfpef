@@ -1,6 +1,7 @@
 ---
 type: study
-title: Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in HFpEF and Obesity — SUMMIT CKD Subanalysis
+title: "Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in HFpEF\
+  \ and Obesity \u2014 SUMMIT CKD Subanalysis"
 citekey: Packer2025SUMMITCKD
 year: 2025
 authors: Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group
@@ -8,17 +9,18 @@ journal: J Am Coll Cardiol
 study_type: RCT secondary analysis
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - glp1ra
-  - treatment
-  - obesity
-  - ckd
+- trial
+- hfpef
+- glp1ra
+- treatment
+- obesity
+- ckd
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-  - file: raw/2025-JACC-Packer-SUMMIT_study.pdf
-    citekey: Packer2025SUMMITCKD
+- file: raw/2025-JACC-Packer-SUMMIT_study.pdf
+  citekey: Packer2025SUMMITCKD
+page-type: source-summary-page
 ---
 # SUMMIT CKD Subanalysis — Tirzepatide in HFpEF with Obesity by CKD Status
 

@@ -1,18 +1,22 @@
 ---
 type: source
-title: "External validation of artificial intelligence for detection of heart failure with preserved ejection fraction"
+title: External validation of artificial intelligence for detection of heart failure
+  with preserved ejection fraction
 citekey: akerman2025ai
 year: 2025
-authors: Akerman AP, Al-Roub N, Angell-James C, Cassidy MA, Thompson R, Bosque L, Rainer K, Hawkes W, Piotrowska H, Leeson P, Woodward G, Pellikka PA, Upton R, Strom JB
+authors: Akerman AP, Al-Roub N, Angell-James C, Cassidy MA, Thompson R, Bosque L,
+  Rainer K, Hawkes W, Piotrowska H, Leeson P, Woodward G, Pellikka PA, Upton R, Strom
+  JB
 journal: Nature Communications
 tags:
-  - ml-ai
-  - diagnosis
+- ml-ai
+- diagnosis
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf
-    citekey: akerman2025ai
+- file: raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf
+  citekey: akerman2025ai
+page-type: source-summary-page
 ---
 # External Validation of AI HFpEF Detection (EchoGo Heart Failure v2)
 

@@ -1,21 +1,23 @@
 ---
 type: source
-title: Mahmood 2024 — Systematic Review of HFpEF Clinical Practice Guidelines
+title: "Mahmood 2024 \u2014 Systematic Review of HFpEF Clinical Practice Guidelines"
 citekey: Mahmood2024Guidelines
 year: 2024
-authors: Mahmood A, Dhall E, Primus CP, Gallagher A, Zakeri R, Mohammed SF, Chahal AA, Ricci F, Aung N, Khanji MY
-journal: European Heart Journal – Quality of Care and Clinical Outcomes
+authors: Mahmood A, Dhall E, Primus CP, Gallagher A, Zakeri R, Mohammed SF, Chahal
+  AA, Ricci F, Aung N, Khanji MY
+journal: "European Heart Journal \u2013 Quality of Care and Clinical Outcomes"
 tags:
-  - guideline
-  - hfpef
-  - systematic-review
-  - diagnosis
-  - treatment
+- guideline
+- hfpef
+- systematic-review
+- diagnosis
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: raw/2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf
-    citekey: Mahmood2024Guidelines
+- file: raw/2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf
+  citekey: Mahmood2024Guidelines
+page-type: source-summary-page
 ---
 # Mahmood 2024 — Systematic Review of HFpEF Clinical Practice Guidelines
 

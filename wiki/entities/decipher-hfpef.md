@@ -1,21 +1,26 @@
 ---
 type: entity
 title: DECIPHER-HFpEF
-summary: German diagnostic validation study (n=185, 7 centers) comparing CMR parameters against invasive pressure-volume loops as gold standard in HFpEF; also collects echocardiography, LV biopsies, and blood biomarkers; PI Eike Nagel, Goethe University Frankfurt; NCT03251183.
+summary: German diagnostic validation study (n=185, 7 centers) comparing CMR parameters
+  against invasive pressure-volume loops as gold standard in HFpEF; also collects
+  echocardiography, LV biopsies, and blood biomarkers; PI Eike Nagel, Goethe University
+  Frankfurt; NCT03251183.
 entity_type: study
 tags:
-  - trial
-  - hfpef
-  - diagnosis
-  - imaging
-  - cardiac-mri
-  - invasive-hemodynamics
-  - germany
+- trial
+- hfpef
+- diagnosis
+- imaging
+- cardiac-mri
+- invasive-hemodynamics
+- germany
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics in Patients With HFpEF.md
-    citekey: NCT03251183
+- file: raw/Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics
+    in Patients With HFpEF.md
+  citekey: NCT03251183
+page-type: entity-page
 ---
 # DECIPHER-HFpEF
 

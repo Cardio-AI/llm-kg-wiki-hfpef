@@ -1,25 +1,28 @@
 ---
 type: study
-title: "Effect of Spironolactone on Diastolic Function and Exercise Capacity in Patients With Heart Failure With Preserved Ejection Fraction: The Aldo-DHF Randomized Controlled Trial"
+title: 'Effect of Spironolactone on Diastolic Function and Exercise Capacity in Patients
+  With Heart Failure With Preserved Ejection Fraction: The Aldo-DHF Randomized Controlled
+  Trial'
 citekey: Edelmann2013ALDODHF
 year: 2013
-authors: "Edelmann F, Wachter R, Schmidt AG, et al.; Aldo-DHF Investigators"
-journal: "JAMA"
+authors: Edelmann F, Wachter R, Schmidt AG, et al.; Aldo-DHF Investigators
+journal: JAMA
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - mra
-  - spironolactone
-  - diastolic-dysfunction
-  - exercise-capacity
-  - treatment
+- trial
+- hfpef
+- mra
+- spironolactone
+- diastolic-dysfunction
+- exercise-capacity
+- treatment
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf
-    citekey: Edelmann2013ALDODHF
+- file: raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf
+  citekey: Edelmann2013ALDODHF
+page-type: source-summary-page
 ---
 # ALDO-DHF (Edelmann 2013)
 

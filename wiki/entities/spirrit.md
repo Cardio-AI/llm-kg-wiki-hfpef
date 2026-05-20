@@ -1,18 +1,23 @@
 ---
 type: entity
-title: SPIRRIT
-summary: Ongoing international RCT of spironolactone vs. usual care in HFpEF; NCT02901184; second of two MRA trials (alongside SPIRIT-HF NCT04727073) designed to resolve the TOPCAT controversy — addresses whether spironolactone provides benefit in a properly enrolled, compliant HFpEF population.
+title: SPIRRIT-HFpEF
+summary: Ongoing registry-based RCT (RRCT) of spironolactone/eplerenone vs. usual
+  care in HFpEF/HFmrEF; NCT02901184; ~2,200 enrolled mid-2024 via SwedeHF + US TIN;
+  primary endpoint total CV deaths + HF hospitalisations; first RRCT in chronic HF;
+  results expected end 2025.
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - mra
-  - treatment
+- hfpef
+- trial
+- mra
+- treatment
+- rrct
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-05-19
 sources:
-  - file: ~ # pending ingest
-    citekey: [pending — verify on ingest]
+- file: raw/2024-ESC-Lund-SPIRRIT_study_design.pdf
+  citekey: lund2024spirrit
+page-type: entity-page
 ---
 # SPIRRIT
 
@@ -31,29 +36,35 @@ sources:
 
 ## Description
 
-**Full title:** Spironolactone for Heart Failure with Preserved Ejection Fraction  
-**NCT:** NCT02901184  
-**Intervention:** Spironolactone vs. usual care  
-**Population:** HFpEF  
-**Status:** Ongoing (referenced in Mahmood 2024 and Anker 2023)
+**Full title:** Spironolactone Initiation Registry Randomized Interventional Trial in Heart Failure with Preserved Ejection Fraction (SPIRRIT-HFpEF)
+**NCT:** NCT02901184; EudraCT 2016-002019-16
+**Intervention:** Spironolactone or eplerenone + usual care vs. usual care alone
+**Population:** HFpEF/HFmrEF (LVEF ≥40%); NT-proBNP >300 ng/L (sinus) or >750 ng/L (AF); loop diuretics; NYHA II–IV; age ≥50
+**Design:** PROBE (Prospective, Randomized, Open-label, Blinded Endpoint); RRCT (registry-based RCT)
+**Primary outcome:** Total CV deaths + total HF hospitalisations (incidence rate, recurrent events)
+**Platforms:** SwedeHF (Sweden, ~80%) + US Trial Innovation Network (~20%)
+**N target:** ~2,400 (event-driven: 721 first composite events for 85% power, HR 0.80)
+**Enrolled:** ~2,200 as of Q2 2024
+**Status:** Ongoing; enrolment through 2024; follow-up through end 2025
+**Funding:** Swedish Heart-Lung Foundation; Swedish Research Council; NHLBI/NIH
 
-SPIRRIT is the international multicentre version of the MRA-in-HFpEF hypothesis trial. Together with SPIRIT-HF (NCT04727073), it represents the post-TOPCAT effort to determine whether spironolactone works in HFpEF when measured in a clean, compliant population without the geographic contamination issue that undermined TOPCAT's interpretability.
+SPIRRIT-HFpEF is the first registry-based randomized controlled trial (RRCT) in HF for a chronic condition. It uses the SwedeHF national registry as the enrolment platform and Swedish national administrative registries for outcome ascertainment — no study-specific echocardiography or in-person follow-up visits required. K+ and eGFR monitored at local labs. This pragmatic design makes SPIRRIT potentially generalisable to real-world HFpEF populations, unlike conventional placebo-controlled RCTs. (source: [[lund2024spirrit]])
 
-Key design distinction from TOPCAT: SPIRRIT uses usual care as the comparator rather than placebo — reflecting pragmatic real-world prescribing where spironolactone is sometimes used off-label for HFpEF based on TOPCAT Americas subgroup data and clinical guidelines (Class 2b, AHA 2022). (source: [[heidenreich2022aha]])
-
-The context has shifted since FINEARTS-HF (finerenone, NEJM 2024) provided positive evidence for non-steroidal MRA in HFpEF. SPIRRIT's results now have a second dimension: confirming whether the benefit is class-wide (steroidal + non-steroidal) or limited to finerenone. (source: [[finearts-hf]])
+Key design distinction from TOPCAT: SPIRRIT uses usual care as the comparator (not placebo), reflecting real-world prescribing. Protocol amended from time-to-first-event to total (recurrent) CV deaths + HF hospitalisations after 2022 interim analysis showed lower-than-expected event rates. (source: [[lund2024spirrit]])
 
 ## Role in HFpEF
 
-Referenced in both the Mahmood 2024 systematic review (identified gap: MRA evidence) and the Anker 2023 HFA phenotype statement (ongoing trials for MRA phenotype). The MRA phenotype arm of the treatment wheel (Figure 2, [[anker2023hfpefphenotype]]) currently depends on TOPCAT Americas data for spironolactone and FINEARTS-HF for finerenone.
+Since FINEARTS-HF (finerenone, NEJM 2024) was positive, SPIRRIT results now address two questions: (1) Does the MRA class benefit extend to generic steroidal agents (spironolactone/eplerenone)? (2) Is the RRCT trial concept viable for future chronic HF trials?
+
+Mechanistic support: Ferreira 2023 IPD meta-analysis ([[ferreira2023spironolactone]]) showed spironolactone reduced LAVi, LVMi, IVS, E/e', and improved LVEF in N=984 patients across HOMAGE+Aldo-DHF+TOPCAT. Turgeon 2025 Bayesian reanalysis ([[turgeon2025finearts]]) estimated TOPCAT posterior HR 0.87 (P[HR<1]=100%).
 
 ## Evidence
 
-Results pending. [Source: not yet published as of 2026-05-12.]
+Design paper published (Lund et al., *Eur J Heart Fail* 2024;26:2453–2463). Results pending (expected end 2025). (source: [[lund2024spirrit]])
 
 ## Status
 
-**Ongoing as of Mahmood 2024 and Anker 2023 references.** No published results confirmed in ingested sources.
+**Ongoing; enrolment complete ~end 2024; follow-up through end 2025.** No efficacy results published as of 2026-05-19.
 
 ## Related Pages
 

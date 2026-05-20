@@ -1,6 +1,7 @@
 ---
 type: study
-title: Deep Learning-Based Electrocardiogram for Screening Heart Failure With Preserved Ejection Fraction
+title: Deep Learning-Based Electrocardiogram for Screening Heart Failure With Preserved
+  Ejection Fraction
 citekey: Gao2025ECGDL
 year: 2025
 authors: Gao Z, Yang Y, Yang Z, Zhang X, Liu C
@@ -8,16 +9,17 @@ journal: ESC Heart Failure
 study_type: observational
 evidence_level: moderate
 tags:
-  - hfpef
-  - ml-ai
-  - ecg
-  - diagnosis
-  - screening
+- hfpef
+- ml-ai
+- ecg
+- diagnosis
+- screening
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2025-ESC-Gao-ECG_DL_detection_HFpEF.pdf
-    citekey: Gao2025ECGDL
+- file: raw/2025-ESC-Gao-ECG_DL_detection_HFpEF.pdf
+  citekey: Gao2025ECGDL
+page-type: source-summary-page
 ---
 # CNN-LSTM ECG Model for HFpEF Screening (Gao 2025)
 

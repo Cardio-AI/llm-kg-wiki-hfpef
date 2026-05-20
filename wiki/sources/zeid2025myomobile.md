@@ -1,23 +1,26 @@
 ---
 type: source
-title: "Personalized App-Based Coaching for Improving Physical Activity in HFpEF: Rationale and Design of the MyoMobile Study (Zeid 2025)"
+title: 'Personalized App-Based Coaching for Improving Physical Activity in HFpEF:
+  Rationale and Design of the MyoMobile Study (Zeid 2025)'
 citekey: Zeid2025MyoMobile
 year: 2025
-authors: Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS
+authors: "Zeid S, Prochaska JH, Schuch A, Tr\xF6bs SO, Schulz A, M\xFCnzel T, Pies\
+  \ T, Dinh W, Michal M, Simon P, Wild PS"
 journal: Eur Heart J Digit Health
 tags:
-  - hfpef
-  - exercise
-  - digital-health
-  - mhealth
-  - treatment
-  - trial-design
-  - dzhk
+- hfpef
+- exercise
+- digital-health
+- mhealth
+- treatment
+- trial-design
+- dzhk
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-  - file: raw/2025-ESC-Zeid-MyoMobile_study.pdf
-    citekey: Zeid2025MyoMobile
+- file: raw/2025-ESC-Zeid-MyoMobile_study.pdf
+  citekey: Zeid2025MyoMobile
+page-type: source-summary-page
 ---
 # Personalized App-Based Coaching for Improving Physical Activity in HFpEF: Rationale and Design of the MyoMobile Study
 

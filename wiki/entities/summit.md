@@ -1,23 +1,28 @@
 ---
 type: entity
 title: SUMMIT
-summary: Phase 3 RCT of tirzepatide (dual GLP-1/GIP agonist, LY3298176; Eli Lilly) vs. placebo in HFpEF with obesity; N=731 (364 tirzepatide, 367 placebo); median 104-week follow-up; NCT04847557; published NEJM 2025 — first HFpEF trial to demonstrate statistically significant hard event reduction with a GLP-1RA class agent (HR 0.62; P=0.026).
+summary: "Phase 3 RCT of tirzepatide (dual GLP-1/GIP agonist, LY3298176; Eli Lilly)\
+  \ vs. placebo in HFpEF with obesity; N=731 (364 tirzepatide, 367 placebo); median\
+  \ 104-week follow-up; NCT04847557; published NEJM 2025 \u2014 first HFpEF trial\
+  \ to demonstrate statistically significant hard event reduction with a GLP-1RA class\
+  \ agent (HR 0.62; P=0.026)."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - glp1ra
-  - treatment
-  - obesity
+- hfpef
+- trial
+- glp1ra
+- treatment
+- obesity
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-  - file: raw/2025-NEJM-Packer-SUMMIT_primary.pdf
-    citekey: Packer2025SUMMIT
-  - file: raw/2025-JACC-Packer-SUMMIT_study.pdf
-    citekey: Packer2025SUMMITCKD
-  - file: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf
-    citekey: Kramer2025SUMMITCMR
+- file: raw/2025-NEJM-Packer-SUMMIT_primary.pdf
+  citekey: Packer2025SUMMIT
+- file: raw/2025-JACC-Packer-SUMMIT_study.pdf
+  citekey: Packer2025SUMMITCKD
+- file: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf
+  citekey: Kramer2025SUMMITCMR
+page-type: entity-page
 ---
 # SUMMIT
 
@@ -169,8 +174,8 @@ The original SUMMIT primary endpoint was a hierarchical composite (all-cause dea
 
 ## Related Pages
 
-- Concepts: [[hfpef-phenotype-profiling]], [[exercise-intolerance]]
-- Entities: [[step-hfpef]], [[hfpef]], [[sglt2-inhibitors]]
+- Concepts: [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[pericardial-restraint]]
+- Entities: [[obesity-hfpef]], [[step-hfpef]], [[hfpef]], [[sglt2-inhibitors]]
 - Sources: [[packer2025summit]], [[packer2025summit-ckd]], [[kramer2025summit-cmr]], [[kosiborod2023stephfpef]], [[verma2024inflammation]]
 
 ## Contradictions

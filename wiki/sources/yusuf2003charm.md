@@ -1,6 +1,6 @@
 ---
 type: study
-title: "CHARM-Preserved: Candesartan in HF with Preserved Ejection Fraction"
+title: 'CHARM-Preserved: Candesartan in HF with Preserved Ejection Fraction'
 citekey: Yusuf2003CHARM
 year: 2003
 authors: Yusuf S, Pfeffer MA, Swedberg K, et al. (CHARM Investigators and Committees)
@@ -8,15 +8,16 @@ journal: Lancet
 study_type: RCT
 evidence_level: high
 tags:
-  - trial
-  - hfpef
-  - raas
-  - arb
+- trial
+- hfpef
+- raas
+- arb
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-  - file: raw/2003-LANCET-Yusuf-CHARM-preserved_study.pdf
-    citekey: Yusuf2003CHARM
+- file: raw/2003-LANCET-Yusuf-CHARM-preserved_study.pdf
+  citekey: Yusuf2003CHARM
+page-type: source-summary-page
 ---
 # CHARM-Preserved
 

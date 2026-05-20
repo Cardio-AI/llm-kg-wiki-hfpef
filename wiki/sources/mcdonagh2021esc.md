@@ -1,22 +1,24 @@
 ---
 type: source
-title: 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure
+title: 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart
+  Failure
 citekey: McDonagh2021ESC
 year: 2021
 authors: McDonagh TA, Metra M, Adamo M, et al. (ESC Scientific Document Group)
 journal: European Heart Journal
 tags:
-  - guideline
-  - hfpef
-  - hfref
-  - hfmref
-  - diagnosis
-  - treatment
+- guideline
+- hfpef
+- hfref
+- hfmref
+- diagnosis
+- treatment
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-  - file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-    citekey: McDonagh2021ESC
+- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
+  citekey: McDonagh2021ESC
+page-type: source-summary-page
 ---
 # 2021 ESC Guidelines for Heart Failure
 

@@ -1,24 +1,27 @@
 ---
 type: study
-title: "Reddy 2017 — Arterial Stiffening With Exercise in HFpEF; Inorganic Nitrite Reversal"
+title: "Reddy 2017 \u2014 Arterial Stiffening With Exercise in HFpEF; Inorganic Nitrite\
+  \ Reversal"
 citekey: Reddy2017ArtStiff
 year: 2017
-authors: Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA
+authors: Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson
+  TP, Borlaug BA
 journal: J Am Coll Cardiol
 study_type: observational-with-intervention-substudy
 evidence_level: moderate
 tags:
-  - exercise-intolerance
-  - arterial-stiffness
-  - hemodynamics
-  - hfpef
-  - mechanism
-  - nitric-oxide
+- exercise-intolerance
+- arterial-stiffness
+- hemodynamics
+- hfpef
+- mechanism
+- nitric-oxide
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf
-    citekey: Reddy2017ArtStiff
+- file: raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf
+  citekey: Reddy2017ArtStiff
+page-type: source-summary-page
 ---
 # Reddy 2017 — Arterial Stiffening With Exercise in HFpEF (Reddy/Borlaug)
 

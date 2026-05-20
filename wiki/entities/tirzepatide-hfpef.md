@@ -1,18 +1,20 @@
 ---
 type: entity
 title: Tirzepatide HFpEF (redirect)
-summary: Redirect — tirzepatide HFpEF = SUMMIT (NCT04847557; Eli Lilly; published NEJM 2025). See [[summit]] for the canonical page.
+summary: "Redirect \u2014 tirzepatide HFpEF = SUMMIT (NCT04847557; Eli Lilly; published\
+  \ NEJM 2025). See [[summit]] for the canonical page."
 entity_type: trial
 tags:
-  - hfpef
-  - trial
-  - glp1ra
-  - redirect
+- hfpef
+- trial
+- glp1ra
+- redirect
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-  - file: raw/2025-JACC-Packer-SUMMIT_study.pdf
-    citekey: Packer2025SUMMITCKD
+- file: raw/2025-JACC-Packer-SUMMIT_study.pdf
+  citekey: Packer2025SUMMITCKD
+page-type: entity-page
 ---
 # Tirzepatide HFpEF → [[summit]]
 

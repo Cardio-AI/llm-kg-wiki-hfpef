@@ -3,23 +3,25 @@ type: study
 title: Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics
 citekey: landsteiner2025hemodynamics
 year: 2025
-authors: Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD
+authors: Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra
+  R, Lewis GD
 journal: Circulation Research
 study_type: observational
 evidence_level: moderate
 tags:
-  - hfpef
-  - diagnosis
-  - hemodynamics
-  - exercise
-  - definition
-  - clinical-trial
+- hfpef
+- diagnosis
+- hemodynamics
+- exercise
+- definition
+- clinical-trial
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
-  - file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-    citekey: landsteiner2025hemodynamics
-    zotero: unverified
+- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
+  citekey: landsteiner2025hemodynamics
+  zotero: unverified
+page-type: source-summary-page
 ---
 # HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics
 

@@ -1,21 +1,23 @@
 ---
 type: source
-title: "Ranolazine for the Treatment of Diastolic Heart Failure in Patients with Preserved Ejection Fraction: the RALI-DHF Proof-of-Concept Study"
+title: 'Ranolazine for the Treatment of Diastolic Heart Failure in Patients with Preserved
+  Ejection Fraction: the RALI-DHF Proof-of-Concept Study'
 citekey: maier2013ralidhf
 year: 2013
 authors: Maier LS, Layug B, Karwatowska-Prokopczuk E, et al.
 journal: JACC Heart Failure
 tags:
-  - trial
-  - treatment
-  - pharmacology
-  - mechanism
-  - phase-2
+- trial
+- treatment
+- pharmacology
+- mechanism
+- phase-2
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2013-JACCHeartFail-Maier-RALI-DHF_study_ranolazine_treatment.pdf
-    citekey: maier2013ralidhf
+- file: raw/2013-JACCHeartFail-Maier-RALI-DHF_study_ranolazine_treatment.pdf
+  citekey: maier2013ralidhf
+page-type: source-summary-page
 ---
 # RALI-DHF: Ranolazine in Diastolic Heart Failure (Maier 2013)
 

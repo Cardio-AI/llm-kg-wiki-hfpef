@@ -1,19 +1,21 @@
 ---
 type: source
-title: "Substance and Substrate: LVEF and Sex Subgroup Analyses of PARAGON-HF and PARADIGM-HF Trials"
+title: 'Substance and Substrate: LVEF and Sex Subgroup Analyses of PARAGON-HF and
+  PARADIGM-HF Trials'
 citekey: bozkurt2020sex
 year: 2020
 authors: Bozkurt B, Ezekowitz J
 journal: Circulation
 tags:
-  - treatment
-  - trial
-  - open-question
+- treatment
+- trial
+- open-question
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-  - file: raw/2020-CirculationAHA-Bozkurt-sex_subgroup_analysis_paragon_paradigm.pdf
-    citekey: bozkurt2020sex
+- file: raw/2020-CirculationAHA-Bozkurt-sex_subgroup_analysis_paragon_paradigm.pdf
+  citekey: bozkurt2020sex
+page-type: source-summary-page
 ---
 # Substance and Substrate: LVEF and Sex Subgroup Analyses of PARAGON-HF and PARADIGM-HF Trials
 

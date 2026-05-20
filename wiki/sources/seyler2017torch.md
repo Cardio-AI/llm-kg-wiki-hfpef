@@ -1,21 +1,22 @@
 ---
 type: source
-title: "TORCH DZHK: Rationale and Design of the German Cardiomyopathy Registry"
+title: 'TORCH DZHK: Rationale and Design of the German Cardiomyopathy Registry'
 citekey: Seyler2017TORCH
 year: 2017
 authors: Seyler C, Meder B, Hund H, et al. (DZHK TORCH Investigators)
 journal: ESC Heart Failure
 tags:
-  - registry
-  - cardiomyopathy
-  - molecular-phenotyping
-  - biobank
-  - germany
+- registry
+- cardiomyopathy
+- molecular-phenotyping
+- biobank
+- germany
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-  - file: raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf
-    citekey: Seyler2017TORCH
+- file: raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf
+  citekey: Seyler2017TORCH
+page-type: source-summary-page
 ---
 # TORCH DZHK Registry Rationale (Seyler 2017)
 

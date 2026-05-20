@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Al-Sadawi 2022 — Rhythm vs. Rate Control in HFpEF+AF (Meta-Analysis)"
+title: "Al-Sadawi 2022 \u2014 Rhythm vs. Rate Control in HFpEF+AF (Meta-Analysis)"
 citekey: AlSadawi2022RhythmControl
 year: 2022
 authors: Al-Sadawi M, Abubakar H, Javed A, Ahsani-Nasab S, Nighia N, McFarlane SI
@@ -8,17 +8,18 @@ journal: Heart Rhythm O2
 study_type: systematic review and meta-analysis
 evidence_level: moderate
 tags:
-  - atrial-fibrillation
-  - rhythm-control
-  - rate-control
-  - hfpef
-  - catheter-ablation
-  - meta-analysis
+- atrial-fibrillation
+- rhythm-control
+- rate-control
+- hfpef
+- catheter-ablation
+- meta-analysis
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf
-    citekey: AlSadawi2022RhythmControl
+- file: raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf
+  citekey: AlSadawi2022RhythmControl
+page-type: source-summary-page
 ---
 # Al-Sadawi 2022 — Rhythm vs. Rate Control in HFpEF+AF
 

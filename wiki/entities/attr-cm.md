@@ -1,5 +1,6 @@
 ---
 type: entity
+page-type: entity-page
 title: ATTR Cardiomyopathy
 summary: Disease entity — cardiac amyloidosis caused by misfolding of transthyretin (TTR) tetramers; two forms: wild-type (ATTRwt, age-related) and variant (ATTRv, hereditary point mutation); present in 13–19% of HFpEF in contemporary series; first HFpEF subphenotype with a disease-modifying therapy (tafamidis, AHA 2022 Class I).
 entity_type: disease
@@ -29,6 +30,7 @@ sources:
 | TTR cardiomyopathy | alternate-name | transthyretin cardiomyopathy |
 | Cardiac amyloidosis (ATTR type) | descriptive | distinguish from AL amyloidosis |
 | Transthyretin amyloid cardiomyopathy | full-name | formal terminology |
+| transthyretin-amyloid-cardiomyopathy | wiki-link | kebab-case for cross-references |
 
 ---
 

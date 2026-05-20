@@ -1,23 +1,27 @@
 ---
 type: study
-title: "PARAMOUNT: LCZ696 vs. Valsartan in HFpEF — Phase 2 RCT"
+title: "PARAMOUNT: LCZ696 vs. Valsartan in HFpEF \u2014 Phase 2 RCT"
 citekey: Solomon2012PARAMOUNT
 year: 2012
-authors: Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; Prospective comparison of ARNI with ARB on Management Of heart failUre with preserved ejectioN fracTion (PARAMOUNT) Investigators
+authors: Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V,
+  Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; Prospective
+  comparison of ARNI with ARB on Management Of heart failUre with preserved ejectioN
+  fracTion (PARAMOUNT) Investigators
 journal: Lancet
 study_type: RCT
 evidence_level: moderate
 tags:
-  - trial
-  - hfpef
-  - arni
-  - sacubitril-valsartan
-  - nt-probnp
+- trial
+- hfpef
+- arni
+- sacubitril-valsartan
+- nt-probnp
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-  - file: raw/2012-LANCET-Solomon-PARAMOUNT_study_LCZ696_inhibitor.pdf
-    citekey: Solomon2012PARAMOUNT
+- file: raw/2012-LANCET-Solomon-PARAMOUNT_study_LCZ696_inhibitor.pdf
+  citekey: Solomon2012PARAMOUNT
+page-type: source-summary-page
 ---
 # PARAMOUNT — LCZ696 (ARNi) vs. Valsartan in HFpEF (Solomon 2012)
 
