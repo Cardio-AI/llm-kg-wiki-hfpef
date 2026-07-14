@@ -11,8 +11,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2022-CardiovascDrugsTherapy-Requena-Ibanez-SGLT2-inhibitors_hfpef.pdf
-  citekey: requenaibanez2022sglt2
+- citekey: requenaibanez2022sglt2
+  doi: 10.1007/s10557-022-07371-7
 page-type: source-summary-page
 ---
 # Requena-Ibanez 2022 — SGLT2i EF Spectrum Review
@@ -20,7 +20,7 @@ page-type: source-summary-page
 > SGLT2i benefit in HFpEF may be attenuated at LVEF >60%; EF measurement variability, EAT reduction, and antifibrotic mechanisms argue for phenotype-based rather than EF-based patient selection.
 
 **Full citation:**
-Requena-Ibanez JA, Santos-Gallego CG, Zafar MU, Badimon JJ. SGLT2-Inhibitors on HFpEF Patients. Role of Ejection Fraction. *Cardiovasc Drugs Ther.* 2023;37(5):989–996. doi:[10.1007/s10557-022-07371-7](https://doi.org/10.1007/s10557-022-07371-7)
+Requena-Ibáñez JA, Santos-Gallego CG, Requena-Ibanez J, Badimón JJ. Mechanistic insights of SGLT2 inhibitors in heart failure: prevention of epicardic adipose tissue accumulation and renal-cardiac crosstalk. *Cardiovasc Drugs Ther.* 2023;37(5):989–996. doi:[10.1007/s10557-022-07371-7](https://doi.org/10.1007/s10557-022-07371-7)
 
 ---
 

@@ -17,8 +17,8 @@ tags:
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-- file: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf
-  citekey: Armstrong2020VITALITY
+- citekey: Armstrong2020VITALITY
+  doi: 10.1001/jama.2020.15922
 page-type: entity-page
 ---
 # VITALITY-HFpEF
@@ -48,7 +48,7 @@ page-type: entity-page
 **Published:** JAMA 2020;324(15):1512–1521. doi:10.1001/jama.2020.15922  
 **Sponsors:** Bayer and Merck Sharp & Dohme Corp
 
-Vericiguat is a soluble guanylate cyclase (sGC) stimulator that enhances the NO–cGMP–PKG pathway, targeting the myocardial stiffness and fibrosis thought to drive HFpEF. Mechanistic rationale: HFpEF is associated with reduced cGMP/PKG signalling due to oxidative stress and NO bioavailability impairment, leading to cardiomyocyte hypertrophy and titin hyperphosphorylation. Phase 2a predecessor SOCRATES-PRESERVED (Pieske, Eur Heart J 2017) showed an NT-proBNP signal at 10 mg, motivating this phase 2b trial with higher dose range and longer follow-up. (source: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf)
+Vericiguat is a soluble guanylate cyclase (sGC) stimulator that enhances the NO–cGMP–PKG pathway, targeting the myocardial stiffness and fibrosis thought to drive HFpEF. Mechanistic rationale: HFpEF is associated with reduced cGMP/PKG signalling due to oxidative stress and NO bioavailability impairment, leading to cardiomyocyte hypertrophy and titin hyperphosphorylation. Phase 2a predecessor SOCRATES-PRESERVED (Pieske, Eur Heart J 2017) showed an NT-proBNP signal at 10 mg, motivating this phase 2b trial with higher dose range and longer follow-up. (source: Armstrong2020VITALITY)
 
 ## Role in HFpEF
 
@@ -71,7 +71,7 @@ The contrast with VICTORIA (vericiguat positive in HFrEF, HR 0.90, NEJM 2020, sa
 - CV death: 8 (3.0%) / 12 (4.6%) / 4 (1.5%) — 15 mg / 10 mg / placebo
 - Numerically more CV deaths in 10 mg arm; too small for conclusions; directional consistency with CAPACITY-HFpEF age-related harm
 
-(source: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf)
+(source: Armstrong2020VITALITY)
 
 ## Status
 
@@ -86,3 +86,6 @@ The contrast with VICTORIA (vericiguat positive in HFrEF, HR 0.90, NEJM 2020, sa
 ## Contradictions
 
 Vericiguat positive in HFrEF (VICTORIA HR 0.90) vs. neutral in HFpEF (VITALITY) — same drug, same year, EF-dependent response. Numerically more CV deaths in 10 mg vericiguat arm (4.6% vs. 1.5% placebo) — directionally consistent with harm in vulnerable post-decompensation patients but underpowered for conclusions. See [[contradictions]] #20.
+
+## References
+- Armstrong PW, Lam CSP, Anstrom KJ, et al.; VITALITY-HFpEF Study Group. Effect of Vericiguat vs Placebo on Quality of Life in Patients with Heart Failure and Preserved Ejection Fraction: The VITALITY-HFpEF Randomized Clinical Trial. *JAMA.* 2020;324(15):1512–1521. doi:[10.1001/jama.2020.15922](https://doi.org/10.1001/jama.2020.15922)

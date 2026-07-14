@@ -15,12 +15,12 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-14
 sources:
-- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-  citekey: Ho2019HFpEFDefinitions
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-  citekey: landsteiner2025hemodynamics
+- citekey: Ho2019HFpEFDefinitions
+  doi: 10.1161/CIRCULATIONAHA.118.039451
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: landsteiner2025hemodynamics
+  doi: 10.1161/CIRCRESAHA.125.326048
 page-type: concept-page
 ---
 # HFpEF Diagnostic Definitions — Heterogeneity and Consequences
@@ -56,11 +56,11 @@ All HFpEF definitions require LVEF ≥50% and HF symptoms, but differ in the add
 | I-PRESERVE trial | LVEF ≥45% + hospitalisation or clinical signs | Trial-specific |
 | RELAX trial | LVEF ≥50% + elevated NPs or structural abnormality | Trial-specific |
 
-The practical consequence: applying all seven definitions to the same 461-patient cohort enrolled 12% (HFSA) to 90% (ACC/AHA) of patients. (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+The practical consequence: applying all seven definitions to the same 461-patient cohort enrolled 12% (HFSA) to 90% (ACC/AHA) of patients. (source: Ho2019HFpEFDefinitions)
 
 ### Sensitivity vs. Specificity Trade-off
 
-**Reference standard:** Invasive CPET — physiologic HFpEF (HFpEF_phys) defined as PCWP ≥15 mmHg at rest or ≥25 mmHg during exercise. 53% of a referred HF cohort met this criterion. (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+**Reference standard:** Invasive CPET — physiologic HFpEF (HFpEF_phys) defined as PCWP ≥15 mmHg at rest or ≥25 mmHg during exercise. 53% of a referred HF cohort met this criterion. (source: Ho2019HFpEFDefinitions)
 
 | Criterion | Sensitivity for HFpEF_phys | Specificity for HFpEF_phys |
 |---|---|---|
@@ -71,7 +71,7 @@ The practical consequence: applying all seven definitions to the same 461-patien
 | E/e' >9 | 78% | 59% |
 | E/e' >13 | 46% | 86% |
 
-Broad definitions (ACC/AHA) are sensitive but enroll many patients without elevated filling pressures. Restrictive definitions (HFSA) exclude most such patients but miss the majority of true physiologic HFpEF. (source: 2019-CirculationAHA-Ho-exercise-response.pdf; source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+Broad definitions (ACC/AHA) are sensitive but enroll many patients without elevated filling pressures. Restrictive definitions (HFSA) exclude most such patients but miss the majority of true physiologic HFpEF. (source: Ho2019HFpEFDefinitions; source: McDonagh2021ESC)
 
 ## Clinical Relevance
 
@@ -82,7 +82,7 @@ HFpEF_phys (invasive PCWP elevation) independently predicts CV events (HR 1.62, 
 2. Some true HFpEF patients are excluded by every guideline definition
 3. CV event rates in trial cohorts vary 75–298 per 1000 person-years depending on definition applied — the same patient may be "low-risk" or "high-risk" depending on which definition labels them
 
-(source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+(source: Ho2019HFpEFDefinitions)
 
 ### Implications for Trial Interpretation
 
@@ -105,14 +105,14 @@ Landsteiner 2025 (n=872) quantified the gap between physiologically confirmed di
 | EMPEROR-Preserved | ~13% | ~87% | NT-proBNP below threshold |
 | PARAGON-HF | ~11% | ~89% | NT-proBNP below threshold |
 
-Critically, 87–90% of trial-enrolled patients had HC-HFpEF — trials successfully enriched for physiologic disease. But the enrichment came at the cost of excluding 55–83% of all HC-HFpEF patients, who were predominantly those with lower NT-proBNP (less severe, less hospitalized). Trial-enrolled patients had lower pVO2 and higher event rates — **trial results may not generalize to the majority of hemodynamically confirmed HFpEF.** (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
+Critically, 87–90% of trial-enrolled patients had HC-HFpEF — trials successfully enriched for physiologic disease. But the enrichment came at the cost of excluding 55–83% of all HC-HFpEF patients, who were predominantly those with lower NT-proBNP (less severe, less hospitalized). Trial-enrolled patients had lower pVO2 and higher event rates — **trial results may not generalize to the majority of hemodynamically confirmed HFpEF.** (source: landsteiner2025hemodynamics)
 
 ## History
 
 - **Pre-2019** — Multiple trial-specific definitions used in parallel; no systematic comparison of their diagnostic accuracy; tacit assumption that "HFpEF" was a shared population across trials
-- **2019** — Ho et al. (MGH, n=461) first systematic comparison with invasive CPET reference; demonstrated enrollment heterogeneity 12–90% and showed HFpEF_phys is prognostically independent (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
-- **2021** — ESC Guidelines endorsed simplified three-criterion approach for clinical use; HFA-PEFF reserved for expert centres; acknowledged limitation that non-invasive markers have only moderate accuracy (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
-- **2025** — Landsteiner et al. (MGH/Harvard, n=872): extended the Ho 2019 framework with the HC-HFpEF concept (resting PCWP ≥15 mmHg OR exercise PCWP/CO slope >2 mmHg/L/min) and directly quantified the gap between guideline definitions and trial enrollment criteria. 74–77% of the cohort met any societal definition; only 61–75% of those also had HC-HFpEF. Four hemodynamic profiles identified: (1) normal rest + normal exercise [reference], (2) high rest + normal exercise, (3) normal rest + high exercise [exercise-unmasked], (4) high rest + high exercise [highest-risk]. Landmark finding: trial NT-proBNP thresholds excluded 67–71% of all HC-HFpEF patients from PARAGON-HF, EMPEROR-Preserved, and FINEARTS-HF; STEP-HFpEF (BMI ≥30 criterion) excluded 35% — a more permissive threshold than NP-based approaches. (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
+- **2019** — Ho et al. (MGH, n=461) first systematic comparison with invasive CPET reference; demonstrated enrollment heterogeneity 12–90% and showed HFpEF_phys is prognostically independent (source: Ho2019HFpEFDefinitions)
+- **2021** — ESC Guidelines endorsed simplified three-criterion approach for clinical use; HFA-PEFF reserved for expert centres; acknowledged limitation that non-invasive markers have only moderate accuracy (source: McDonagh2021ESC)
+- **2025** — Landsteiner et al. (MGH/Harvard, n=872): extended the Ho 2019 framework with the HC-HFpEF concept (resting PCWP ≥15 mmHg OR exercise PCWP/CO slope >2 mmHg/L/min) and directly quantified the gap between guideline definitions and trial enrollment criteria. 74–77% of the cohort met any societal definition; only 61–75% of those also had HC-HFpEF. Four hemodynamic profiles identified: (1) normal rest + normal exercise [reference], (2) high rest + normal exercise, (3) normal rest + high exercise [exercise-unmasked], (4) high rest + high exercise [highest-risk]. Landmark finding: trial NT-proBNP thresholds excluded 67–71% of all HC-HFpEF patients from PARAGON-HF, EMPEROR-Preserved, and FINEARTS-HF; STEP-HFpEF (BMI ≥30 criterion) excluded 35% — a more permissive threshold than NP-based approaches. (source: landsteiner2025hemodynamics)
 
 ## Evidence
 
@@ -135,3 +135,8 @@ See [[ho2019hfpefdefinitions]] for primary data. Key numbers consolidated in ## 
 
 - All seven guideline definitions claim to identify "HFpEF" but enroll non-overlapping patient populations — they are not equivalent. CV event rate estimates in any trial depend heavily on which definition was used for enrollment. See [[contradictions]].
 - Trial NT-proBNP thresholds (used by PARAGON-HF, EMPEROR-Preserved, FINEARTS-HF) exclude 67–71% of hemodynamically confirmed HFpEF — the majority of true physiologic HFpEF is absent from these trials. The "generalizable" treatment evidence base applies to a minority of patients with confirmed disease. See [[contradictions]].
+
+## References
+- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039451](https://doi.org/10.1161/CIRCULATIONAHA.118.039451)
+- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326048](https://doi.org/10.1161/CIRCRESAHA.125.326048) [DOI unverified]
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

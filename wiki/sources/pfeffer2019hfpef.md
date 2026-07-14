@@ -14,15 +14,16 @@ tags:
 created: 2026-05-06
 last_updated: 2026-05-06
 sources:
-- file: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf
-  citekey: Pfeffer2019HFpEF
+- citekey: Pfeffer2019HFpEF
+  doi: 10.1161/CIRCRESAHA.119.313572
 page-type: source-summary-page
 ---
 # HFpEF: In Perspective
 
 > Comprehensive invited review synthesising the pathophysiology, diagnostic heterogeneity, cellular mechanisms, and therapeutic landscape of HFpEF as of 2019 — authored by three of the field's leading investigators.
 
-**File:** `raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf` · **Authors:** Pfeffer MA, Shah AM, Borlaug BA · **Year:** 2019 · **Journal:** *Circ Res.* 2019;124:1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)
+**Full citation:**
+Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)
 
 ---
 
@@ -31,7 +32,7 @@ page-type: source-summary-page
 ### 1. Terminology and Definition Evolution
 HFpEF evolved from "diastolic HF" in the 1980s–1990s. CHARM-Preserved chose LVEF >40% as the inclusion threshold for practical design reasons (distinct from a biological boundary). Table 1 catalogues 6 conceptual types of HFpEF definition used across clinical studies; Table 2 documents 9 epidemiological study definitions used 1997–2015, with inclusion thresholds ranging from LVEF >40% to >55%. No definition maps to a biological threshold — all are pragmatic.
 
-HFpEF accounts for approximately 40–53% of incident HF in large community-based studies. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+HFpEF accounts for approximately 40–53% of incident HF in large community-based studies. (source: Pfeffer2019HFpEF)
 
 ### 2. Pathophysiologic Cascade (Figure 2)
 
@@ -61,31 +62,31 @@ Clinical syndrome:
   - Pulmonary and peripheral congestion
 ```
 
-(source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+(source: Pfeffer2019HFpEF)
 
 ### 3. Exercise Haemodynamics (Figure 3)
 
-PCWP rises steeply during exercise in HFpEF patients relative to healthy controls. The VO2-PCWP relationship demonstrates that patients reach limiting PCWP before achieving adequate cardiac output augmentation. Survival curves stratified by PCWP show that even modestly elevated resting PCWP (15–20 mmHg) confers markedly worse prognosis. Exertional PCWP elevation is more prognostically relevant than resting values. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+PCWP rises steeply during exercise in HFpEF patients relative to healthy controls. The VO2-PCWP relationship demonstrates that patients reach limiting PCWP before achieving adequate cardiac output augmentation. Survival curves stratified by PCWP show that even modestly elevated resting PCWP (15–20 mmHg) confers markedly worse prognosis. Exertional PCWP elevation is more prognostically relevant than resting values. (source: Pfeffer2019HFpEF)
 
 ### 4. Cellular Mechanisms
 
-**cGMP/PKG pathway (Paulus/Tschöpe paradigm):** Comorbidities (obesity, HTN, metabolic syndrome) → low-grade systemic inflammation → impaired endothelial NO formation → reduced cGMP production → reduced PKG (protein kinase G) activity → increased passive myocyte stiffness. Supported by human HFpEF LV biopsy data demonstrating reduced PKG activity and cGMP concentrations correlating with increased passive myocyte stiffness. In myocardium of HFpEF patients, microvascular endothelial activation is present (upregulation of E-selectin, ICAM-1), eNOS is uncoupled, and myocardial nitrite/nitrate concentration is reduced. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**cGMP/PKG pathway (Paulus/Tschöpe paradigm):** Comorbidities (obesity, HTN, metabolic syndrome) → low-grade systemic inflammation → impaired endothelial NO formation → reduced cGMP production → reduced PKG (protein kinase G) activity → increased passive myocyte stiffness. Supported by human HFpEF LV biopsy data demonstrating reduced PKG activity and cGMP concentrations correlating with increased passive myocyte stiffness. In myocardium of HFpEF patients, microvascular endothelial activation is present (upregulation of E-selectin, ICAM-1), eNOS is uncoupled, and myocardial nitrite/nitrate concentration is reduced. (source: Pfeffer2019HFpEF)
 
 This paradigm is mechanistically distinct from [[hfref]], where elevated neurohormonal activation is the primary driver. It explains why RAAS blockade is effective in HFrEF but has failed in HFpEF.
 
-**Titin:** Major cellular determinant of myocyte passive stiffness. Titin phosphorylation status and expression level are dynamically modifiable — a potential therapeutic target. Diastolic LV stiffness in HFpEF also relates to increased fibrillar collagen content. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**Titin:** Major cellular determinant of myocyte passive stiffness. Titin phosphorylation status and expression level are dynamically modifiable — a potential therapeutic target. Diastolic LV stiffness in HFpEF also relates to increased fibrillar collagen content. (source: Pfeffer2019HFpEF)
 
-**Intracellular calcium:** Isolated myocardium from HFpEF patients shows prolonged contraction/relaxation and elevated sarcomere calcium levels, even as intracellular sodium and calcium handling proteins appear unaffected. At high heart rates, increased calcium load and resting tone from diastolic cross-bridge cycling contribute to diastolic stiffness. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**Intracellular calcium:** Isolated myocardium from HFpEF patients shows prolonged contraction/relaxation and elevated sarcomere calcium levels, even as intracellular sodium and calcium handling proteins appear unaffected. At high heart rates, increased calcium load and resting tone from diastolic cross-bridge cycling contribute to diastolic stiffness. (source: Pfeffer2019HFpEF)
 
-**Other mechanisms:** Cardiomyocyte senescence, lipotoxicity, deranged autophagy. Animal model systems replicate some features but poor correlation with the human phenotype; paucity of human tissue data is the primary barrier to mechanistic understanding. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**Other mechanisms:** Cardiomyocyte senescence, lipotoxicity, deranged autophagy. Animal model systems replicate some features but poor correlation with the human phenotype; paucity of human tissue data is the primary barrier to mechanistic understanding. (source: Pfeffer2019HFpEF)
 
 ### 5. Structural and Haemodynamic Abnormalities
 
-**Cardiac amyloidosis:** Wild-type transthyretin amyloid (ATTR) is present in **13–19% of persons with prevalent HFpEF**. ATTR-CM was formerly lumped into the broad HFpEF category; recent data (tafamidis, patisiran in ATTR-CM) demonstrate disease-modifying therapy is possible in this subphenotype. ⁹⁹ᵐTc-pyrophosphate SPECT now provides a noninvasive screen. This is the proof-of-concept for phenotype-targeted therapy in HFpEF: identifying and treating a specific mechanism within the HFpEF umbrella. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**Cardiac amyloidosis:** Wild-type transthyretin amyloid (ATTR) is present in **13–19% of persons with prevalent HFpEF**. ATTR-CM was formerly lumped into the broad HFpEF category; recent data (tafamidis, patisiran in ATTR-CM) demonstrate disease-modifying therapy is possible in this subphenotype. ⁹⁹ᵐTc-pyrophosphate SPECT now provides a noninvasive screen. This is the proof-of-concept for phenotype-targeted therapy in HFpEF: identifying and treating a specific mechanism within the HFpEF umbrella. (source: Pfeffer2019HFpEF)
 
 **Large vessel and microvascular dysfunction:** Aortic and conduit vessel stiffness → excessive BP variability → greater arterial afterload mismatch during exercise; mediated in part by endothelial dysfunction. Systemic microvascular dysfunction is associated with abnormal regional vasodilation during exercise, pulmonary vasoconstriction, dyspnoea, and reduced aerobic capacity.
 
-**Peripheral abnormalities:** Skeletal muscle composition altered — increased fatty infiltration, sarcopenic obesity. Impaired O₂ extraction (A-VO₂ difference limitation). Mitochondrial dysfunction limits ability to improve oxygen utilisation. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**Peripheral abnormalities:** Skeletal muscle composition altered — increased fatty infiltration, sarcopenic obesity. Impaired O₂ extraction (A-VO₂ difference limitation). Mitochondrial dysfunction limits ability to improve oxygen utilisation. (source: Pfeffer2019HFpEF)
 
 ### 6. Therapeutic Landscape as of 2019
 
@@ -98,7 +99,7 @@ This paradigm is mechanistically distinct from [[hfref]], where elevated neuroho
 | [[i-preserve]] | Irbesartan | ≥45% | 0.95 | 0.35 | Cleanest null |
 | [[topcat]] | Spironolactone | ≥45% | 0.89 | 0.14 | Americas HR 0.82, P=0.03; regional controversy |
 
-**TOPCAT Americas controversy (detailed):** Russia/Georgia incidence 4× lower (2.4 vs. 11.5 events/100 patient-years). Expected treatment-associated changes in serum creatinine, potassium, and BMP were significantly smaller in Russia/Georgia despite reportedly higher adherence. Americas subgroup: primary HR 0.82 (P=0.03) and HF hospitalisation HR 0.82 (P=0.03). Triggered 2017 ACC/AHA Class IIb recommendation for MRA to reduce hospitalisations in TOPCAT-eligible patients. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**TOPCAT Americas controversy (detailed):** Russia/Georgia incidence 4× lower (2.4 vs. 11.5 events/100 patient-years). Expected treatment-associated changes in serum creatinine, potassium, and BMP were significantly smaller in Russia/Georgia despite reportedly higher adherence. Americas subgroup: primary HR 0.82 (P=0.03) and HF hospitalisation HR 0.82 (P=0.03). Triggered 2017 ACC/AHA Class IIb recommendation for MRA to reduce hospitalisations in TOPCAT-eligible patients. (source: Pfeffer2019HFpEF)
 
 **Phase 3 trials ongoing at time of writing (all now completed and ingested):**
 - PARAGON-HF: sacubitril/valsartan (→ [[solomon2019paragon]])
@@ -109,19 +110,19 @@ This paradigm is mechanistically distinct from [[hfref]], where elevated neuroho
 - Interatrial shunt (NCT03088033): haemodynamic decompression via L→R atrial shunt
 - Minimally invasive pericardial modification (NCT03923673): reduces extrinsic pericardial constraint
 
-**CHAMPION trial (CardioMEMS):** Management guided by physician knowledge of central haemodynamics (pulmonary artery pressure monitoring) significantly reduced HF hospitalisations in NYHA III HF. Confirmed in an ancillary analysis restricted to HFpEF patients and in Medicare beneficiaries. Fills the 'treatment-by-haemodynamics' gap while pharmacological agents are lacking. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**CHAMPION trial (CardioMEMS):** Management guided by physician knowledge of central haemodynamics (pulmonary artery pressure monitoring) significantly reduced HF hospitalisations in NYHA III HF. Confirmed in an ancillary analysis restricted to HFpEF patients and in Medicare beneficiaries. Fills the 'treatment-by-haemodynamics' gap while pharmacological agents are lacking. (source: Pfeffer2019HFpEF)
 
 ### 7. Lifestyle Interventions
 
 **Exercise training:** Kitzman 2010 published the first randomised exercise trial in HFpEF, showing substantial improvement in cardiorespiratory fitness. Subsequent studies have corroborated this, with one study also suggesting a potential cardiac benefit.
 
-**SECRET trial (Kitzman):** Exercise training combined with caloric restriction → significantly improved aerobic capacity and quality of life. **Combination was additive** — both interventions contributed independently. Exercise improved aerobic capacity primarily via peripheral skeletal muscle adaptations; caloric restriction improved metabolic and haemodynamic reserve. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**SECRET trial (Kitzman):** Exercise training combined with caloric restriction → significantly improved aerobic capacity and quality of life. **Combination was additive** — both interventions contributed independently. Exercise improved aerobic capacity primarily via peripheral skeletal muscle adaptations; caloric restriction improved metabolic and haemodynamic reserve. (source: Pfeffer2019HFpEF)
 
 **Sodium restriction:** Less studied in HFpEF. One study demonstrated improvements in ventricular-arterial coupling with sodium restriction as part of the DASH diet.
 
 ### 8. HFpEF Prevention
 
-**Hypertension treatment:** Framingham established hypertension as one of the earliest HF risk factors. SHEP, HYVET, and SPRINT trials extended evidence across elderly age groups. SPRINT (intensive SBP <120 vs. <140 mmHg, n=9,361 nondiabetics) reduced incident HF by **37%**, with separation evident at 6 months; benefit confirmed in the ≥75-year subgroup. ALLHAT: doxazosin arm terminated (2× HF risk vs. chlorthalidone); chlorthalidone superior to lisinopril and amlodipine for HF prevention. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**Hypertension treatment:** Framingham established hypertension as one of the earliest HF risk factors. SHEP, HYVET, and SPRINT trials extended evidence across elderly age groups. SPRINT (intensive SBP <120 vs. <140 mmHg, n=9,361 nondiabetics) reduced incident HF by **37%**, with separation evident at 6 months; benefit confirmed in the ≥75-year subgroup. ALLHAT: doxazosin arm terminated (2× HF risk vs. chlorthalidone); chlorthalidone superior to lisinopril and amlodipine for HF prevention. (source: Pfeffer2019HFpEF)
 
 **SGLT2 inhibitors:** ACCORD (intensive glycaemic control) not associated with lower HF risk in T2DM. SGLT2 inhibitors (EMPA-REG OUTCOME, CANVAS, DECLARE-TIMI 58) demonstrated convincing HF risk reductions in diabetic patients — emerging HFpEF prevention evidence.
 
@@ -129,7 +130,7 @@ This paradigm is mechanistically distinct from [[hfref]], where elevated neuroho
 
 HF is diagnosed by the clinical syndrome of elevated filling pressures, regardless of LVEF. The LVEF classification, initially arbitrary, has acquired pragmatic importance through differential trial evidence. HFpEF patients represent the largest unmet need in cardiology. Testing new agents against placebo (rather than on top of proven HFrEF agents) has enhanced the appeal to conduct major trials. 
 
-Future direction: precision phenotyping and genotyping to match therapy mechanism to patient population, modelled on the ATTR-CM paradigm. Not being eligible for a trial is not tantamount to not having HFpEF. (source: 2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+Future direction: precision phenotyping and genotyping to match therapy mechanism to patient population, modelled on the ATTR-CM paradigm. Not being eligible for a trial is not tantamount to not having HFpEF. (source: Pfeffer2019HFpEF)
 
 ---
 

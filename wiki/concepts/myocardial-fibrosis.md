@@ -14,10 +14,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2022-FrontierCardiovascMed-Shi-sST2_diagnostic_prognostic_biomarker_in_hfpef_systematic_review.pdf
-    citekey: Shi2022SST2
-  - file: raw/2022-JACC-Arnold-DIAMOND-HFpEF_study_cmd_in_hfpef.pdf
-    citekey: Arnold2022DIAMOND
+  - citekey: Shi2022SST2
+    doi: 10.3389/fcvm.2022.937291
+  - citekey: Arnold2022DIAMOND
+    doi: 10.1016/j.jcmg.2021.10.002
 ---
 
 # Myocardial Fibrosis in HFpEF

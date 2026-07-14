@@ -18,15 +18,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-- file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
-  citekey: McDonagh2023ESCupdate [zotero-unverified]
+- citekey: McDonagh2023ESCupdate [zotero-unverified]
+  doi: 10.1093/eurheartj/ehad195
 page-type: source-summary-page
 ---
 # 2023 Focused Update of the 2021 ESC Guidelines
 
 > The ESC 2023 Focused Update upgrades SGLT2 inhibitors to Class I, Level A for both HFmrEF and HFpEF — the first time the ESC has given any pharmacological agent a Class I recommendation for HFpEF.
 
-**File:** `raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf` · **Authors:** McDonagh TA, Metra M, et al. (Task Force, ESC/HFA) · **Year:** 2023 · **Journal:** *Eur Heart J* 2023;44:3627–3639 · **DOI:** 10.1093/eurheartj/ehad195
+**Full citation:**
+McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2023 Focused Update of the 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure. *Eur Heart J.* 2023;44(37):3627–3639. doi:[10.1093/eurheartj/ehad195](https://doi.org/10.1093/eurheartj/ehad195)
 
 ---
 

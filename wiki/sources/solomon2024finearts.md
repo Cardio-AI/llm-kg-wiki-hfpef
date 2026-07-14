@@ -20,15 +20,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf
-  citekey: Solomon2024FINEARTS
+- citekey: Solomon2024FINEARTS
+  doi: 10.1056/NEJMoa2407107
 page-type: source-summary-page
 ---
 # FINEARTS-HF (Solomon 2024)
 
 > In patients with HFmrEF/HFpEF (LVEF ≥40%), finerenone significantly reduced total worsening heart failure events and cardiovascular death (RR 0.84, 95% CI 0.74–0.95; P=0.007) — the first non-steroidal MRA trial to show outcome benefit in this population.
 
-**File:** `raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf` · **Authors:** Solomon SD, McMurray JJV, Vaduganathan M, Claggett BL, Jhund PS, Desai AS, Henderson AD, Lam CSP, Pitt B, Senni M, Shah SJ, Voors AA, Zannad F, et al. · **Year:** 2024 · **Journal:** N Engl J Med 2024;391:1475–85 · **DOI:** 10.1056/NEJMoa2407107  
+**Full citation:**
+Solomon SD, McMurray JJV, Vaduganathan M, Claggett BL, Jhund PS, Desai AS, Henderson AD, Lam CSP, Pitt B, Senni M, Shah SJ, Voors AA, Zannad F, et al.; FINEARTS-HF Committees and Investigators. Finerenone in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2024;391(16):1475–1485. doi:[10.1056/NEJMoa2407107](https://doi.org/10.1056/NEJMoa2407107)
 **Study type:** International, multicenter, parallel-group, event-driven, double-blind RCT · **N:** 6001 (3003 finerenone; 2998 placebo) · **Population:** HFmrEF/HFpEF, LVEF ≥40%, age ≥40y, symptomatic HF, structural heart disease, elevated NPs · **Follow-up:** Median 32 months  
 **Intervention:** Finerenone (max 20 mg/day if eGFR <60 or 40 mg/day if eGFR ≥60) vs. placebo + usual therapy · **Primary outcome:** Total worsening HF events + CV death (composite, total-events analysis) · **NCT:** NCT04435626 · **Funded by:** Bayer
 

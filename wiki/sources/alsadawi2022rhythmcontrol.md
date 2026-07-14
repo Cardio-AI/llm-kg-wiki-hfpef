@@ -17,15 +17,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf
-  citekey: AlSadawi2022RhythmControl
+- citekey: AlSadawi2022RhythmControl
+  doi: 10.1016/j.hroo.2022.07.004
 page-type: source-summary-page
 ---
 # Al-Sadawi 2022 — Rhythm vs. Rate Control in HFpEF+AF
 
 > Meta-analysis of 5 studies (N=16,825 HFpEF+AF) showed rhythm control was associated with significantly lower odds of mortality vs. rate control (OR 0.735; 95% CI 0.665–0.813; P<0.001; I²=0%), with 4 of 5 studies using catheter ablation.
 
-**File:** `raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf`  
+**Full citation:**
+Al-Sadawi M, Aslam F, Tao M, Moore A, Rashid A, Bisharat B, Allaqaband S. Rhythm control vs. rate control for atrial fibrillation and heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Heart Rhythm O².* 2022;3(5):520–525. doi:[10.1016/j.hroo.2022.07.004](https://doi.org/10.1016/j.hroo.2022.07.004)
 **Authors:** Al-Sadawi M et al.  
 **Year:** 2022 · **Journal:** Heart Rhythm O² 2022;3:520–525  
 **Study type:** Systematic review and meta-analysis  

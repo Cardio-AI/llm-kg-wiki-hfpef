@@ -14,15 +14,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf
-  citekey: akerman2025ai
+- citekey: akerman2025ai
+  doi: 10.1038/s41467-025-58283-7
 page-type: source-summary-page
 ---
 # External Validation of AI HFpEF Detection (EchoGo Heart Failure v2)
 
 > Prospective external validation (n=240 HFpEF cases, 256 controls): AI echo model (EchoGo HF v2, Ultromics) achieves AUROC 0.797 vs H₂FPEF 0.788 with dramatically fewer intermediate classifications (9.1% vs 61.7% for H₂FPEF vs 54.2% for HFA-PEFF); AI-positive patients had HR 2.56 (1.46–4.51) for composite outcome — combined AI + clinical score approach outperforms any single tool.
 
-**File:** `raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf` · **Authors:** Akerman AP et al. · **Year:** 2025 · **Journal:** Nature Communications 16:2915, DOI: 10.1038/s41467-025-58283-7
+**Full citation:**
+Akerman AP, Al-Roub N, Angell-James C, Cassidy MA, Thompson R, Bosque L, Rainer K, Hawkes W, Piotrowska H, Leeson P, Woodward G, Pellikka PA, Upton R, Strom JB. External validation of artificial intelligence for detection of heart failure with preserved ejection fraction. *Nat Commun.* 2025;16:2915. doi:[10.1038/s41467-025-58283-7](https://doi.org/10.1038/s41467-025-58283-7)
 
 ---
 

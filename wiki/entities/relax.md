@@ -14,8 +14,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-- file: raw/2013-JAMA-Redfield-RELAX_study.pdf
-  citekey: Redfield2013RELAX
+- citekey: Redfield2013RELAX
+  doi: 10.1001/jama.2013.2024
 page-type: entity-page
 ---
 # RELAX

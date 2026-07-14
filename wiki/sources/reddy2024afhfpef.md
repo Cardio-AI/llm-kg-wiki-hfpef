@@ -12,15 +12,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2024-JACC-Reddy-unrecognized_HFpEF_in_AF.pdf
-  citekey: reddy2024afhfpef
+- citekey: reddy2024afhfpef
+  doi: 10.1016/j.jchf.2024.04.010
 page-type: source-summary-page
 ---
 # Unrecognized Heart Failure With Preserved Ejection Fraction in Atrial Fibrillation
 
 > Pooled data from 6 screening studies show 83% occult HFpEF prevalence in symptomatic AF patients by exercise RHC, and ~82% occult AF in HFpEF patients at 1 year; the two conditions are deeply intertwined diagnostic and prognostic partners.
 
-**File:** `raw/2024-JACC-Reddy-unrecognized_HFpEF_in_AF.pdf` · **Authors:** Reddy YNV, Borlaug BA · **Year:** 2024 · **Journal:** JACC Heart Failure 12:990–998
+**Full citation:**
+Reddy YNV, Borlaug BA. Unrecognized Heart Failure With Preserved Ejection Fraction in Atrial Fibrillation. *JACC Heart Fail.* 2024;12(6):990–998. doi:[10.1016/j.jchf.2024.04.010](https://doi.org/10.1016/j.jchf.2024.04.010)
 
 ---
 

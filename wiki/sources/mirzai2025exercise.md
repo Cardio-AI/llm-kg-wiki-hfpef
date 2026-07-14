@@ -14,15 +14,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
-  citekey: Mirzai2025Exercise
+- citekey: Mirzai2025Exercise
+  doi: 10.1007/s10741-025-10526-x
 page-type: source-summary-page
 ---
 # Exercise Training in HFpEF — 2025 Review
 
 > This state-of-the-art review synthesises evidence from ~30 RCTs across multiple exercise modalities in HFpEF (2004–2024); moderate-intensity continuous training (MICT) has the largest evidence base, HIIT is not superior to MICT for ΔpVO₂, and ~1/3 of patients do not respond — hard outcome data remain absent.
 
-**File:** `raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf` · **Authors:** Mirzai S et al. · **Year:** 2025 · **Journal:** Heart Failure Reviews 30:1015–1034  
+**Full citation:**
+Mirzai S, Sandesara U, Haykowsky MJ, Brubaker PH, Kitzman DW, Peters AE. Aerobic, resistance, and specialized exercise training in heart failure with preserved ejection fraction: A state-of-the-art review. *Heart Fail Rev.* 2025;30:1015–1034. doi:[10.1007/s10741-025-10526-x](https://doi.org/10.1007/s10741-025-10526-x)
 **DOI:** 10.1007/s10741-025-10526-x · **Published online:** May 15, 2025
 
 ---

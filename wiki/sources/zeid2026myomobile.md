@@ -14,15 +14,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2026-JACCHeartFail-Zeid-MyoMobile_study_results_app_based_coaching.pdf
-  citekey: zeid2026myomobile
+- citekey: zeid2026myomobile
+  doi: 10.1016/j.jchf.2026.102845
 page-type: source-summary-page
 ---
 # MyoMobile Primary Results: App-Based PA Coaching in HFpEF (Zeid 2026)
 
 > MyoMobile primary results (N=185 HFpEF; 6-month, 3-arm EE2 RCT): app-based personalised physical activity coaching significantly increased daily step count vs. standard care — the first positive digital health RCT in HFpEF — with secondary improvements in KCCQ and 6MWT.
 
-**File:** `raw/2026-JACCHeartFail-Zeid-MyoMobile_study_results_app_based_coaching.pdf` · **Authors:** Zeid S, Prochaska JH, Schuch A, Tröbs SO, et al. · **Year:** 2026 · **Journal:** JACC Heart Fail 14(5):102845
+**Full citation:**
+Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized App-Based Coaching for Improving Physical Activity in Heart Failure With Preserved Ejection Fraction: Primary Results of the MyoMobile Randomized Trial. *JACC Heart Fail.* 2026;14(5):102845. doi:[10.1016/j.jchf.2026.102845](https://doi.org/10.1016/j.jchf.2026.102845)
 
 ---
 

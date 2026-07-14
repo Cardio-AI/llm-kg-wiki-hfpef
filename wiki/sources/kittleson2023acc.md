@@ -15,15 +15,16 @@ tags:
 created: 2026-05-06
 last_updated: 2026-05-06
 sources:
-- file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
-  citekey: Kittleson2023ACC
+- citekey: Kittleson2023ACC
+  doi: 10.1016/j.jacc.2023.03.393
 page-type: source-summary-page
 ---
 # 2023 ACC Expert Consensus Decision Pathway — HFpEF
 
 > Operational companion to the AHA 2022 HF guidelines, providing practical HFpEF-specific algorithms for diagnosis, treatment initiation, comorbidity management, and referral; elevates SGLT2i to near-Class I status (green/yellow Figure 9), gives the first sex-stratified treatment algorithm (ARNI/MRA preferenced for women and men with LVEF <55–60%), introduces CHECK-IN and INHALE referral acronyms, and flags SUMMIT and STEP-HFpEF GLP-1RA trials as ongoing.
 
-**File:** `raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf` · **Authors:** Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL Jr, Yancy CW · **Year:** 2023  
+**Full citation:**
+Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL Jr, Yancy CW. 2023 ACC expert consensus decision pathway on management of heart failure with preserved ejection fraction: a report of the American College of Cardiology Solution Set Oversight Committee. *J Am Coll Cardiol.* 2023;81(18):1835–1878. doi:[10.1016/j.jacc.2023.03.393](https://doi.org/10.1016/j.jacc.2023.03.393)
 **Journal:** J Am Coll Cardiol 2023;81(18):1835–1878; DOI 10.1016/j.jacc.2023.03.393 · **Published online:** April 19, 2023  
 **Document type:** ACC Expert Consensus Decision Pathway (ECDP) — operational supplement to AHA 2022 HF guidelines; NOT a stand-alone clinical practice guideline
 

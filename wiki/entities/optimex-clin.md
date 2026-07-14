@@ -17,8 +17,8 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
-  citekey: Mueller2021OptimEx
+- citekey: Mueller2021OptimEx
+  doi: 10.1001/jama.2020.26812
 page-type: entity-page
 ---
 # OptimEx-Clin
@@ -46,7 +46,7 @@ OptimEx-Clin was a three-arm, single-blind, randomised controlled trial at 5 Eur
 
 Mean age 70, 67% women, mean peak VO₂ 18.8 mL/kg/min, mean E/e' 15.8, mean NT-proBNP 671 pg/mL.
 
-(source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+(source: Mueller2021OptimEx)
 
 ---
 
@@ -60,7 +60,7 @@ OptimEx-Clin is the definitive head-to-head comparison of HIIT vs MCT in HFpEF. 
 
 3. **Exercise does not directly improve diastolic function.** No change in E/e' or NT-proBNP in any group — confirms that exercise training improves peripheral/skeletal muscle fitness but does not reverse cardiac diastolic pathology in HFpEF.
 
-(source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+(source: Mueller2021OptimEx)
 
 ---
 
@@ -76,7 +76,7 @@ OptimEx-Clin is the definitive head-to-head comparison of HIIT vs MCT in HFpEF. 
 
 **Secondary outcomes:** E/e' not changed in any group; NT-proBNP not changed; KCCQ improved in MCT vs control at 12 months (exploratory).
 
-(source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+(source: Mueller2021OptimEx)
 
 ---
 
@@ -99,3 +99,6 @@ OptimEx-Clin is the definitive head-to-head comparison of HIIT vs MCT in HFpEF. 
 ## Contradictions
 
 DonelliDaSilveira 2020 (N=19) showed significant HIIT > MCT superiority for VO₂; OptimEx-Clin (N=180) showed no difference. The smaller study's result is likely a false positive due to sample size. See [[contradictions]].
+
+## References
+- Mueller S, Winzer EB, Duvinage A, et al.; OptimEx-Clin Study Group. Effect of High-Intensity Interval Training, Moderate Continuous Training, or Guideline-Based Physical Activity Advice on Peak Oxygen Consumption in Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2021;325(6):542–551. doi:[10.1001/jama.2020.26812](https://doi.org/10.1001/jama.2020.26812)

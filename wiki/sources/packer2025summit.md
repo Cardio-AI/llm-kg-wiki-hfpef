@@ -17,15 +17,16 @@ tags:
 created: 2026-05-13
 last_updated: 2026-05-16
 sources:
-- file: raw/2025-NEJM-Packer-SUMMIT_primary.pdf
-  citekey: Packer2025SUMMIT
+- citekey: Packer2025SUMMIT
+  doi: 10.1056/NEJMoa2410027
 page-type: source-summary-page
 ---
 # Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity — SUMMIT
 
 > Tirzepatide (dual GLP-1/GIP agonist) reduced the composite of CV death and worsening HF by 38% (HR 0.62; 95% CI 0.41–0.95; P=0.026) and improved KCCQ-CSS by 6.9 points at 52 weeks (P<0.001) in obese HFpEF — the first RCT to demonstrate a statistically significant reduction in hard HF events with a GLP-1RA class agent.
 
-**File:** `raw/2025-NEJM-Packer-SUMMIT_primary.pdf` · **Authors:** Packer M, Zile MR, Kramer CM, Baum SJ, Litwin SE, Menon V, Ge J, Weerakkody GJ, Ou Y, Bunck MC, Hurt KC, Murakami M, Borlaug BA; SUMMIT Trial Study Group  
+**Full citation:**
+Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2025;392(5):427–437. doi:[10.1056/NEJMoa2410027](https://doi.org/10.1056/NEJMoa2410027)
 **Journal:** N Engl J Med. 2025;392(5):427–437 · **DOI:** 10.1056/NEJMoa2410027 · Published online November 16, 2024  
 **Study type:** Phase 3 RCT · **N:** 731 (364 tirzepatide, 367 placebo) · **Follow-up:** Median 104 weeks  
 **Enrollment:** April 20, 2021 – June 30, 2023 · **Sites:** 129 centres, 9 countries  

@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf
-    citekey: Reddy2017ArtStiff
-  - file: raw/2022-HeartInternational-Horiuchi-NP_guided_therapy_hf.pdf
-    citekey: Horiuchi2022NPGuided
+  - citekey: Reddy2017ArtStiff
+    doi: 10.1016/j.jacc.2017.05.029
+  - citekey: Horiuchi2022NPGuided
+    doi: 10.17925/HI.2022.16.2.112
 ---
 
 # Haemodynamics in HFpEF

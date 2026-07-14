@@ -13,15 +13,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf
-  citekey: Reddy2018H2FPEF
+- citekey: Reddy2018H2FPEF
+  doi: 10.1161/CIRCULATIONAHA.118.034646
 page-type: source-summary-page
 ---
 # H₂FPEF Score
 
 > The H₂FPEF score — six simple clinical and echocardiographic variables scored 0–9 — discriminates HFpEF from noncardiac dyspnoea with AUC 0.841 (derivation) / 0.886 (validation), outperforming prior ESC consensus algorithms; its simplicity makes it practical for outpatient use without requiring NPs.
 
-**File:** `raw/2018-CirculationAHA-Yogesh-guide_daignosis-hfpef.pdf` · **Authors:** Reddy YNV, Carter RE, Obokata M, Redfield MM, Borlaug BA · **Year:** 2018 · **Journal:** Circulation 138:861–870  
+**Full citation:**
+Reddy YNV, Carter RE, Obokata M, Redfield MM, Borlaug BA. A Simple, Evidence-Based Approach to Help Guide Diagnosis of Heart Failure With Preserved Ejection Fraction. *Circulation.* 2018;138(9):861–870. doi:[10.1161/CIRCULATIONAHA.118.034646](https://doi.org/10.1161/CIRCULATIONAHA.118.034646)
 **DOI:** 10.1161/CIRCULATIONAHA.118.034646  
 **Reference standard:** Invasive haemodynamic exercise testing (right heart catheterisation)
 

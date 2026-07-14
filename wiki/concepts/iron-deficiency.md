@@ -13,12 +13,12 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2019-BMJHeartFail-Beale-Iron_dficiency_hfpef_systematic_review.pdf
-    citekey: Beale2019Iron
-  - file: raw/2024-ESC-vonHaehling-FAIR-HFpEF_study_ferric_carboxymaltose_hfpef.pdf
-    citekey: vonHaehling2024FAIR
-  - file: raw/2020-LANCET-Ponikowski-AFFIRM-AHF_study_ferric_carboxymaltose_for_hf.pdf
-    citekey: Ponikowski2020AFFIRM
+  - citekey: Beale2019Iron
+    doi: 10.1136/openhrt-2019-001012
+  - citekey: vonHaehling2024FAIR
+    doi: 10.1093/eurheartj/ehae587
+  - citekey: Ponikowski2020AFFIRM
+    doi: 10.1016/S0140-6736(20)32220-6
 ---
 
 # Iron Deficiency in HFpEF

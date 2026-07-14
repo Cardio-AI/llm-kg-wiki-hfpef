@@ -16,12 +16,12 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-- file: raw/2025-NEJM-Packer-SUMMIT_primary.pdf
-  citekey: Packer2025SUMMIT
-- file: raw/2025-JACC-Packer-SUMMIT_study.pdf
-  citekey: Packer2025SUMMITCKD
-- file: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf
-  citekey: Kramer2025SUMMITCMR
+- citekey: Packer2025SUMMIT
+  doi: 10.1056/NEJMoa2410027
+- citekey: Packer2025SUMMITCKD
+  doi: 10.1016/j.jacc.2025.03.009
+- citekey: Kramer2025SUMMITCMR
+  doi: 10.1016/j.jacc.2024.11.001
 page-type: entity-page
 ---
 # SUMMIT
@@ -106,7 +106,7 @@ Region: Latin America 53%, Asia 16–20%, US 19–23%, other ~8%. Median NT-proB
 
 ## Role in HFpEF
 
-SUMMIT is the first HFpEF trial to demonstrate a statistically significant, prospectively powered reduction in CV death and worsening HF with a GLP-1RA class agent, upgrading the obesity-HFpEF evidence base from "symptom improvement" ([[step-hfpef]], 2023) to "event reduction" (SUMMIT, 2025). The obesity-HFpEF phenotype affects ~50–60% of HFpEF patients (BMI ≥30). Together, SUMMIT and STEP-HFpEF establish GLP-1RA/GIP-RA agonism as evidence-based therapy for this phenotype. (source: raw/2025-NEJM-Packer-SUMMIT_primary.pdf)
+SUMMIT is the first HFpEF trial to demonstrate a statistically significant, prospectively powered reduction in CV death and worsening HF with a GLP-1RA class agent, upgrading the obesity-HFpEF evidence base from "symptom improvement" ([[step-hfpef]], 2023) to "event reduction" (SUMMIT, 2025). The obesity-HFpEF phenotype affects ~50–60% of HFpEF patients (BMI ≥30). Together, SUMMIT and STEP-HFpEF establish GLP-1RA/GIP-RA agonism as evidence-based therapy for this phenotype. (source: Packer2025SUMMIT)
 
 The 2022 AHA/ACC/HFSA guideline (Class IIb, Level B-NR for GLP-1RA in HFpEF with obesity) pre-dates SUMMIT. The 2025 guideline cycle is anticipated to upgrade GLP-1RA/GIP-RA based on the hard event endpoint. (source: [[heidenreich2022aha]])
 
@@ -131,7 +131,7 @@ The 2022 AHA/ACC/HFSA guideline (Class IIb, Level B-NR for GLP-1RA in HFpEF with
 | Systolic BP Δ | −4.6 ± 0.8 mmHg | +0.1 ± 0.8 | diff −4.7 (−6.8 to −2.5) | — |
 | Heart rate Δ | +3.0 ± 0.5 bpm | +0.3 ± 0.5 | diff +2.8 (1.3–4.3) | — |
 
-(source: raw/2025-NEJM-Packer-SUMMIT_primary.pdf)
+(source: Packer2025SUMMIT)
 
 **Key interpretive notes:**
 - CV death and all-cause death numerically higher with tirzepatide (8 vs 5 CV deaths; 19 vs 15 all-cause): not statistically significant, likely chance at this event count
@@ -150,25 +150,25 @@ The 2022 AHA/ACC/HFSA guideline (Class IIb, Level B-NR for GLP-1RA in HFpEF with
 | LVEDV | −7 mL | −16 to 2 | 0.10 (NS) |
 | LVEF, GCS, GLS, LA volumes | No change | — | NS |
 
-(source: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf)
+(source: Kramer2025SUMMITCMR)
 
 LV mass reduction correlated with weight loss (r=0.34; P<0.02). Pericardial fat, not epicardial adipose tissue, was the driver of paracardiac fat reduction. No T1 mapping performed — cannot distinguish reduced cardiomyocyte hypertrophy from reduced fibrosis.
 
 ### CKD Subanalysis (Packer M et al., JACC 2025;85:1721–1735)
 
-Of 731 randomised, n=719 had cystatin C measurements (357 tirzepatide, 362 placebo). CKD (eGFR-cystatin C <60) in 441/719 (61%). CKD patients had markedly worse profile: AF 33.1% vs 12.9%, NYHA III 34.7% vs 16.2%, HHF 70.7% vs 24.5%, NT-proBNP median ~281 vs ~68 pg/mL. Tirzepatide effect consistent across CKD/no-CKD strata (interaction P=0.77). eGFR-cystatin C preferred over eGFR-creatinine in patients receiving incretin-based drugs — no early dip, net improvement +3.3 mL/min/1.73m² at 52 weeks (P=0.004 overall). (source: raw/2025-JACC-Packer-SUMMIT_study.pdf)
+Of 731 randomised, n=719 had cystatin C measurements (357 tirzepatide, 362 placebo). CKD (eGFR-cystatin C <60) in 441/719 (61%). CKD patients had markedly worse profile: AF 33.1% vs 12.9%, NYHA III 34.7% vs 16.2%, HHF 70.7% vs 24.5%, NT-proBNP median ~281 vs ~68 pg/mL. Tirzepatide effect consistent across CKD/no-CKD strata (interaction P=0.77). eGFR-cystatin C preferred over eGFR-creatinine in patients receiving incretin-based drugs — no early dip, net improvement +3.3 mL/min/1.73m² at 52 weeks (P=0.004 overall). (source: Packer2025SUMMITCKD)
 
 ---
 
 ## Endpoint Revision
 
-The original SUMMIT primary endpoint was a hierarchical composite (all-cause death/WHF + KCCQ-CSS + 6MWD) plus 6MWD change at 52 weeks. After STEP-HFpEF (August 2023) reported a dramatic but imprecise WHF reduction (HR 0.08; 13 events) with semaglutide, the steering committee and sponsor — before any unblinding — proposed revising the endpoints to two standalone co-primaries. Following FDA discussions, the revision was implemented approximately 1 year before the last patient completed follow-up. No blinded data were accessed. This procedural transparency is noted but the revision remains a methodological discussion point. (source: raw/2025-NEJM-Packer-SUMMIT_primary.pdf)
+The original SUMMIT primary endpoint was a hierarchical composite (all-cause death/WHF + KCCQ-CSS + 6MWD) plus 6MWD change at 52 weeks. After STEP-HFpEF (August 2023) reported a dramatic but imprecise WHF reduction (HR 0.08; 13 events) with semaglutide, the steering committee and sponsor — before any unblinding — proposed revising the endpoints to two standalone co-primaries. Following FDA discussions, the revision was implemented approximately 1 year before the last patient completed follow-up. No blinded data were accessed. This procedural transparency is noted but the revision remains a methodological discussion point. (source: Packer2025SUMMIT)
 
 ---
 
 ## Status
 
-**Published.** Primary: Packer M, Zile MR, Kramer CM, et al. Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2025;392(5):427–437. doi:10.1056/NEJMoa2410027. Published online November 16, 2024. Primary PDF: `raw/2025-NEJM-Packer-SUMMIT_primary.pdf`.
+**Published.** Primary: Packer M, Zile MR, Kramer CM, et al. Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2025;392(5):427–437. doi:10.1056/NEJMoa2410027. Published online November 16, 2024. Primary PDF: `Packer2025SUMMIT`.
 
 ---
 
@@ -181,3 +181,8 @@ The original SUMMIT primary endpoint was a hierarchical composite (all-cause dea
 ## Contradictions
 
 **LV mass — tirzepatide (CMR) vs. semaglutide (echo):** SUMMIT CMR substudy: LV mass −11 g (P=0.004). STEP-HFpEF echocardiographic substudy: no LV mass change. Whether this reflects GIP co-agonism (additional to GLP-1) or CMR vs. echo measurement sensitivity is unresolved. See [[contradictions]].
+
+## References
+- Kramer CM, Borlaug BA, Zile MR, Ruff D, DiMaria JM, Menon V, Ou Y, Zarante AM, Hurt KC, Murakami M, Packer M; SUMMIT Trial Study Group. Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related Heart Failure: SUMMIT CMR Substudy. *J Am Coll Cardiol.* 2025;85(7):699–706. doi:[10.1016/j.jacc.2024.11.001](https://doi.org/10.1016/j.jacc.2024.11.001)
+- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2025;392(5):427–437. doi:[10.1056/NEJMoa2410027](https://doi.org/10.1056/NEJMoa2410027)
+- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure With Preserved Ejection Fraction and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)

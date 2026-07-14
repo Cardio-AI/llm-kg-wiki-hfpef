@@ -15,8 +15,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2024-JACC-Petrie-semaglutide_NT-proBNP_obesity_hfpef.pdf
-  citekey: petrie2024stephfpef
+- citekey: petrie2024stephfpef
+  doi: 10.1016/j.jacc.2024.04.022
 page-type: source-summary-page
 ---
 # Petrie 2024 — Semaglutide and NT-proBNP in STEP-HFpEF Program
@@ -24,13 +24,13 @@ page-type: source-summary-page
 > Semaglutide reduced NT-proBNP by 18% vs. placebo (ETR 0.82; P=0.0002) in obesity-related HFpEF; reduction was weight-loss-independent, suggesting direct HF disease-modifying effects; patients with higher baseline NT-proBNP derived greater symptomatic benefit.
 
 **Full citation:**
-Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Perna E, Sharma K, Lelonek M, Kosiborod MN, and the STEP-HFpEF Trial Committees and Investigators. Semaglutide and NT-proBNP in Obesity-Related HFpEF: Insights From the STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)
+Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Perna E, Sharma K, Lelonek M, Kosiborod MN; STEP-HFpEF Trial Committees and Investigators. Semaglutide and NT-proBNP in obesity-related heart failure with preserved ejection fraction: insights from the STEP-HFpEF program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)
 
 ---
 
 ## Summary
 
-Prespecified secondary analysis of the STEP-HFpEF program (pooled STEP-HFpEF NCT04788511 and STEP-HFpEF DM NCT04916470; N=1,145 total). Examined: (1) whether semaglutide 2.4 mg reduces NT-proBNP; (2) whether NT-proBNP reduction is independent of weight loss; (3) whether baseline NT-proBNP level modifies treatment effects on the primary endpoints (KCCQ-CSS and body weight). (source: raw/2024-JACC-Petrie-semaglutide_NT-proBNP_obesity_hfpef.pdf)
+Prespecified secondary analysis of the STEP-HFpEF program (pooled STEP-HFpEF NCT04788511 and STEP-HFpEF DM NCT04916470; N=1,145 total). Examined: (1) whether semaglutide 2.4 mg reduces NT-proBNP; (2) whether NT-proBNP reduction is independent of weight loss; (3) whether baseline NT-proBNP level modifies treatment effects on the primary endpoints (KCCQ-CSS and body weight). (source: petrie2024stephfpef)
 
 ## Design
 

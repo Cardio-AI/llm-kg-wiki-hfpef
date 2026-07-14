@@ -17,16 +17,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-19
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-  citekey: Heidenreich2022AHA
-- file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
-  citekey: Ferreira2026Emperor
-- file: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP...pdf
-  citekey: ammar2025bnp
-- file: raw/2026-IJCARD-Hage-total_NT-proBNP_in_hf.pdf
-  citekey: hage2026ntprobnp
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: Heidenreich2022AHA
+  doi: 10.1161/CIR.0000000000001063
+- citekey: Ferreira2026Emperor
+  doi: 10.1016/j.jchf.2025.102889
+- citekey: ammar2025bnp
+  doi: null  # needs source — see wiki/citations-doi-review.md
+- citekey: hage2026ntprobnp
+  doi: 10.1016/j.ijcard.2026.134554
 page-type: concept-page
 ---
 # Natriuretic Peptides
@@ -50,11 +50,11 @@ page-type: concept-page
 
 ## Mechanism
 
-BNP (B-type natriuretic peptide) and NT-proBNP (N-terminal pro-BNP) are secreted by ventricular cardiomyocytes in response to elevated wall stress (volume and pressure overload). They promote natriuresis and vasodilation as a compensatory response. MR-proANP (<40 pmol/L makes HF unlikely) is an alternative. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+BNP (B-type natriuretic peptide) and NT-proBNP (N-terminal pro-BNP) are secreted by ventricular cardiomyocytes in response to elevated wall stress (volume and pressure overload). They promote natriuresis and vasodilation as a compensatory response. MR-proANP (<40 pmol/L makes HF unlikely) is an alternative. (source: McDonagh2021ESC)
 
 ## Clinical Relevance
 
-**ESC 2021 Recommendation:** BNP/NT-proBNP is **Class I, Level B** in all patients with suspected chronic HF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+**ESC 2021 Recommendation:** BNP/NT-proBNP is **Class I, Level B** in all patients with suspected chronic HF. (source: McDonagh2021ESC)
 
 ### Diagnostic Thresholds (Non-Acute Setting)
 
@@ -63,10 +63,10 @@ BNP (B-type natriuretic peptide) and NT-proBNP (N-terminal pro-BNP) are secreted
 | BNP | ≥35 pg/mL | ≥105 pg/mL |
 | NT-proBNP | ≥125 pg/mL | ≥365 pg/mL |
 
-Values **below** these thresholds make HF unlikely (NPV 0.94–0.98 in primary care studies). (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+Values **below** these thresholds make HF unlikely (NPV 0.94–0.98 in primary care studies). (source: McDonagh2021ESC)
 
 ### Specific Role in HFpEF Diagnosis
-In [[hfpef-diagnosis]], NPs serve as one of several markers in Table 9. However, **up to 20% of patients with invasively proven HFpEF have NPs below diagnostic thresholds**, particularly in obesity, where NP concentrations may be disproportionately low due to increased adipose tissue degradation. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+In [[hfpef-diagnosis]], NPs serve as one of several markers in Table 9. However, **up to 20% of patients with invasively proven HFpEF have NPs below diagnostic thresholds**, particularly in obesity, where NP concentrations may be disproportionately low due to increased adipose tissue degradation. (source: McDonagh2021ESC)
 
 A low NP in an obese patient does **not** exclude HFpEF — clinical suspicion must remain elevated.
 
@@ -74,22 +74,22 @@ A low NP in an obese patient does **not** exclude HFpEF — clinical suspicion m
 **Cardiac:** ACS, pulmonary embolism, myocarditis, LVH, arrhythmias, valvular disease, pulmonary hypertension, ICD shock
 **Non-cardiac:** Advanced age, ischaemic stroke, renal dysfunction, liver cirrhosis (with ascites), COPD, severe infections, burns, anaemia, thyrotoxicosis, diabetic ketosis
 
-These reduce diagnostic specificity and must be considered when interpreting elevated NP levels. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+These reduce diagnostic specificity and must be considered when interpreting elevated NP levels. (source: McDonagh2021ESC)
 
 ## History
 
 - **Pre-2000s** — BNP and NT-proBNP identified as markers of ventricular wall stress and HF severity
-- **2016–2021** — ESC Guidelines established specific AF-adjusted thresholds and noted the obesity limitation; NPs integrated into multi-marker HFpEF diagnostic algorithms (HFA-PEFF, H₂FPEF) (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **2016–2021** — ESC Guidelines established specific AF-adjusted thresholds and noted the obesity limitation; NPs integrated into multi-marker HFpEF diagnostic algorithms (HFA-PEFF, H₂FPEF) (source: McDonagh2021ESC)
 
 [expand as sources added]
 
 ## Evidence
 
-**Prognostic role:** NPs are strong prognostic markers in HF. NP-guided titration of HF therapy has not been shown superior to guideline-recommended therapy; Class 2a (AHA 2022) for outpatient HFrEF management only, limited HFpEF data. (source: 2021-ESC-Guidelines-Heart-Failure.pdf; source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+**Prognostic role:** NPs are strong prognostic markers in HF. NP-guided titration of HF therapy has not been shown superior to guideline-recommended therapy; Class 2a (AHA 2022) for outpatient HFrEF management only, limited HFpEF data. (source: McDonagh2021ESC; source: Heidenreich2022AHA)
 
-**NP thresholds in clinical trials:** EMPEROR-Preserved used NT-proBNP ≥300 pg/mL (no AF) / ≥900 pg/mL (with AF) — intentionally enriching for patients with definite haemodynamic abnormality. The higher threshold in AF patients reflects the fact that AF per se elevates NP via atrial stretch, requiring a stricter cut-off to confirm genuine HFpEF-driven elevation. (source: 2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf)
+**NP thresholds in clinical trials:** EMPEROR-Preserved used NT-proBNP ≥300 pg/mL (no AF) / ≥900 pg/mL (with AF) — intentionally enriching for patients with definite haemodynamic abnormality. The higher threshold in AF patients reflects the fact that AF per se elevates NP via atrial stretch, requiring a stricter cut-off to confirm genuine HFpEF-driven elevation. (source: Ferreira2026Emperor)
 
-**Additional biomarkers endorsed by AHA 2022:** Soluble ST2 and galectin-3: Class 2b — additive prognostic value in chronic HF but not routinely used diagnostically. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+**Additional biomarkers endorsed by AHA 2022:** Soluble ST2 and galectin-3: Class 2b — additive prognostic value in chronic HF but not routinely used diagnostically. (source: Heidenreich2022AHA)
 
 ### NT-proBNP Glycosylation — The tNT-proBNP Problem (Hage 2026)
 
@@ -127,7 +127,12 @@ HFpEF has a **lower ratio** = more glycosylation than HFrEF. In HFpEF, high glyc
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[ferreira2026emperor]], [[ammar2025bnp]], [[hage2026ntprobnp]]
 
 ## Contradictions
-- NPs are falsely low in obesity (reduced sensitivity in HFpEF) and falsely elevated in many non-HF conditions — the window of diagnostic reliability is narrower in HFpEF than in HFrEF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- NPs are falsely low in obesity (reduced sensitivity in HFpEF) and falsely elevated in many non-HF conditions — the window of diagnostic reliability is narrower in HFpEF than in HFrEF. (source: McDonagh2021ESC)
 - **tNT-proBNP vs. standard NT-proBNP (Hage 2026):** tNT-proBNP numerically superior in AUROC and HFpEF prognosis, but differences non-significant in small cohorts. The glycosylation hypothesis is mechanistically plausible but requires prospective clinical validation before changing practice. See [[contradictions]].
 
 See [[contradictions]].
+
+## References
+- Ferreira JP, Butler J, Zannad F, et al. Serum magnesium and empagliflozin effects in patients with heart failure with preserved ejection fraction: findings from EMPEROR-Preserved. *JACC Heart Fail.* 2026. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
+- Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

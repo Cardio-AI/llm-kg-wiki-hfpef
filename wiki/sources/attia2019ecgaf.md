@@ -15,15 +15,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2019-LANCET-Attia-AI_ecg_af.pdf
-  citekey: attia2019ecgaf
+- citekey: attia2019ecgaf
+  doi: 10.1016/S0140-6736(19)31721-0
 page-type: source-summary-page
 ---
 # An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm
 
 > **NOT an HFpEF study.** A convolutional neural network trained on sinus-rhythm ECGs detects patients with paroxysmal atrial fibrillation (AUC 0.87 per ECG, 0.90 per patient), revealing the structural atrial "signature" of AF-prone patients — methodology foundational for ECG-AI applied to HFpEF.
 
-**File:** `raw/2019-LANCET-Attia-AI_ecg_af.pdf` · **Authors:** Attia ZI et al. · **Year:** 2019 · **Journal:** Lancet 394(10201):861–867
+**Full citation:**
+Attia ZI, Noseworthy PA, Lopez-Jimenez F, Asirvatham SJ, Deshmukh AJ, Gersh BJ, Carter RE, Yao X, Rabinstein AA, Erickson BJ, Kapa S, Friedman PA. An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction. *Lancet.* 2019;394(10201):861–867. doi:[10.1016/S0140-6736(19)31721-0](https://doi.org/10.1016/S0140-6736(19)31721-0)
 
 ---
 

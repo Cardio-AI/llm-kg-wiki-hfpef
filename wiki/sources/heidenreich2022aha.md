@@ -16,15 +16,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-  citekey: Heidenreich2022AHA
+- citekey: Heidenreich2022AHA
+  doi: 10.1161/CIR.0000000000001063
 page-type: source-summary-page
 ---
 # 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure
 
 > Comprehensive US guideline update incorporating EMPEROR-Preserved and DELIVER results; introduces HFimpEF as a fourth EF category, elevates SGLT2i to Class 2a for HFpEF, formalises an A–D staging system, and provides the first guideline-level HFpEF pharmacotherapy recommendations beyond diuretics.
 
-**File:** `raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf` · **Authors:** Heidenreich PA et al. · **Year:** 2022 · **Journal:** Circulation 2022;145:e895–e1032
+**Full citation:**
+Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
 
 ---
 
@@ -41,7 +42,7 @@ The AHA 2022 guideline retains the ESC 2021 three-way classification and adds a 
 | HFpEF | ≥50% | Preserved; diagnosed by elevated LV filling pressures |
 | **HFimpEF** | **≥40% (recovered from ≤40%)** | **New category; prior HFrEF now showing EF recovery; continuation of neurohormonal therapy recommended** |
 
-HFimpEF is conceptually important: it clarifies that EF recovery does not equal cure and that HFrEF disease-modifying therapy should continue even after EF normalisation. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+HFimpEF is conceptually important: it clarifies that EF recovery does not equal cure and that HFrEF disease-modifying therapy should continue even after EF normalisation. (source: Heidenreich2022AHA)
 
 ### HFpEF Definition
 
@@ -50,7 +51,7 @@ AHA 2022 requires **all three** for HFpEF diagnosis:
 2. LVEF ≥50%
 3. **Evidence of elevated LV filling pressures** — either by invasive measurement or by echocardiographic surrogates (E/e' ratio, PA systolic pressure, left atrial enlargement)
 
-This is more hemodynamically explicit than ESC 2021, which formally requires a structural or functional abnormality (Table 9) but without mandating demonstrated filling pressure elevation. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+This is more hemodynamically explicit than ESC 2021, which formally requires a structural or functional abnormality (Table 9) but without mandating demonstrated filling pressure elevation. (source: Heidenreich2022AHA)
 
 ### A–D Staging System (Table 3)
 
@@ -61,7 +62,7 @@ This is more hemodynamically explicit than ESC 2021, which formally requires a s
 | C | Symptomatic HF | Current or prior symptoms of HF |
 | D | Advanced HF | Severely reduced quality of life despite maximal therapy; recurrent hospitalizations; INTERMACS profiles 1–6 |
 
-Stage A reflects primary prevention framing: aggressively treat hypertension, diabetes, and obesity before structural disease develops. Stage B introduces the concept of "pre-HF" which has no ESC 2021 analogue at the same granularity. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+Stage A reflects primary prevention framing: aggressively treat hypertension, diabetes, and obesity before structural disease develops. Stage B introduces the concept of "pre-HF" which has no ESC 2021 analogue at the same granularity. (source: Heidenreich2022AHA)
 
 ### HFpEF Pharmacotherapy (Section 7.7, Figure 12)
 
@@ -74,11 +75,11 @@ Stage A reflects primary prevention framing: aggressively treat hypertension, di
 | Diuretics | I | C | Symptom relief only |
 | Comorbidity treatment | I | C | Hypertension, AF, obesity, T2DM |
 
-**SGLT2i Class 2a** is the headline change from ESC 2021. AHA 2022 incorporated EMPEROR-Preserved (2021) and DELIVER (2022) data, both of which were after ESC 2021's publication cutoff. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+**SGLT2i Class 2a** is the headline change from ESC 2021. AHA 2022 incorporated EMPEROR-Preserved (2021) and DELIVER (2022) data, both of which were after ESC 2021's publication cutoff. (source: Heidenreich2022AHA)
 
 ### H₂FPEF Diagnostic Score
 
-Six-item probability score (0–9) endorsed for pre-test HFpEF likelihood. Full scoring table → [[hfpef-diagnosis]] (canonical). Items: BMI >30 (2 pts), AF (3 pts), age >60 (1 pt), ≥2 antihypertensives (1 pt), E/e' >9 (1 pt), PA systolic >35 mmHg (1 pt). Score ≤1: low; ≥6: high; 2–5: stress testing or invasive evaluation warranted. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+Six-item probability score (0–9) endorsed for pre-test HFpEF likelihood. Full scoring table → [[hfpef-diagnosis]] (canonical). Items: BMI >30 (2 pts), AF (3 pts), age >60 (1 pt), ≥2 antihypertensives (1 pt), E/e' >9 (1 pt), PA systolic >35 mmHg (1 pt). Score ≤1: low; ≥6: high; 2–5: stress testing or invasive evaluation warranted. (source: Heidenreich2022AHA)
 
 ### Biomarkers (Section 4.2)
 
@@ -107,7 +108,7 @@ Six-item probability score (0–9) endorsed for pre-test HFpEF likelihood. Full 
 
 ### Exercise Training
 
-- Class I, Level A for exercise training in symptomatic HF (EF-agnostic): reduces hospitalization and improves functional capacity. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+- Class I, Level A for exercise training in symptomatic HF (EF-agnostic): reduces hospitalization and improves functional capacity. (source: Heidenreich2022AHA)
 
 ---
 

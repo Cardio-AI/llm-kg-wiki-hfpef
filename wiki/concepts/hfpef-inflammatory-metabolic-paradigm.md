@@ -13,12 +13,12 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf
-    citekey: Fu2024Inflammation
-  - file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-    citekey: Paulus2013NovelParadigm
-  - file: raw/2023-CirculationAHA-Anker-HFpEF-phenotype.pdf
-    citekey: Anker2023HFpEFPhenotype
+  - citekey: Fu2024Inflammation
+    doi: 10.3389/fcvm.2024.1461073
+  - citekey: Paulus2013NovelParadigm
+    doi: 10.1016/j.jacc.2013.02.092
+  - citekey: Anker2023HFpEFPhenotype
+    doi: 10.1002/ejhf.2894
 ---
 
 # HFpEF Inflammatory-Metabolic Paradigm

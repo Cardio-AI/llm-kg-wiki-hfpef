@@ -17,9 +17,8 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics
-    in Patients With HFpEF.md
-  citekey: NCT03251183
+- citekey: NCT03251183
+  doi: null  # trial registry entry, no DOI — see https://clinicaltrials.gov/study/NCT03251183
 page-type: entity-page
 ---
 # DECIPHER-HFpEF
@@ -99,7 +98,7 @@ page-type: entity-page
 - Previous documented LVEF <45%
 - Confirmed specific myocardial diagnosis (amyloid, ischaemic disease, valvular disease) — excludes mimics
 
-(source: raw/Study - NCT03251183  Validation of CMR Against Invasive Haemodynamics in Patients With HFpEF.md)
+(source: NCT03251183, see https://clinicaltrials.gov/study/NCT03251183)
 
 ---
 

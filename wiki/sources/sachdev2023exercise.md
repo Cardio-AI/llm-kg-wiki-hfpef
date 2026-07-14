@@ -17,15 +17,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-  citekey: Sachdev2023Exercise
+- citekey: Sachdev2023Exercise
+  doi: 10.1161/CIR.0000000000001122
 page-type: source-summary-page
 ---
 # Sachdev 2023 — Exercise Training in HFpEF (AHA Scientific Statement)
 
 > Meta-analysis of 8 RCTs (n=503) finds supervised exercise training improves peak VO2 by 2.8 mL/kg/min in HFpEF; skeletal muscle myopathy is the primary driver of exercise intolerance; 2022 AHA/ACC guidelines give exercise a Class I, Level A recommendation across all HF phenotypes.
 
-**File:** `raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf` · **Authors:** Sachdev V et al. · **Year:** 2023 · **Journal/Source:** Circulation (AHA Scientific Statement)
+**Full citation:**
+Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)
 
 ---
 
@@ -43,7 +44,7 @@ Meta-analysis of 8 RCTs (n=503, HFpEF with LVEF ≥45–50%) comparing [[supervi
 
 Both HIIT (high-intensity interval training) and MCT (moderate-intensity continuous training) are effective; no head-to-head superiority established. Safety confirmed across 276 patients: no major adverse cardiac events attributed to exercise training.
 
-Hard outcomes (all-cause mortality, HF hospitalization): **unknown** — individual trials are underpowered; pooled evidence insufficient. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+Hard outcomes (all-cause mortality, HF hospitalization): **unknown** — individual trials are underpowered; pooled evidence insufficient. (source: Sachdev2023Exercise)
 
 ### Mechanisms of Exercise Intolerance in HFpEF
 
@@ -57,7 +58,7 @@ Hard outcomes (all-cause mortality, HF hospitalization): **unknown** — individ
 
 4. **Peripheral vascular:** Impaired arteriolar vasodilation reduces skeletal muscle perfusion during exercise.
 
-Exercise training primarily reverses skeletal muscle myopathy (mechanism 1) — this explains why SET is effective even without major reductions in filling pressures. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+Exercise training primarily reverses skeletal muscle myopathy (mechanism 1) — this explains why SET is effective even without major reductions in filling pressures. (source: Sachdev2023Exercise)
 
 ### Guideline Status
 

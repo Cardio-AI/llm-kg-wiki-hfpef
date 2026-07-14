@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2016-LANCET-Abraham-CHAMPION_stud_follow-up.pdf
-  citekey: abraham2016champion
+- citekey: abraham2016champion
+  doi: 10.1016/S0140-6736(15)01001-1
 page-type: source-summary-page
 ---
 # CHAMPION Trial: Complete Follow-Up and Open-Access Results
 
 > CHAMPION complete follow-up (n=550): haemodynamic-guided therapy (CardioMEMS PA pressure monitoring) reduced HF admissions by 33% during randomised-access period (HR 0.67, P<0.0001); former control patients given open access achieved 48% reduction (HR 0.52, P<0.0001) — sustained, dose-dependent benefit confirms haemodynamic monitoring as an effective intervention targeting the HFpEF substrate of elevated LA/PA pressures.
 
-**File:** `raw/2016-LANCET-Abraham-CHAMPION_stud_follow-up.pdf` · **Authors:** Abraham WT, Stevenson LW, Bourge RC, Lindenfeld JA, Bauman JG, Adamson PB · **Year:** 2016 · **Journal:** The Lancet 387(10017):453–461
+**Full citation:**
+Abraham WT, Stevenson LW, Bourge RC, Lindenfeld JA, Bauman JG, Adamson PB; CHAMPION Trial Study Group. Sustained efficacy of pulmonary artery pressure to guide adjustment of chronic heart failure therapy: complete follow-up results from the CHAMPION randomised trial. *Lancet.* 2016;387(10017):453–461. doi:[10.1016/S0140-6736(15)01001-1](https://doi.org/10.1016/S0140-6736(15)01001-1)
 
 ---
 

@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2014-CirculationAHA-Shah-Phenomapping.pdf
-    citekey: Shah2014Phenomapping
-  - file: raw/2023-CirculationAHA-Anker-HFpEF-phenotype.pdf
-    citekey: Anker2023HFpEFPhenotype
+  - citekey: Shah2014Phenomapping
+    doi: null  # needs source — see wiki/citations-doi-review.md
+  - citekey: Anker2023HFpEFPhenotype
+    doi: 10.1002/ejhf.2894
 ---
 
 # HFpEF Phenotypes

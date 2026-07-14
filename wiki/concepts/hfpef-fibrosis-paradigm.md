@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2022-JACC-Arnold-DIAMOND-HFpEF_study_cmd_in_hfpef.pdf
-    citekey: Arnold2022DIAMOND
-  - file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-    citekey: Paulus2013NovelParadigm
+  - citekey: Arnold2022DIAMOND
+    doi: 10.1016/j.jcmg.2021.10.002
+  - citekey: Paulus2013NovelParadigm
+    doi: 10.1016/j.jacc.2013.02.092
 ---
 
 # HFpEF Fibrosis Paradigm

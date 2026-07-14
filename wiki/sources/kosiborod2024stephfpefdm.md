@@ -19,15 +19,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2024-NEJM-Kosiborod-STEP-HFpEF_study.pdf
-  citekey: Kosiborod2024STEPHFPEFDM
+- citekey: Kosiborod2024STEPHFPEFDM
+  doi: 10.1056/NEJMoa2313307
 page-type: source-summary-page
 ---
 # STEP-HFpEF DM — Semaglutide in Obese HFpEF with T2DM (Kosiborod 2024)
 
 > Semaglutide 2.4 mg improved HF symptoms (KCCQ-CSS +7.3 pts difference vs. placebo; P<0.001), reduced body weight (−6.4 percentage points; P<0.001), improved 6MWD (+14.3 m; P=0.008), reduced CRP (ratio 0.67; P<0.001), and improved hierarchical composite (win ratio 1.58, 1.29–1.94; P<0.001) in obese HFpEF patients with T2DM — the companion trial to STEP-HFpEF (non-DM), together establishing GLP-1RA as effective across the obese HFpEF spectrum regardless of T2DM status.
 
-**File:** `raw/2024-NEJM-Kosiborod-STEP-HFpEF_study.pdf` · **Authors:** Kosiborod MN, Petrie MC, Borlaug BA, Butler J, Davies MJ, Hovingh GK, Kitzman DW, Lindegaard ML, Møller DV, de Boer RA, Shah SJ, Jhund PS, Desai AS, Lam CSP, McMurray JJV, and others for the STEP-HFpEF DM Trial Committees and Investigators  
+**Full citation:**
+Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF DM Trial Committees and Investigators. Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes. *N Engl J Med.* 2024;390(15):1394–1407. doi:[10.1056/NEJMoa2313307](https://doi.org/10.1056/NEJMoa2313307)
 **Year:** 2024 · **Journal:** N Engl J Med 2024;390:1394–1407 · **DOI:** 10.1056/NEJMoa2313917 · **Published:** April 6, 2024  
 **ClinicalTrials.gov:** NCT04916470 · **Funded by:** Novo Nordisk  
 **Study type:** Phase 3, double-blind, placebo-controlled, randomised RCT · **N:** 616 randomised (semaglutide 310; placebo 306); enrolled at 108 sites in 16 countries  

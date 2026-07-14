@@ -17,15 +17,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2025-JCF-Docherty-DETERIMINE_wearables_physical_activity.pdf
-  citekey: Docherty2025DETERMINE
+- citekey: Docherty2025DETERMINE
+  doi: 10.1016/j.cardfail.2024.10.439
 page-type: source-summary-page
 ---
 # DETERMINE Accelerometry Substudy
 
 > In the DETERMINE trials, wearable accelerometer measures of physical activity correlated only weakly with KCCQ scores (r=0.06–0.21) and weakly-to-moderately with 6MWD (r=0.20–0.31), indicating that accelerometers, 6MWD, and patient-reported outcomes measure distinct dimensions of functional limitation in heart failure.
 
-**File:** `raw/2025-JCF-Docherty-DETERIMINE_wearables_physical_activity.pdf` · **Authors:** Docherty KF et al. · **Year:** 2025 · **Journal:** J Cardiac Fail 31:689–703  
+**Full citation:**
+Docherty KF, Buendia Lopez R, Folkvaljon F, et al. Wearable Accelerometer-Derived Measures of Physical Activity in Heart Failure: Insights From the DETERMINE trials. *J Card Fail.* 2025;31(4):689–703. doi:[10.1016/j.cardfail.2024.10.439](https://doi.org/10.1016/j.cardfail.2024.10.439)
 **DOI:** 10.1016/j.cardfail.2024.10.439  
 **Study type:** Prospective observational substudy (nested within DETERMINE RCTs)  
 **N:** 319 with adequate baseline accelerometer data (of 817 randomised); 107 DETERMINE-Reduced, 212 DETERMINE-Preserved  

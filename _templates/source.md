@@ -10,14 +10,15 @@ tags:
 created: 
 last_updated: 
 sources:
-  - file: raw/
-    citekey: 
+  - citekey: 
+    doi: 
 ---
 # [Title]
 
 > One-sentence summary of the paper's core claim.
 
-**File:** `raw/filename.pdf` · **Authors:** · **Year:** · **Journal/Source:**
+**Full citation:**
+<Authors. Title. *Journal.* Year;vol(iss):pages. doi:[10.xxxx](https://doi.org/10.xxxx)>
 
 ---
 

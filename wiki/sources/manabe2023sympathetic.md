@@ -16,8 +16,8 @@ tags:
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
-- file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
-  citekey: manabe2023sympathetic
+- citekey: manabe2023sympathetic
+  doi: 10.3389/fcvm.2023.1148324
   zotero: unverified
 page-type: source-summary-page
 ---
@@ -25,7 +25,8 @@ page-type: source-summary-page
 
 > During dynamic exercise, HFpEF patients exhibit excessive sympathetically-mediated vasoconstriction — greater than both HFrEF and non-HF controls — which accounts for the exaggerated BP response and reduced skeletal muscle blood flow; during static exercise, sympathetic responses are similar to non-HF controls, implicating other mechanisms.
 
-**File:** `raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf` · **Authors:** Manabe K, D'Souza AW, Washio T, Takeda R, Hissen SL, Akins JD, Fu Q · **Year:** 2023 · **Journal:** Front Cardiovasc Med 10:1148324 (mini review)
+**Full citation:**
+Manabe K, D'Souza AW, Washio T, Takeda R, Hissen SL, Akins JD, Fu Q. Sympathetic and Hemodynamic Responses to Exercise in Heart Failure With Preserved Ejection Fraction. *Front Cardiovasc Med.* 2023;10:1148324. doi:[10.3389/fcvm.2023.1148324](https://doi.org/10.3389/fcvm.2023.1148324)
 
 ---
 

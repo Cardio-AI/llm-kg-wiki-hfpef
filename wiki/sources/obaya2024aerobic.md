@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
-  citekey: obaya2024aerobic
+- citekey: obaya2024aerobic
+  doi: 10.1002/pri.2044
 page-type: source-summary-page
 ---
 # Upper vs Lower Limb Aerobic Training in HFpEF
 
 > RCT (n=40, 12 weeks): lower-limb aerobic training (cycling) produced significantly greater VO₂ improvement than upper-limb training (arm ergometer) in HFpEF (21.51 vs 19.26 mL/kg/min post-training, P<0.001 between groups); LVEF unchanged in both groups — supporting lower-limb modality preference and confirming that exercise benefit in HFpEF is peripheral, not cardiac systolic.
 
-**File:** `raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf` · **Authors:** Obaya A et al. · **Year:** 2024 · **Journal:** Physiotherapy Research International, DOI: 10.1002/pri.2044
+**Full citation:**
+Obaya A, et al. Effects of Aerobic Training Modality on Peak VO₂ and Ejection Fraction in Heart Failure with Preserved Ejection Fraction. *Physiother Res Int.* 2024. doi:[10.1002/pri.2044](https://doi.org/10.1002/pri.2044)
 
 ---
 

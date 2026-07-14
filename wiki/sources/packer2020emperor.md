@@ -15,15 +15,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2020-NEJM-Packer-EMPEROR-Reduced_study.pdf
-  citekey: Packer2020EMPEROR
+- citekey: Packer2020EMPEROR
+  doi: 10.1056/NEJMoa2022190
 page-type: source-summary-page
 ---
 # EMPEROR-Reduced
 
 > Empagliflozin 10 mg/day reduced CV death + HF hospitalisation by 25% (HR 0.75 [0.65–0.86] P<0.001) in HFrEF regardless of diabetes status (DM HR 0.72; non-DM HR 0.78); eGFR decline slowed by +1.73 mL/min/1.73m²/yr (P<0.001) with structural renal protection confirmed by discontinuation analysis; composite renal outcome HR 0.50 (0.32–0.77); CV death HR 0.92 NS; NNT=19; enriched for severe systolic dysfunction (71.8% LVEF ≤30%, median NT-proBNP 1887 pg/mL); LVEF >30% subgroup HR 0.99 — possible EF-gradient even within HFrEF spectrum.
 
-**File:** `raw/2020-NEJM-Packer-EMPEROR-Reduced_study.pdf` · **Authors:** Packer M, Anker SD, Butler J et al. · **Year:** 2020 · **Journal:** NEJM 383(15):1413–1424  
+**Full citation:**
+Packer M, Anker SD, Butler J, et al.; EMPEROR-Reduced Trial Investigators. Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure. *N Engl J Med.* 2020;383(15):1413–1424. doi:[10.1056/NEJMoa2022190](https://doi.org/10.1056/NEJMoa2022190)
 **Study type:** RCT (placebo-controlled) · **N:** 3,730 randomised (empagliflozin 1,863; placebo 1,867) · **Population:** HFrEF, LVEF ≤40%, NYHA II–IV, eGFR ≥20, enriched for low LVEF + high NT-proBNP  
 **Follow-up:** Median 16 months (data cutoff April 29, 2020) · **Intervention:** Empagliflozin 10 mg once daily vs. placebo  
 **Primary outcome:** CV death or hospitalisation for worsening HF (time to first event)  

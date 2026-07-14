@@ -15,10 +15,10 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-19
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2025-HeartFailRev-Upadhya-role_echocradiography_hfpef.pdf
-  citekey: upadhya2025echo
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: upadhya2025echo
+  doi: 10.1007/s10741-025-10516-z
 page-type: entity-page
 ---
 # Echocardiography
@@ -47,7 +47,7 @@ Echocardiography uses ultrasound to generate real-time cardiac images. Standard 
 - **Structure:** LV mass index, relative wall thickness, LA size, valvular morphology and function
 - **Haemodynamics:** Estimated pulmonary artery pressures (from TR velocity), inferior vena cava collapsibility
 
-Transoesophageal echocardiography (TOE) provides higher-resolution imaging when TTE windows are inadequate. Stress echocardiography allows assessment of exercise-induced filling pressure elevation. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+Transoesophageal echocardiography (TOE) provides higher-resolution imaging when TTE windows are inadequate. Stress echocardiography allows assessment of exercise-induced filling pressure elevation. (source: McDonagh2021ESC)
 
 ## Role in HFpEF
 
@@ -69,7 +69,7 @@ Key markers from ESC 2021 Table 9:
 | TR velocity | >2.8 m/s |
 | LV GLS (stress echo) | <16% (sens 62%, spec 56%) |
 
-(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+(source: McDonagh2021ESC)
 
 ## Advanced Parameters and LA Strain (Upadhya 2025)
 
@@ -143,7 +143,7 @@ E/e' >14 has high specificity but low sensitivity at rest; during exercise, the 
 - GLS and LASr require speckle tracking — not universally feasible or reproducible
 - E/e' has only moderate diagnostic accuracy at low thresholds; high-specificity thresholds (>15) have poor sensitivity (~24%)
 
-(source: [[upadhya2025echo]], 2021-ESC-Guidelines-Heart-Failure.pdf)
+(source: [[upadhya2025echo]], McDonagh2021ESC)
 
 ## Status
 
@@ -158,7 +158,10 @@ E/e' >14 has high specificity but low sensitivity at rest; during exercise, the 
 - Sources: [[mcdonagh2021esc]], [[upadhya2025echo]], [[reddy2018h2fpef]], [[pieske2019hfapeff]]
 
 ## Contradictions
-- LVEF inter-observer variability: a patient with true LVEF ~50% may be classified as HFrEF, HFmrEF, or HFpEF depending on technique and observer. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- LVEF inter-observer variability: a patient with true LVEF ~50% may be classified as HFrEF, HFmrEF, or HFpEF depending on technique and observer. (source: McDonagh2021ESC)
 - **LASr vs. TRV hierarchy (Upadhya 2025):** LASr argued superior to TRV for LVFP estimation; the 2016 algorithm weights them equally. EACVI 2022 includes LASr as a substitute when other criteria are discordant — evolving consensus, not a hard contradiction. See [[contradictions]].
 
 See [[contradictions]].
+
+## References
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

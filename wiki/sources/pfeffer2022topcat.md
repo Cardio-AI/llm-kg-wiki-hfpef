@@ -12,15 +12,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2022-NEJM-Pfeffer-TOPCAT_behind_scenes.pdf
-  citekey: pfeffer2022topcat
+- citekey: pfeffer2022topcat
+  doi: 10.1056/EVIDctcs2100007
 page-type: source-summary-page
 ---
 # Behind the Scenes of TOPCAT — Bending to Inform
 
 > First-person narrative by the TOPCAT principal investigators explaining how post-hoc analyses revealed that data from Russia and Georgia were unreliable, and how Americas-only analysis supports spironolactone benefit in HFpEF.
 
-**File:** `raw/2022-NEJM-Pfeffer-TOPCAT_behind_scenes.pdf` · **Authors:** Pfeffer MA, Claggett B · **Year:** 2022 · **Journal:** NEJM Evidence 1(1)
+**Full citation:**
+Pfeffer MA, Claggett B. Behind the Scenes of TOPCAT — Bending to Inform. *NEJM Evidence.* 2022;1(1). doi:[10.1056/EVIDctcs2100007](https://doi.org/10.1056/EVIDctcs2100007)
 
 ---
 

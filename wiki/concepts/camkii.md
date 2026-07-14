@@ -13,8 +13,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2023-MDPIBioMed-Wester-sleep-disordered_breathing_hfpef_insights.pdf
-    citekey: Wester2023SDB
+  - citekey: Wester2023SDB
+    doi: 10.3390/biomedicines11113038
 ---
 
 # CaMKII in HFpEF

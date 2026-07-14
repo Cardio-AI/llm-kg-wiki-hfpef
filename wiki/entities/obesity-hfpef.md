@@ -16,12 +16,12 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
-  citekey: Kosiborod2023STEPHFPEF
-- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-  citekey: Anker2023HFpEFPhenotype
-- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-  citekey: borlaug2023statement
+- citekey: Kosiborod2023STEPHFPEF
+  doi: 10.1056/NEJMoa2306963
+- citekey: Anker2023HFpEFPhenotype
+  doi: 10.1002/ejhf.2894
+- citekey: borlaug2023statement
+  doi: 10.1016/j.jacc.2023.01.049
 page-type: entity-page
 ---
 # Obesity in HFpEF

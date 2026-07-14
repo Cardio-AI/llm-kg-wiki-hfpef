@@ -16,8 +16,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf
-  citekey: Edelmann2013ALDODHF
+- citekey: Edelmann2013ALDODHF
+  doi: null  # needs source — see wiki/citations-doi-review.md
 page-type: entity-page
 ---
 # ALDO-DHF

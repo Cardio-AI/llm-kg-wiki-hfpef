@@ -17,15 +17,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
-  citekey: Ferreira2026Emperor
+- citekey: Ferreira2026Emperor
+  doi: 10.1016/j.jchf.2025.102889
 page-type: source-summary-page
 ---
 # EMPEROR-Preserved Magnesium Secondary Analysis (Ferreira 2026)
 
 > Secondary analysis of EMPEROR-Preserved showing that lower serum magnesium predicts worse HFpEF outcomes, empagliflozin raises serum Mg levels, and — paradoxically — patients with higher baseline Mg derive more empagliflozin benefit on the primary composite, suggesting Mg-related metabolic biology as a potential mechanistic pathway.
 
-**File:** `raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf` · **Authors:** Ferreira JP et al. · **Year:** 2026 · **Journal:** JACC Heart Failure  
+**Full citation:**
+Ferreira JP, Butler J, Zannad F, et al. Serum magnesium and empagliflozin effects in patients with heart failure with preserved ejection fraction: findings from EMPEROR-Preserved. *JACC Heart Fail.* 2026. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
 **Study type:** Secondary analysis (pre-specified) · **N:** 5,988 (EMPEROR-Preserved total) · **Population:** HFpEF/HFmrEF (LVEF >40%), NYHA II–IV, elevated NPs  
 **Follow-up:** ~26 months · **Intervention:** Empagliflozin 10 mg/day vs. placebo  
 **Primary outcome (EMPEROR-Preserved):** CV death + HF hospitalization
@@ -63,7 +64,7 @@ This is a **secondary/post-hoc analysis** of EMPEROR-Preserved (Anker 2021, NEJM
 | Structural/functional criteria | ≥1 echocardiographic criterion: LA enlargement (LA volume index >34 mL/m² or LA diameter >3.8 cm), or LV hypertrophy (septal or posterior wall ≥1.1 cm), or E/e' ≥10 |
 | eGFR | ≥20 mL/min/1.73m² |
 
-Note: The lower NT-proBNP threshold in AF patients reflects the well-known blunting of NP production by AF rate control/rapid ventricular response. (source: 2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf)
+Note: The lower NT-proBNP threshold in AF patients reflects the well-known blunting of NP production by AF rate control/rapid ventricular response. (source: Ferreira2026Emperor)
 
 **Exclusion criteria (key):**
 - Recent (≤90 days) ACS, stroke, or cardiac surgery
@@ -113,7 +114,7 @@ Note: The lower NT-proBNP threshold in AF patients reflects the well-known blunt
 - Patients in lowest Mg quintile: HR approximately 0.90–0.95 (least benefit)
 - P-interaction significant (see paper for exact p-value)
 
-(source: 2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf)
+(source: Ferreira2026Emperor)
 
 ---
 

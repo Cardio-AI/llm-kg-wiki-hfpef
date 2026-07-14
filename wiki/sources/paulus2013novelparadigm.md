@@ -20,15 +20,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-  citekey: Paulus2013NovelParadigm
+- citekey: Paulus2013NovelParadigm
+  doi: 10.1016/j.jacc.2013.02.092
 page-type: source-summary-page
 ---
 # Paulus & Tschöpe 2013 — Novel HFpEF Paradigm
 
 > Proposes a paradigm shift for HFpEF: from LV afterload excess → LV hypertrophy to comorbidities → systemic inflammation → coronary microvascular endothelial inflammation → ↓NO bioavailability → ↓cGMP → ↓PKG → titin hypophosphorylation + cardiomyocyte hypertrophy and stiffness → diastolic LV dysfunction.
 
-**File:** `raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf` · **Authors:** Walter J. Paulus (VU University Medical Center Amsterdam); Carsten Tschöpe (Charité Berlin) · **Year:** 2013 · **Journal:** J Am Coll Cardiol 2013;62(4):263–271 · **DOI:** 10.1016/j.jacc.2013.02.092  
+**Full citation:**
+Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)
 **Study type:** State-of-the-Art Paper and Commentary (mechanistic review)  
 **Supported by:** European Commission (FP7-Health-2010; MEDIA-261409)
 

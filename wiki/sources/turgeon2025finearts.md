@@ -17,15 +17,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2025-JCF-Turgeon-FINEARTS-HF_restoration_steroidal_mieralocorticoid.pdf
-  citekey: turgeon2025finearts
+- citekey: turgeon2025finearts
+  doi: 10.1016/j.cardfail.2024.09.011
 page-type: source-summary-page
 ---
 # FINEARTS Restoration: Revisiting the Role of Steroidal MRAs in HFmrEF/HFpEF
 
 > JCF Ignite! editorial using Bayesian re-analysis to argue that FINEARTS-HF proves a class effect of all MRAs in HFmrEF/HFpEF, and that spironolactone — despite TOPCAT's frequentist null result — is a viable option when finerenone is inaccessible (~24× cost difference).
 
-**File:** `raw/2025-JCF-Turgeon-FINEARTS-HF_restoration_steroidal_mieralocorticoid.pdf` · **Authors:** Turgeon RD, Beavers CJ · **Year:** 2025 · **Journal:** J Cardiac Failure 2025;31:603–605 · **DOI:** 10.1016/j.cardfail.2024.09.011
+**Full citation:**
+Turgeon RD, Beavers CJ. Restoration of steroidal mineralocorticoid receptor antagonist therapy in HFpEF: FINEARTS-HF data as a Bayesian prior. *J Card Fail.* 2025;31(3):603–605. doi:[10.1016/j.cardfail.2024.09.011](https://doi.org/10.1016/j.cardfail.2024.09.011)
 
 ---
 

@@ -16,15 +16,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
 page-type: source-summary-page
 ---
 # 2021 ESC Guidelines for Heart Failure
 
 > Comprehensive ESC clinical practice guidelines covering all HF phenotypes; landmark for adding SGLT2 inhibitors as a fourth pillar of HFrEF therapy and establishing the current diagnostic and therapeutic framework for HFpEF.
 
-**File:** `raw/2021-ESC-Guidelines-Heart-Failure.pdf` · **Authors:** McDonagh et al. · **Year:** 2021 · **Journal:** European Heart Journal (2021) 42, 3599–3726; doi:10.1093/eurheartj/ehab368
+**Full citation:**
+McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
 
 ---
 

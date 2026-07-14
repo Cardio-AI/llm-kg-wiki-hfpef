@@ -15,15 +15,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2006-CirculationAHA-Ahmed-DIG_HF.pdf
-  citekey: Ahmed2006DIG
+- citekey: Ahmed2006DIG
+  doi: 10.1161/CIRCULATIONAHA.105.601252
 page-type: source-summary-page
 ---
 # DIG-Preserved (Ancillary DIG Trial)
 
 > Digoxin reduced worsening HF hospitalisations (2y HR 0.66 P=0.012; overall HR 0.79 P=0.094 trend) but simultaneously increased unstable angina hospitalisations (2y HR 1.76 P=0.004), producing net null effect on primary composite (HF hosp + HF death: overall HR 0.82 [0.63–1.07] P=0.136) and no effect on mortality (all-cause HR 0.99, CV HR 1.00); 2-year pre-specified outcomes were significant (P=0.034/0.044) but attenuated over median 37-month follow-up; small N=988 (vs. CHARM-Preserved N=3,023 with same endpoints); digoxin toxicity suspicion higher (10% vs 4%); LVEF ≥45% in 1991–1993 cohort pre-dates modern HFpEF phenotyping.
 
-**File:** `raw/2006-CirculationAHA-Ahmed-DIG_HF.pdf` · **Authors:** Ahmed A, Rich MW, Fleg JL et al. · **Year:** 2006 · **Journal:** Circulation 114(5):397–403  
+**Full citation:**
+Ahmed A, Rich MW, Fleg JL, et al. Effects of Digoxin on Morbidity and Mortality in Diastolic Heart Failure: The Ancillary Digitalis Investigation Group Trial. *Circulation.* 2006;114(5):397–403. doi:[10.1161/CIRCULATIONAHA.105.601252](https://doi.org/10.1161/CIRCULATIONAHA.105.601252)
 **Study type:** RCT (ancillary trial of main DIG trial, run in parallel) · **N:** 988 (digoxin 492; placebo 496) · **Population:** Chronic ambulatory HF with LVEF >45% and normal sinus rhythm  
 **Follow-up:** Mean 37 months (vital status complete through Dec 31, 1995) · **Intervention:** Digoxin 0.125–0.50 mg/day (dose adjusted by age, sex, weight, creatinine) vs. placebo  
 **Primary outcome:** Combined HF hospitalisation or HF mortality (time to first event)  

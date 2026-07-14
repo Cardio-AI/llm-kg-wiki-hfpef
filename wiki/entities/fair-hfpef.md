@@ -15,8 +15,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-19
 sources:
-- file: raw/2024-ESC-vonHaehling-FAIR-HFpEF_study_ferric_carboxymaltose_hfpef.pdf
-  citekey: vonHaehling2024FAIR
+- citekey: vonHaehling2024FAIR
+  doi: 10.1093/eurheartj/ehae587
 page-type: entity-page
 ---
 # FAIR-HFpEF

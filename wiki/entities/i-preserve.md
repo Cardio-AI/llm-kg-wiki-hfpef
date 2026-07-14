@@ -13,8 +13,8 @@ tags:
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
 page-type: entity-page
 ---
 # I-PRESERVE
@@ -41,18 +41,18 @@ page-type: entity-page
 
 ## Role in HFpEF
 
-I-PRESERVE is one of the most definitively negative trials in HFpEF — it tested a drug class (ARB) with proven mortality benefit in [[hfref]] and found no signal whatsoever in HFpEF. In contrast to the weak hospitalization trends in [[charm-preserved]] and the subgroup signals in [[paragon-hf]], I-PRESERVE showed no benefit across any pre-specified subgroup. This strongly supports the argument that neurohormonal RAAS blockade alone does not address the core pathophysiology of HFpEF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+I-PRESERVE is one of the most definitively negative trials in HFpEF — it tested a drug class (ARB) with proven mortality benefit in [[hfref]] and found no signal whatsoever in HFpEF. In contrast to the weak hospitalization trends in [[charm-preserved]] and the subgroup signals in [[paragon-hf]], I-PRESERVE showed no benefit across any pre-specified subgroup. This strongly supports the argument that neurohormonal RAAS blockade alone does not address the core pathophysiology of HFpEF. (source: McDonagh2021ESC)
 
 ## Evidence
 
 - **Fully neutral** primary endpoint — no benefit on all-cause mortality or CV hospitalization
 - No significant subgroup signals reported
 
-(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+(source: McDonagh2021ESC)
 
 ## Status
 
-No guideline recommendation for irbesartan in [[hfpef]] based on this trial. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+No guideline recommendation for irbesartan in [[hfpef]] based on this trial. (source: McDonagh2021ESC)
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]]
@@ -63,3 +63,6 @@ No guideline recommendation for irbesartan in [[hfpef]] based on this trial. (so
 - Contrast with CHARM-Preserved (candesartan hospitalization trend) and PARAGON-HF (sacubitril/valsartan subgroup signal) — the class effect of RAAS blockade in HFpEF is inconsistent across trials.
 
 See [[contradictions]].
+
+## References
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

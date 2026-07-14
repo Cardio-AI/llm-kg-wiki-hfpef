@@ -16,15 +16,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2014-CirculationAHA-Zamani-Indie_Beetroot_HFpEF.pdf
-  citekey: Zamani2015INDIE
+- citekey: Zamani2015INDIE
+  doi: 10.1161/CIRCULATIONAHA.114.012957
 page-type: source-summary-page
 ---
 # INDIE-HFpEF
 
 > Single acute dose of inorganic nitrate (beetroot juice NO₃⁻ 12.9 mmol) improved peak VO₂ (+1.0 mL/min/kg, P=0.005) and total work (+6.5 kJ, P=0.04) in HFpEF via peripheral haemodynamic augmentation (↑CO +32.5%, P=0.006; ↓SVR −10.6%, P=0.03) not O₂ efficiency; primary endpoint (efficiency) was neutral (P=0.64); aortic augmentation index reduced (−9.1%, P=0.03); N=17 crossover pilot; 88% male, 100% HTN; single dose ≠ chronic treatment; contrasts with NEAT-HFpEF (chronic organic nitrate: activity worsened). **Stub errors corrected on ingest:** prior entry said journal=JACC HF, intervention=KNO₃, N≈65, result=negative peak VO₂ — all incorrect.
 
-**File:** `raw/2014-CirculationAHA-Zamani-Indie_Beetroot_HFpEF.pdf` · **Authors:** Zamani P, Rawat D, Shiva-Kumar P, Geraci S, Bhuva R, Konda P, Doulias PT, Ischiropoulos H, Townsend RR, Margulies KB, Cappola TP, Poole DC, Chirinos JA · **Year:** 2015 · **Journal:** Circulation 131(4):371–380  
+**Full citation:**
+Zamani P, Rawat D, Shiva-Kumar P, et al. Effect of Inorganic Nitrate on Exercise Capacity in Heart Failure With Preserved Ejection Fraction. *Circulation.* 2015;131(4):371–380. doi:[10.1161/CIRCULATIONAHA.114.012957](https://doi.org/10.1161/CIRCULATIONAHA.114.012957)
 **Study type:** Randomised, double-blind, crossover (single dose) · **N:** 17 (modified ITT; 20 entered; 1 AF on baseline echo, 2 no-show) · **Population:** HFpEF, LVEF >50%, symptomatic HF + elevated filling pressures (E/e' >8 + ≥1: enlarged LA, elevated NT-proBNP, PCWP >12 mmHg on prior cath)  
 **Follow-up:** Crossover; ≥5-day washout (mean 11.8 days) · **Intervention:** Concentrated NO₃⁻-rich beetroot juice (12.9 mmol NO₃⁻, 140 mL; BEET IT Sport) vs. identical nitrate-depleted placebo; given 3 h before supine-cycle maximal-effort CPET  
 **Primary outcome:** Exercise efficiency (total work performed / total O₂ consumed) during maximal-effort CPET  

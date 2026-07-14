@@ -23,7 +23,8 @@ page-type: source-summary-page
 
 > Vericiguat (sGC stimulator) reduced CV death/HF hospitalisation (HR 0.90) in high-risk HFrEF — a positive result in HFrEF that directly contrasts with neutral VITALITY-HFpEF, establishing EF-specific divergence of sGC stimulation.
 
-**File:** `raw/[pending ingest]` · **Authors:** Armstrong PW, Roessig L, Patel MJ, et al. · **Year:** 2020 · **Journal:** N Engl J Med  
+**Full citation:**
+Armstrong PW, Roessig L, Patel MJ, et al.; VICTORIA Study Group. Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction. *N Engl J Med.* 2020;382(20):1883–1893. doi:[10.1056/NEJMoa1915928](https://doi.org/10.1056/NEJMoa1915928)
 **Study type:** RCT · **N:** 5,050 · **Population:** HFrEF, LVEF <45%, worsening HF (recent hospitalisation/IV diuretics), elevated NT-proBNP · **Median follow-up:** ~10.8 months  
 **Intervention:** Vericiguat titrated to 10 mg vs. placebo  
 **Primary outcome:** Composite of CV death + HF hospitalisation

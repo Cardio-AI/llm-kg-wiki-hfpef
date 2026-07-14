@@ -13,8 +13,8 @@ tags:
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
 page-type: entity-page
 ---
 # CHARM-Preserved
@@ -42,20 +42,20 @@ page-type: entity-page
 
 ## Role in HFpEF
 
-CHARM-Preserved established the recurring pattern in HFpEF trials: a hospitalization signal without clear mortality benefit, and possible benefit concentrated in lower-EF patients (who would now be classified as [[hfmref]]). It was one of the earliest major negative HFpEF trials and set the precedent for the [[hfpef-treatment-gap]]. Its broad LVEF >40% inclusion pre-dates the three-way classification introduced in 2016/2021, making direct comparison with later trials difficult. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+CHARM-Preserved established the recurring pattern in HFpEF trials: a hospitalization signal without clear mortality benefit, and possible benefit concentrated in lower-EF patients (who would now be classified as [[hfmref]]). It was one of the earliest major negative HFpEF trials and set the precedent for the [[hfpef-treatment-gap]]. Its broad LVEF >40% inclusion pre-dates the three-way classification introduced in 2016/2021, making direct comparison with later trials difficult. (source: McDonagh2021ESC)
 
 ## Evidence
 
-- Primary endpoint **missed** (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- Primary endpoint **missed** (source: McDonagh2021ESC)
 - Trend toward reduction in HF hospitalizations
 - Candesartan reduced number of patients hospitalized for HF among those in the HFmrEF range (similar trends for CV and all-cause mortality)
 - Recurrent-event analysis suggested reduction in HF hospitalizations across the overall CHARM-Preserved cohort
 
-(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+(source: McDonagh2021ESC)
 
 ## Status
 
-No guideline recommendation for candesartan in [[hfpef]] based on this trial. Historically significant as a proof-of-concept negative trial for RAAS blockade in preserved-EF HF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+No guideline recommendation for candesartan in [[hfpef]] based on this trial. Historically significant as a proof-of-concept negative trial for RAAS blockade in preserved-EF HF. (source: McDonagh2021ESC)
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]]
@@ -66,3 +66,6 @@ No guideline recommendation for candesartan in [[hfpef]] based on this trial. Hi
 - Enrolled LVEF >40%, meaning a substantial portion would now be classified as [[hfmref]] rather than [[hfpef]] — complicates interpretation as a pure HFpEF trial.
 
 See [[contradictions]].
+
+## References
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

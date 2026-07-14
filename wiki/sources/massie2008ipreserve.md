@@ -15,15 +15,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2008-NEJM-Massie-I-PRESERVE_study.pdf
-  citekey: Massie2008IPreserve
+- citekey: Massie2008IPreserve
+  doi: 10.1056/NEJMoa0805450
 page-type: source-summary-page
 ---
 # I-PRESERVE
 
 > Irbesartan fully neutral on all outcomes in HFpEF (primary HR 0.95, P=0.35); all-cause death HR 1.00 (P=0.98); zero heterogeneity across all 8 prespecified subgroups; NT-proBNP unchanged at 6 months; cleanest null result in RAAS-HFpEF trials; together with CHARM-Preserved closes the ARB hypothesis for the overall HFpEF population.
 
-**File:** `raw/2008-NEJM-Massie-I-PRESERVE_study.pdf` · **Authors:** Massie BM, Carson PE, McMurray JJ et al. · **Year:** 2008 · **Journal:** NEJM 359:2456–2467  
+**Full citation:**
+Massie BM, Carson PE, McMurray JJ, et al.; I-PRESERVE Investigators. Irbesartan in Patients with Heart Failure and Preserved Ejection Fraction. *N Engl J Med.* 2008;359(23):2456–2467. doi:[10.1056/NEJMoa0805450](https://doi.org/10.1056/NEJMoa0805450)
 **Study type:** RCT · **N:** 4,128 randomised · **Population:** HF, LVEF ≥45%, age ≥60, NYHA II–IV, hospitalised or NYHA III/IV with structural evidence  
 **Follow-up:** Mean 49.5 months (16,798 patient-years) · **Intervention:** Irbesartan 300 mg/day vs. placebo  
 **Primary outcome:** Death from any cause or CV hospitalisation (composite)  

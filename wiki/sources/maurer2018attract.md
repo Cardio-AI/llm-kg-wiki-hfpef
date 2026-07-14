@@ -18,15 +18,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
-  citekey: Maurer2018ATTRACT
+- citekey: Maurer2018ATTRACT
+  doi: 10.1056/NEJMoa1805689
 page-type: source-summary-page
 ---
 # ATTR-ACT — Tafamidis in ATTR Cardiomyopathy (Maurer 2018)
 
 > Tafamidis (transthyretin tetramer stabiliser) reduced all-cause mortality by 30% (HR 0.70) and CV hospitalisations by 32% (RR 0.68) over 30 months in ATTR-CM — establishing the first disease-modifying therapy for the most common underdiagnosed HFpEF mimic (ATTRwt prevalence ~13% among HFpEF patients).
 
-**File:** `raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf` · **Authors:** Maurer MS, Schwartz JH, Gundapaneni B, Elliott PM, Merlini G, et al.  
+**Full citation:**
+Maurer MS, Schwartz JH, Gundapaneni B, et al.; ATTR-ACT Study Investigators. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy. *N Engl J Med.* 2018;379(11):1007–1016. doi:[10.1056/NEJMoa1805689](https://doi.org/10.1056/NEJMoa1805689)
 **Year:** 2018 · **Journal:** N Engl J Med 2018;379:1007–1016 · **DOI:** 10.1056/NEJMoa1805689  
 **ClinicalTrials.gov:** NCT01994889  
 **Study type:** Multicenter double-blind RCT · **N:** 441 · **Sites:** 48 sites, 13 countries · **Funder:** Pfizer  

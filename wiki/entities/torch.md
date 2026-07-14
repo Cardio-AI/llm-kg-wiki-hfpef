@@ -15,8 +15,8 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf
-  citekey: Seyler2017TORCH
+- citekey: Seyler2017TORCH
+  doi: 10.1002/ehf2.12152
 page-type: entity-page
 ---
 # TORCH / TORCH-Plus Registry
@@ -38,7 +38,7 @@ page-type: entity-page
 
 ## Description
 
-The DZHK **TranslatiOnal Registry for CardiomyopatHies (TORCH)** was established in December 2014 as a multi-centre, prospective registry and biobank for patients with primary non-ischemic cardiomyopathies (CMP) at 19 German university hospitals participating in the DZHK network. (source: 2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf)
+The DZHK **TranslatiOnal Registry for CardiomyopatHies (TORCH)** was established in December 2014 as a multi-centre, prospective registry and biobank for patients with primary non-ischemic cardiomyopathies (CMP) at 19 German university hospitals participating in the DZHK network. (source: Seyler2017TORCH)
 
 **Primary goal:** Link comprehensive clinical phenotyping with molecular-level profiling (genomics, transcriptomics, inflammation, metabolomics) to understand disease mechanisms and identify prognostic biomarkers and precision therapy targets.
 
@@ -53,7 +53,7 @@ The DZHK **TranslatiOnal Registry for CardiomyopatHies (TORCH)** was established
 - **19 DZHK university hospital centres** in Germany
 - Coordinating centre: University Hospital Heidelberg (PI: Prof. Hugo Katus; admin: Benjamin Meder)
 - All sites are German DZHK partner sites — no international enrolment in Phase 1; Germany-only in both phases
-- (source: 2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf)
+- (source: Seyler2017TORCH)
 
 ---
 
@@ -121,3 +121,6 @@ TORCH is not an HFpEF-specific registry — most patients have reduced EF (DCM) 
 - Concepts: [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]]
 - Entities: [[decipher-hfpef]], [[cardiac-mri]], [[echocardiography]]
 - Sources: [[seyler2017torch]]
+
+## References
+- Seyler C, Meder B, Hund H, et al. Rationale and design of the DZHK (German Centre for Cardiovascular Research) TORCH (TranslatiOnal Registry for CardiomyopatHies). *ESC Heart Fail.* 2017;4(3):277–281. doi:[10.1002/ehf2.12152](https://doi.org/10.1002/ehf2.12152)

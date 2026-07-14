@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2025-JAHA-Nouhravesh_PARAGLIDE-HF_study.pdf
-  citekey: nouhravesh2025paraglide
+- citekey: nouhravesh2025paraglide
+  doi: null  # needs source — see wiki/citations-doi-review.md
 page-type: source-summary-page
 ---
 # In-Hospital vs Out-of-Hospital Sac/Val Initiation in PARAGLIDE-HF
 
 > In PARAGLIDE-HF (n=466), 69.5% initiated Sac/Val in-hospital and 30.5% out-of-hospital; treatment effect on NT-proBNP was consistent regardless of initiation location (P_interaction=0.99) — supporting flexible initiation timing in WHF-HFpEF without loss of efficacy or safety.
 
-**File:** `raw/2025-JAHA-Nouhravesh_PARAGLIDE-HF_study.pdf` · **Authors:** Nouhravesh N et al. · **Year:** 2025 · **Journal:** Journal of the American Heart Association 14:e037899
+**Full citation:**
+Nouhravesh N, et al. In-Hospital Versus Out-of-Hospital Initiation of Sacubitril/Valsartan in Patients With HFpEF and Worsening Heart Failure: Insights From PARAGLIDE-HF. *J Am Heart Assoc.* 2025;14:e037899. DOI: not yet verified [needs source]
 
 ---
 

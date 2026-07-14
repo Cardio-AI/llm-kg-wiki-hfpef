@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2012-LANCET-Solomon-PARAMOUNT_study_LCZ696_inhibitor.pdf
-  citekey: Solomon2012PARAMOUNT
+- citekey: Solomon2012PARAMOUNT
+  doi: 10.1016/S0140-6736(12)61227-6
 page-type: source-summary-page
 ---
 # PARAMOUNT — LCZ696 (ARNi) vs. Valsartan in HFpEF (Solomon 2012)
 
 > Phase 2 RCT demonstrating that LCZ696 (sacubitril/valsartan precursor, ARNi) significantly reduced NT-proBNP by 23% vs. valsartan alone at 12 weeks (p=0.005) and improved LA reverse remodelling at 36 weeks in HFpEF — establishing the mechanistic rationale for PARAGON-HF.
 
-**File:** `raw/2012-LANCET-Solomon-PARAMOUNT_study_LCZ696_inhibitor.pdf`  
+**Full citation:**
+Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; PARAMOUNT Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double-blind randomised controlled trial. *Lancet.* 2012;380(9851):1387–1395. doi:[10.1016/S0140-6736(12)61227-6](https://doi.org/10.1016/S0140-6736(12)61227-6)
 **Authors:** Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, et al. (PARAMOUNT Investigators)  
 **Year:** 2012 · **Journal:** Lancet 2012;380:1387–1395 · **DOI:** 10.1016/S0140-6736(12)61227-6  
 **ClinicalTrials.gov:** NCT00887588  

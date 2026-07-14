@@ -18,15 +18,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2013-ESC-Pocock-MAGGIC_meta-analysis.pdf
-  citekey: Pocock2013MAGGIC
+- citekey: Pocock2013MAGGIC
+  doi: 10.1093/eurheartj/ehs337
 page-type: source-summary-page
 ---
 # MAGGIC Meta-analysis
 
 > Individual patient data meta-analysis (N=39,372; 30 studies; 15,851 deaths) derived a 13-predictor all-cause mortality risk score; EF risk plateaus above 40% — no survival benefit from higher LVEF in preserved range; ACEi/ARB NOT significantly protective in EF ≥40 (RR 0.938 P=0.233), prospectively predicting neutral RAAS trial results in HFpEF; integer score 0–52 (heartfailurerisk.org): score 20 → 25% 3-year mortality, score 30 → 52%.
 
-**File:** `raw/2013-ESC-Pocock-MAGGIC_meta-analysis.pdf` · **Authors:** Pocock SJ, Ariti CA, McMurray JJV, Maggioni A, Anker SD, Fiuzat M, Hamm CW, Hasenfuss G, Komajda M, Lüscher T, Morgan JM, Ponikowski P, Rouleau JL, Solomon SD, Swedberg K, Voors AA, Willenheimer R, Zannad F, Keen M, O'Connor CM · **Year:** 2013 · **Journal:** Eur Heart J 2013;34(19):1404–1413  
+**Full citation:**
+Pocock SJ, Ariti CA, McMurray JJV, et al.; Meta-analysis Global Group in Chronic Heart Failure (MAGGIC). Predicting survival in heart failure: a risk score based on 39 372 patients from 30 studies. *Eur Heart J.* 2013;34(19):1404–1413. doi:[10.1093/eurheartj/ehs337](https://doi.org/10.1093/eurheartj/ehs337)
 **Study type:** Individual patient data meta-analysis (IPD-MA) · **N:** 39,372 patients from 30 studies (6 RCTs + 24 observational/registry) · **Population:** Chronic HF across full EF spectrum; LVEF measured in all · **Follow-up:** Median 2.5y (IQR 1.0–3.9y); 15,851 deaths (40.2% all-cause mortality)  
 **Primary outcome:** All-cause mortality; derivation of integer risk score for clinical prognostication  
 **NCT:** None (meta-analysis) · **Website:** heartfailurerisk.org

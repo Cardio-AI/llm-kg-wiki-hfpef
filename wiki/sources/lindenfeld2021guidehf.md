@@ -20,15 +20,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf
-  citekey: Lindenfeld2021GUIDEHF
+- citekey: Lindenfeld2021GUIDEHF
+  doi: 10.1016/S0140-6736(21)01754-2
 page-type: source-summary-page
 ---
 # Lindenfeld 2021 — GUIDE-HF: Haemodynamic-Guided HF Management (CardioMEMS)
 
 > GUIDE-HF, which enrolled 1,000 HF patients across all EF groups (including 47% HFpEF), found that haemodynamic-guided management with CardioMEMS did not significantly reduce the primary composite of all-cause mortality + HF events overall (HR 0.88; P=0.16), though a pre-COVID sensitivity analysis supported benefit (HR 0.81; P=0.049).
 
-**File:** `raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf`  
+**Full citation:**
+Lindenfeld J, Zile MR, Desai AS, et al.; GUIDE-HF Investigators. Haemodynamic-guided management of heart failure (GUIDE-HF): a randomised controlled trial. *Lancet.* 2021;398(10304):991–1001. doi:[10.1016/S0140-6736(21)01754-2](https://doi.org/10.1016/S0140-6736(21)01754-2)
 **Authors:** Lindenfeld J et al.; GUIDE-HF Investigators  
 **Year:** 2021 · **Journal:** Lancet 2021;398:991–1001  
 **Study type:** Randomised controlled trial · **NCT:** NCT03387813  

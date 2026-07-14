@@ -16,8 +16,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2022-MDPI-JCardiovascDev-Morfino-biomarkers_of_hfpef.pdf
-  citekey: morfino2022biomarkers
+- citekey: morfino2022biomarkers
+  doi: 10.3390/jcdd9080256
 page-type: source-summary-page
 ---
 # Morfino 2022 — HFpEF Biomarkers Review
@@ -25,13 +25,13 @@ page-type: source-summary-page
 > Comprehensive narrative review of HFpEF biomarkers across six pathophysiological pathways; Galectin-3 AUC 0.927 for diagnosis; GDF-15+Gal-3+sST2 panel best for prognosis in acute HFpEF; hs-TnT stronger predictor in men than women.
 
 **Full citation:**
-Morfino P, Aimo A, Castiglione V, Vergaro G, Emdin M, Clerico A. Biomarkers of HFpEF: Natriuretic Peptides, High-Sensitivity Troponins and Beyond. *J Cardiovasc Dev Dis.* 2022;9(8):256. doi:[10.3390/jcdd9080256](https://doi.org/10.3390/jcdd9080256)
+Morfino P, Aimo A, Castiglione V, Arzilli C, Passino C, Emdin M. Biomarkers of heart failure with preserved ejection fraction. *J Cardiovasc Dev Dis.* 2022;9(8):256. doi:[10.3390/jcdd9080256](https://doi.org/10.3390/jcdd9080256)
 
 ---
 
 ## Summary
 
-Open-access review (Scuola Superiore Sant'Anna + Fondazione Toscana Gabriele Monasterio, Pisa) mapping HFpEF biomarkers across six mechanistic pathways: myocardial stretch, inflammation/endothelial dysfunction, myocardial injury, fibrotic pathways, and obesity/senescence/iron deficiency/kidney. Covers NPs, hs-TnT, sST2, Galectin-3, GDF-15, and emerging markers. (source: raw/2022-MDPI-JCardiovascDev-Morfino-biomarkers_of_hfpef.pdf)
+Open-access review (Scuola Superiore Sant'Anna + Fondazione Toscana Gabriele Monasterio, Pisa) mapping HFpEF biomarkers across six mechanistic pathways: myocardial stretch, inflammation/endothelial dysfunction, myocardial injury, fibrotic pathways, and obesity/senescence/iron deficiency/kidney. Covers NPs, hs-TnT, sST2, Galectin-3, GDF-15, and emerging markers. (source: morfino2022biomarkers)
 
 ## Natriuretic Peptides
 

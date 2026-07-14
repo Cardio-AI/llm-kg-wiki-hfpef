@@ -21,15 +21,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2024-JACC-Kittleson-Update_to_2020_ACC_AHA_in_HF.pdf
-  citekey: Kittleson2024AccAha
+- citekey: Kittleson2024AccAha
+  doi: 10.1016/j.jacc.2024.06.001
 page-type: source-summary-page
 ---
 # Kittleson 2024 — 2024 Update to 2020 ACC/AHA HF Performance & Quality Measures
 
 > The 2024 update adds 3 new performance measures (GDMT at discharge for HFrEF, BP control in HFpEF, SGLT2 inhibitors for HFrEF) and 6 new quality measures (SGLT2i for HFmrEF/HFpEF, social determinants screening, pregnancy counselling, GDMT continuation in HFimpEF, GDMT optimisation before TEER, amyloid screening) — reflecting SGLT2i evidence and HFpEF-specific management priorities.
 
-**File:** `raw/2024-JACC-Kittleson-Update_to_2020_ACC_AHA_in_HF.pdf`  
+**Full citation:**
+Kittleson MM, Breathett K, Ziaeian B, Aguilar D, Blumer V, Bozkurt B, Diekemper RL, Dorsch MP, Heidenreich PA, Jurgens CY, Khazanie P, Koromia GA, Van Spall HGC; AHA/ACC Joint Committee on Performance Measures. 2024 Update to the 2020 ACC/AHA Clinical Performance and Quality Measures for Adults With Heart Failure. *J Am Coll Cardiol.* 2024;84(12):1123–1143. doi:[10.1016/j.jacc.2024.06.001](https://doi.org/10.1016/j.jacc.2024.06.001)
 **Authors:** Kittleson MM et al.; AHA/ACC Joint Committee on Performance Measures  
 **Year:** 2024 · **Journal:** JACC 2024;84(12):1123–1143 · **Published:** September 17, 2024  
 **Type:** Guideline/performance measures document (update to 2020 ACC/AHA measures)  

@@ -18,12 +18,12 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-19
 sources:
-- file: raw/2024-NEJM-Solomon-FINEARTS-HF_study.pdf
-  citekey: Solomon2024FINEARTS
-- file: raw/2025-JCF-Turgeon-FINEARTS-HF_restoration_steroidal_mieralocorticoid.pdf
-  citekey: turgeon2025finearts
-- file: raw/2026-ESC-Sauer-pharmacological_options_and_needs_hfpef_hfmref.pdf
-  citekey: sauer2026pharmacological
+- citekey: Solomon2024FINEARTS
+  doi: 10.1056/NEJMoa2407107
+- citekey: turgeon2025finearts
+  doi: 10.1016/j.cardfail.2024.09.011
+- citekey: sauer2026pharmacological
+  doi: 10.1093/eschf/xvag056
 page-type: entity-page
 ---
 # FINEARTS-HF

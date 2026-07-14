@@ -12,10 +12,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2022-HeartRythmO2-Al-Sadawi-rythm_vs_rate_control_in_hfpef.pdf
-    citekey: AlSadawi2022RhythmControl
-  - file: raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf
-    citekey: Rillig2021EastAFNET4
+  - citekey: AlSadawi2022RhythmControl
+    doi: 10.1016/j.hroo.2022.07.004
+  - citekey: Rillig2021EastAFNET4
+    doi: 10.1161/CIRCULATIONAHA.121.053081
 ---
 
 # Rhythm Control in AF + HFpEF

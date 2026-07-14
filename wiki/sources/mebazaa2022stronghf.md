@@ -20,15 +20,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf
-  citekey: Mebazaa2022STRONGHF
+- citekey: Mebazaa2022STRONGHF
+  doi: 10.1016/S0140-6736(22)02076-1
 page-type: source-summary-page
 ---
 # STRONG-HF — Rapid GDMT Uptitration in Acute HF (Mebazaa 2022)
 
 > High-intensity post-discharge GDMT uptitration guided by NT-proBNP reduced 180-day death or HF readmission by ~8% absolute risk (RR 0.66) vs usual care in acute HF across the LVEF spectrum — establishing the evidence base for ESC 2023 Class I post-discharge care recommendation.
 
-**File:** `raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf` · **Authors:** Mebazaa A, Davison B, Chioncel O, Cohen-Solal A, Diaz R, Filippatos G, Metra M, Ponikowski P, Sliwa K, Voors AA, Edwards C, Novosadova M, Takagi K, Damasceno A, Saidu H, Gayat E, Pang PS, Celutkiene J, Cotter G, et al.  
+**Full citation:**
+Mebazaa A, Davison B, Chioncel O, et al. Safety, tolerability and efficacy of up-titration of guideline-directed medical therapies for acute heart failure (STRONG-HF): a multinational, open-label, randomised, trial. *Lancet.* 2022;400(10367):1938–1952. doi:[10.1016/S0140-6736(22)02076-1](https://doi.org/10.1016/S0140-6736(22)02076-1)
 **Year:** 2022 · **Journal:** Lancet 2022;400(10367):1938–1952 · **DOI:** 10.1016/S0140-6736(22)02076-1  
 **ClinicalTrials.gov:** NCT03412201 · **Funded by:** Roche Diagnostics  
 **Study type:** Multinational open-label randomised parallel-group RCT · **N:** 1,078 ITT (high-intensity 542; usual care 536); 1,085 randomised (7 in error)  

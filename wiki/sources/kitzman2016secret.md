@@ -22,15 +22,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2015-JAMA-Kitzman-SECRET_study.pdf
-  citekey: Kitzman2016SECRET
+- citekey: Kitzman2016SECRET
+  doi: 10.1001/jama.2015.17346
 page-type: source-summary-page
 ---
 # SECRET (Kitzman 2016)
 
 > In obese older HFpEF patients, both caloric restriction and aerobic exercise training significantly improved peak VO₂ (each ~+1.2–1.3 mL/kg/min; P<0.001), and the effects were additive (+2.5 mL/kg/min combined); diet but not exercise improved QoL by clinically meaningful margins; neither reached significance for the MLHF co-primary QoL endpoint.
 
-**File:** `raw/2015-JAMA-Kitzman-SECRET_study.pdf` · **Authors:** Kitzman DW, Brubaker P, Morgan T, Haykowsky M, Hundley G, Kraus WE, Eggebeen J, Nicklas BJ · **Year:** 2016 · **Journal:** JAMA 2016;315(1):36–46 · **DOI:** 10.1001/jama.2015.17346  
+**Full citation:**
+Kitzman DW, Brubaker P, Morgan T, Haykowsky M, Hundley G, Kraus WE, Eggebeen J, Nicklas BJ. Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen Consumption and Quality of Life in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2016;315(1):36–46. doi:[10.1001/jama.2015.17346](https://doi.org/10.1001/jama.2015.17346)
 **Study type:** 2×2 factorial RCT; attention-controlled; single-blind outcomes assessment · **N:** 100 enrolled; 92 completed · **Population:** Obese (BMI ≥30) older (age ≥60y) HFpEF (LVEF ≥50%, NYHA ≥II) · **Follow-up:** 20 weeks  
 **Intervention:** Caloric restriction (~400 kcal/day deficit) and/or aerobic exercise training (1 hr 3× weekly, walking) vs. attention control (telephone calls every 2 weeks) · **Co-primary outcomes:** Peak VO₂ (mL/kg/min) and Minnesota Living with Heart Failure (MLHF) questionnaire total score · **NCT:** NCT00959660 · **Site:** Wake Forest School of Medicine (Winston-Salem, NC); February 2009 – November 2014 · **Funding:** NIH/NIA R37AG018915; IRB#00005668
 

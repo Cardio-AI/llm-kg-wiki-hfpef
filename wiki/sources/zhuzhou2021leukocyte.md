@@ -17,15 +17,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-BMC-CardiovascDis-Zhu-Zhou-TOPCAT-subanalysis-leukocyte.pdf
-  citekey: ZhuZhou2021Leukocyte
+- citekey: ZhuZhou2021Leukocyte
+  doi: 10.1186/s12872-021-02142-y
 page-type: source-summary-page
 ---
 # Zhu and Zhou 2021 — Leukocyte Count and Adverse Outcomes in HFpEF (TOPCAT Substudy)
 
 > Secondary analysis of the TOPCAT trial (N=2,898; LVEF ≥50%) demonstrating a **U-shaped relationship** between leukocyte count and all-cause mortality: both the lowest (Q1, ≤5.5×10⁹/L) and highest (Q4, >8.0×10⁹/L) quartiles had significantly higher adjusted mortality vs. the reference Q2 range (HR 1.44 and 1.90 respectively); U-shaped pattern was significant in women but not men.
 
-**File:** `raw/2021-BMC-CardiovascDis-Zhu-Zhou-TOPCAT-subanalysis-leukocyte.pdf`  
+**Full citation:**
+Zhu Z, Zhou S. Leukocyte count and the risk of adverse outcomes in patients with heart failure with preserved ejection fraction. *BMC Cardiovasc Disord.* 2021;21:333. doi:[10.1186/s12872-021-02142-y](https://doi.org/10.1186/s12872-021-02142-y)
 **Authors:** Zhu Z, Zhou S (Department of Cardiovascular Medicine, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China)  
 **Year:** 2021 · **Journal:** BMC Cardiovasc Disord 2021;21:333 · **DOI:** 10.1186/s12872-021-02142-y  
 **Data source:** TOPCAT trial (NCT00094302) — secondary analysis  

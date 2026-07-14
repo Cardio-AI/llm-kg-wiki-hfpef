@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
-  citekey: Mueller2021OptimEx
+- citekey: Mueller2021OptimEx
+  doi: 10.1001/jama.2020.26812
 page-type: source-summary-page
 ---
 # OptimEx-Clin
 
 > Three-arm RCT (N=180 HFpEF) comparing HIIT, MCT, and guideline control at 3 and 12 months; both exercise arms improved peak VO₂ vs. control at 3 months (HIIT +1.5 mL/kg/min; MCT +2.0) but neither met the MCID of 2.5 mL/kg/min; HIIT was not superior to MCT; gains were not sustained at 12 months.
 
-**File:** `raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf` · **Authors:** Mueller S, Winzer EB, Duvinage A et al. · **Year:** 2021 · **Journal:** JAMA 2021;325(6):542–551  
+**Full citation:**
+Mueller S, Winzer EB, Duvinage A, et al.; OptimEx-Clin Study Group. Effect of High-Intensity Interval Training, Moderate Continuous Training, or Guideline-Based Physical Activity Advice on Peak Oxygen Consumption in Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2021;325(6):542–551. doi:[10.1001/jama.2020.26812](https://doi.org/10.1001/jama.2020.26812)
 **Study type:** Three-arm RCT · **N:** 180 HFpEF patients · **Population:** HFpEF, LVEF ≥50%, mean age 70 years, 67% women · **Follow-up:** 12 months  
 **Intervention:** HIIT (3×38 min/week at 80–90% HRR) vs. MCT (5×40 min/week at 35–50% HRR) vs. guideline control (single exercise counselling session); 3 months supervised + 9 months telemedically-supervised home training  
 **Primary outcome:** Change in peak VO₂ at 3 months
@@ -36,19 +37,19 @@ page-type: source-summary-page
 
 ## Key Findings
 
-1. **Both exercise arms improved peak VO₂ over control at 3 months.** HIIT vs. control: +1.5 mL/kg/min (95% CI 0.4–2.7; P=0.01); MCT vs. control: +2.0 mL/kg/min (0.9–3.1; P=0.001). Between-group change in HIIT vs. control: −0.6; control vs. guideline. (source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+1. **Both exercise arms improved peak VO₂ over control at 3 months.** HIIT vs. control: +1.5 mL/kg/min (95% CI 0.4–2.7; P=0.01); MCT vs. control: +2.0 mL/kg/min (0.9–3.1; P=0.001). Between-group change in HIIT vs. control: −0.6; control vs. guideline. (source: Mueller2021OptimEx)
 
-2. **HIIT was not superior to MCT.** HIIT vs. MCT: −0.4 mL/kg/min (95% CI −1.4 to 0.6; P=NS). The primary hypothesis that HIIT would outperform MCT was not confirmed — the largest head-to-head HIIT vs MCT trial in HFpEF to date. (source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+2. **HIIT was not superior to MCT.** HIIT vs. MCT: −0.4 mL/kg/min (95% CI −1.4 to 0.6; P=NS). The primary hypothesis that HIIT would outperform MCT was not confirmed — the largest head-to-head HIIT vs MCT trial in HFpEF to date. (source: Mueller2021OptimEx)
 
-3. **Neither exercise arm met the prespecified MCID.** A difference of ≥2.5 mL/kg/min vs. control was defined as the MCID; neither HIIT (+1.5) nor MCT (+2.0) reached this threshold. (source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+3. **Neither exercise arm met the prespecified MCID.** A difference of ≥2.5 mL/kg/min vs. control was defined as the MCID; neither HIIT (+1.5) nor MCT (+2.0) reached this threshold. (source: Mueller2021OptimEx)
 
-4. **Gains were not maintained at 12 months.** At 12 months, no significant between-group differences for peak VO₂ in any pairwise comparison. Durability of exercise training effects in HFpEF remains uncertain. (source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+4. **Gains were not maintained at 12 months.** At 12 months, no significant between-group differences for peak VO₂ in any pairwise comparison. Durability of exercise training effects in HFpEF remains uncertain. (source: Mueller2021OptimEx)
 
-5. **No diastolic function improvement in any group.** E/e' and NT-proBNP did not change significantly in any group at 3 or 12 months. Exercise training in HFpEF improves skeletal muscle fitness (peak VO₂) without directly improving cardiac diastolic function. (source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+5. **No diastolic function improvement in any group.** E/e' and NT-proBNP did not change significantly in any group at 3 or 12 months. Exercise training in HFpEF improves skeletal muscle fitness (peak VO₂) without directly improving cardiac diastolic function. (source: Mueller2021OptimEx)
 
-6. **QoL improved in MCT vs. control at 12 months.** KCCQ improved in all groups at 3 months with no between-group difference; MCT significantly better than control at 12 months (exploratory secondary endpoint). (source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+6. **QoL improved in MCT vs. control at 12 months.** KCCQ improved in all groups at 3 months with no between-group difference; MCT significantly better than control at 12 months (exploratory secondary endpoint). (source: Mueller2021OptimEx)
 
-7. **Safety comparable across arms.** No exercise-related major adverse cardiac events; 1 cardiac death in HIIT arm (unrelated to exercise). (source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+7. **Safety comparable across arms.** No exercise-related major adverse cardiac events; 1 cardiac death in HIIT arm (unrelated to exercise). (source: Mueller2021OptimEx)
 
 ---
 
@@ -94,7 +95,7 @@ page-type: source-summary-page
 | NT-proBNP at 3 months | NS | NS | NS |
 | KCCQ at 12 months | NS | Significant improvement | — |
 
-(source: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf)
+(source: Mueller2021OptimEx)
 
 ---
 

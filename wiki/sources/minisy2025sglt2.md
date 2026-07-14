@@ -14,8 +14,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2025-BMC-CardiovasDisease-Minisy-SGLT2-role_systematic_review.pdf
-  citekey: minisy2025sglt2
+- citekey: minisy2025sglt2
+  doi: 10.1186/s12872-025-05127-3
 page-type: source-summary-page
 ---
 # Minisy 2025 — SGLT2i in HFpEF: Systematic Review and Meta-Analysis
@@ -29,7 +29,7 @@ Minisy MM, Abdelaziz A. The role of SGLT2 inhibitors in heart failure with prese
 
 ## Summary
 
-PRISMA 2020-compliant systematic review and meta-analysis of all RCTs testing SGLT2 inhibitors in HFpEF (LVEF ≥40%; searched PubMed, Scopus, Embase, CENTRAL, ClinicalTrials.gov, WHO ICTRP; January 2015–June 2025). Nine RCTs included. Risk of bias assessed by Cochrane RoB 2.0; certainty of evidence by GRADE. (source: raw/2025-BMC-CardiovasDisease-Minisy-SGLT2-role_systematic_review.pdf)
+PRISMA 2020-compliant systematic review and meta-analysis of all RCTs testing SGLT2 inhibitors in HFpEF (LVEF ≥40%; searched PubMed, Scopus, Embase, CENTRAL, ClinicalTrials.gov, WHO ICTRP; January 2015–June 2025). Nine RCTs included. Risk of bias assessed by Cochrane RoB 2.0; certainty of evidence by GRADE. (source: minisy2025sglt2)
 
 ## Design
 

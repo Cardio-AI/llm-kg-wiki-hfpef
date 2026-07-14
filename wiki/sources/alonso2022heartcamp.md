@@ -17,15 +17,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
-  citekey: Alonso2022HEARTcamp
+- citekey: Alonso2022HEARTcamp
+  doi: 10.1016/j.cardfail.2021.10.005
 page-type: source-summary-page
 ---
 # HEART Camp HFpEF Subgroup
 
 > Secondary analysis of the HEART Camp RCT (N=59 HFpEF subset; 25 HEART Camp, 34 Enhanced Usual Care; NCT01658670; J Card Fail 2022;28:431–442) showing that a 18-month behavioral exercise coaching intervention dramatically improved exercise adherence (42% vs. 14% at 12 months; 56% vs. 0% at 18 months) and produced superior 6MWT (+63 m vs. +13 m at 18 months; P=0.048) and KCCQ improvement in HFpEF patients — while the HFrEF subgroup showed no benefit, suggesting HFpEF-specific responsiveness to adherence-focused interventions.
 
-**File:** `raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf` · **Authors:** Alonso WW, Kupzyk K, Mukherjee R et al. · **Year:** 2022 · **Journal:** J Card Fail 2022;28(3):431–442
+**Full citation:**
+Alonso WW, Kupzyk K, Mukherjee R, et al. Exercise Adherence and Quality of Life in Patients with Heart Failure with Preserved Ejection Fraction: Secondary Analysis of the HEART Camp Randomized Trial. *J Card Fail.* 2022;28(3):431–442. doi:[10.1016/j.cardfail.2021.10.005](https://doi.org/10.1016/j.cardfail.2021.10.005)
 
 ---
 
@@ -41,7 +42,7 @@ page-type: source-summary-page
 
 5. **HEART Camp is a multicomponent behavioral intervention, not additional pharmacotherapy.** Components: exercise coach contact (phone/in-person), self-monitoring tools, goal setting, social support from family/peers, problem-solving support. No additional supervised exercise sessions beyond what EUC received — the intervention is purely motivational and behavioral scaffolding.
 
-(source: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf)
+(source: Alonso2022HEARTcamp)
 
 ---
 
@@ -87,7 +88,7 @@ page-type: source-summary-page
 | HFrEF adherence benefit | None | None | NS |
 | HFrEF physical function | None | None | NS |
 
-(source: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf)
+(source: Alonso2022HEARTcamp)
 
 ---
 

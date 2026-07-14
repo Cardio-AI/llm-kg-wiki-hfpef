@@ -16,15 +16,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2026-IJCARD-Hage-total_NT-proBNP_in_hf.pdf
-  citekey: hage2026ntprobnp
+- citekey: hage2026ntprobnp
+  doi: 10.1016/j.ijcard.2026.134554
 page-type: source-summary-page
 ---
 # Total NT-proBNP in heart failure with preserved vs reduced ejection fraction
 
 > NT-proBNP is underestimated by conventional Elecsys assays in HFpEF because glycosylation of the peptide at Thr-71 prevents antibody binding; total NT-proBNP (tNT-proBNP), measured by a research assay detecting both glycosylated and unglycosylated forms, has similar associations with clinical characteristics and potentially superior prognostic ability compared to standard NT-proBNP.
 
-**File:** `raw/2026-IJCARD-Hage-total_NT-proBNP_in_hf.pdf` · **Authors:** Hage C, Mang A, Daubert JC, Donal E, Myhre P, Linde C, Lund LH · **Year:** 2026 · **Journal:** Int J Cardiol 458 (2026) 134554 · **DOI:** 10.1016/j.ijcard.2026.134554 · **Karolinska Institutet / Roche Diagnostics partnership**
+**Full citation:**
+Hage C, Mang A, Daubert JC, Donal E, Myhre PL, Linde C, Lund LH. Total NT-proBNP improves prognostication compared to conventional NT-proBNP in patients with heart failure. *Int J Cardiol.* 2026;458:134554. doi:[10.1016/j.ijcard.2026.134554](https://doi.org/10.1016/j.ijcard.2026.134554)
 
 ---
 

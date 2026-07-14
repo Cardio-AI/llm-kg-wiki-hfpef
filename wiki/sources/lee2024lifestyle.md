@@ -18,31 +18,32 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf
-  citekey: Lee2024Lifestyle
+- citekey: Lee2024Lifestyle
+  doi: 10.1016/j.hlc.2023.11.022
 page-type: source-summary-page
 ---
 # Lifestyle Interventions for Weight Loss in HFpEF (Lee 2024)
 
 > Systematic review and meta-analysis (6 RCTs; 375 HFpEF patients; mean follow-up 4.5 months) showing that lifestyle interventions (diet, exercise, or combined) reduced body weight by 5.3 kg, SBP by 3.0 mmHg, DBP by 4.5 mmHg, and improved 6MWD (+43.6 m), NYHA class (−0.54), and MLHFQ (−17.77) compared with usual care.
 
-**File:** `raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf` · **Authors:** Lee VYJ, Houston L, Perkovic A, Barraclough JY, Sweeting A, Yu J, Fletcher RA, Arnott C · **Year:** 2024 · **Journal:** Heart Lung Circ 2024;33:197–208
+**Full citation:**
+Lee VYJ, Houston L, Perkovic A, Barraclough JY, Sweeting A, Yu J, Fletcher RA, Arnott C. The Effect of Weight Loss Through Lifestyle Interventions in Patients With Heart Failure With Preserved Ejection Fraction: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. *Heart Lung Circ.* 2024;33(2):197–208. doi:[10.1016/j.hlc.2023.11.022](https://doi.org/10.1016/j.hlc.2023.11.022)
 
 ---
 
 ## Core Arguments
 
-1. **Lifestyle interventions reduced body weight by ~5.3 kg.** WMD −5.30 kg (95% CI −8.72 to −1.87; P=0.002). Modest but significant — consistent with feasibility of weight loss in stable HFpEF via lifestyle modification. Body weight and BMI both improved (BMI WMD −0.25, NS). (source: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf)
+1. **Lifestyle interventions reduced body weight by ~5.3 kg.** WMD −5.30 kg (95% CI −8.72 to −1.87; P=0.002). Modest but significant — consistent with feasibility of weight loss in stable HFpEF via lifestyle modification. Body weight and BMI both improved (BMI WMD −0.25, NS). (source: Lee2024Lifestyle)
 
-2. **Blood pressure significantly reduced.** SBP: WMD −2.98 mmHg (−4.20 to −1.76; P<0.001); DBP: WMD −4.51 mmHg (−8.39 to −0.64; P=0.02). BP reduction is clinically relevant given hypertension prevalence in HFpEF. (source: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf)
+2. **Blood pressure significantly reduced.** SBP: WMD −2.98 mmHg (−4.20 to −1.76; P<0.001); DBP: WMD −4.51 mmHg (−8.39 to −0.64; P=0.02). BP reduction is clinically relevant given hypertension prevalence in HFpEF. (source: Lee2024Lifestyle)
 
-3. **Exercise capacity improved substantially.** 6MWD: WMD +43.6 m (95% CI 22.3–65.0; P<0.001) — exceeds the generally accepted MCID of ~30–35 m. (source: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf)
+3. **Exercise capacity improved substantially.** 6MWD: WMD +43.6 m (95% CI 22.3–65.0; P<0.001) — exceeds the generally accepted MCID of ~30–35 m. (source: Lee2024Lifestyle)
 
-4. **Symptoms and quality of life improved.** NYHA class: WMD −0.54 (−0.75 to −0.33; P<0.001); MLHFQ: WMD −17.77 (−19.00 to −16.53; P<0.001). Both highly significant; MLHFQ effect size is large. (source: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf)
+4. **Symptoms and quality of life improved.** NYHA class: WMD −0.54 (−0.75 to −0.33; P<0.001); MLHFQ: WMD −17.77 (−19.00 to −16.53; P<0.001). Both highly significant; MLHFQ effect size is large. (source: Lee2024Lifestyle)
 
-5. **Interventions were diverse; exercise component appears to drive benefits.** 6 included studies used diet only, exercise only, diet+exercise, or education+exercise. The exercise+intervention arms consistently showed 6MWD and MLHFQ improvements, while the protein-only arm (Azhar 2020) was associated with increased body fat. Results from the KCCQ SECRET trial (Kitzman 2016) with diet+exercise showed largest combined benefit. (source: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf)
+5. **Interventions were diverse; exercise component appears to drive benefits.** 6 included studies used diet only, exercise only, diet+exercise, or education+exercise. The exercise+intervention arms consistently showed 6MWD and MLHFQ improvements, while the protein-only arm (Azhar 2020) was associated with increased body fat. Results from the KCCQ SECRET trial (Kitzman 2016) with diet+exercise showed largest combined benefit. (source: Lee2024Lifestyle)
 
-6. **No hard outcome data available.** No study was powered for or reported mortality or HF hospitalisation. Durability beyond 6 months is unknown. (source: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf)
+6. **No hard outcome data available.** No study was powered for or reported mortality or HF hospitalisation. Durability beyond 6 months is unknown. (source: Lee2024Lifestyle)
 
 ---
 
@@ -57,7 +58,7 @@ page-type: source-summary-page
 | Hassanein et al., 2021 | Egypt | 60 | 3 months | Cardiac rehab aerobic exercise | ≥50% |
 | Kitzman et al., 2016 | US | 100 | 5 months | Diet ± exercise (hypocaloric) | ≥50% |
 
-(source: raw/2024-JHeartLungCirc-Lee-Lifestyle_meta_analysis_hfpef.pdf)
+(source: Lee2024Lifestyle)
 
 ---
 

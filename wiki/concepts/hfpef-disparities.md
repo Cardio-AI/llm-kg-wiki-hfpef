@@ -14,8 +14,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2024-JCardiovascRiskRep-Ilonze-racial_ethnic_disparities_hfpef.pdf
-    citekey: Ilonze2024Disparities
+  - citekey: Ilonze2024Disparities
+    doi: 10.1007/s12170-024-00748-7
 ---
 
 # Racial and Ethnic Disparities in HFpEF

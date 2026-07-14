@@ -18,15 +18,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf
-  citekey: donelli2020hiit
+- citekey: donelli2020hiit
+  doi: 10.1177/2047487319901206
 page-type: source-summary-page
 ---
 # HIIT vs MCT in HFpEF (DonelliDaSilveira 2020)
 
 > Single-centre Brazilian RCT (N=19 analysed) comparing 12 weeks of HIIT vs. MCT in HFpEF; HIIT produced a larger peak VO₂ gain (+22%, 3.5 mL/kg/min) than MCT (+11%, 1.9 mL/kg/min; P<0.001 between-group); both improved E/e' without between-group difference; no exercise-related adverse events.
 
-**File:** `raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf` · **Authors:** Donelli da Silveira A, Beust de Lima J, da Silva Piardi D et al. · **Year:** 2020 · **Journal:** Eur J Prev Cardiol 2020;27(16):1733–1743  
+**Full citation:**
+Donelli da Silveira A, Beust de Lima J, da Silva Piardi D, Dos Santos IM, Ribeiro JP, Nery M, Belli KC, Mota G, Bento LC, Carvalho T. High-intensity interval training is superior to moderate intensity continuous training in patients with heart failure with preserved ejection fraction: a randomized clinical trial. *Eur J Prev Cardiol.* 2020;27(16):1733–1743. doi:[10.1177/2047487319901206](https://doi.org/10.1177/2047487319901206)
 **Study type:** Single-centre RCT · **N:** 24 randomised, 19 analysed (HIIT n=10, MCT n=9) · **Population:** HFpEF (LVEF >50%, E/e' >15 or E/e' 8–15 + elevated BNP/NT-proBNP), NYHA II–III, stable ≥3 months · **Follow-up:** 12 weeks  
 **Intervention:** HIIT (4×4 min intervals at 80–95% peak VO₂, interspaced by 3 min moderate, 3×/week) vs. MCT (47 min at 50–60% peak VO₂, 3×/week) on treadmill
 
@@ -34,13 +35,13 @@ page-type: source-summary-page
 
 ## Key Findings
 
-1. **HIIT produced larger peak VO₂ gains than MCT.** HIIT +22% (+3.5 mL/kg/min) vs MCT +11% (+1.9 mL/kg/min); P<0.001 between-group. (source: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf)
+1. **HIIT produced larger peak VO₂ gains than MCT.** HIIT +22% (+3.5 mL/kg/min) vs MCT +11% (+1.9 mL/kg/min); P<0.001 between-group. (source: donelli2020hiit)
 
-2. **Both arms improved E/e' without between-group difference.** Diastolic function improved in both groups, consistent with the pattern seen in most exercise RCTs in HFpEF — exercise training improves peripheral fitness more reliably than cardiac diastolic function. (source: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf)
+2. **Both arms improved E/e' without between-group difference.** Diastolic function improved in both groups, consistent with the pattern seen in most exercise RCTs in HFpEF — exercise training improves peripheral fitness more reliably than cardiac diastolic function. (source: donelli2020hiit)
 
-3. **No exercise-related adverse events.** Trial completed safely in both arms. (source: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf)
+3. **No exercise-related adverse events.** Trial completed safely in both arms. (source: donelli2020hiit)
 
-4. **Small sample with potential for type I error.** N=19 analysed — results are directionally consistent with HIIT superiority but must be interpreted cautiously given sample size; the larger OptimEx-Clin (N=180) found no significant HIIT vs MCT difference. (source: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf)
+4. **Small sample with potential for type I error.** N=19 analysed — results are directionally consistent with HIIT superiority but must be interpreted cautiously given sample size; the larger OptimEx-Clin (N=180) found no significant HIIT vs MCT difference. (source: donelli2020hiit)
 
 ---
 
@@ -63,7 +64,7 @@ page-type: source-summary-page
 | Peak VO₂ change | +3.5 mL/kg/min (+22%) | +1.9 mL/kg/min (+11%) | <0.001 |
 | E/e' | Improved | Improved | NS |
 
-(source: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf)
+(source: donelli2020hiit)
 
 ---
 

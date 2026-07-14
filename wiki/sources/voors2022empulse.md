@@ -19,15 +19,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2022-NatureMed-Voors-EMPULSE_study.pdf
-  citekey: Voors2022EMPULSE
+- citekey: Voors2022EMPULSE
+  doi: 10.1038/s41591-021-01659-1
 page-type: source-summary-page
 ---
 # EMPULSE — In-Hospital Empagliflozin in Acute HF (Voors 2022)
 
 > Empagliflozin initiated in-hospital in haemodynamically stable acute HF achieved a win ratio of 1.36 (P=0.0054) over 90 days, establishing the safety and clinical benefit of early in-hospital SGLT2i initiation across the LVEF spectrum.
 
-**File:** `raw/2022-NatureMed-Voors-EMPULSE_study.pdf` · **Authors:** Voors AA, Angermann CE, Teerlink JR, et al.  
+**Full citation:**
+Voors AA, Angermann CE, Teerlink JR, et al. The SGLT2 inhibitor empagliflozin in patients hospitalized for acute heart failure: a multinational randomized trial. *Nat Med.* 2022;28:568–574. doi:[10.1038/s41591-021-01659-1](https://doi.org/10.1038/s41591-021-01659-1)
 **Year:** 2022 · **Journal:** Nat Med 2022;28:568–574 · **DOI:** 10.1038/s41591-021-01659-1  
 **ClinicalTrials.gov:** NCT04157751  
 **Study type:** Multinational double-blind randomised placebo-controlled RCT · **N:** 530 randomised (empagliflozin 265; placebo 265); 524 received ≥1 dose (safety population)  

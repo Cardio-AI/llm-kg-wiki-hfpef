@@ -20,31 +20,32 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf
-  citekey: vanDeBovenkamp2025Hemodynamics
+- citekey: vanDeBovenkamp2025Hemodynamics
+  doi: 10.1152/ajpheart.00544.2024
 page-type: source-summary-page
 ---
 # Hemodynamic Responses and Reverse Remodeling to Pharmacotherapy: HFpEF vs HFrEF (van de Bovenkamp 2025)
 
 > Systematic review and meta-analysis (21 RCTs; 11 HFpEF studies, n=857; 10 HFrEF studies, n=529) comparing long-term hemodynamic and structural remodeling responses to RAAS inhibitors, β-blockers, and SGLT2i in HFpEF vs HFrEF; reverse remodeling clearly present in HFrEF (LV volume reduction, SV increase with β-blockers) but essentially absent in HFpEF for all drug classes.
 
-**File:** `raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf` · **Authors:** van de Bovenkamp AA, Nassiri S, Bakermans AJ, Burchell GL, de Man FS, van Loon RB, Handoko ML · **Year:** 2025 · **Journal:** Am J Physiol Heart Circ Physiol 2025;328:H419–H432
+**Full citation:**
+van de Bovenkamp AA, Nassiri S, Bakermans AJ, Burchell GL, de Man FS, van Loon RB, Handoko ML. Long-term hemodynamic responses and reverse remodeling after pharmacotherapy in HFpEF versus HFrEF: a systematic review and meta-analysis. *Am J Physiol Heart Circ Physiol.* 2025;328(2):H419–H432. doi:[10.1152/ajpheart.00544.2024](https://doi.org/10.1152/ajpheart.00544.2024)
 
 ---
 
 ## Core Arguments
 
-1. **Blood pressure reduction is comparable in HFpEF and HFrEF.** Pooled long-term SBP/DBP change: −5.6/−3.2 mmHg in HFpEF vs −4.6/−1.4 mmHg in HFrEF. Both phenotypes show similar modest BP reduction with long-term pharmacotherapy. (source: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf)
+1. **Blood pressure reduction is comparable in HFpEF and HFrEF.** Pooled long-term SBP/DBP change: −5.6/−3.2 mmHg in HFpEF vs −4.6/−1.4 mmHg in HFrEF. Both phenotypes show similar modest BP reduction with long-term pharmacotherapy. (source: vanDeBovenkamp2025Hemodynamics)
 
-2. **Afterload reduction occurs in both phenotypes but stroke volume does not increase in HFpEF.** Arterial elastance (Ea): −0.039 mmHg/mL in HFpEF vs −0.055 mmHg/mL in HFrEF. Despite comparable afterload reduction, stroke volume increased only with β-blockers in HFrEF — not in HFpEF. (source: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf)
+2. **Afterload reduction occurs in both phenotypes but stroke volume does not increase in HFpEF.** Arterial elastance (Ea): −0.039 mmHg/mL in HFpEF vs −0.055 mmHg/mL in HFrEF. Despite comparable afterload reduction, stroke volume increased only with β-blockers in HFrEF — not in HFpEF. (source: vanDeBovenkamp2025Hemodynamics)
 
-3. **Reverse remodeling clearly present in HFrEF, essentially absent in HFpEF.** In HFrEF: LV end-diastolic volume −8 mL; LV end-systolic volume −6 mL (with ACEi/ARB); LV mass decreasing. In HFpEF: no relevant change in LV volumes; only modest LVMi decrease (−2.8 g/m²) comparable to HFrEF. (source: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf)
+3. **Reverse remodeling clearly present in HFrEF, essentially absent in HFpEF.** In HFrEF: LV end-diastolic volume −8 mL; LV end-systolic volume −6 mL (with ACEi/ARB); LV mass decreasing. In HFpEF: no relevant change in LV volumes; only modest LVMi decrease (−2.8 g/m²) comparable to HFrEF. (source: vanDeBovenkamp2025Hemodynamics)
 
-4. **ACEi/ARB reduced LV filling pressures in HFpEF but not volumes.** E/e' and LA dimensions improved with ACEi/ARB in HFpEF — relevant to diastolic filling pressure — but LV volumes did not change, unlike HFrEF where volumes clearly declined. (source: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf)
+4. **ACEi/ARB reduced LV filling pressures in HFpEF but not volumes.** E/e' and LA dimensions improved with ACEi/ARB in HFpEF — relevant to diastolic filling pressure — but LV volumes did not change, unlike HFrEF where volumes clearly declined. (source: vanDeBovenkamp2025Hemodynamics)
 
-5. **SGLT2i: comparable BP and afterload reduction in both phenotypes; no SV change.** Similar hemodynamic profiles for empagliflozin and dapagliflozin across HFpEF and HFrEF — suggesting SGLT2i mechanism may be non-hemodynamic (metabolic, diuretic, or cardiac energetics). (source: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf)
+5. **SGLT2i: comparable BP and afterload reduction in both phenotypes; no SV change.** Similar hemodynamic profiles for empagliflozin and dapagliflozin across HFpEF and HFrEF — suggesting SGLT2i mechanism may be non-hemodynamic (metabolic, diuretic, or cardiac energetics). (source: vanDeBovenkamp2025Hemodynamics)
 
-6. **β-blockers increase SV in HFrEF (via rate reduction) but not in HFpEF.** Due to the stiff LV in HFpEF (steep EDPVR), preload augmentation from rate reduction may actually reduce SV rather than increase it. This provides a mechanistic rationale for β-blocker neutrality (or potential harm) in HFpEF. (source: raw/2025-HeartCircPhsysiol-vanDeBovenkamp-hemodynamic_responses_reverse_remodeling_HFrEF_vs_HFpEF_systematic_review.pdf)
+6. **β-blockers increase SV in HFrEF (via rate reduction) but not in HFpEF.** Due to the stiff LV in HFpEF (steep EDPVR), preload augmentation from rate reduction may actually reduce SV rather than increase it. This provides a mechanistic rationale for β-blocker neutrality (or potential harm) in HFpEF. (source: vanDeBovenkamp2025Hemodynamics)
 
 ---
 

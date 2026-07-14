@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2024-JCF-Fudim-PARAGLIDE_study_analysis.pdf
-  citekey: fudim2024paraglide
+- citekey: fudim2024paraglide
+  doi: null  # needs source — see wiki/citations-doi-review.md
 page-type: source-summary-page
 ---
 # Symptomatic Hypotension with Sac/Val in PARAGLIDE-HF
 
 > In PARAGLIDE-HF, symptomatic hypotension (SH) occurred in 24.0% with Sac/Val vs 15.5% valsartan (overall 19.7%; P=0.020); SH risk was highest in patients with lower baseline SBP, white race, and LVEF >60% — identifying actionable pre-initiation risk factors for clinical practice.
 
-**File:** `raw/2024-JCF-Fudim-PARAGLIDE_study_analysis.pdf` · **Authors:** Fudim M, Cyr DD, Ward JH, et al. · **Year:** 2024 · **Journal:** Journal of Cardiac Failure 30(12):1568–1577
+**Full citation:**
+Fudim M, Cyr DD, Ward JH, et al. Association of Sacubitril/Valsartan vs Valsartan with Blood Pressure Changes and Symptomatic Hypotension: The PARAGLIDE-HF Trial. *J Card Fail.* 2024;30(12):1568–1577. DOI: not yet verified [needs source]
 
 ---
 

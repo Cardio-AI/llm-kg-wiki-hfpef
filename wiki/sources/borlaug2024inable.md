@@ -16,15 +16,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
-  citekey: Borlaug2024INABLE
+- citekey: Borlaug2024INABLE
+  doi: null  # needs source — see wiki/citations-doi-review.md
 page-type: source-summary-page
 ---
 # INABLE-Training
 
 > Double-blind RCT (N=73) of inorganic sodium nitrite (40 mg TID) vs. placebo added to 12 weeks of supervised exercise training in HFpEF (NCT02713126); exercise training itself significantly improved peak VO₂, KCCQ-OSS, and 6MWD; nitrite added no benefit on any endpoint (ΔVO₂peak −0.13 mL/kg/min; P=0.77), extending the consistent pattern of NO/cGMP pathway failure in HFpEF.
 
-**File:** `raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf` · **Authors:** Borlaug BA, Koepp KE, Melenovsky V et al. · **Year:** 2024 · **Journal:** Mayo Clin Proc 2024;99(2):206–217
+**Full citation:**
+Borlaug BA, Koepp KE, Melenovsky V, et al. Inorganic Nitrite Added to Exercise Training in Heart Failure With Preserved Ejection Fraction: The INABLE-Training Randomized Trial. *Mayo Clin Proc.* 2024;99(2):206–217. DOI: not yet verified [needs source]
 
 ---
 
@@ -38,7 +39,7 @@ page-type: source-summary-page
 
 4. **Rural, high-comorbidity population.** 63% rural; 75.3% NYHA III; AF 58.9%; T2DM 42.5%; mean age 72.4 years. This population profile differs from earlier HFpEF exercise trials (e.g., SECRET, Kitzman 2010) and demonstrates that exercise training benefits extend to more severely symptomatic, older, rural patients.
 
-(source: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf)
+(source: Borlaug2024INABLE)
 
 ---
 
@@ -82,7 +83,7 @@ page-type: source-summary-page
 | 6MWD | +34 m | NS | NS |
 | NT-proBNP | Not significantly changed | NS | NS |
 
-(source: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf)
+(source: Borlaug2024INABLE)
 
 ---
 

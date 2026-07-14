@@ -17,29 +17,30 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf
-  citekey: Kaddoura2024BetaBlocker
+- citekey: Kaddoura2024BetaBlocker
+  doi: 10.1016/j.cpcardiol.2024.102376
 page-type: source-summary-page
 ---
 # Beta-Blocker Therapy in HFpEF (Kaddoura 2024)
 
 > Systematic review and meta-analysis (16 studies; 27,188 HFpEF patients) showing a statistically significant 19% reduction in all-cause mortality with beta-blocker therapy (OR 0.81; 95% CI 0.65–0.99; P=0.044) based on observational cohort studies, with no significant effect on HF rehospitalisation or composite outcome; the evidence is predominantly observational and the only RCT was not powered for clinical outcomes.
 
-**File:** `raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf` · **Authors:** Kaddoura R, Madurasinghe V, Chapra A, Abushanab D, Al-Badriyeh D, Patel A · **Year:** 2024 · **Journal:** Curr Probl Cardiol 2024;49:102376
+**Full citation:**
+Kaddoura R, Madurasinghe V, Chapra A, Abushanab D, Al-Badriyeh D, Patel A. Beta-blocker therapy in heart failure with preserved ejection fraction (B-HFpEF): A systematic review and meta-analysis. *Curr Probl Cardiol.* 2024;49(3):102376. doi:[10.1016/j.cpcardiol.2024.102376](https://doi.org/10.1016/j.cpcardiol.2024.102376)
 
 ---
 
 ## Core Arguments
 
-1. **Beta-blockers are associated with reduced all-cause mortality in observational HFpEF data.** Pooled OR 0.81 (95% CI 0.65–0.99; P=0.044; I²=38%) from 10 cohort studies. However, when two shortest follow-up studies were removed, the reduction was no longer significant (OR 0.77; CI 0.59–1.02; P=0.068). (source: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf)
+1. **Beta-blockers are associated with reduced all-cause mortality in observational HFpEF data.** Pooled OR 0.81 (95% CI 0.65–0.99; P=0.044; I²=38%) from 10 cohort studies. However, when two shortest follow-up studies were removed, the reduction was no longer significant (OR 0.77; CI 0.59–1.02; P=0.068). (source: Kaddoura2024BetaBlocker)
 
-2. **No significant effect on HF rehospitalisation.** Pooled OR 1.13 (95% CI 0.91–1.41; P=0.27) from 4 studies — beta-blockers do not reduce HF hospitalisation in HFpEF based on current evidence. (source: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf)
+2. **No significant effect on HF rehospitalisation.** Pooled OR 1.13 (95% CI 0.91–1.41; P=0.27) from 4 studies — beta-blockers do not reduce HF hospitalisation in HFpEF based on current evidence. (source: Kaddoura2024BetaBlocker)
 
-3. **No significant effect on composite mortality + rehospitalisation.** OR 1.01 (95% CI 0.78–1.32; P=0.92) from 3 studies. (source: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf)
+3. **No significant effect on composite mortality + rehospitalisation.** OR 1.01 (95% CI 0.78–1.32; P=0.92) from 3 studies. (source: Kaddoura2024BetaBlocker)
 
-4. **Evidence predominantly observational; only one RCT available.** 15 of 16 studies are observational cohorts; the one RCT (metoprolol succinate, NCT not named) was not powered for clinical outcomes. Confounding by indication and immortal time bias are major concerns in the observational data. (source: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf)
+4. **Evidence predominantly observational; only one RCT available.** 15 of 16 studies are observational cohorts; the one RCT (metoprolol succinate, NCT not named) was not powered for clinical outcomes. Confounding by indication and immortal time bias are major concerns in the observational data. (source: Kaddoura2024BetaBlocker)
 
-5. **Rationale for beta-blockers in HFpEF remains uncertain.** Beta-blockers reduce heart rate — potentially worsening chronotropic incompetence (a major contributor to exercise intolerance in HFpEF) — and are commonly prescribed for comorbidities (AF, hypertension, CAD). The net effect is therefore confounded by indication. (source: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf)
+5. **Rationale for beta-blockers in HFpEF remains uncertain.** Beta-blockers reduce heart rate — potentially worsening chronotropic incompetence (a major contributor to exercise intolerance in HFpEF) — and are commonly prescribed for comorbidities (AF, hypertension, CAD). The net effect is therefore confounded by indication. (source: Kaddoura2024BetaBlocker)
 
 ---
 
@@ -64,7 +65,7 @@ page-type: source-summary-page
 | Nevzorov 2012 | 345 | Cohort | NR | 0.59 (0.38–0.91) |
 | Smith 2021 | 459 | Cohort | NR | 1.08 (0.79–1.48) |
 
-(source: raw/2024-CPCardiol-Kaddoura-Beta-blocker_therapy_in_hfpef_systematic_review.pdf)
+(source: Kaddoura2024BetaBlocker)
 
 ---
 

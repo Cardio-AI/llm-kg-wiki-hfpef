@@ -17,15 +17,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
-  citekey: Kosiborod2023STEPHFPEF
+- citekey: Kosiborod2023STEPHFPEF
+  doi: 10.1056/NEJMoa2306963
 page-type: source-summary-page
 ---
 # STEP-HFpEF
 
 > Semaglutide 2.4 mg improved HF symptoms (KCCQ-CSS diff +7.8 pts, P<0.001) and body weight (diff −10.7 pp, P<0.001) in obese HFpEF without T2DM — the first large GLP-1RA RCT in HFpEF, with consistent improvements in 6MWD, CRP, and a hierarchical composite.
 
-**File:** `raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf` · **Authors:** Kosiborod MN, Abildstrom SZ, Borlaug BA, et al. · **Year:** 2023 · **Journal:** N Engl J Med 2023;389(12):1069–1084  
+**Full citation:**
+Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
 **Study type:** RCT · **N:** 529 (263 semaglutide, 266 placebo) · **Population:** HFpEF LVEF ≥45%, BMI ≥30 kg/m², no T2DM (HbA1c <6.5%), NYHA II–IV · **Duration:** 52 weeks + 5-week follow-up  
 **Intervention:** Semaglutide 2.4 mg SC once weekly (dose escalation: 0.25 mg → 2.4 mg over 16 weeks) vs. placebo  
 **Dual primary outcomes:** (1) KCCQ-CSS change at 52 weeks; (2) body weight % change at 52 weeks  

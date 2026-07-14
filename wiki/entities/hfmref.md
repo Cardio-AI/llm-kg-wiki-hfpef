@@ -12,10 +12,10 @@ tags:
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
-  citekey: Savarese2022GlobalBurden
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: Savarese2022GlobalBurden
+  doi: 10.1093/cvr/cvac013
 page-type: entity-page
 ---
 # HFmrEF
@@ -42,7 +42,7 @@ HFmrEF is diagnosed when:
 2. LVEF 41–49% (measured by [[echocardiography]] or [[cardiac-mri]])
 3. Elevated [[natriuretic-peptides]] (BNP ≥35 pg/mL or NT-proBNP ≥125 pg/mL) and/or evidence of structural heart disease (increased LA size, LV hypertrophy, or echocardiographic measures of LV filling) — increases diagnostic likelihood when LVEF certainty is borderline
 
-The term was renamed from 'heart failure with mid-range ejection fraction' to 'mildly reduced ejection fraction' in 2021 to better reflect clinical overlap with [[hfref]]. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+The term was renamed from 'heart failure with mid-range ejection fraction' to 'mildly reduced ejection fraction' in 2021 to better reflect clinical overlap with [[hfref]]. (source: McDonagh2021ESC)
 
 ## Epidemiology
 
@@ -53,15 +53,15 @@ HFmrEF constitutes a variable share of HF across registries, ranging from 14% to
 - G-CHF (global, 40 countries): 21%
 - ASIAN-HF: 6%
 
-1-year mortality in ESC-HF-LT: 7.6% — between HFpEF (6.3%) and HFrEF (8.8%). The proportion of HFmrEF is growing as more patients recover EF from HFrEF, adding HFimpEF patients to this range. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+1-year mortality in ESC-HF-LT: 7.6% — between HFpEF (6.3%) and HFrEF (8.8%). The proportion of HFmrEF is growing as more patients recover EF from HFrEF, adding HFimpEF patients to this range. (source: Savarese2022GlobalBurden)
 
 ## Role in HFpEF
 
-HFmrEF patients resemble [[hfref]] more than [[hfpef]]: more commonly men, younger, more likely to have CAD (50–60%), and less likely to have [[atrial-fibrillation|AF]] and non-CV comorbidities. Ambulatory HFmrEF mortality is lower than HFrEF, more akin to HFpEF. This group includes patients whose LVEF has improved from ≤40% or declined from ≥50%, making it heterogeneous by definition — it may represent recovering HFrEF, declining HFpEF, or a genuinely distinct intermediate phenotype. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+HFmrEF patients resemble [[hfref]] more than [[hfpef]]: more commonly men, younger, more likely to have CAD (50–60%), and less likely to have [[atrial-fibrillation|AF]] and non-CV comorbidities. Ambulatory HFmrEF mortality is lower than HFrEF, more akin to HFpEF. This group includes patients whose LVEF has improved from ≤40% or declined from ≥50%, making it heterogeneous by definition — it may represent recovering HFrEF, declining HFpEF, or a genuinely distinct intermediate phenotype. (source: McDonagh2021ESC)
 
 ## Evidence
 
-No substantial prospective RCT has been conducted exclusively in HFmrEF. Evidence is extrapolated from subgroup analyses of [[hfref]] and [[hfpef]] trials. Retrospective analysis of [[topcat]] patients with LVEF 45–55% showed [[spironolactone]] reduced HF hospitalizations. [[paragon-hf]] showed benefit for sacubitril/valsartan in patients with LVEF below the trial median (~57%), a range overlapping with HFmrEF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+No substantial prospective RCT has been conducted exclusively in HFmrEF. Evidence is extrapolated from subgroup analyses of [[hfref]] and [[hfpef]] trials. Retrospective analysis of [[topcat]] patients with LVEF 45–55% showed [[spironolactone]] reduced HF hospitalizations. [[paragon-hf]] showed benefit for sacubitril/valsartan in patients with LVEF below the trial median (~57%), a range overlapping with HFmrEF. (source: McDonagh2021ESC)
 
 ## Status
 
@@ -69,7 +69,7 @@ No substantial prospective RCT has been conducted exclusively in HFmrEF. Evidenc
 - ACE-I, ARB, beta-blocker, MRA ([[spironolactone]]/eplerenone): may be considered to reduce HF hospitalizations and death
 - [[sacubitril-valsartan]]: may be considered (PARAGON-HF signal in LVEF below median ~57%)
 
-No evidence to advise CRT or ICD therapy specific to HFmrEF. No specific trial data for [[sglt2-inhibitors]] in HFmrEF at time of 2021 publication. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+No evidence to advise CRT or ICD therapy specific to HFmrEF. No specific trial data for [[sglt2-inhibitors]] in HFmrEF at time of 2021 publication. (source: McDonagh2021ESC)
 
 ## Related Pages
 - Concepts: [[hf-phenotype-classification]], [[hfpef-treatment-gap]], [[natriuretic-peptides]]
@@ -77,6 +77,10 @@ No evidence to advise CRT or ICD therapy specific to HFmrEF. No specific trial d
 - Sources: [[mcdonagh2021esc]], [[savarese2022globalburden]]
 
 ## Contradictions
-- All treatment recommendations are Class IIb, Level C — essentially no robust evidence. The group is likely heterogeneous (recovering HFrEF vs. declining HFpEF), which may explain the absence of dedicated trials. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- All treatment recommendations are Class IIb, Level C — essentially no robust evidence. The group is likely heterogeneous (recovering HFrEF vs. declining HFpEF), which may explain the absence of dedicated trials. (source: McDonagh2021ESC)
 
 See [[contradictions]].
+
+## References
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
+- Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS. Global burden of heart failure: a comprehensive and updated review of epidemiology. *Cardiovasc Res.* 2022;118(17):3272–3287. doi:[10.1093/cvr/cvac013](https://doi.org/10.1093/cvr/cvac013)

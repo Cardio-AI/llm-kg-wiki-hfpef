@@ -22,15 +22,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2020-LANCET-Ponikowski-AFFIRM-AHF_study_ferric_carboxymaltose_for_hf.pdf
-  citekey: Ponikowski2020AFFIRM
+- citekey: Ponikowski2020AFFIRM
+  doi: 10.1016/S0140-6736(20)32220-6
 page-type: source-summary-page
 ---
 # Ponikowski 2020 — AFFIRM-AHF: IV Iron After Acute HF
 
 > AFFIRM-AHF demonstrated that ferric carboxymaltose (FCM) in patients with acute HF, iron deficiency, and **LVEF <50%** reduced total HF hospitalisations (RR 0.74; P=0.013) and the composite of first HFH+CV death (HR 0.80; P=0.030), with the **primary composite not reaching significance** (RR 0.79; P=0.059); the trial population was predominantly HFrEF.
 
-**File:** `raw/2020-LANCET-Ponikowski-AFFIRM-AHF_study_ferric_carboxymaltose_for_hf.pdf`  
+**Full citation:**
+Ponikowski P, Kirwan BA, Anker SD, et al.; AFFIRM-AHF Investigators. Ferric carboxymaltose for iron deficiency at discharge after acute heart failure: a multicentre, double-blind, randomised, controlled trial. *Lancet.* 2020;396(10266):1895–1904. doi:[10.1016/S0140-6736(20)32220-6](https://doi.org/10.1016/S0140-6736(20)32220-6)
 **Authors:** Ponikowski P et al.; AFFIRM-AHF Investigators  
 **Year:** 2020 · **Journal:** Lancet 2020;396:1895–1904  
 **Study type:** Randomised double-blind placebo-controlled trial · **NCT:** NCT02937454  

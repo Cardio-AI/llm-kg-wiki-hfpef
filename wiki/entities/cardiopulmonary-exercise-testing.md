@@ -16,16 +16,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-14
 sources:
-- file: raw/2019-CirculationAHA-Ho-exercise-response.pdf
-  citekey: Ho2019HFpEFDefinitions
-- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-  citekey: Sachdev2023Exercise
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf
-  citekey: borlaug2010exercise
-- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-  citekey: landsteiner2025hemodynamics
+- citekey: Ho2019HFpEFDefinitions
+  doi: 10.1161/CIRCULATIONAHA.118.039451
+- citekey: Sachdev2023Exercise
+  doi: 10.1161/CIR.0000000000001122
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: borlaug2010exercise
+  doi: 10.1161/CIRCHEARTFAILURE.109.919740
+- citekey: landsteiner2025hemodynamics
+  doi: 10.1161/CIRCRESAHA.125.326048
 page-type: entity-page
 ---
 # Cardiopulmonary Exercise Testing (CPET)
@@ -60,7 +60,7 @@ CPET simultaneously measures:
 - Cardiac output (CO) by thermodilution or Fick
 - Arteriovenous O2 difference (A-VO2 diff) — peripheral O2 extraction (skeletal muscle capacity)
 
-This allows decomposition of VO2 = CO × A-VO2 diff (Fick principle), quantifying cardiac vs. peripheral contributions to exercise intolerance. (source: 2019-CirculationAHA-Ho-exercise-response.pdf; source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+This allows decomposition of VO2 = CO × A-VO2 diff (Fick principle), quantifying cardiac vs. peripheral contributions to exercise intolerance. (source: Ho2019HFpEFDefinitions; source: Sachdev2023Exercise)
 
 ## Role in HFpEF
 
@@ -72,17 +72,17 @@ In equivocal HFpEF cases, invasive CPET establishes physiologic HFpEF (HFpEF_phy
 - PCWP ≥15 mmHg at rest → elevated LV filling pressure at rest
 - PCWP ≥25 mmHg during supine exercise → exertional HFpEF
 - LVEDP ≥16 mmHg at rest (direct LV catheterization)
-- Exercise PASP ≥45 mmHg (non-invasive Doppler surrogate): sensitivity 96%, specificity 95%, AUC 0.99 in patients with normal resting hemodynamics (source: 2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf)
-- Hemodynamic gap emerges within 1.5 minutes of exercise at 20W — very low workload threshold (source: 2010-CircHeartFail-Borlaug-Exercise_Hemodynamics.pdf)
+- Exercise PASP ≥45 mmHg (non-invasive Doppler surrogate): sensitivity 96%, specificity 95%, AUC 0.99 in patients with normal resting hemodynamics (source: borlaug2010exercise)
+- Hemodynamic gap emerges within 1.5 minutes of exercise at 20W — very low workload threshold (source: borlaug2010exercise)
 
 **Upright exercise (Landsteiner 2025 protocol):**
 - PCWP/CO slope >2 mmHg/L/min during upright ergometry (minute-by-minute over ~10 minutes) — preferred metric for upright protocols; captures the slope of filling pressure rise relative to cardiac output augmentation
-- HC-HFpEF (hemodynamically confirmed HFpEF): resting PCWP ≥15 mmHg OR exercise PCWP/CO slope >2 mmHg/L/min (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
+- HC-HFpEF (hemodynamically confirmed HFpEF): resting PCWP ≥15 mmHg OR exercise PCWP/CO slope >2 mmHg/L/min (source: landsteiner2025hemodynamics)
 - **Upright vs. supine distinction:** Upright exercise produces lower absolute PCWP than supine at equivalent workload (gravitational venous pooling reduces preload); reclassification between protocols is known. The Landsteiner cohort used upright ergometry, yielding lower absolute PCWP values than the Borlaug 2010 supine protocol — thresholds are not interchangeable.
 
-**Exercise-unmasked HFpEF:** 23–28% of HC-HFpEF patients have normal resting PCWP but elevated exercise PCWP/CO slope — entirely missed by resting-only assessment. This subgroup has independent adverse prognosis (HR 1.42, 95% CI 1.08–1.86 vs. normal rest + exercise hemodynamics). (source: 2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf)
+**Exercise-unmasked HFpEF:** 23–28% of HC-HFpEF patients have normal resting PCWP but elevated exercise PCWP/CO slope — entirely missed by resting-only assessment. This subgroup has independent adverse prognosis (HR 1.42, 95% CI 1.08–1.86 vs. normal rest + exercise hemodynamics). (source: landsteiner2025hemodynamics)
 
-The ESC 2021 gold-standard criteria (rest PCWP ≥15, exercise PCWP ≥25) are anchored to supine protocols; Borlaug 2023 also endorsed the PCWP/CO slope >2 for upright protocols. (source: 2021-ESC-Guidelines-Heart-Failure.pdf; source: 2023-JACC-Borlaug-HFpEF_scientific_statement.pdf)
+The ESC 2021 gold-standard criteria (rest PCWP ≥15, exercise PCWP ≥25) are anchored to supine protocols; Borlaug 2023 also endorsed the PCWP/CO slope >2 for upright protocols. (source: McDonagh2021ESC; source: borlaug2023statement)
 
 In the Ho 2019 cohort (n=461), 53% of referred HFpEF-suspect patients met HFpEF_phys criteria by invasive CPET — demonstrating that no non-invasive criterion alone reliably identifies this group:
 
@@ -93,7 +93,7 @@ In the Ho 2019 cohort (n=461), 53% of referred HFpEF-suspect patients met HFpEF_
 | E/e' >9 | 78% | 59% |
 | E/e' >13 | 46% | 86% |
 
-(source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+(source: Ho2019HFpEFDefinitions)
 
 ### As Mechanistic Tool
 
@@ -102,11 +102,11 @@ Invasive CPET quantifies relative contributions to [[exercise-intolerance]]:
 - CO reserve (cardiac) accounts for the remainder
 - Chronotropic incompetence present in ~50%
 
-(source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+(source: Sachdev2023Exercise)
 
 ### As Prognostic Tool
 
-HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 1.62 (p=0.01) regardless of guideline classification. Peak VO2 is a continuous prognostic predictor. (source: 2019-CirculationAHA-Ho-exercise-response.pdf)
+HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 1.62 (p=0.01) regardless of guideline classification. Peak VO2 is a continuous prognostic predictor. (source: Ho2019HFpEFDefinitions)
 
 ## Evidence
 
@@ -126,7 +126,7 @@ HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 
 
 ## Status
 
-**Clinical use:** Limited to specialist centres; procedural risk (arterial/venous access, PA catheter) restricts routine use. ESC 2021 recommends invasive exercise testing for diagnostic uncertainty; use limited to research and specialist evaluation. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+**Clinical use:** Limited to specialist centres; procedural risk (arterial/venous access, PA catheter) restricts routine use. ESC 2021 recommends invasive exercise testing for diagnostic uncertainty; use limited to research and specialist evaluation. (source: McDonagh2021ESC)
 
 **Research role:** Standard in HFpEF mechanistic studies and therapeutic trials requiring objective exercise capacity measurement.
 
@@ -141,3 +141,10 @@ HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 
 ## Contradictions
 
 - Non-invasive markers have only moderate accuracy for HFpEF_phys (E/e' >9: sensitivity 78%, specificity 59%; NT-proBNP ≥125: sensitivity 48%) — invasive confirmation cannot be replaced by any single non-invasive criterion. See [[contradictions]].
+
+## References
+- Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.919740](https://doi.org/10.1161/CIRCHEARTFAILURE.109.919740) [DOI unverified]
+- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039451](https://doi.org/10.1161/CIRCULATIONAHA.118.039451)
+- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326048](https://doi.org/10.1161/CIRCRESAHA.125.326048) [DOI unverified]
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
+- Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

@@ -12,8 +12,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2016-JACCHeartFail-Joseph-QRS_duration_predictor_hfpef.pdf
-    citekey: Joseph2016QRS
+  - citekey: Joseph2016QRS
+    doi: 10.1016/j.jchf.2016.01.016
 ---
 
 # Cardiac Remodelling in HFpEF

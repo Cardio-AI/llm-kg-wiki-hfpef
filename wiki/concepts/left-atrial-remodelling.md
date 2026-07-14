@@ -12,8 +12,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2012-LANCET-Solomon-PARAMOUNT_study_LCZ696_inhibitor.pdf
-    citekey: Solomon2012PARAMOUNT
+  - citekey: Solomon2012PARAMOUNT
+    doi: 10.1016/S0140-6736(12)61227-6
 ---
 
 # Left Atrial Remodelling in HFpEF

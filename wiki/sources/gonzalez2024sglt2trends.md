@@ -14,8 +14,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2024-BMCCardiovascDis-Gonzalez-SGLT2_inhibitors_trend_2013-2021.pdf
-  citekey: gonzalez2024sglt2trends
+- citekey: gonzalez2024sglt2trends
+  doi: 10.1186/s12872-024-03961-5
 page-type: source-summary-page
 ---
 # Gonzalez 2024 — SGLT2i Prescribing Trends 2013–2021
@@ -23,13 +23,13 @@ page-type: source-summary-page
 > By 2021, only 1 in 5 HFpEF patients with T2DM and 1 in 85 without T2DM were on an SGLT2i in US commercial/Medicare claims — a major implementation gap even after landmark trial publications and guideline updates.
 
 **Full citation:**
-Gonzalez J, Dave CV. Prescribing trends of SGLT2 inhibitors among HFrEF and HFpEF patients with and without T2DM, 2013–2021. *BMC Cardiovasc Disord.* 2024;24:285. doi:[10.1186/s12872-024-03961-5](https://doi.org/10.1186/s12872-024-03961-5)
+González A, et al. Trends in the utilisation of sodium-glucose cotransporter-2 inhibitors in patients with heart failure with reduced or preserved ejection fraction in the United States. *BMC Cardiovasc Disord.* 2024;24:285. doi:[10.1186/s12872-024-03961-5](https://doi.org/10.1186/s12872-024-03961-5)
 
 ---
 
 ## Summary
 
-Serial cross-sectional study using US MarketScan commercial and Medicare claims (2013–2021). Enumerates SGLT2i prescribing prevalence in HFrEF and HFpEF cohorts annually, stratified by T2DM comorbidity status. (source: raw/2024-BMCCardiovascDis-Gonzalez-SGLT2_inhibitors_trend_2013-2021.pdf)
+Serial cross-sectional study using US MarketScan commercial and Medicare claims (2013–2021). Enumerates SGLT2i prescribing prevalence in HFrEF and HFpEF cohorts annually, stratified by T2DM comorbidity status. (source: gonzalez2024sglt2trends)
 
 ## Design
 

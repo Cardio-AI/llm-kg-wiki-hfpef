@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf
-    citekey: Reddy2017ArtStiff
-  - file: raw/2018-ESCHeartFail-Suzuki-sleep-disordered_breathing_hf.pdf
-    citekey: Suzuki2018SDB
+  - citekey: Reddy2017ArtStiff
+    doi: 10.1016/j.jacc.2017.05.029
+  - citekey: Suzuki2018SDB
+    doi: 10.1002/ehf2.12264
 ---
 
 # Arterial Stiffness in HFpEF

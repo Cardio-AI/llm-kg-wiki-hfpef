@@ -18,8 +18,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-- file: raw/2015-JAMA-Kitzman-SECRET_study.pdf
-  citekey: Kitzman2016SECRET
+- citekey: Kitzman2016SECRET
+  doi: 10.1001/jama.2015.17346
 page-type: entity-page
 ---
 # SECRET

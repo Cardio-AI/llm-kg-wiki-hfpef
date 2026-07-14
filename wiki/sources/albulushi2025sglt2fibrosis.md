@@ -16,8 +16,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2025-EJMR-Albulushi-SGLT2-inhibtors_diabetic_hfpef.pdf
-  citekey: albulushi2025sglt2fibrosis
+- citekey: albulushi2025sglt2fibrosis
+  doi: 10.1186/s40001-025-02834-7
 page-type: source-summary-page
 ---
 # Albulushi 2025 — SGLT2i Myocardial Fibrosis in Diabetic HFpEF (CMR RCT)
@@ -31,7 +31,7 @@ Albulushi A, Askari KM, Al-Abedi AM, Al-Kulaibi MA, Hasan MS, Hosseini Z, Al-Rah
 
 ## Summary
 
-Multicenter double-blind placebo-controlled RCT at three tertiary care centres (Royal Hospital Muscat; Oman International Hospital; National Heart Center, Oman — with sites in Chicago IL and Cairo Egypt). N=100 (50 dapagliflozin, 50 placebo). HFpEF+T2DM with evidence of elevated myocardial fibrosis by ECV ≥27%. 12-month follow-up. Serial cardiac MRI (CMR) with T1 mapping and ECV quantification as primary endpoint. First prospective human trial quantifying longitudinal myocardial fibrosis changes with SGLT2i in HFpEF. (source: raw/2025-EJMR-Albulushi-SGLT2-inhibtors_diabetic_hfpef.pdf)
+Multicenter double-blind placebo-controlled RCT at three tertiary care centres (Royal Hospital Muscat; Oman International Hospital; National Heart Center, Oman — with sites in Chicago IL and Cairo Egypt). N=100 (50 dapagliflozin, 50 placebo). HFpEF+T2DM with evidence of elevated myocardial fibrosis by ECV ≥27%. 12-month follow-up. Serial cardiac MRI (CMR) with T1 mapping and ECV quantification as primary endpoint. First prospective human trial quantifying longitudinal myocardial fibrosis changes with SGLT2i in HFpEF. (source: albulushi2025sglt2fibrosis)
 
 ## Design
 

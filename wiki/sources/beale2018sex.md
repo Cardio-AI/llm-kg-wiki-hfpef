@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2018-CirculationAHA-Beale-sex_differences_HFpEF.pdf
-  citekey: beale2018sex
+- citekey: beale2018sex
+  doi: 10.1161/CIRCULATIONAHA.118.034271
 page-type: source-summary-page
 ---
 # Sex Differences in Cardiovascular Pathophysiology: Why Women Are Overrepresented in Heart Failure With Preserved Ejection Fraction
 
 > Women's predisposition to HFpEF arises from sex-specific cardiac structure, vascular aging, immune biology, and unique exposures including pregnancy and preeclampsia.
 
-**File:** `raw/2018-CirculationAHA-Beale-sex_differences_HFpEF.pdf` · **Authors:** Beale AL, Meyer P, Marwick TH, Lam CSP, Kaye DM · **Year:** 2018 · **Journal:** Circulation 138:198–205
+**Full citation:**
+Beale AL, Meyer P, Marwick TH, Lam CSP, Kaye DM. Sex Differences in Cardiovascular Pathophysiology: Why Women Are Overrepresented in Heart Failure With Preserved Ejection Fraction. *Circulation.* 2018;138(2):198–205. doi:[10.1161/CIRCULATIONAHA.118.034271](https://doi.org/10.1161/CIRCULATIONAHA.118.034271)
 
 ---
 

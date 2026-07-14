@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2024-JCardiovascRiskRep-Ilonze-racial_ethnic_disparities_hfpef.pdf
-  citekey: Ilonze2024Disparities
+- citekey: Ilonze2024Disparities
+  doi: 10.1007/s12170-024-00748-7
 page-type: source-summary-page
 ---
 # Ilonze 2024 — Racial and Ethnic Disparities in HFpEF
 
 > Racial/ethnic disparities in HFpEF are widespread and operate across the care continuum: Black patients have higher HFpEF burden at younger ages, lower natriuretic peptide levels that mask diagnosis, higher ATTR V122I amyloid prevalence, and are underrepresented in trials; SGLT2i, semaglutide, and spironolactone are effective in Black patients but remain underutilised.
 
-**File:** `raw/2024-JCardiovascRiskRep-Ilonze-racial_ethnic_disparities_hfpef.pdf`  
+**Full citation:**
+Ilonze OJ, Mazimba S. Racial and ethnic disparities in heart failure with preserved ejection fraction: a comprehensive review. *Curr Cardiovasc Risk Rep.* 2025;19:5. doi:[10.1007/s12170-024-00748-7](https://doi.org/10.1007/s12170-024-00748-7)
 **Authors:** Ilonze OJ, Mazimba S  
 **Year:** 2024 · **Journal:** Curr Cardiovasc Risk Rep 2025;19:5 · **Published:** December 28, 2024  
 **Type:** Review article  

@@ -12,8 +12,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2025-JACC-Packer-SUMMIT_study.pdf
-  citekey: Packer2025SUMMITCKD
+- citekey: Packer2025SUMMITCKD
+  doi: 10.1016/j.jacc.2025.03.009
 page-type: entity-page
 ---
 # Tirzepatide HFpEF → [[summit]]

@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
-  citekey: Kitzman2021REHABHF
+- citekey: Kitzman2021REHABHF
+  doi: 10.1056/NEJMoa2026141
 page-type: source-summary-page
 ---
 # REHAB-HF
 
 > RCT (N=349) of transitional progressive multidomain rehabilitation initiated in hospital and continued as 36 outpatient sessions over 12 weeks in older patients (≥60 years) hospitalised for acute decompensated HF (any EF); rehabilitation improved Short Physical Performance Battery (SPPB) by 1.5 points at 3 months (3× the MCID; P<0.001), 6MWD (+34 m), and KCCQ (+7.1), with no significant effect on 60-day rehospitalisation.
 
-**File:** `raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf` · **Authors:** Kitzman DW, Whellan DJ, Duncan P et al. · **Year:** 2021 · **Journal:** N Engl J Med 2021;385:203–216  
+**Full citation:**
+Kitzman DW, Whellan DJ, Duncan P, et al.; REHAB-HF Trial Investigators. Physical Rehabilitation for Older Patients Hospitalized for Heart Failure. *N Engl J Med.* 2021;385(3):203–216. doi:[10.1056/NEJMoa2026141](https://doi.org/10.1056/NEJMoa2026141)
 **Study type:** RCT · **N:** 349 randomised (175 intervention, 174 usual care) · **Population:** ≥60 years, hospitalised for ADHF, functionally independent prior to hospitalisation · **Follow-up:** 6 months  
 **Intervention:** Transitional progressive multidomain rehabilitation (strength, balance, mobility, endurance); initiated in-hospital, continued as 36 supervised outpatient sessions over 12 weeks  
 **Primary outcome:** Change in SPPB at 3 months
@@ -36,15 +37,15 @@ page-type: source-summary-page
 
 ## Key Findings
 
-1. **SPPB significantly improved at 3 months.** Rehab 8.3 vs. usual care 6.9 (between-group difference 1.5 points, 95% CI 0.9–2.0; P<0.001) — approximately 3× the MCID of 0.5 points. (source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf)
+1. **SPPB significantly improved at 3 months.** Rehab 8.3 vs. usual care 6.9 (between-group difference 1.5 points, 95% CI 0.9–2.0; P<0.001) — approximately 3× the MCID of 0.5 points. (source: Kitzman2021REHABHF)
 
-2. **Secondary functional outcomes improved.** 6MWD +34 m more in rehab (P significant); KCCQ +7.1 points more; frailty improved. (source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf)
+2. **Secondary functional outcomes improved.** 6MWD +34 m more in rehab (P significant); KCCQ +7.1 points more; frailty improved. (source: Kitzman2021REHABHF)
 
-3. **No significant effect on rehospitalisation.** 60-day rehospitalisation rate ratio 0.93 (95% CI 0.66–1.19; P=NS). Death 21 vs 16 in rehab vs usual care (RR 1.17, wide CI, NS). Hard outcomes were not primary and the trial was underpowered for them. (source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf)
+3. **No significant effect on rehospitalisation.** 60-day rehospitalisation rate ratio 0.93 (95% CI 0.66–1.19; P=NS). Death 21 vs 16 in rehab vs usual care (RR 1.17, wide CI, NS). Hard outcomes were not primary and the trial was underpowered for them. (source: Kitzman2021REHABHF)
 
-4. **EF-stratified: 53% HFpEF, 47% HFrEF.** Effect was present across both subgroups; full EF subgroup analysis published separately (Mentz 2021 JACC Heart Fail; see [[mentz2021rehabhfhfpef]]). (source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf)
+4. **EF-stratified: 53% HFpEF, 47% HFrEF.** Effect was present across both subgroups; full EF subgroup analysis published separately (Mentz 2021 JACC Heart Fail; see [[mentz2021rehabhfhfpef]]). (source: Kitzman2021REHABHF)
 
-5. **Extremely frail/comorbid population.** Mean age 72.7; 52% women; 97% frail or pre-frail; mean 5 comorbidities; 97% Black race. Demonstrates rehabilitation is feasible in the highest-risk, most comorbid post-hospitalisation HF cohort studied to date. (source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf)
+5. **Extremely frail/comorbid population.** Mean age 72.7; 52% women; 97% frail or pre-frail; mean 5 comorbidities; 97% Black race. Demonstrates rehabilitation is feasible in the highest-risk, most comorbid post-hospitalisation HF cohort studied to date. (source: Kitzman2021REHABHF)
 
 ---
 
@@ -88,7 +89,7 @@ page-type: source-summary-page
 | 60-day rehospitalisation | — | — | RR 0.93 (0.66–1.19) | NS |
 | Death | 21 | 16 | RR 1.17 (wide CI) | NS |
 
-(source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf)
+(source: Kitzman2021REHABHF)
 
 ---
 

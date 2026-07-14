@@ -22,15 +22,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf
-  citekey: Rillig2021EastAFNET4
+- citekey: Rillig2021EastAFNET4
+  doi: 10.1161/CIRCULATIONAHA.121.053081
 page-type: source-summary-page
 ---
 # Rillig 2021 — Early Rhythm Control in AF+HF: EAST-AFNET4 HF Substudy
 
 > In 798 HF patients from EAST-AFNET4 (56.3% HFpEF), early rhythm control (ERC) significantly reduced the primary cardiovascular outcome vs. usual care (HR 0.74; 95% CI 0.56–0.97; P=0.03), with no significant interaction by HF type (HFpEF vs. HFmrEF vs. HFrEF; P=0.63).
 
-**File:** `raw/2021-CirculationAHA-Rillig-rythm_control_af_in_hf.pdf`  
+**Full citation:**
+Rillig A, Magnussen C, Ozga AK, et al.; EAST-AFNET 4 Investigators. Early rhythm control therapy in patients with heart failure and atrial fibrillation: the EAST-AFNET 4 Trial. *Circulation.* 2021;144(11):845–858. doi:[10.1161/CIRCULATIONAHA.121.053081](https://doi.org/10.1161/CIRCULATIONAHA.121.053081)
 **Authors:** Rillig A et al.; EAST-AFNET4 Trial Investigators  
 **Year:** 2021 · **Journal:** Circulation 2021;144:845–858  
 **Study type:** Pre-specified subgroup analysis of EAST-AFNET4 (NCT01288352)  

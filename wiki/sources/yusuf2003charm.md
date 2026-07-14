@@ -15,15 +15,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2003-LANCET-Yusuf-CHARM-preserved_study.pdf
-  citekey: Yusuf2003CHARM
+- citekey: Yusuf2003CHARM
+  doi: 10.1016/S0140-6736(03)14285-7
 page-type: source-summary-page
 ---
 # CHARM-Preserved
 
 > Candesartan missed its unadjusted primary endpoint (HR 0.89, P=0.118) but reached borderline significance on covariate adjustment (P=0.051); adjudicated HF hospitalisations significant on adjusted analysis (P=0.047); new-onset diabetes reduced 40% (P=0.005); first large RCT to show a hospitalisation signal with RAAS blockade in HFpEF.
 
-**File:** `raw/2003-LANCET-Yusuf-CHARM-preserved_study.pdf` · **Authors:** Yusuf S, Pfeffer MA et al. · **Year:** 2003 · **Journal:** Lancet 362:777–781  
+**Full citation:**
+Yusuf S, Pfeffer MA, Swedberg K, et al.; CHARM Investigators and Committees. Effects of candesartan in patients with chronic heart failure and preserved left-ventricular ejection fraction: the CHARM-Preserved Trial. *Lancet.* 2003;362(9386):777–781. doi:[10.1016/S0140-6736(03)14285-7](https://doi.org/10.1016/S0140-6736(03)14285-7)
 **Study type:** RCT · **N:** 3,023 · **Population:** Symptomatic HF, LVEF >40%, NYHA II–IV, history of cardiac hospitalisation  
 **Follow-up:** Median 36.6 months · **Intervention:** Candesartan 32 mg/day vs. placebo  
 **Primary outcome:** CV death or HF hospitalisation (adjudicated)  

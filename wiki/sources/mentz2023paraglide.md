@@ -12,15 +12,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2023-JCF-Mentz-PARAGLIDE-HF_study_desing_rationale.pdf
-  citekey: mentz2023paraglide
+- citekey: mentz2023paraglide
+  doi: null  # needs source — see wiki/citations-doi-review.md
 page-type: source-summary-page
 ---
 # PARAGLIDE-HF: Rationale and Design
 
 > Design paper for PARAGLIDE-HF (NCT03988634): n=467 with LVEF >40% and recent worsening HF event randomised to sacubitril/valsartan vs valsartan; 52% women, 22% Black patients, median LVEF 55%, median NT-proBNP 2009 pg/mL; primary endpoint: time-averaged NT-proBNP reduction at weeks 4 and 8.
 
-**File:** `raw/2023-JCF-Mentz-PARAGLIDE-HF_study_desing_rationale.pdf` · **Authors:** Mentz RJ, Ward JH, Hernandez AF, et al. · **Year:** 2023 · **Journal:** Journal of Cardiac Failure 29(6):922–930
+**Full citation:**
+Mentz RJ, Ward JH, Hernandez AF, et al. Rationale and Design of the PARAGLIDE-HF Trial: Prospective Comparison of ARNI with ARB Given following Stabilization in Decompensated HFpEF. *J Card Fail.* 2023;29(6):922–930. DOI: not yet verified [needs source]
 
 ---
 

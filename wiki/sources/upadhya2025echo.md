@@ -16,15 +16,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2025-HeartFailRev-Upadhya-role_echocradiography_hfpef.pdf
-  citekey: upadhya2025echo
+- citekey: upadhya2025echo
+  doi: 10.1007/s10741-025-10516-z
 page-type: source-summary-page
 ---
 # The role of echocardiography in the diagnosis of HFpEF
 
 > Comprehensive review of TTE in HFpEF diagnosis; emphasises that no single echocardiographic parameter defines HFpEF, that HFpEF pathophysiology extends beyond diastolic dysfunction to six mechanistic domains, and that the integration of structural, functional, and strain measures — particularly LA reservoir strain (LASr) — provides the most accurate non-invasive estimation of LVFP.
 
-**File:** `raw/2025-HeartFailRev-Upadhya-role_echocradiography_hfpef.pdf` · **Authors:** Upadhya B, Rose GA, Stacey RB, Palma RA, Ryan T, Pendyal A, Kelsey AM (Duke University) · **Year:** 2025 · **Journal:** Heart Failure Reviews 2025;30:899–922 · **DOI:** 10.1007/s10741-025-10516-z
+**Full citation:**
+Upadhya B, Rose GA, Stacey RB, Palma RA, Ryan T, Pendyal A, Kelsey AM, Bhansali A, Kitzman DW. Role of echocardiography in the diagnosis and management of heart failure with preserved ejection fraction. *Heart Fail Rev.* 2025;30(4):899–922. doi:[10.1007/s10741-025-10516-z](https://doi.org/10.1007/s10741-025-10516-z)
 
 ---
 

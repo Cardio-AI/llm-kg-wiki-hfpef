@@ -20,15 +20,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf
-  citekey: Edelmann2013ALDODHF
+- citekey: Edelmann2013ALDODHF
+  doi: null  # needs source — see wiki/citations-doi-review.md
 page-type: source-summary-page
 ---
 # ALDO-DHF (Edelmann 2013)
 
 > Spironolactone 25 mg significantly improved echocardiographic diastolic function (E/e' −1.5; P<0.001) and induced reverse cardiac remodelling (LV mass −6 g/m²; P=0.009) in HFpEF, but did not improve maximal exercise capacity (peak VO₂ P=0.81), symptoms, or quality of life.
 
-**File:** `raw/2013-JAMA-Edelmann-Aldo-DHF_study.pdf` · **Authors:** Edelmann F, Wachter R, Schmidt AG, Kraigher-Krainer E, Colantonio C, Kamke W, Duvinage A, Stahrenberg R, Durstewitz K, Löffler M, Düngen HD, Tschöpe C, Herrmann-Lingen C, Halle M, Hasenfuss G, Gelbrich G, Pieske B; for the Aldo-DHF Investigators · **Year:** 2013 · **Journal:** JAMA 2013;309(8):781–791 · **DOI:** [verify on crossref — ISRCTN94726526; Eudra-CT No: 2006-002605-31]  
+**Full citation:**
+Edelmann F, Wachter R, Schmidt AG, Kraigher-Krainer E, Colantonio C, Kamke W, Duvinage A, Stahrenberg R, Durstewitz K, Löffler M, Düngen HD, Tschöpe C, Herrmann-Lingen C, Halle M, Hasenfuss G, Gelbrich G, Pieske B; for the Aldo-DHF Investigators. Effect of Spironolactone on Diastolic Function and Exercise Capacity in Patients With Heart Failure With Preserved Ejection Fraction: The Aldo-DHF Randomized Controlled Trial. *JAMA.* 2013;309(8):781–791. DOI: not yet verified (ISRCTN94726526 is the trial registry ID) [needs source]
 **Study type:** Multicenter, parallel-group, double-blind, placebo-controlled RCT · **N:** 422 (213 spironolactone; 209 placebo) · **Population:** Ambulatory HFpEF, age ≥50y, NYHA II–III, LVEF ≥50%, diastolic dysfunction grade ≥I, peak VO₂ ≤25 mL/kg/min · **Follow-up:** 12 months (mean 11.6 months)  
 **Intervention:** Spironolactone 25 mg once daily vs. matching placebo (no up-titration) · **Primary outcomes (equally ranked co-primary):** (1) E/e' medial velocity ratio at 12 months; (2) peak VO₂ on CPET at 12 months · **Sites:** 10 sites in Germany and Austria · **Period:** March 2007 – April 2012
 

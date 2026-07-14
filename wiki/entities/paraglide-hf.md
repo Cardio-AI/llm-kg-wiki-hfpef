@@ -14,8 +14,8 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2023-JCF-Mentz-PARAGLIDE-HF_study_desing_rationale.pdf
-  citekey: mentz2023paraglide
+- citekey: mentz2023paraglide
+  doi: null  # needs source — see wiki/citations-doi-review.md
 page-type: entity-page
 ---
 # PARAGLIDE-HF

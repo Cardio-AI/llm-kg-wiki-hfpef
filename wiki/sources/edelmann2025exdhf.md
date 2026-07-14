@@ -14,15 +14,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
-  citekey: edelmann2025exdhf
+- citekey: edelmann2025exdhf
+  doi: 10.1038/s41591-024-03342-7
 page-type: source-summary-page
 ---
 # Ex-DHF Trial: Exercise Training in HFpEF
 
 > Ex-DHF (ISRCTN86879094; n=322, 12 months, combined endurance + resistance training): **primary endpoint NOT met** (Packer composite score, Kendall's tau-b −0.073, P=0.17), but VO₂ improved by +1.3 mL/kg/min (P=0.003) and NYHA class improved substantially (OR 5.89, P<0.001); adherence ~53% likely attenuated composite endpoint benefit.
 
-**File:** `raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf` · **Authors:** Edelmann F et al. · **Year:** 2025 · **Journal:** Nature Medicine 31:306–314, DOI: 10.1038/s41591-024-03342-7
+**Full citation:**
+Edelmann F, et al. Exercise training in patients with heart failure and preserved ejection fraction: the Ex-DHF randomised clinical trial. *Nat Med.* 2025;31:306–314. doi:[10.1038/s41591-024-03342-7](https://doi.org/10.1038/s41591-024-03342-7)
 
 ---
 

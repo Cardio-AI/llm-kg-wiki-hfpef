@@ -13,8 +13,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-- file: raw/2022-NatureMed-Voors-EMPULSE_study.pdf
-  citekey: Voors2022EMPULSE
+- citekey: Voors2022EMPULSE
+  doi: 10.1038/s41591-021-01659-1
 page-type: entity-page
 ---
 # EMPULSE
@@ -54,7 +54,7 @@ Mechanistically, empagliflozin in acute HF may provide haemoconcentration and os
 
 ## Evidence
 
-Primary win ratio: 1.36 (95% CI 1.09–1.68; P=0.0054) — empagliflozin superior to placebo. Components: death (HR 0.98), HF events (rate ratio 0.76), KCCQ-TSS change (+4.45 pts). HFpEF subgroup (LVEF >40%): win ratio 1.39 (0.95–2.03) — directionally consistent, CI crosses 1 due to smaller N. No excess of renal adverse events or hypotension in the in-hospital initiation group; eGFR transiently reduced week 1 but returned to baseline by week 4. (source: raw/2022-NatureMed-Voors-EMPULSE_study.pdf)
+Primary win ratio: 1.36 (95% CI 1.09–1.68; P=0.0054) — empagliflozin superior to placebo. Components: death (HR 0.98), HF events (rate ratio 0.76), KCCQ-TSS change (+4.45 pts). HFpEF subgroup (LVEF >40%): win ratio 1.39 (0.95–2.03) — directionally consistent, CI crosses 1 due to smaller N. No excess of renal adverse events or hypotension in the in-hospital initiation group; eGFR transiently reduced week 1 but returned to baseline by week 4. (source: Voors2022EMPULSE)
 
 ## Status
 
@@ -69,3 +69,6 @@ Primary win ratio: 1.36 (95% CI 1.09–1.68; P=0.0054) — empagliflozin superio
 ## Contradictions
 
 None registered.
+
+## References
+- Voors AA, Angermann CE, Teerlink JR, et al. The SGLT2 inhibitor empagliflozin in patients hospitalized for acute heart failure: a multinational randomized trial. *Nat Med.* 2022;28:568–574. doi:[10.1038/s41591-021-01659-1](https://doi.org/10.1038/s41591-021-01659-1)

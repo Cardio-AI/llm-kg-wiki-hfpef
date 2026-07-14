@@ -23,7 +23,8 @@ page-type: source-summary-page
 
 > Perindopril failed to significantly reduce all-cause mortality/unplanned HF hospitalisation (HR 0.92, P=0.55) in elderly HF patients with preserved LVEF — the oldest RAAS trial in HFpEF; results confounded by high drug discontinuation.
 
-**File:** `raw/[pending ingest]` · **Authors:** Cleland JGF, Tendera M, Adamus J, et al. · **Year:** 2006 · **Journal:** Eur Heart J  
+**Full citation:**
+Cleland JGF, Tendera M, Adamus J, et al.; PEP-CHF Investigators. The Perindopril in Elderly People with Chronic Heart Failure (PEP-CHF) study. *Eur Heart J.* 2006;27(19):2338–2345. doi:[10.1093/eurheartj/ehl250](https://doi.org/10.1093/eurheartj/ehl250)
 **Study type:** RCT · **N:** 850 · **Population:** Age ≥70 years, LVEF >40%, echocardiographic diastolic dysfunction (LVH or dilated LA), clinical HF · **Mean follow-up:** 26.2 months  
 **Intervention:** Perindopril 4 mg vs. placebo  
 **Primary outcome:** Composite of all-cause mortality + unplanned HF hospitalisation

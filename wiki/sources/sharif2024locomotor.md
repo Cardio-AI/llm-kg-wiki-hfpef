@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
-  citekey: sharif2024locomotor
+- citekey: sharif2024locomotor
+  doi: 10.1016/j.cardfail.2023.10.475
 page-type: source-summary-page
 ---
 # Resistance Training and Locomotor Muscle Function in HFpEF
 
 > Pilot RCT (n=22, 12.5 weeks): resistance training reduced leg fat percentage (32.6→31.6%), increased lower limb lean mass index, improved VO₂peak (17.1→19.4 mL/kg/min), and nearly doubled leg press strength (92→129 kg) without adverse events — proof-of-concept that peripheral muscle adaptation drives exercise benefit in HFpEF.
 
-**File:** `raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf` · **Authors:** Sharif M et al. · **Year:** 2024 · **Journal:** Journal of Cardiac Failure 30(2):410–414, DOI: 10.1016/j.cardfail.2023.10.475
+**Full citation:**
+Sharif M, et al. Resistance Training Effects on Locomotor Muscle Composition and Exercise Capacity in Heart Failure with Preserved Ejection Fraction. *J Card Fail.* 2024;30(2):410–414. doi:[10.1016/j.cardfail.2023.10.475](https://doi.org/10.1016/j.cardfail.2023.10.475)
 
 ---
 

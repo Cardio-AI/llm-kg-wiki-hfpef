@@ -20,15 +20,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: "raw/2024-IJCard-Tim\xF3teo-pericardium_epicardial_adipose_tissue_hf.pdf"
-  citekey: Timoteo2024EAT
+- citekey: Timoteo2024EAT
+  doi: 10.1016/j.ijcard.2024.132303
 page-type: source-summary-page
 ---
 # Timóteo 2024 — Pericardium, Epicardial Adipose Tissue, and HFpEF
 
 > EAT contributes to HFpEF via two mechanisms: (1) pericardial restraint — physical compression of LV increasing filling pressures; and (2) paracrine dysfunction — proinflammatory adipokines (TNF-α, IL-1β, IL-6) secreted directly onto adjacent myocardium, promoting fibrosis, inflammation, microvascular dysfunction, and AF.
 
-**File:** `raw/2024-IJCard-Timóteo-pericardium_epicardial_adipose_tissue_hf.pdf`  
+**Full citation:**
+Timóteo AT, Toste A, Caracelo A, Bragança N. Epicardial adipose tissue: a key player in the pathogenesis and therapeutics of heart failure with preserved ejection fraction. *Int J Cardiol.* 2024;412:132303. doi:[10.1016/j.ijcard.2024.132303](https://doi.org/10.1016/j.ijcard.2024.132303)
 **Authors:** Timóteo AT, Barbas Albuquerque F, Lacerda Teixeira B (Santa Marta Hospital, Lisbon; NOVA Medical School)  
 **Year:** 2024 · **Journal:** Int J Cardiol 2024;412:132303  
 **Type:** Review article  

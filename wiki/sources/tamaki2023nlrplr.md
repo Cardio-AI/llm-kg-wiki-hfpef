@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2023-JAHA-Tamaki-ADHF-HFpEF_study_NLR_PLR.pdf
-  citekey: Tamaki2023NLRPLR
+- citekey: Tamaki2023NLRPLR
+  doi: 10.1161/JAHA.122.026326
 page-type: source-summary-page
 ---
 # Tamaki 2023 — NLR + PLR Prognostic in ADHF-HFpEF (PURSUIT-HFpEF)
 
 > In 1,026 ADHF patients with LVEF ≥50% (PURSUIT-HFpEF registry, Japan), combined high NLR (>4.5) AND high PLR (>193) predicted cardiac death with HR 2.66 (P=0.0008) over 429-day follow-up; serial NLR+PLR (admission → discharge) strengthened prediction (HR 2.71); CRP was NOT independently associated with cardiac death.
 
-**File:** `raw/2023-JAHA-Tamaki-ADHF-HFpEF_study_NLR_PLR.pdf`  
+**Full citation:**
+Tamaki S, Yamada T, Watanabe T, Morita T, Kawasaki M, Kikuchi A, Kawai T, Seo M, Nakamura J, Fukunami M; PURSUIT-HFpEF Investigators. Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as Predictors of Adverse Outcomes in Acute Decompensated Heart Failure With Preserved Ejection Fraction. *J Am Heart Assoc.* 2023;12(8):e026326. doi:[10.1161/JAHA.122.026326](https://doi.org/10.1161/JAHA.122.026326)
 **Authors:** Tamaki S, Yamada T, Watanabe T, Morita T, et al. (PURSUIT-HFpEF Investigators)  
 **Year:** 2023 · **Journal:** J Am Heart Assoc 2023;12:e026326 · **DOI:** 10.1161/JAHA.122.026326  
 **Registry:** PURSUIT-HFpEF; UMIN000021831  

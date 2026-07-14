@@ -21,15 +21,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2013-JAMA-Redfield-RELAX_study.pdf
-  citekey: Redfield2013RELAX
+- citekey: Redfield2013RELAX
+  doi: 10.1001/jama.2013.2024
 page-type: source-summary-page
 ---
 # RELAX — PDE5 Inhibition in HFpEF (Redfield 2013)
 
 > Sildenafil (PDE5 inhibitor, 20→60 mg TID × 24 weeks) failed to improve peak VO₂ or any secondary endpoint vs placebo in HFpEF — and produced a renal and neurohumoral safety signal — establishing PDE5 inhibition as an ineffective NO/cGMP approach in unselected HFpEF.
 
-**File:** `raw/2013-JAMA-Redfield-RELAX_study.pdf` · **Authors:** Redfield MM, Chen HH, Borlaug BA, et al.  
+**Full citation:**
+Redfield MM, Chen HH, Borlaug BA, et al.; NHLBI Heart Failure Clinical Research Network. Effect of Phosphodiesterase-5 Inhibition on Exercise Capacity and Clinical Status in Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2013;309(12):1268–1277. doi:[10.1001/jama.2013.2024](https://doi.org/10.1001/jama.2013.2024)
 **Year:** 2013 · **Journal:** JAMA 2013;309(12):1268–1277 · **DOI:** 10.1001/jama.2013.2024  
 **ClinicalTrials.gov:** NCT00763867  
 **Study type:** Multicenter double-blind RCT · **N:** 216 · **Sites:** 26 (US and Canada) · **Sponsor:** NHLBI Heart Failure Clinical Research Network (HFCRN)  

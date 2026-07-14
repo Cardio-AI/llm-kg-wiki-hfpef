@@ -98,16 +98,20 @@ Alias types: `abbreviation` · `acronym` · `old-name` · `slang` · `research-n
 
 ## Citation & Evidence
 
-- Every factual claim inline: `(source: filename.pdf)`
+- Every factual claim inline: `(source: citekey)` — never a raw filename or path (`raw/` is gitignored and not part of the public repo)
 - Two sources disagree: note on the page and in `wiki/contradictions.md`; contradiction must propagate to concept pages, summaries, comparisons, and queries
 - Unsourced claims: mark `[needs source]`
 - Every page frontmatter:
 ```yaml
 sources:
-  - file: raw/filename.pdf
-    citekey: AuthorYearKeyword   # e.g. Shah2022HFpEF
+  - citekey: AuthorYearKeyword   # e.g. Shah2022HFpEF
+    doi: 10.xxxx/xxxxx           # or null if unverified — see wiki/citations-doi-review.md
 ```
 Citekeys are stable and Zotero-synced. Format: `AuthorYearKeyword`.
+
+**Non-source pages** (concepts/entities/comparisons/summaries/queries/index/overview/contradictions/trials-pending) must end with a `## References` section listing the full formatted DOI reference (pulled from `wiki/citations.md` → Full Formatted References) for every citekey cited on that page.
+
+**Source pages** (`wiki/sources/*.md`) replace the old `**File:** raw/...` line with a `**Full citation:**` line followed by the same formatted-reference text.
 
 **Citation lookup:** When asked for a reference or citekey — read `wiki/citations.md`, return the full APA entry from **Full Formatted References**. If missing, say so and offer to add it. Canonical citation is always `citations.md`, not page frontmatter.
 
@@ -143,5 +147,6 @@ Maintain `wiki/trials.md` (master registry) and `wiki/trials-pending.md` (stagin
 
 ## Rules
 - Never modify `raw/`
+- `raw/` is gitignored — never re-add PDFs to git; ingest still reads/writes local `raw/` files, but citekey + DOI is the only thing that reaches committed wiki pages
 - Always update `index.md` and `log.md` after any change
 - Ask before categorizing anything uncertain

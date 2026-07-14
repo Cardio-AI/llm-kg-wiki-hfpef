@@ -17,32 +17,32 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-18
 sources:
-- file: raw/2023-CirculationAHA-Sachdev-hfpef-exercise.pdf
-  citekey: Sachdev2023Exercise
-- file: raw/2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf
-  citekey: Bohmke2022Nonpharm
-- file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
-  citekey: Mirzai2025Exercise
-- file: raw/2025-NatMed-Edelmann-Ex-DHF_study-exercise.pdf
-  citekey: edelmann2025exdhf
-- file: raw/2024-JCF-Sharif-Exercise_Locomotor_muscles_HFpEF.pdf
-  citekey: sharif2024locomotor
-- file: raw/2024-PhysioResInt-Obaya-aerobic_trainin_on_VO2_EF.pdf
-  citekey: obaya2024aerobic
-- file: raw/2024-MayoClinProc-Borlaug-INABLE_study.pdf
-  citekey: Borlaug2024INABLE
-- file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
-  citekey: Brubaker2023SECRET2
-- file: raw/2021-JCardFail-Alonso-HEART_camp_exercise_study.pdf
-  citekey: Alonso2022HEARTcamp
-- file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
-  citekey: Kitzman2021REHABHF
-- file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
-  citekey: mentz2021rehabhfhfpef
-- file: raw/2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf
-  citekey: Mueller2021OptimEx
-- file: raw/2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf
-  citekey: donelli2020hiit
+- citekey: Sachdev2023Exercise
+  doi: 10.1161/CIR.0000000000001122
+- citekey: Bohmke2022Nonpharm
+  doi: 10.1016/j.ccl.2022.06.003
+- citekey: Mirzai2025Exercise
+  doi: 10.1007/s10741-025-10526-x
+- citekey: edelmann2025exdhf
+  doi: 10.1038/s41591-024-03342-7
+- citekey: sharif2024locomotor
+  doi: 10.1016/j.cardfail.2023.10.475
+- citekey: obaya2024aerobic
+  doi: 10.1002/pri.2044
+- citekey: Borlaug2024INABLE
+  doi: null  # needs source — see wiki/citations-doi-review.md
+- citekey: Brubaker2023SECRET2
+  doi: 10.1161/CIRCHEARTFAILURE.122.010161
+- citekey: Alonso2022HEARTcamp
+  doi: 10.1016/j.cardfail.2021.10.005
+- citekey: Kitzman2021REHABHF
+  doi: 10.1056/NEJMoa2026141
+- citekey: mentz2021rehabhfhfpef
+  doi: 10.1016/j.jchf.2021.07.008
+- citekey: Mueller2021OptimEx
+  doi: 10.1001/jama.2020.26812
+- citekey: donelli2020hiit
+  doi: 10.1177/2047487319901206
 page-type: entity-page
 ---
 # Supervised Exercise Training (SET)
@@ -72,11 +72,11 @@ Supervised exercise training (SET) encompasses structured exercise programmes de
 - **Combined resistance + aerobic training:** Resistance training added to aerobic base; EX-DHF pilot: VO₂peak +2.6 mL/kg/min + improved LAVI; 12-month progressive trial: +5.3 mL/kg/min; largest VO₂ gains in literature
 - **IMT (Inspiratory Muscle Training):** Targeted training of respiratory muscles (diaphragm, accessory muscles) at 25–30% maximal inspiratory pressure (MIP); reduces fraction of cardiac output competed for by respiratory muscles during exertion; delivers VO₂peak improvement (~+2.9 mL/kg/min) comparable to MCT with home-delivery advantage; two RCTs (Palau 2014, Kinugasa 2020)
 
-(source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf; source: 2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf)
+(source: Sachdev2023Exercise; source: Bohmke2022Nonpharm)
 
 ## Role in HFpEF
 
-SET is the only intervention with consistent, replicated positive effects on exercise capacity across multiple HFpEF RCTs. Its primary mechanism of action is reversal of skeletal muscle myopathy — the dominant contributor to [[exercise-intolerance]] in HFpEF (peripheral A-VO2 difference accounts for >50% of VO2 deficit). Secondary adaptations: improved chronotropic response, modest reduction in exertional filling pressures. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+SET is the only intervention with consistent, replicated positive effects on exercise capacity across multiple HFpEF RCTs. Its primary mechanism of action is reversal of skeletal muscle myopathy — the dominant contributor to [[exercise-intolerance]] in HFpEF (peripheral A-VO2 difference accounts for >50% of VO2 deficit). Secondary adaptations: improved chronotropic response, modest reduction in exertional filling pressures. (source: Sachdev2023Exercise)
 
 Context: [[hfpef-treatment-gap]] — no pharmacological agent has consistently improved outcomes across the full HFpEF population. SET partially fills this gap at the functional level.
 
@@ -91,7 +91,7 @@ Context: [[hfpef-treatment-gap]] — no pharmacological agent has consistently i
 | 6-minute walk distance | +40 m | — |
 | Major adverse cardiac events | 0 (in 276 patients) | — |
 
-(source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+(source: Sachdev2023Exercise)
 
 ### Key Individual Trials
 
@@ -112,7 +112,7 @@ Context: [[hfpef-treatment-gap]] — no pharmacological agent has consistently i
 | Sharif 2024 | Resistance training | 12.5 weeks | +2.3 mL/kg/min | N=22 pilot; fat-selective; lean mass gained; no change in LF%; confirms peripheral mechanism |
 | Obaya 2024 | Lower-limb aerobic vs. arm ergometry | 12 weeks | Lower-limb: 21.51; arm: 19.26 mL/kg/min (P<0.001) | N=40; LVEF unchanged both arms; supports limb-specific skeletal muscle mechanism |
 
-(source: 2022-CardioClin-Bohmke-nonpharmacological_hfpef.pdf; source: 2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf; source: edelmann2025exdhf; source: sharif2024locomotor; source: obaya2024aerobic; source: 2021-JAMA-Mueller-HIIT_moderate_guideline_study.pdf; source: 2020-ESC-DonelliDaSilveira-HIIT_moderate_HFpEF.pdf)
+(source: Bohmke2022Nonpharm; source: Mirzai2025Exercise; source: edelmann2025exdhf; source: sharif2024locomotor; source: obaya2024aerobic; source: Mueller2021OptimEx; source: donelli2020hiit)
 
 ### Post-Hospitalisation Rehabilitation (REHAB-HF)
 
@@ -129,7 +129,7 @@ HFpEF subgroup (Mentz 2021, JACC Heart Fail; n=185): SPPB +1.9 pts vs. +1.1 pts 
 
 **Key distinction from outpatient SET:** REHAB-HF addresses the post-hospitalisation window in a population excluded from OPTIMEX-CLIN and most VO₂-focused trials. The primary outcome is SPPB (physical performance), not peak VO₂. Frailty, not EF, defines the target population.
 
-(source: 2021-NEJM-Kitzman-REHAB-HF_study.pdf; source: 2021-JACC-Mentz-REHAB-HF_study.pdf)
+(source: Kitzman2021REHABHF; source: mentz2021rehabhfhfpef)
 
 ### Hard Outcomes
 
@@ -137,7 +137,7 @@ Effect of SET on all-cause mortality or HF hospitalization in HFpEF: **unknown**
 
 ### Safety
 
-No major adverse cardiac events attributed to exercise training across 276 patients in safety-reporting RCTs. SET is safe in appropriately screened HFpEF patients. (source: 2023-CirculationAHA-Sachdev-hfpef-exercise.pdf)
+No major adverse cardiac events attributed to exercise training across 276 patients in safety-reporting RCTs. SET is safe in appropriately screened HFpEF patients. (source: Sachdev2023Exercise)
 
 ## Digital Health and App-Based Approaches
 
@@ -147,7 +147,7 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 - Algorithm adjusts weekly goal based on 5 most active days of prior week
 - Addresses the primary implementation barrier of structured SET (low participation, access constraints)
 
-**MyoMobile trial (NCT04940312):** N=185, three-arm RCT (standard care vs. tracking vs. tracking+coaching), 12-week primary endpoint, DZHK Rhine-Main, Germany. Design paper published 2025; primary results pending. First prospective RCT of app-based PA coaching in HFpEF. (source: 2025-ESC-Zeid-MyoMobile_study.pdf)
+**MyoMobile trial (NCT04940312):** N=185, three-arm RCT (standard care vs. tracking vs. tracking+coaching), 12-week primary endpoint, DZHK Rhine-Main, Germany. Design paper published 2025; primary results pending. First prospective RCT of app-based PA coaching in HFpEF. (source: Zeid2025MyoMobile)
 
 **Relationship to structured SET:** App-based PA coaching is **complementary, not equivalent** to supervised exercise training. SET changes peak VO₂ via skeletal muscle adaptation and requires facility infrastructure. App-based PA coaching targets sedentary behaviour (step count) at a lower intensity and lower access barrier. The two approaches may be additive in a comprehensive HFpEF rehabilitation programme.
 
@@ -156,7 +156,7 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 ### Current Guideline Recommendations
 
 - **2022 AHA/ACC HF Guidelines:** Class I, Level A — exercise training recommended for all patients with HF regardless of ejection fraction
-- **2021 ESC Guidelines:** Exercise training recommended for symptomatic improvement; specific strength of recommendation aligns with Class I (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **2021 ESC Guidelines:** Exercise training recommended for symptomatic improvement; specific strength of recommendation aligns with Class I (source: McDonagh2021ESC)
 
 ### Access / Coverage
 
@@ -175,3 +175,10 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 - **Ex-DHF (2025):** VO₂ improved (+1.3 mL/kg/min; P=0.003) and NYHA class improved (OR 5.89; P<0.001), yet the primary Packer composite endpoint was NOT MET (P=0.17). This dissociation between functional gains and composite endpoint is either (a) the Packer composite is insensitive to VO₂/NYHA changes in the ambulatory low-risk Ex-DHF population, or (b) adherence (~53%) was insufficient to power the composite endpoint — the largest exercise RCT in HFpEF has not resolved the SET effectiveness question for composite clinical outcomes. See [[contradictions]] #30.
 
 See [[contradictions]].
+
+## References
+- Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
+- Kitzman DW, Whellan DJ, Duncan P, et al.; REHAB-HF Trial Investigators. Physical Rehabilitation for Older Patients Hospitalized for Heart Failure. *N Engl J Med.* 2021;385(3):203–216. doi:[10.1056/NEJMoa2026141](https://doi.org/10.1056/NEJMoa2026141)
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
+- Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)
+- Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized app-based coaching for improving physical activity in heart failure with preserved ejection fraction patients compared with standard care: rationale and design of the MyoMobile Study. *Eur Heart J Digit Health.* 2025;6:298–309. doi:[10.1093/ehjdh/ztae096](https://doi.org/10.1093/ehjdh/ztae096)

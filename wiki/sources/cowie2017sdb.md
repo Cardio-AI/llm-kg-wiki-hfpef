@@ -17,15 +17,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2017-JACCHeartFail-Cowi-sleep-disordered_breathing_hf.pdf
-  citekey: Cowie2017SDB
+- citekey: Cowie2017SDB
+  doi: 10.1016/j.jchf.2017.03.011
 page-type: source-summary-page
 ---
 # Cowie 2017 — Sleep-Disordered Breathing in Heart Failure (State of the Art Review)
 
 > SDB affects 50–75% of HF patients; CSA and OSA have distinct mechanisms and respond differently to treatment — adaptive servo-ventilation (ASV) is contraindicated in HFrEF+CSA (SERVE-HF mortality signal) but remains under-investigated in HFpEF where OSA predominates.
 
-**File:** `raw/2017-JACCHeartFail-Cowi-sleep-disordered_breathing_hf.pdf`  
+**Full citation:**
+Cowie MR, Gallagher AM. Sleep disordered breathing and heart failure: what does the future hold? *JACC Heart Fail.* 2017;5(10):715–723. doi:[10.1016/j.jchf.2017.03.011](https://doi.org/10.1016/j.jchf.2017.03.011)
 **Authors:** Cowie MR, Gallagher AM  
 **Year:** 2017 · **Journal:** JACC Heart Fail 2017;5:715–723  
 **Type:** State-of-the-art review  

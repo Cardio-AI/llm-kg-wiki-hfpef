@@ -15,16 +15,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP...pdf
-  citekey: ammar2025bnp
-- file: raw/2026-IJCARD-Hage-total_NT-proBNP_in_hf.pdf
-  citekey: hage2026ntprobnp
-- file: raw/2019-AJCariol-Boralkar-lymphocyte_NLR_hospitalization_hfpef
-  citekey: boralkar2019nlr
-- file: raw/2024-JCF-Fu-inflammation_hfpef.pdf
-  citekey: fu2024inflammation
-- file: raw/2024-CirculationAHA-Verma-inflammation_hfpef.pdf
-  citekey: verma2024inflammation
+- citekey: ammar2025bnp
+  doi: null  # needs source — see wiki/citations-doi-review.md
+- citekey: hage2026ntprobnp
+  doi: 10.1016/j.ijcard.2026.134554
+- citekey: boralkar2019nlr
+  doi: null  # needs source — see wiki/citations-doi-review.md
+- citekey: fu2024inflammation
+  doi: null  # needs source — see wiki/citations-doi-review.md
+- citekey: verma2024inflammation
+  doi: 10.1016/j.jacc.2024.08.028
 page-type: concept-page
 ---
 # Biomarkers in HFpEF

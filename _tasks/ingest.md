@@ -1,7 +1,7 @@
 1. Read the full source document
 2. Analyze: key entities, concepts, core arguments, connections to existing wiki, contradictions
 3. **Discuss analysis with user before writing anything** — cover: key entities found, concepts updated, contradictions identified, gaps remaining
-4. Zotero: read `_config/zotero.md` for credentials. Search Zotero by DOI or title. If not found, add it. Retrieve or generate citekey (`AuthorYearKeyword`).
+4. Zotero: read `_config/zotero.md` for credentials. Search Zotero by DOI or title. If not found, add it. Retrieve or generate citekey (`AuthorYearKeyword`). Citekey + DOI only in frontmatter/body — never the local `raw/` path (gitignored, local-only).
 5. Write pages:
    - `wiki/sources/<citekey>.md` — use `_templates/study.md` for clinical studies, `_templates/source.md` for all others
    - Create/update concept pages in `wiki/concepts/`

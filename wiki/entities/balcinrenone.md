@@ -16,8 +16,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2026-ESC-Sauer-pharmacological_options_and_needs_hfpef_hfmref.pdf
-  citekey: sauer2026pharmacological
+- citekey: sauer2026pharmacological
+  doi: 10.1093/eschf/xvag056
 page-type: entity-page
 ---
 # Balcinrenone

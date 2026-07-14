@@ -11,14 +11,14 @@ tags:
 created: 2026-05-05
 last_updated: 2026-05-15
 sources:
-- file: raw/2025-jjcc-Yi-AI_in_HFpEF.pdf
-  citekey: Yi2025AI
-- file: raw/2025-ESC-Zeid-MyoMobile_study.pdf
-  citekey: Zeid2025MyoMobile
-- file: raw/2025-NatCom-Akerman-AI_in_HFpEF_external_validation.pdf
-  citekey: akerman2025ai
-- file: raw/2019-Lancet-Attia-ECG_AI_AF.pdf
-  citekey: attia2019ecgaf
+- citekey: Yi2025AI
+  doi: 10.1016/j.jjcc.2025.08.018
+- citekey: Zeid2025MyoMobile
+  doi: 10.1093/ehjdh/ztae096
+- citekey: akerman2025ai
+  doi: 10.1038/s41467-025-58283-7
+- citekey: attia2019ecgaf
+  doi: 10.1016/S0140-6736(19)31721-0
 page-type: concept-page
 ---
 # Machine Learning and AI in HFpEF
@@ -101,11 +101,11 @@ Specific ML-derived insights:
 
 A domain adjacent to AI/ML: personalised digital health interventions using wearable devices and smartphone apps to promote physical activity. Distinguished from AI/ML diagnostic and phenotyping tools by their prospective interventional use.
 
-**MyoMobile trial (Zeid 2025, NCT04940312):** First prospective RCT of personalized app-based PA coaching in HFpEF (N=185, three-arm, 12 weeks). Uses a step-count algorithm — not deep learning — but represents the intersection of digital health, wearable sensing, and motivational technology in HFpEF. 100+ digital mobility outcomes (DMOs) from wearables collected; multi-omics biobank; DZHK Rhine-Main network. Design paper published; primary results pending. (source: 2025-ESC-Zeid-MyoMobile_study.pdf)
+**MyoMobile trial (Zeid 2025, NCT04940312):** First prospective RCT of personalized app-based PA coaching in HFpEF (N=185, three-arm, 12 weeks). Uses a step-count algorithm — not deep learning — but represents the intersection of digital health, wearable sensing, and motivational technology in HFpEF. 100+ digital mobility outcomes (DMOs) from wearables collected; multi-omics biobank; DZHK Rhine-Main network. Design paper published; primary results pending. (source: Zeid2025MyoMobile)
 
 **Distinction from supervised SET:** App-based coaching targets sedentary behaviour (step count) at population scale; lower access barrier than facility-based cardiac rehabilitation; cannot replace the physiological adaptations from structured aerobic exercise training (peak VO₂ improvement via skeletal muscle remodelling).
 
-**Accelerometry as digital mobility outcome:** Docherty 2025 (DETERMINE substudy) showed accelerometer-derived PA measures and 6MWD capture distinct dimensions of functional limitation in HFpEF — the same wearable-derived data used in MyoMobile. This reinforces step count and daily activity as clinically meaningful endpoints distinct from VO₂peak. (source: raw/2025-JCF-Docherty-DETERIMINE_wearables_physical_activity.pdf)
+**Accelerometry as digital mobility outcome:** Docherty 2025 (DETERMINE substudy) showed accelerometer-derived PA measures and 6MWD capture distinct dimensions of functional limitation in HFpEF — the same wearable-derived data used in MyoMobile. This reinforces step count and daily activity as clinically meaningful endpoints distinct from VO₂peak. (source: Docherty2025DETERMINE)
 
 ## History
 
@@ -148,3 +148,9 @@ Evidence quality for individual claims:
 
 ## Contradictions
 - ML spironolactone responders (Kresoja 2023; Desai 2024) conflict with TOPCAT overall null (HR 0.89 P=0.14 in Pitt 2014). ML post-hoc analysis of the same trial data showing significant benefit in a subgroup is subject to overfitting — neither Kresoja nor Desai has been prospectively validated. However, consistency between two independent analyses using different algorithms (ML-based analysis vs. individualized treatment effect) strengthens the signal. See [[contradictions]].
+
+## References
+- Akerman AP, Al-Roub N, Angell-James C, Cassidy MA, Thompson R, Bosque L, Rainer K, Hawkes W, Piotrowska H, Leeson P, Woodward G, Pellikka PA, Upton R, Strom JB. External validation of artificial intelligence for detection of heart failure with preserved ejection fraction. *Nat Commun.* 2025;16:2915. doi:[10.1038/s41467-025-58283-7](https://doi.org/10.1038/s41467-025-58283-7)
+- Attia ZI, Noseworthy PA, Lopez-Jimenez F, Asirvatham SJ, Deshmukh AJ, Gersh BJ, Carter RE, Yao X, Rabinstein AA, Erickson BJ, Kapa S, Friedman PA. An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction. *Lancet.* 2019;394(10201):861–867. doi:[10.1016/S0140-6736(19)31721-0](https://doi.org/10.1016/S0140-6736(19)31721-0)
+- Docherty KF, Buendia Lopez R, Folkvaljon F, et al. Wearable Accelerometer-Derived Measures of Physical Activity in Heart Failure: Insights From the DETERMINE trials. *J Card Fail.* 2025;31(4):689–703. doi:[10.1016/j.cardfail.2024.10.439](https://doi.org/10.1016/j.cardfail.2024.10.439)
+- Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized app-based coaching for improving physical activity in heart failure with preserved ejection fraction patients compared with standard care: rationale and design of the MyoMobile Study. *Eur Heart J Digit Health.* 2025;6:298–309. doi:[10.1093/ehjdh/ztae096](https://doi.org/10.1093/ehjdh/ztae096)

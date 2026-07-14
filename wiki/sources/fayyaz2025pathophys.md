@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2025-NatRevCardiol-Fayyaz-pathophysiological_insights_HFpEF_cardiac_tissue.pdf
-  citekey: fayyaz2025pathophys
+- citekey: fayyaz2025pathophys
+  doi: 10.1038/s41569-024-01067-1
 page-type: source-summary-page
 ---
 # HFpEF Pathophysiology from Human Cardiac Tissue (Nat Rev Cardiol 2025)
 
 > Systematic review of 56 human myocardial tissue studies in HFpEF (Nat Rev Cardiol 2025;22:90–104): identifies 8 major pathological mechanisms — fibrosis, cardiomyocyte hypertrophy, microvascular rarefaction, diastolic dysfunction (titin/Ca²⁺), metabolic derangements (↓ATP/mitochondria), inflammation/oxidative stress, impaired cGMP-PKG signalling, and ER stress/DNA damage — with pronounced inter-study heterogeneity confirming HFpEF as a pathophysiologically diverse syndrome requiring endotype-targeted therapy.
 
-**File:** `raw/2025-NatRevCardiol-Fayyaz-pathophysiological_insights_HFpEF_cardiac_tissue.pdf` · **Authors:** Fayyaz AU et al. · **Year:** 2025 · **Journal:** Nature Reviews Cardiology 22:90–104, DOI: 10.1038/s41569-024-01067-1
+**Full citation:**
+Fayyaz AU, Eltony M, Prokop LJ, Koepp KE, Borlaug BA, Dasari S, Bois MC, Margulies KB, Maleszewski JJ, Wang Y, Redfield MM. Pathophysiological insights into HFpEF from studies of human cardiac tissue. *Nat Rev Cardiol.* 2025;22:90–104. doi:[10.1038/s41569-024-01067-1](https://doi.org/10.1038/s41569-024-01067-1)
 
 ---
 

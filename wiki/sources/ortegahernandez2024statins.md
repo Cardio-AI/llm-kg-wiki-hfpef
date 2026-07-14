@@ -21,15 +21,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2024-MDPIJCM-Ortega-Hernandez_prognostic_impact_statin_hfpef.pdf
-  citekey: OrtegaHernandez2024Statins
+- citekey: OrtegaHernandez2024Statins
+  doi: 10.3390/jcm13195844
 page-type: source-summary-page
 ---
 # Ortega-Hernández 2024 — Prognostic Impact of Statins in HFpEF (RICA Registry)
 
 > In 2,788 HFpEF patients from the Spanish RICA registry, statin therapy was independently associated with lower 1-year all-cause mortality (HR 0.74; 95% CI 0.61–0.89; P=0.002); the benefit was restricted to patients **without ischaemic heart disease** (HR 0.69; P<0.001) and was not significant in those with IHD (P=0.110).
 
-**File:** `raw/2024-MDPIJCM-Ortega-Hernandez_prognostic_impact_statin_hfpef.pdf`  
+**Full citation:**
+Ortega-Hernández S, González-Sosa S, Conde-Martel A, Trullàs JC, Llàcer P, Pérez-Silvestre J, Arévalo-Lorido JC, Casado J, Formiga F, Manzano L, Lorenzo-Villalba N, Montero-Pérez-Barquero M; RICA Investigators. Prognostic impact of statins in heart failure with preserved ejection fraction: data from the Spanish RICA registry. *J Clin Med.* 2024;13(19):5844. doi:[10.3390/jcm13195844](https://doi.org/10.3390/jcm13195844)
 **Authors:** Ortega-Hernández S et al.; RICA Investigators  
 **Year:** 2024 · **Journal:** J Clin Med 2024;13:5844 · **Published:** September 30, 2024  
 **Study type:** Prospective observational cohort (RICA — Spanish National Registry of Heart Failure)  

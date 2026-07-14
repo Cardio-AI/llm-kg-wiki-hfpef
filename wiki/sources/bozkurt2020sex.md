@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2020-CirculationAHA-Bozkurt-sex_subgroup_analysis_paragon_paradigm.pdf
-  citekey: bozkurt2020sex
+- citekey: bozkurt2020sex
+  doi: 10.1161/CIRCULATIONAHA.120.045008
 page-type: source-summary-page
 ---
 # Substance and Substrate: LVEF and Sex Subgroup Analyses of PARAGON-HF and PARADIGM-HF Trials
 
 > Editorial commentary on pooled PARADIGM-HF + PARAGON-HF analyses showing sacubitril-valsartan benefit wanes with increasing LVEF and may extend to higher LVEF in women, raising unresolved questions about biological vs. statistical sex differences in ARNi response.
 
-**File:** `raw/2020-CirculationAHA-Bozkurt-sex_subgroup_analysis_paragon_paradigm.pdf` · **Authors:** Bozkurt B, Ezekowitz J · **Year:** 2020 · **Journal:** Circulation 141:362–366
+**Full citation:**
+Bozkurt B, Ezekowitz M. Sex-Related Differences in Heart Failure: An Emerging Issue in Cardiovascular Medicine. *Circulation.* 2020;141(5):362–366. doi:[10.1161/CIRCULATIONAHA.120.045008](https://doi.org/10.1161/CIRCULATIONAHA.120.045008)
 
 ---
 

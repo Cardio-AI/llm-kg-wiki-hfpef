@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2022-JACC-Arnold-DIAMOND-HFpEF_study_cmd_in_hfpef.pdf
-    citekey: Arnold2022DIAMOND
-  - file: raw/2023-JAHA-Sung-QRS_fragmentation_hfpef.pdf
-    citekey: Sung2023fQRS
+  - citekey: Arnold2022DIAMOND
+    doi: 10.1016/j.jcmg.2021.10.002
+  - citekey: Sung2023fQRS
+    doi: 10.1161/JAHA.122.028105
 ---
 
 # Microvascular Dysfunction in HFpEF

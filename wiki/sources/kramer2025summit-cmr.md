@@ -19,15 +19,16 @@ tags:
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-- file: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf
-  citekey: Kramer2025SUMMITCMR
+- citekey: Kramer2025SUMMITCMR
+  doi: 10.1016/j.jacc.2024.11.001
 page-type: source-summary-page
 ---
 # SUMMIT CMR Substudy — Tirzepatide and Cardiac Structure in Obesity-Related HFpEF
 
 > Tirzepatide reduced LV mass by 11 g and paracardiac adipose tissue by 45 mL over 52 weeks vs. placebo — the first RCT to demonstrate GIP/GLP-1 agonism reduces LV mass in HFpEF; semaglutide did not reduce LV mass in STEP-HFpEF by echocardiography.
 
-**File:** `raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf` · **Authors:** Kramer CM, Borlaug BA, Zile MR, et al. · **Year:** 2025 · **Journal:** J Am Coll Cardiol  
+**Full citation:**
+Kramer CM, Borlaug BA, Zile MR, Ruff D, DiMaria JM, Menon V, Ou Y, Zarante AM, Hurt KC, Murakami M, Packer M; SUMMIT Trial Study Group. Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related Heart Failure: SUMMIT CMR Substudy. *J Am Coll Cardiol.* 2025;85(7):699–706. doi:[10.1016/j.jacc.2024.11.001](https://doi.org/10.1016/j.jacc.2024.11.001)
 **Study type:** Pre-specified imaging substudy of SUMMIT RCT (NCT04847557) · **N:** 175 enrolled; 106 completed with adequate images (50 tirzepatide, 56 placebo) · **Population:** HFpEF (LVEF ≥50%), obesity (BMI ≥30), NYHA II–IV  
 **Intervention/Exposure:** Tirzepatide 2.5 mg → 15 mg SC weekly vs. placebo  
 **Primary outcome:** Change in LV mass by CMR at 52 weeks
@@ -38,7 +39,7 @@ page-type: source-summary-page
 
 Tirzepatide reduced LV mass by 11 g (placebo-corrected; 95% CI −19 to −4 g; P=0.004) and paracardiac adipose tissue by 45 mL (95% CI −69 to −22 mL; P<0.001), driven by pericardial fat reduction (−43 g; P<0.001). Epicardial adipose tissue did not change significantly. No between-group differences in LVEF, LV strain, or LA volumes. LV mass change correlated with body weight loss (r=0.34; P<0.02).
 
-This is the first study to demonstrate LV mass reduction by GIP/GLP-1 co-agonism in obesity-related HFpEF. Contrast: semaglutide (STEP-HFpEF echocardiographic substudy) did not reduce LV mass. (source: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf)
+This is the first study to demonstrate LV mass reduction by GIP/GLP-1 co-agonism in obesity-related HFpEF. Contrast: semaglutide (STEP-HFpEF echocardiographic substudy) did not reduce LV mass. (source: Kramer2025SUMMITCMR)
 
 ## Methods (brief)
 

@@ -17,10 +17,10 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf
-  citekey: Kitzman2021REHABHF
-- file: raw/2021-JACC-Mentz-REHAB-HF_study.pdf
-  citekey: mentz2021rehabhfhfpef
+- citekey: Kitzman2021REHABHF
+  doi: 10.1056/NEJMoa2026141
+- citekey: mentz2021rehabhfhfpef
+  doi: 10.1016/j.jchf.2021.07.008
 page-type: entity-page
 ---
 # REHAB-HF
@@ -43,7 +43,7 @@ REHAB-HF was a multicentre (4 US sites), randomised, single-blind, controlled tr
 
 **Primary endpoint:** Short Physical Performance Battery (SPPB) at 3 months.
 
-(source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf)
+(source: Kitzman2021REHABHF)
 
 ---
 
@@ -57,7 +57,7 @@ REHAB-HF demonstrates that structured multidomain rehabilitation is feasible and
 
 3. **Functional but not hard outcomes improved.** The disconnect between significant SPPB/6MWD improvement and non-significant rehospitalisation effect is consistent with the broader HFpEF pattern. Hard outcome data remains absent.
 
-(source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf; source: raw/2021-JACC-Mentz-REHAB-HF_study.pdf)
+(source: Kitzman2021REHABHF; source: mentz2021rehabhfhfpef)
 
 ---
 
@@ -80,7 +80,7 @@ REHAB-HF demonstrates that structured multidomain rehabilitation is feasible and
 | 6MWD | +40 m | +27 m | NS |
 | Global rank (prob. index) | 0.59, P=0.04 | 0.50, P=0.69 | 0.098 |
 
-(source: raw/2021-NEJM-Kitzman-REHAB-HF_study.pdf; source: raw/2021-JACC-Mentz-REHAB-HF_study.pdf)
+(source: Kitzman2021REHABHF; source: mentz2021rehabhfhfpef)
 
 ---
 
@@ -103,3 +103,6 @@ REHAB-HF demonstrates that structured multidomain rehabilitation is feasible and
 ## Contradictions
 
 EF subgroup interaction P=0.098 (non-significant): the differential benefit in HFpEF vs HFrEF on global rank endpoint is suggestive but not formally established. Powered HFpEF-only post-hospitalisation rehabilitation trial needed. See [[contradictions]].
+
+## References
+- Kitzman DW, Whellan DJ, Duncan P, et al.; REHAB-HF Trial Investigators. Physical Rehabilitation for Older Patients Hospitalized for Heart Failure. *N Engl J Med.* 2021;385(3):203–216. doi:[10.1056/NEJMoa2026141](https://doi.org/10.1056/NEJMoa2026141)

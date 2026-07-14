@@ -18,15 +18,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
-- file: raw/2025-ESC-Zeid-MyoMobile_study.pdf
-  citekey: Zeid2025MyoMobile
+- citekey: Zeid2025MyoMobile
+  doi: 10.1093/ehjdh/ztae096
 page-type: source-summary-page
 ---
 # Personalized App-Based Coaching for Improving Physical Activity in HFpEF: Rationale and Design of the MyoMobile Study
 
 > Study design paper for the MyoMobile trial — first prospective RCT of personalized app-based physical activity coaching in HFpEF; three-arm EE2 design (standard care vs. wearable tracking vs. tracking + coaching) with step count as primary endpoint; N=185. **Primary results now published:** [[zeid2026myomobile]] (JACC Heart Fail 2026;14(5):102845) — app-based coaching significantly increased step count and KCCQ vs. standard care.
 
-**File:** `raw/2025-ESC-Zeid-MyoMobile_study.pdf` · **Authors:** Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS (Johannes Gutenberg University Mainz; DZHK Rhine-Main) · **Year:** 2025 · **Journal/Source:** *Eur Heart J Digit Health.* 2025;6:298–309. doi:[10.1093/ehjdh/ztae096](https://doi.org/10.1093/ehjdh/ztae096)
+**Full citation:**
+Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized app-based coaching for improving physical activity in heart failure with preserved ejection fraction patients compared with standard care: rationale and design of the MyoMobile Study. *Eur Heart J Digit Health.* 2025;6:298–309. doi:[10.1093/ehjdh/ztae096](https://doi.org/10.1093/ehjdh/ztae096)
 
 ---
 
@@ -34,7 +35,7 @@ page-type: source-summary-page
 
 ### Rationale
 
-Physical inactivity is a primary driver of HFpEF worsening, yet Class Ia exercise recommendations (≥30 min moderate-intensity PA, ≥5 days/week) are poorly implemented in the real world — supervised cardiac rehabilitation programmes have low participation and are unsuitable for a diverse HFpEF population. App-based coaching provides a personalized, home-based, flexible alternative focused on daily step counts — a metric familiar to patients and not requiring supervised facility attendance. (source: 2025-ESC-Zeid-MyoMobile_study.pdf)
+Physical inactivity is a primary driver of HFpEF worsening, yet Class Ia exercise recommendations (≥30 min moderate-intensity PA, ≥5 days/week) are poorly implemented in the real world — supervised cardiac rehabilitation programmes have low participation and are unsuitable for a diverse HFpEF population. App-based coaching provides a personalized, home-based, flexible alternative focused on daily step counts — a metric familiar to patients and not requiring supervised facility attendance. (source: Zeid2025MyoMobile)
 
 ### Study Design
 
@@ -119,7 +120,7 @@ Linear regression analysis, ITT population.
 | RAS-acting agents | 84.9% |
 | Diuretics | 74.1% |
 
-(source: 2025-ESC-Zeid-MyoMobile_study.pdf)
+(source: Zeid2025MyoMobile)
 
 ---
 

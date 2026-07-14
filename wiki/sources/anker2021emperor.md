@@ -20,17 +20,18 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-13
 sources:
-- file: raw/2021-NEJM-Anker-EMPEROR-preserved.pdf
-  citekey: Anker2021EMPEROR
-- file: raw/2026-JACCHF-Ferreira-Findings-EMPEROR-Preserved.pdf
-  citekey: Ferreira2026Emperor
+- citekey: Anker2021EMPEROR
+  doi: 10.1056/NEJMoa2107522
+- citekey: Ferreira2026Emperor
+  doi: 10.1016/j.jchf.2025.102889
 page-type: source-summary-page
 ---
 # EMPEROR-Preserved — Empagliflozin in HFpEF (Anker 2021)
 
 > Empagliflozin 10 mg significantly reduced CV death + HF hospitalization vs placebo in HFpEF (HR 0.79, 95% CI 0.69–0.90, P<0.001) — the first major positive outcomes RCT in HFpEF — driven primarily by a 29% reduction in HF hospitalizations; CV death alone was not significantly reduced.
 
-**File:** `raw/2021-NEJM-Anker-EMPEROR-preserved.pdf` · **Authors:** Anker SD, Butler J, Filippatos G, et al. (EMPEROR-Preserved Investigators)  
+**Full citation:**
+Anker SD, Butler J, Filippatos G, et al.; EMPEROR-Preserved Trial Investigators. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385(16):1451–1461. doi:[10.1056/NEJMoa2107522](https://doi.org/10.1056/NEJMoa2107522)
 **Year:** 2021 · **Journal:** N Engl J Med 2021;385:1451–1461 · **DOI:** 10.1056/NEJMoa2107038  
 **ClinicalTrials.gov:** NCT03057951  
 **Study type:** Multinational double-blind RCT · **N:** 5,988 (empagliflozin 2,997; placebo 2,991)  

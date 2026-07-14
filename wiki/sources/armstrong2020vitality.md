@@ -16,15 +16,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf
-  citekey: Armstrong2020VITALITY
+- citekey: Armstrong2020VITALITY
+  doi: 10.1001/jama.2020.15922
 page-type: source-summary-page
 ---
 # VITALITY-HFpEF
 
 > Vericiguat (sGC stimulator) neutral on KCCQ Physical Limitation Scale (LS diff −1.5 pts, P=0.47 at 15mg; −0.5 pts, P=0.80 at 10mg) and 6MWD in HFpEF after recent decompensation; large placebo response (+6.9 KCCQ PLS pts, exceeding MCID) driven by natural recovery post-decompensation; numerically more CV deaths in vericiguat 10 mg arm (4.6% vs. 1.5% placebo); closes sGC stimulator class for HFpEF alongside simultaneous CAPACITY-HFpEF publication.
 
-**File:** `raw/2020-JAMA-Armstrong-VITALITY-HFpEF.pdf` · **Authors:** Armstrong PW, Lam CSP, Anstrom KJ et al. · **Year:** 2020 · **Journal:** JAMA 324(15):1512–1521  
+**Full citation:**
+Armstrong PW, Lam CSP, Anstrom KJ, et al.; VITALITY-HFpEF Study Group. Effect of Vericiguat vs Placebo on Quality of Life in Patients with Heart Failure and Preserved Ejection Fraction: The VITALITY-HFpEF Randomized Clinical Trial. *JAMA.* 2020;324(15):1512–1521. doi:[10.1001/jama.2020.15922](https://doi.org/10.1001/jama.2020.15922)
 **Study type:** RCT (phase 2b) · **N:** 789 randomised · **Population:** HFpEF, LVEF ≥45%, NYHA II–III, recent HF decompensation within 6 months, elevated NPs, structural disease  
 **Follow-up:** 24 weeks · **Intervention:** Vericiguat 15 mg/day or 10 mg/day vs. placebo (1:1:1)  
 **Primary outcome:** Change in KCCQ Physical Limitation Scale (PLS) from baseline to week 24  

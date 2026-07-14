@@ -18,29 +18,30 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf
-  citekey: Jin2022LA
+- citekey: Jin2022LA
+  doi: 10.1007/s10741-021-10204-8
 page-type: source-summary-page
 ---
 # LA Structure and Function in HFrEF vs HFpEF (Jin 2022)
 
 > Systematic review and meta-analysis (61 studies; 8,806 HFrEF + 9,928 HFpEF) showing that LA volume index (LAVi) is comparable between HFrEF and HFpEF, but LA reservoir global longitudinal strain (LAGLS_R) is substantially worse in HFrEF (9–12.8%) than HFpEF (18.9–23.4%); AF is more prevalent in HFpEF (34–43% vs 20–34% in HFrEF); and despite higher AF burden, HFpEF patients have better LA global function.
 
-**File:** `raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf` · **Authors:** Jin X, Nauta JF, Hung C-L, Ouwerkerk W, Teng T-HK, Voors AA, Lam CSP, van Melle JP · **Year:** 2022 · **Journal:** Heart Fail Rev 2022;27:1933–1955
+**Full citation:**
+Jin X, Nauta JF, Hung C-L, Ouwerkerk W, Teng T-HK, Voors AA, Lam CSP, van Melle JP. Left atrial structure and function in heart failure with reduced (HFrEF) versus preserved ejection fraction (HFpEF): systematic review and meta-analysis. *Heart Fail Rev.* 2022;27(5):1933–1955. doi:[10.1007/s10741-021-10204-8](https://doi.org/10.1007/s10741-021-10204-8)
 
 ---
 
 ## Core Arguments
 
-1. **LAVi is comparable between HFrEF and HFpEF.** Pooled mean LAVi: HFrEF 59.7 vs HFpEF 52.7 mL/m² (acute inpatient); 48.3 vs 38.2 mL/m² (chronic outpatient). In studies directly comparing both phenotypes, LAVi was not significantly different (WMD −0.2, P=0.15). This challenges the assumption that LAVi reliably differentiates the two phenotypes. (source: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf)
+1. **LAVi is comparable between HFrEF and HFpEF.** Pooled mean LAVi: HFrEF 59.7 vs HFpEF 52.7 mL/m² (acute inpatient); 48.3 vs 38.2 mL/m² (chronic outpatient). In studies directly comparing both phenotypes, LAVi was not significantly different (WMD −0.2, P=0.15). This challenges the assumption that LAVi reliably differentiates the two phenotypes. (source: Jin2022LA)
 
-2. **LA reservoir strain (LAGLS_R) is substantially worse in HFrEF.** Pooled LAGLS_R: 9.0% vs 18.9% (acute inpatient, HFrEF vs HFpEF); 12.8% vs 23.4% (chronic outpatient). HFrEF had significantly worse LA global function (WMD 16.3% [22.05, 8.61]; P<0.001) in studies with direct comparisons. (source: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf)
+2. **LA reservoir strain (LAGLS_R) is substantially worse in HFrEF.** Pooled LAGLS_R: 9.0% vs 18.9% (acute inpatient, HFrEF vs HFpEF); 12.8% vs 23.4% (chronic outpatient). HFrEF had significantly worse LA global function (WMD 16.3% [22.05, 8.61]; P<0.001) in studies with direct comparisons. (source: Jin2022LA)
 
-3. **E/e' is higher in HFrEF in the chronic outpatient setting.** HFrEF E/e' 15.3 vs HFpEF 13.3 (WMD −0.40 [−0.56, −0.24]; P<0.05) in chronic setting; comparable in the acute inpatient setting. LV filling pressure assessment by E/e' may perform differently across settings. (source: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf)
+3. **E/e' is higher in HFrEF in the chronic outpatient setting.** HFrEF E/e' 15.3 vs HFpEF 13.3 (WMD −0.40 [−0.56, −0.24]; P<0.05) in chronic setting; comparable in the acute inpatient setting. LV filling pressure assessment by E/e' may perform differently across settings. (source: Jin2022LA)
 
-4. **AF is more prevalent in HFpEF despite worse LA global function in HFrEF.** AF prevalence: 34.4% HFrEF vs 42.8% HFpEF (acute), 20.1% vs 33.1% (chronic). Paradox: higher AF burden in HFpEF with better LAGLS_R suggests AF in HFpEF may be driven by intrinsic LA myopathy distinct from the LA dysfunction caused by LV diastolic overload in HFrEF. (source: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf)
+4. **AF is more prevalent in HFpEF despite worse LA global function in HFrEF.** AF prevalence: 34.4% HFrEF vs 42.8% HFpEF (acute), 20.1% vs 33.1% (chronic). Paradox: higher AF burden in HFpEF with better LAGLS_R suggests AF in HFpEF may be driven by intrinsic LA myopathy distinct from the LA dysfunction caused by LV diastolic overload in HFrEF. (source: Jin2022LA)
 
-5. **LAGLS_R correlates with LAVi in HFpEF but not HFrEF.** The LAGLS_R–LAVi relationship differs between phenotypes: in HFpEF, worse LA strain tracks with larger LA volume; in HFrEF, this correlation is absent — suggesting different structural–functional coupling between phenotypes. (source: raw/2022-HeartFailRef-Jin-LA_structure_function_in_HFrEF_vs_HFpEF_systematic_review.pdf)
+5. **LAGLS_R correlates with LAVi in HFpEF but not HFrEF.** The LAGLS_R–LAVi relationship differs between phenotypes: in HFpEF, worse LA strain tracks with larger LA volume; in HFrEF, this correlation is absent — suggesting different structural–functional coupling between phenotypes. (source: Jin2022LA)
 
 ---
 

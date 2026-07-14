@@ -14,8 +14,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-- file: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf
-  citekey: Mebazaa2022STRONGHF
+- citekey: Mebazaa2022STRONGHF
+  doi: 10.1016/S0140-6736(22)02076-1
 page-type: entity-page
 ---
 # STRONG-HF
@@ -66,7 +66,7 @@ LVEF subgroup (prespecified; not powered; P-interaction=0.27): LVEF ≤40% (HFrE
 
 Safety: excess adverse events 41% vs 29%; serious AEs similar (16% vs 17%); hypotension 5% vs <1%; renal impairment 3% vs <1%. Acceptable safety tradeoff vs. 8% absolute mortality/readmission reduction.
 
-(source: raw/2022-Lancet-Mebazaa-STRONG-HF_study.pdf)
+(source: Mebazaa2022STRONGHF)
 
 ## Status
 
@@ -81,3 +81,6 @@ Safety: excess adverse events 41% vs 29%; serious AEs similar (16% vs 17%); hypo
 ## Contradictions
 
 None registered.
+
+## References
+- Mebazaa A, Davison B, Chioncel O, et al. Safety, tolerability and efficacy of up-titration of guideline-directed medical therapies for acute heart failure (STRONG-HF): a multinational, open-label, randomised, trial. *Lancet.* 2022;400(10367):1938–1952. doi:[10.1016/S0140-6736(22)02076-1](https://doi.org/10.1016/S0140-6736(22)02076-1)

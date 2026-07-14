@@ -15,8 +15,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-- file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
-  citekey: Maurer2018ATTRACT
+- citekey: Maurer2018ATTRACT
+  doi: 10.1056/NEJMoa1805689
 page-type: entity-page
 ---
 # ATTR-ACT

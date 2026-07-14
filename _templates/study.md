@@ -12,14 +12,16 @@ tags:
 created: 
 last_updated: 
 sources:
-  - file: raw/
-    citekey: 
+  - citekey: 
+    doi: 
 ---
 # [Study / Trial Name]
 
 > One-sentence summary of the primary finding.
 
-**File:** `raw/filename.pdf` · **Authors:** · **Year:** · **Journal:**  
+**Full citation:**
+<Authors. Title. *Journal.* Year;vol(iss):pages. doi:[10.xxxx](https://doi.org/10.xxxx)>
+
 **Study type:** · **N:** · **Population:** · **Follow-up:**  
 **Intervention/Exposure:** · **Primary outcome:**
 

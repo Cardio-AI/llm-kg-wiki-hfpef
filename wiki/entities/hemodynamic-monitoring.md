@@ -14,12 +14,12 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2011-LANCET-Abraham-CHAMPION_study_design.pdf
-    citekey: abraham2011champion
-  - file: raw/2021-LANCET-Lindenfeld-GUIDE-HF_study_haemodynamic-guided.pdf
-    citekey: Lindenfeld2021GUIDEHF
-  - file: raw/2022-HeartInternational-Horiuchi-NP_guided_therapy_hf.pdf
-    citekey: Horiuchi2022NPGuided
+  - citekey: abraham2011champion
+    doi: 10.1016/S0140-6736(10)61800-1
+  - citekey: Lindenfeld2021GUIDEHF
+    doi: 10.1016/S0140-6736(21)01754-2
+  - citekey: Horiuchi2022NPGuided
+    doi: 10.17925/HI.2022.16.2.112
 ---
 
 # Haemodynamic Monitoring in HFpEF

@@ -13,15 +13,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2025-JAMA-Pandey-HuMAIN-HFpEF_study.pdf
-  citekey: pandey2025humain
+- citekey: pandey2025humain
+  doi: 10.1001/jamacardio.2025.0103
 page-type: source-summary-page
 ---
 # Effect of HU6 on Body Weight and Cardiac Function in Patients With Obese Heart Failure With Preserved Ejection Fraction: The HuMAIN-HFpEF Randomized Clinical Trial
 
 > HU6 (a controlled mitochondrial uncoupler) produces modest fat-specific weight loss (−2.86 kg vs. placebo) in obese HFpEF without significant improvement in peak VO₂, 6MWD, KCCQ, or diastolic function at 19 weeks — proof-of-concept for fat-specific catabolism but limited functional benefit in this Phase 2A trial.
 
-**File:** `raw/2025-JAMA-Pandey-HuMAIN-HFpEF_study.pdf` · **Authors:** Pandey A et al. · **Year:** 2025 · **Journal:** JAMA Cardiology 10(6):609–616
+**Full citation:**
+Pandey A, et al. Effect of HU6 on Body Weight and Cardiac Function in Patients With Obese Heart Failure With Preserved Ejection Fraction: The HuMAIN-HFpEF Randomized Clinical Trial. *JAMA Cardiol.* 2025;10(6):609–616. doi:[10.1001/jamacardio.2025.0103](https://doi.org/10.1001/jamacardio.2025.0103)
 
 ---
 

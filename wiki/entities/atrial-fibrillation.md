@@ -14,12 +14,12 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-15
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-  citekey: Anker2023HFpEFPhenotype
-- file: raw/2024-NEJM_Reddy-AF_HFpEF_study.pdf
-  citekey: reddy2024afhfpef
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: Anker2023HFpEFPhenotype
+  doi: 10.1002/ejhf.2894
+- citekey: reddy2024afhfpef
+  doi: 10.1016/j.jchf.2024.04.010
 page-type: entity-page
 ---
 # Atrial Fibrillation
@@ -41,13 +41,13 @@ page-type: entity-page
 
 ## Description
 
-Atrial fibrillation (AF) is an irregular, chaotic atrial rhythm resulting from disorganised electrical activity. It is characterised by the absence of coordinated atrial contractions, leading to variable ventricular filling and reduced cardiac output under stress. AF is the most common sustained arrhythmia and strongly associated with heart failure of all phenotypes. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+Atrial fibrillation (AF) is an irregular, chaotic atrial rhythm resulting from disorganised electrical activity. It is characterised by the absence of coordinated atrial contractions, leading to variable ventricular filling and reduced cardiac output under stress. AF is the most common sustained arrhythmia and strongly associated with heart failure of all phenotypes. (source: McDonagh2021ESC)
 
 **Atrial fibrosis** is a key substrate for AF maintenance: chronic atrial pressure elevation (from [[diastolic-dysfunction]]) promotes LA remodelling and fibrosis, creating re-entrant circuits. AF and HFpEF are thus mutually reinforcing.
 
 ## Role in HFpEF
 
-AF is substantially more prevalent in [[hfpef]] than in [[hfref]] or [[hfmref]], reflecting the older, more comorbid HFpEF population and the haemodynamic substrate of chronically elevated LA pressure. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+AF is substantially more prevalent in [[hfpef]] than in [[hfref]] or [[hfmref]], reflecting the older, more comorbid HFpEF population and the haemodynamic substrate of chronically elevated LA pressure. (source: McDonagh2021ESC)
 
 **Bidirectional relationship:**
 - [[diastolic-dysfunction]] → elevated LA pressure → LA dilation and fibrosis → AF
@@ -59,15 +59,15 @@ AF is substantially more prevalent in [[hfpef]] than in [[hfref]] or [[hfmref]],
 - NT-proBNP threshold: >365 pg/mL (vs. >125 pg/mL in sinus rhythm)
 - BNP threshold: >105 pg/mL (vs. >35 pg/mL in sinus rhythm)
 
-(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+(source: McDonagh2021ESC)
 
 ## Evidence
 
-AF is listed as a key predisposing condition for [[diastolic-dysfunction]] alongside hypertension, ageing, obesity, and diabetes. It is included in both the H₂FPEF score (as one of six weighted variables) and the HFA-PEFF algorithm as a factor elevating pre-test probability. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+AF is listed as a key predisposing condition for [[diastolic-dysfunction]] alongside hypertension, ageing, obesity, and diabetes. It is included in both the H₂FPEF score (as one of six weighted variables) and the HFA-PEFF algorithm as a factor elevating pre-test probability. (source: McDonagh2021ESC)
 
-AF prevalence: 15–30% in large HFpEF trials; up to 50% when paroxysmal AF is included. AF is associated with increased HF hospitalization risk and may itself precipitate HHF episodes in HFpEF. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+AF prevalence: 15–30% in large HFpEF trials; up to 50% when paroxysmal AF is included. AF is associated with increased HF hospitalization risk and may itself precipitate HHF episodes in HFpEF. (source: Anker2023HFpEFPhenotype)
 
-Strong bidirectional pathophysiology: HFpEF with AF and atrial functional mitral regurgitation (FMR) represents a particularly high-risk combined phenotype. Atrial FMR prevalence in HFpEF is up to 50%; coexistence with AF creates a distinct adverse phenotype with very high mortality. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+Strong bidirectional pathophysiology: HFpEF with AF and atrial functional mitral regurgitation (FMR) represents a particularly high-risk combined phenotype. Atrial FMR prevalence in HFpEF is up to 50%; coexistence with AF creates a distinct adverse phenotype with very high mortality. (source: Anker2023HFpEFPhenotype)
 
 **AF-HFpEF epidemiology (Reddy 2024):**
 - **83% occult HFpEF in symptomatic AF:** Patients with symptomatic AF and normal resting echo/NP who underwent exercise right heart catheterisation (RHC) were found to have HFpEF in 83% of cases — the majority of symptomatic AF patients harbour occult HFpEF
@@ -79,11 +79,11 @@ Strong bidirectional pathophysiology: HFpEF with AF and atrial functional mitral
 
 ## Status
 
-Management of AF in HFpEF is recommended as part of comorbidity-centred treatment (Class I, C). (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+Management of AF in HFpEF is recommended as part of comorbidity-centred treatment (Class I, C). (source: McDonagh2021ESC)
 
-**Rhythm control:** EAST-AFNET4 trial: early rhythm control (antiarrhythmic drugs or catheter ablation) reduced CV death/stroke/HF hospitalisation composite versus rate control in patients with AF (including subgroup with heart failure). Results support early rhythm control in AF-HFpEF, but EAST-AFNET4 was not dedicated to HFpEF — extrapolation requires caution. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+**Rhythm control:** EAST-AFNET4 trial: early rhythm control (antiarrhythmic drugs or catheter ablation) reduced CV death/stroke/HF hospitalisation composite versus rate control in patients with AF (including subgroup with heart failure). Results support early rhythm control in AF-HFpEF, but EAST-AFNET4 was not dedicated to HFpEF — extrapolation requires caution. (source: Anker2023HFpEFPhenotype)
 
-**CABA-HFpEF** (NCT05508256): Phase III RCT of catheter ablation vs. conventional rate control specifically in HFpEF patients with AF. Led by DZHK (German Centre for Cardiovascular Research — same network as [[torch]] registry). This is the first dedicated HFpEF-AF ablation trial; results will provide direct evidence for rhythm vs. rate control strategy in HFpEF. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+**CABA-HFpEF** (NCT05508256): Phase III RCT of catheter ablation vs. conventional rate control specifically in HFpEF patients with AF. Led by DZHK (German Centre for Cardiovascular Research — same network as [[torch]] registry). This is the first dedicated HFpEF-AF ablation trial; results will provide direct evidence for rhythm vs. rate control strategy in HFpEF. (source: Anker2023HFpEFPhenotype)
 
 ## Related Pages
 - Concepts: [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[natriuretic-peptides]], [[hfpef-treatment-gap]]
@@ -94,3 +94,8 @@ Management of AF in HFpEF is recommended as part of comorbidity-centred treatmen
 - Higher NP and LA volume thresholds in AF reflect the independent NP-elevating effect of AF itself, not just worse HFpEF — this may lead to under-diagnosis of HFpEF in AF patients who are close to but below the higher threshold. (source: [[pieske2019hfapeff]]; [[mcdonagh2021esc]]) Exercise RHC is the only reliable HFpEF diagnostic in AF: resting NP and echocardiographic scores are systematically confounded, and 83% of symptomatic AF patients have occult HFpEF by invasive exercise testing. (source: [[reddy2024afhfpef]])
 
 See [[contradictions]].
+
+## References
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
+- Reddy YNV, Borlaug BA. Unrecognized Heart Failure With Preserved Ejection Fraction in Atrial Fibrillation. *JACC Heart Fail.* 2024;12(6):990–998. doi:[10.1016/j.jchf.2024.04.010](https://doi.org/10.1016/j.jchf.2024.04.010)

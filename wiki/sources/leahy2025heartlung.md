@@ -21,15 +21,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2025-JACC-Leahy-heart-lung_interactions_hfpef.pdf
-  citekey: Leahy2025HeartLung
+- citekey: Leahy2025HeartLung
+  doi: 10.1016/j.jchf.2025.102523
 page-type: source-summary-page
 ---
 # Leahy 2025 — Dynamic Hyperinflation and Exercise PCWP in HFpEF
 
 > In 55 obese HFpEF patients (NCT04068844), 62% developed dynamic hyperinflation (DH) at 20W exercise and 85% at peak exercise; DH patients had significantly higher exercise PCWP at 20W (23±8 vs. 16±6 mmHg; P=0.005) and peak (38±11 vs. 28±6 mmHg; P=0.007), and magnitude of hyperinflation (ΔEELV) correlated with ΔPCWP (r²=0.167 at peak; P=0.002) — suggesting obesity-driven ventilatory mechanics contribute to elevated exercise filling pressures.
 
-**File:** `raw/2025-JACC-Leahy-heart-lung_interactions_hfpef.pdf`  
+**Full citation:**
+Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr, Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S. Heart-lung interactions in heart failure with preserved ejection fraction: dynamic hyperinflation increases exercise pulmonary capillary wedge pressure. *JACC Heart Fail.* 2025;13:102523. doi:[10.1016/j.jchf.2025.102523](https://doi.org/10.1016/j.jchf.2025.102523)
 **Authors:** Leahy MG et al. (Institute for Exercise and Environmental Medicine, UT Southwestern / Texas Presbyterian Hospital, Dallas)  
 **Year:** 2025 · **Journal:** JACC Heart Fail 2025;13:102523  
 **Study type:** Prospective exercise physiology study (observational); substudy of NCT04068844  

@@ -14,8 +14,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-16
 sources:
-- file: raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf
-  citekey: Pieske2017SOCRATES
+- citekey: Pieske2017SOCRATES
+  doi: 10.1093/eurheartj/ehw593
 page-type: entity-page
 ---
 # SOCRATES-PRESERVED

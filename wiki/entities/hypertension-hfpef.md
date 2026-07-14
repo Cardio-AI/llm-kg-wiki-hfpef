@@ -18,12 +18,12 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-  citekey: Anker2023HFpEFPhenotype
-- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-  citekey: borlaug2023statement
-- file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-  citekey: Paulus2013NovelParadigm
+- citekey: Anker2023HFpEFPhenotype
+  doi: 10.1002/ejhf.2894
+- citekey: borlaug2023statement
+  doi: 10.1016/j.jacc.2023.01.049
+- citekey: Paulus2013NovelParadigm
+  doi: 10.1016/j.jacc.2013.02.092
 page-type: entity-page
 ---
 # Hypertension in HFpEF

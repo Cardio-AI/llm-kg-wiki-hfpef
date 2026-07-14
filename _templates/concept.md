@@ -7,8 +7,8 @@ tags:
 created: 
 last_updated: 
 sources:
-  - file: raw/
-    citekey: 
+  - citekey: 
+    doi: 
 ---
 # [Concept Name]
 

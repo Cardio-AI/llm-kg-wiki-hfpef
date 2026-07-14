@@ -20,15 +20,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2018-JHeartVessel-Kasahara-CHART-2_study_report_bnp_in_hfpef.pdf
-  citekey: Kasahara2018CHART2
+- citekey: Kasahara2018CHART2
+  doi: 10.1007/s00380-018-1142-8
 page-type: source-summary-page
 ---
 # Kasahara 2018 — BNP Prognostic Impact Across HF Subtypes: CHART-2
 
 > In 4,301 HF patients from the CHART-2 registry (including 2,893 HFpEF), BNP prognosticated mortality and hospitalisation equally across HFpEF, borderline EF, and HFrEF (interaction P=0.300); optimal BNP cut-offs derived by CART analysis were **30, 100, and 300 pg/mL** — applicable regardless of EF subtype.
 
-**File:** `raw/2018-JHeartVessel-Kasahara-CHART-2_study_report_bnp_in_hfpef.pdf`  
+**Full citation:**
+Kasahara S, Sato T, Suzuki S, et al.; CHART-2 Investigators. Prognostic impact of BNP in stable heart failure with preserved, mid-range, and reduced ejection fraction: CHART-2 registry. *Heart Vessels.* 2018;33(9):997–1007. doi:[10.1007/s00380-018-1142-8](https://doi.org/10.1007/s00380-018-1142-8)
 **Authors:** Kasahara S, Sakata Y et al. (Tohoku University, Japan); CHART-2 Investigators  
 **Year:** 2018 · **Journal:** Heart and Vessels 2018;33:997–1007  
 **Study type:** Prospective multicentre registry (CHART-2) · **NCT:** NCT00418041  

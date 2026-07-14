@@ -16,10 +16,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf
-  citekey: Kramer2025SUMMITCMR
-- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-  citekey: borlaug2023statement
+- citekey: Kramer2025SUMMITCMR
+  doi: 10.1016/j.jacc.2024.11.001
+- citekey: borlaug2023statement
+  doi: 10.1016/j.jacc.2023.01.049
 page-type: mechanism-page
 ---
 # Pericardial Restraint

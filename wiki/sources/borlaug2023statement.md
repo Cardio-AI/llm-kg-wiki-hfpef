@@ -16,8 +16,8 @@ tags:
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
-- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-  citekey: borlaug2023statement
+- citekey: borlaug2023statement
+  doi: 10.1016/j.jacc.2023.01.049
   zotero: unverified
 page-type: source-summary-page
 ---
@@ -25,7 +25,8 @@ page-type: source-summary-page
 
 > Comprehensive 2023 state-of-the-field statement covering HFpEF epidemiology, pathophysiology, diagnosis, and treatment, synthesising evidence through the SGLT2i era and providing a 24-item knowledge gap agenda.
 
-**File:** `raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf` · **Authors:** Borlaug BA, Sharma K, Shah SJ, Ho JE · **Year:** 2023 · **Journal:** J Am Coll Cardiol 81(18):1810–1834
+**Full citation:**
+Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049) [DOI unverified]
 
 ---
 

@@ -14,14 +14,14 @@ tags:
 created: 2026-05-06
 last_updated: 2026-05-14
 sources:
-- file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-  citekey: Anker2023HFpEFPhenotype
-- file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
-  citekey: Kittleson2023ACC
-- file: raw/2023-JACC-Borlaug-HFpEF_scientific_statement.pdf
-  citekey: borlaug2023statement
-- file: raw/2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf
-  citekey: manabe2023sympathetic
+- citekey: Anker2023HFpEFPhenotype
+  doi: 10.1002/ejhf.2894
+- citekey: Kittleson2023ACC
+  doi: 10.1016/j.jacc.2023.03.393
+- citekey: borlaug2023statement
+  doi: 10.1016/j.jacc.2023.01.049
+- citekey: manabe2023sympathetic
+  doi: 10.3389/fcvm.2023.1148324
 page-type: phenotype-page
 ---
 # HFpEF Phenotype Profiling
@@ -44,7 +44,7 @@ page-type: phenotype-page
 
 ## Mechanism
 
-HFpEF is not a single disease but a phenotypically heterogeneous clinical syndrome. LV diastolic dysfunction may reflect cardiovascular, metabolic, pulmonary, renal, or geriatric drivers operating in varying combinations. A single pharmacological agent cannot address all these pathways simultaneously, which partly explains the repeated failure of universal HFpEF pharmacotherapy trials. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+HFpEF is not a single disease but a phenotypically heterogeneous clinical syndrome. LV diastolic dysfunction may reflect cardiovascular, metabolic, pulmonary, renal, or geriatric drivers operating in varying combinations. A single pharmacological agent cannot address all these pathways simultaneously, which partly explains the repeated failure of universal HFpEF pharmacotherapy trials. (source: Anker2023HFpEFPhenotype)
 
 The phenotype profiling framework proposes that optimal outcomes require:
 1. **Universal treatment** targeting pathways active in all or most HFpEF patients
@@ -56,7 +56,7 @@ The phenotype profiling framework proposes that optimal outcomes require:
 
 ### Layer 1: Universal — SGLT2i for All HFpEF
 
-SGLT2 inhibitors (dapagliflozin, empagliflozin) are the **only pharmacotherapy proven to improve clinical outcomes across the HFmrEF/HFpEF spectrum** (LVEF >40%). Both EMPEROR-Preserved and DELIVER showed consistent benefit regardless of LVEF, sex, or T2DM status. A 5-trial meta-analysis confirmed significant reduction in HHF + CV death. SGLT2i are thus the universal foundation. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+SGLT2 inhibitors (dapagliflozin, empagliflozin) are the **only pharmacotherapy proven to improve clinical outcomes across the HFmrEF/HFpEF spectrum** (LVEF >40%). Both EMPEROR-Preserved and DELIVER showed consistent benefit regardless of LVEF, sex, or T2DM status. A 5-trial meta-analysis confirmed significant reduction in HHF + CV death. SGLT2i are thus the universal foundation. (source: Anker2023HFpEFPhenotype)
 
 Diuretics are added for decongestion when fluid retention is present.
 
@@ -72,7 +72,7 @@ Diuretics are added for decongestion when fluid retention is present.
 | Ischaemic heart disease | 40–70% | Beta-blockers, Ca-channel blockers, ranolazine, trimetazidine |
 | COPD | 15–20% | LAMA/LABA; β1-selective beta-blockers |
 
-(source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+(source: Anker2023HFpEFPhenotype)
 
 ---
 
@@ -88,13 +88,13 @@ Diuretics are added for decongestion when fluid retention is present.
 
 **Very high LVEF (>65%/>70%):** U-shaped mortality (lowest at 60–65%). Mandates secondary HFpEF workup: ATTR (ATTRwt in 13% of HFpEF with LVH), HOCM, paradoxical low-gradient aortic stenosis, Fabry disease. Specific treatments exist for each aetiology.
 
-**Iron deficiency (50–75%):** Most underrecognised. Mechanism: reduced O2 delivery + skeletal muscle iron-dependent oxidative phosphorylation. Ferric carboxymaltose trials ongoing (FAIR-HFpEF, PREFER-HF). (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+**Iron deficiency (50–75%):** Most underrecognised. Mechanism: reduced O2 delivery + skeletal muscle iron-dependent oxidative phosphorylation. Ferric carboxymaltose trials ongoing (FAIR-HFpEF, PREFER-HF). (source: Anker2023HFpEFPhenotype)
 
-**Coronary microvascular dysfunction (CMD):** Present in ~71–91% of HFpEF (PROMIS-HFpEF: 66% endothelium-independent + 24% endothelium-dependent). CMD → myocardial fibrosis → worse diastolic function → worse outcomes. Therapeutic target but no large RCT yet. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+**Coronary microvascular dysfunction (CMD):** Present in ~71–91% of HFpEF (PROMIS-HFpEF: 66% endothelium-independent + 24% endothelium-dependent). CMD → myocardial fibrosis → worse diastolic function → worse outcomes. Therapeutic target but no large RCT yet. (source: Anker2023HFpEFPhenotype)
 
-**Chronotropic incompetence (30–50%):** Beta-blocker withdrawal significantly increased functional capacity and VO2 in this subgroup — beta-blockers harmful when chronotropic incompetence is dominant. However, warranted in hypertension or ischaemic disease subgroups. Rate-adaptive pacing: did not improve exercise capacity. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+**Chronotropic incompetence (30–50%):** Beta-blocker withdrawal significantly increased functional capacity and VO2 in this subgroup — beta-blockers harmful when chronotropic incompetence is dominant. However, warranted in hypertension or ischaemic disease subgroups. Rate-adaptive pacing: did not improve exercise capacity. (source: Anker2023HFpEFPhenotype)
 
-**Cancer therapy-induced HFpEF:** Doxorubicin → diastolic dysfunction in 60% at 1 year, 80% at 3 years. All major HFpEF RCTs (including SGLT2i trials) excluded cancer patients. No evidence base for SGLT2i in this subgroup; general HFpEF principles apply with caution. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
+**Cancer therapy-induced HFpEF:** Doxorubicin → diastolic dysfunction in 60% at 1 year, 80% at 3 years. All major HFpEF RCTs (including SGLT2i trials) excluded cancer patients. No evidence base for SGLT2i in this subgroup; general HFpEF principles apply with caution. (source: Anker2023HFpEFPhenotype)
 
 ### Borlaug 2023 Five-Phenotype Model (JACC Scientific Statement)
 
@@ -108,13 +108,13 @@ Distinct from the HFA comorbidity wheel (which is comorbidity-driven), the Borla
 | Pulmonary vascular disease | RV-pulmonary coupling impairment, elevated PVR | TR velocity, mPAP, RV strain |
 | LA myopathy | LA reservoir/booster dysfunction, AF as biomarker | LA strain, LAVI, AF burden |
 
-These phenogroups overlap substantially — a single patient may fall into 3–4 simultaneously. The model is not mutually exclusive but helps identify the dominant mechanistic target. Non-HFpEF "masqueraders" (ATTR, HCM, sarcoidosis, Fabry, restrictive CMP, high-output HF) must be excluded first (Table 2, Borlaug 2023). (source: 2023-JACC-Borlaug-HFpEF_scientific_statement.pdf)
+These phenogroups overlap substantially — a single patient may fall into 3–4 simultaneously. The model is not mutually exclusive but helps identify the dominant mechanistic target. Non-HFpEF "masqueraders" (ATTR, HCM, sarcoidosis, Fabry, restrictive CMP, high-output HF) must be excluded first (Table 2, Borlaug 2023). (source: borlaug2023statement)
 
 **Disease Progression Spectrum (Central Illustration):** 4-chamber sequential involvement — LV filling pressure elevation → LA enlargement/dysfunction → pulmonary venous hypertension → secondary PH → RV dysfunction → "Stage D" right heart failure. ~80% of HFpEF patients develop PH; PH drives eventual RV failure. AF present in ~80% of those with resting LA hypertension — AF is both a cause and consequence of LA myopathy.
 
 ### Autonomic Dysfunction as Phenotypic Axis
 
-Excessive sympathetic activation during dynamic exercise — paradoxical MSNA increase during cycling — is an underrecognised phenotypic axis. Distinct from HFrEF pattern (both show MSNA increase during dynamic exercise, but HFpEF response appears greater; during static exercise HFpEF MSNA resembles controls). Excessive MSNA → elevated SVR → reduced skeletal muscle blood flow → VO₂ limitation. May explain the HFpEF-specific response to candesartan (reduced peak SBP and improved exercise duration) not seen in hypertensive controls. (source: 2023-FrontCardiovascMed-Manabe-sympathic_hemodynamics_exercise.pdf)
+Excessive sympathetic activation during dynamic exercise — paradoxical MSNA increase during cycling — is an underrecognised phenotypic axis. Distinct from HFrEF pattern (both show MSNA increase during dynamic exercise, but HFpEF response appears greater; during static exercise HFpEF MSNA resembles controls). Excessive MSNA → elevated SVR → reduced skeletal muscle blood flow → VO₂ limitation. May explain the HFpEF-specific response to candesartan (reduced peak SBP and improved exercise duration) not seen in hypertensive controls. (source: manabe2023sympathetic)
 
 ### Secondary HFpEF (Mimics)
 Four main categories requiring specific management rather than standard HFpEF treatment: restrictive cardiomyopathy (ATTR, AL amyloidosis, Fabry), hypertrophic cardiomyopathy, constrictive pericarditis, valvular heart disease. Secondary HFpEF requires extended diagnostic workup (CMR, Tc-PYP, biopsy, genetic testing). See [[hfpef-diagnosis]] and [[kittleson2023acc]] Table 1.
@@ -125,8 +125,8 @@ Four main categories requiring specific management rather than standard HFpEF tr
 
 - **Pre-2021:** HFpEF treated as one entity; universal pharmacotherapy approach repeatedly failed (CHARM-Preserved, I-PRESERVE, TOPCAT, PARAGON-HF)
 - **2021–2022:** EMPEROR-Preserved (2021) and DELIVER (2022) — first positive trials; both tested SGLT2i across full HFpEF spectrum. AHA 2022: SGLT2i Class 2a.
-- **2023 — HFA/ESC consensus (Anker 2023):** Formal phenotype profiling framework proposed; SGLT2i as universal layer; comorbidity-based add-on structured into 7 phenotype categories. Concurrent with ACC 2023 ECDP ([[kittleson2023acc]]) — two complementary 2023 documents from opposite sides of the Atlantic that operationalise the same treatment concept. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf)
-- **2023 — Borlaug JACC Scientific Statement:** Proposed five overlapping pathophysiological phenogroups with Venn diagram framing (see below). Central Illustration: sequential disease progression — exercise-induced LA hypertension → resting LA hypertension → pulmonary hypertension → RV dysfunction. Autonomic dysfunction (chronotropic incompetence, sympathetic excess) added as a cross-cutting phenotypic axis. (source: 2023-JACC-Borlaug-HFpEF_scientific_statement.pdf)
+- **2023 — HFA/ESC consensus (Anker 2023):** Formal phenotype profiling framework proposed; SGLT2i as universal layer; comorbidity-based add-on structured into 7 phenotype categories. Concurrent with ACC 2023 ECDP ([[kittleson2023acc]]) — two complementary 2023 documents from opposite sides of the Atlantic that operationalise the same treatment concept. (source: Anker2023HFpEFPhenotype)
+- **2023 — Borlaug JACC Scientific Statement:** Proposed five overlapping pathophysiological phenogroups with Venn diagram framing (see below). Central Illustration: sequential disease progression — exercise-induced LA hypertension → resting LA hypertension → pulmonary hypertension → RV dysfunction. Autonomic dysfunction (chronotropic incompetence, sympathetic excess) added as a cross-cutting phenotypic axis. (source: borlaug2023statement)
 - **2023–2025 published:** STEP-HFpEF (semaglutide, NEJM 2023 — symptomatic benefit), FINEARTS-HF (finerenone, NEJM 2024 — RR 0.84; P=0.007), SUMMIT (tirzepatide, NEJM 2025 — HR 0.62 event reduction). Ongoing: CABA-HFpEF, FAIR-HFpEF, SPIRIT-HF — results will further populate specific phenotype branches.
 
 ---
@@ -134,7 +134,7 @@ Four main categories requiring specific management rather than standard HFpEF tr
 ## Evidence
 
 ### Concordance with ACC 2023 ECDP
-Anker 2023 and [[kittleson2023acc]] reach the same core conclusions independently: SGLT2i first; sex-stratified MRA/ARNI; GLP-1 RA for obesity; ATTR screening. Key difference: Kittleson operationalises via a sequential algorithm (Figure 9, EF + sex thresholds); Anker operationalises via a comorbidity wheel (Figure 2, phenotype categories). Both explicitly flag SUMMIT, STEP-HFpEF, and FINEARTS-HF as evidence gaps. (source: 2023-ESC-Anker_HFpEF_phenotyping.pdf; source: 2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf)
+Anker 2023 and [[kittleson2023acc]] reach the same core conclusions independently: SGLT2i first; sex-stratified MRA/ARNI; GLP-1 RA for obesity; ATTR screening. Key difference: Kittleson operationalises via a sequential algorithm (Figure 9, EF + sex thresholds); Anker operationalises via a comorbidity wheel (Figure 2, phenotype categories). Both explicitly flag SUMMIT, STEP-HFpEF, and FINEARTS-HF as evidence gaps. (source: Anker2023HFpEFPhenotype; source: Kittleson2023ACC)
 
 ### Ongoing Trials that Will Define Future Phenotype Branches
 | Trial | Intervention | Phenotype target | NCT |
@@ -168,3 +168,8 @@ Anker 2023 and [[kittleson2023acc]] reach the same core conclusions independentl
 - SGLT2i benefit at LVEF >65% uncertain; "universal" recommendation may need secondary HFpEF exclusion first.
 
 See [[contradictions]].
+
+## References
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049) [DOI unverified]
+- Manabe K, D'Souza AW, Washio T, Takeda R, Hissen SL, Akins JD, Fu Q. Sympathetic and Hemodynamic Responses to Exercise in Heart Failure With Preserved Ejection Fraction. *Front Cardiovasc Med.* 2023;10:1148324. doi:[10.3389/fcvm.2023.1148324](https://doi.org/10.3389/fcvm.2023.1148324)

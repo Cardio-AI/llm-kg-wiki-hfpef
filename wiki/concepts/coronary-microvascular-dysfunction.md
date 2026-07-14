@@ -14,10 +14,10 @@ tags:
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-- file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-  citekey: Paulus2013NovelParadigm
-- file: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf
-  citekey: damario2019cmd
+- citekey: Paulus2013NovelParadigm
+  doi: 10.1016/j.jacc.2013.02.092
+- citekey: damario2019cmd
+  doi: 10.3389/fphys.2019.01347
 page-type: mechanism-page
 ---
 # Coronary Microvascular Dysfunction
@@ -46,7 +46,7 @@ Functional manifestation: impaired coronary flow reserve (CFR), typically define
 
 ### Paulus–Tschöpe Paradigm (2013)
 
-The dominant mechanistic model for CMD in HFpEF (source: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf):
+The dominant mechanistic model for CMD in HFpEF (source: Paulus2013NovelParadigm):
 
 > Comorbidities (hypertension, T2DM, obesity, COPD, CKD) → **systemic inflammation** (↑TNF-α, IL-6) → **coronary microvascular endothelial inflammation** → ↓NO bioavailability → ↓cyclic GMP → ↓PKG activity → **titin hypophosphorylation** (N2BA→N2B isoform shift) + **cardiomyocyte hypertrophy** + **interstitial fibrosis** → diastolic stiffness → HFpEF
 
@@ -54,7 +54,7 @@ This pathway positions CMD as the mechanistic interface between systemic metabol
 
 ### D'Amario Extension (2019)
 
-D'Amario 2019 (Front. Physiol.) elaborated the "common soil" concept: CMD is not merely a downstream effector but an active driver shared across multiple HFpEF comorbidities. Additional mechanisms: endothelial-to-mesenchymal transition (EndoMT); calcium overload; OSA-associated oxidative stress (OSA prevalence in HFpEF: RR 2.2 for event prediction). (source: raw/2019-FPhys-D'Amario-Microvascular_Dysfunction.pdf)
+D'Amario 2019 (Front. Physiol.) elaborated the "common soil" concept: CMD is not merely a downstream effector but an active driver shared across multiple HFpEF comorbidities. Additional mechanisms: endothelial-to-mesenchymal transition (EndoMT); calcium overload; OSA-associated oxidative stress (OSA prevalence in HFpEF: RR 2.2 for event prediction). (source: damario2019cmd)
 
 ## Clinical Significance
 
@@ -82,3 +82,7 @@ Pre-2013: CMD studied primarily in the context of microvascular angina and non-o
 ## Contradictions
 
 The Paulus–Tschöpe paradigm predicts benefit from NO/cGMP pathway enhancement (↑PKG → ↓diastolic stiffness). Multiple RCTs targeting this exact pathway (RELAX, NEAT-HFpEF, INDIE-HFpEF, VITALITY-HFpEF, CAPACITY-HFpEF) were neutral. Either the CMD model is incomplete, the drugs tested did not reach the relevant target adequately, or the therapeutic window for this mechanism is narrow. See [[contradictions]].
+
+## References
+- D'Amario D, Migliaro S, Borovac JA, Restivo A, Vergallo R, Galli M, Leone AM, Montone RA, Niccoli G, Aspromonte N, Crea F. Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *Front Physiol.* 2019;10:1347. doi:[10.3389/fphys.2019.01347](https://doi.org/10.3389/fphys.2019.01347)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)

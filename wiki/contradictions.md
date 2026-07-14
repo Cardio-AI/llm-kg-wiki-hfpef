@@ -4,18 +4,18 @@
 
 ### Thematic Index (for navigation — numbered entries below are canonical)
 
-| Theme | Entries |
-|---|---|
+| Theme                                   | Entries                                                                                                                                                                                                          |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Diagnostic definitions & thresholds** | #1 (LVEF cut-off), #6 (7-definition heterogeneity), #11 (ESC vs AHA operational), #17 (E/e' threshold), #18 (LAVI threshold), #19 (NP threshold), #28 (trial NP exclusion), #29 (supine vs upright hemodynamics) |
-| **SGLT2i evidence** | #9 (ESC vs AHA class — resolved), #13 (symptom HFrEF vs HFpEF), #16 (DELIVER vs DETERMINE symptoms), #36 (antifibrotic CMR vs neutral mortality) |
-| **MRA evidence series** | #2 (TOPCAT regional → see #21), #21 (TOPCAT vs FINEARTS-HF vs Aldo-DHF), #24 (Aldo-DHF structural vs functional) |
-| **NO/cGMP pathway failures** | #20 (vericiguat), #25 (RELAX → see #33), #33 (tissue evidence vs clinical failure synthesis) |
-| **GLP-1 RA / GIP-GLP1 evidence** | #22 (STEP vs SUMMIT complementarity), #27 (tirzepatide vs semaglutide LV mass), #35 (NT-proBNP weight-loss independence paradox) |
-| **Exercise training** | #7 (functional benefit without hard outcomes), #8 (cardiac vs peripheral mechanism), #15 (HIIT vs MICT), #30 (Ex-DHF endpoint failure) |
-| **Sacubitril/valsartan** | #3 (FDA vs ESC), #32 (sex interaction: PARAGON-HF vs PARAGLIDE-HF) |
-| **Device trials** | #23 (REDUCE LAP-HF II PVR interaction), #31 (REDUCE LAP-HF II echocardiographic vs clinical dissociation) |
-| **Endpoint validity** | #14 (6MWD dissociation from KCCQ), #31 (echo surrogates), #24 (E/e' as surrogate) |
-| **Phenotype-specific** | #4 (NP in obesity), #10 (Mg interaction HFrEF vs HFpEF), #26 (ATTRwt vs ATTRm) |
+| **SGLT2i evidence**                     | #9 (ESC vs AHA class — resolved), #13 (symptom HFrEF vs HFpEF), #16 (DELIVER vs DETERMINE symptoms), #36 (antifibrotic CMR vs neutral mortality)                                                                 |
+| **MRA evidence series**                 | #2 (TOPCAT regional → see #21), #21 (TOPCAT vs FINEARTS-HF vs Aldo-DHF), #24 (Aldo-DHF structural vs functional)                                                                                                 |
+| **NO/cGMP pathway failures**            | #20 (vericiguat), #25 (RELAX → see #33), #33 (tissue evidence vs clinical failure synthesis)                                                                                                                     |
+| **GLP-1 RA / GIP-GLP1 evidence**        | #22 (STEP vs SUMMIT complementarity), #27 (tirzepatide vs semaglutide LV mass), #35 (NT-proBNP weight-loss independence paradox)                                                                                 |
+| **Exercise training**                   | #7 (functional benefit without hard outcomes), #8 (cardiac vs peripheral mechanism), #15 (HIIT vs MICT), #30 (Ex-DHF endpoint failure)                                                                           |
+| **Sacubitril/valsartan**                | #3 (FDA vs ESC), #32 (sex interaction: PARAGON-HF vs PARAGLIDE-HF)                                                                                                                                               |
+| **Device trials**                       | #23 (REDUCE LAP-HF II PVR interaction), #31 (REDUCE LAP-HF II echocardiographic vs clinical dissociation)                                                                                                        |
+| **Endpoint validity**                   | #14 (6MWD dissociation from KCCQ), #31 (echo surrogates), #24 (E/e' as surrogate)                                                                                                                                |
+| **Phenotype-specific**                  | #4 (NP in obesity), #10 (Mg interaction HFrEF vs HFpEF), #26 (ATTRwt vs ATTRm)                                                                                                                                   |
 
 ---
 
@@ -185,7 +185,7 @@
 
 ### 27. Tirzepatide vs. Semaglutide: LV Mass Reduction by CMR vs. Echo
 - **SUMMIT CMR substudy (tirzepatide, N=106)**: LV mass −11 g placebo-corrected (95% CI −19 to −4 g; P=0.004) by CMR at 52 weeks (source: [[kramer2025summit-cmr]])
-- **STEP-HFpEF echocardiographic substudy (semaglutide, N=363)**: No significant change in LV mass by echocardiography at 52 weeks (source: raw/2025-JACC-Kramer-SUMMIT-CMR_substudy.pdf, citing Solomon 2024 JACC)
+- **STEP-HFpEF echocardiographic substudy (semaglutide, N=363)**: No significant change in LV mass by echocardiography at 52 weeks (source: Kramer2025SUMMITCMR, citing Solomon 2024 JACC)
 - **Two explanations are plausible and not mutually exclusive:**
   1. *True pharmacological difference*: GIP co-agonism in tirzepatide produces greater cardiac reverse remodelling than GLP-1 agonism alone
   2. *Measurement modality*: CMR has substantially better interstudy reproducibility for LV mass than echocardiography; the Kramer CMR substudy (N=106) was adequately powered while the STEP-HFpEF echo substudy (N=363) had lower sensitivity per unit change
@@ -266,3 +266,6 @@
 
 ## Notes
 This page aggregates contradictions across the wiki. Updated on every ingest.
+
+## References
+- Kramer CM, Borlaug BA, Zile MR, Ruff D, DiMaria JM, Menon V, Ou Y, Zarante AM, Hurt KC, Murakami M, Packer M; SUMMIT Trial Study Group. Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related Heart Failure: SUMMIT CMR Substudy. *J Am Coll Cardiol.* 2025;85(7):699–706. doi:[10.1016/j.jacc.2024.11.001](https://doi.org/10.1016/j.jacc.2024.11.001)

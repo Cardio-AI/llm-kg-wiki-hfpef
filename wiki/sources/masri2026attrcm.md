@@ -13,15 +13,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2026-ProgressCardDisease-Masri-ATTR-CM_trials_systematic_review.pdf
-  citekey: masri2026attrcm
+- citekey: masri2026attrcm
+  doi: 10.1016/j.pcad.2026.04.004
 page-type: source-summary-page
 ---
 # ATTR-CM Trials Systematic Review (Masri 2026)
 
 > Masri 2026 (87-page systematic review, Progress Cardiovasc Dis): comprehensive synthesis of ATTR-CM clinical trials across three therapeutic classes — TTR stabilizers (tafamidis, acoramidis), RNA silencers (siRNA: patisiran/vutrisiran; ASO: eplontersen), and degraders/clearance agents — confirming multiple approved treatment options and that early diagnosis before structural deterioration maximises benefit.
 
-**File:** `raw/2026-ProgressCardDisease-Masri-ATTR-CM_trials_systematic_review.pdf` · **Authors:** Masri A, et al. · **Year:** 2026 · **Journal:** Prog Cardiovasc Dis (pre-proof). doi:10.1016/j.pcad.2026.04.004
+**Full citation:**
+Masri A, et al. ATTR Cardiomyopathy: A Systematic Review of Clinical Trials and Emerging Therapeutics. *Prog Cardiovasc Dis.* 2026 (pre-proof). doi:[10.1016/j.pcad.2026.04.004](https://doi.org/10.1016/j.pcad.2026.04.004)
 
 ---
 

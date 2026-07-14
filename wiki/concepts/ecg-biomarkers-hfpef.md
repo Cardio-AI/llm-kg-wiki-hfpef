@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2016-JACCHeartFail-Joseph-QRS_duration_predictor_hfpef.pdf
-    citekey: Joseph2016QRS
-  - file: raw/2023-JAHA-Sung-QRS_fragmentation_hfpef.pdf
-    citekey: Sung2023fQRS
+  - citekey: Joseph2016QRS
+    doi: 10.1016/j.jchf.2016.01.016
+  - citekey: Sung2023fQRS
+    doi: 10.1161/JAHA.122.028105
 ---
 
 # ECG Biomarkers in HFpEF

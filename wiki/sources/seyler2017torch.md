@@ -14,15 +14,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf
-  citekey: Seyler2017TORCH
+- citekey: Seyler2017TORCH
+  doi: 10.1002/ehf2.12152
 page-type: source-summary-page
 ---
 # TORCH DZHK Registry Rationale (Seyler 2017)
 
 > Design and rationale paper for the DZHK TranslatiOnal Registry for CardiomyopatHies (TORCH) — a German multi-centre registry and biobank for 2,300 patients with non-ischemic cardiomyopathies featuring deep molecular phenotyping and a multi-module structure linking clinical data to genomics, inflammation, and histopathology.
 
-**File:** `raw/2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf` · **Authors:** Seyler C et al. · **Year:** 2017 · **Journal:** ESC Heart Failure
+**Full citation:**
+Seyler C, Meder B, Hund H, et al. Rationale and design of the DZHK (German Centre for Cardiovascular Research) TORCH (TranslatiOnal Registry for CardiomyopatHies). *ESC Heart Fail.* 2017;4(3):277–281. doi:[10.1002/ehf2.12152](https://doi.org/10.1002/ehf2.12152)
 
 ---
 
@@ -36,7 +37,7 @@ TORCH addresses the gap between clinical phenotyping and molecular mechanisms in
 4. Serve as infrastructure hub for investigator-initiated clinical trials
 5. Link clinical-level phenotyping to molecular-level profiling (genomics, transcriptomics, inflammation, metabolomics)
 
-Rationale: non-ischemic CMPs are genetically heterogeneous, their molecular drivers are incompletely understood, and existing registries lacked the combined depth of clinical + molecular phenotyping required for precision medicine. (source: 2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf)
+Rationale: non-ischemic CMPs are genetically heterogeneous, their molecular drivers are incompletely understood, and existing registries lacked the combined depth of clinical + molecular phenotyping required for precision medicine. (source: Seyler2017TORCH)
 
 ---
 
@@ -74,7 +75,7 @@ Rationale: non-ischemic CMPs are genetically heterogeneous, their molecular driv
 - Tachymyopathy (reversible CMP from persistent tachycardia)
 - Age <18 or >79 years
 
-(source: 2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf)
+(source: Seyler2017TORCH)
 
 ### CMP Breakdown at Enrollment
 
@@ -120,7 +121,7 @@ Rationale: non-ischemic CMPs are genetically heterogeneous, their molecular driv
 | Genomic DNA | Whole exome sequencing, SNP arrays, genotype-phenotype correlation |
 | PBMCs | Peripheral blood mononuclear cells; functional inflammatory assays |
 
-(source: 2017-ESC-HF-Seyler-TORCH_DZHK-1_rationale.pdf)
+(source: Seyler2017TORCH)
 
 ---
 

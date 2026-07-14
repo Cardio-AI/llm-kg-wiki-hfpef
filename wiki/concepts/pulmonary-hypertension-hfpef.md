@@ -14,10 +14,10 @@ tags:
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-- file: raw/2015-JACC-Al-Naamani-pulmonary-arterial-capacitance.pdf
-  citekey: AlNaamani2015PAC
-- file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-  citekey: Paulus2013NovelParadigm
+- citekey: AlNaamani2015PAC
+  doi: 10.1016/j.jchf.2015.01.013
+- citekey: Paulus2013NovelParadigm
+  doi: 10.1016/j.jacc.2013.02.092
 page-type: concept-page
 ---
 # Pulmonary Hypertension in HFpEF
@@ -41,7 +41,7 @@ page-type: concept-page
 
 HFpEF elevates left atrial and pulmonary venous pressures chronically. This passive pressure transmission raises pulmonary arterial pressure (PAP), initially without pulmonary vascular disease. Over time, ~30–40% of HFpEF-PH patients develop superimposed pulmonary vasculopathy — vasoconstriction, vascular remodelling, endothelial dysfunction — converting IpcPH to CpcPH.
 
-Paulus and Tschöpe (2013) proposed that obesity and metabolic comorbidities cause systemic inflammation (elevated TNF-α, IL-6) → coronary microvascular endothelial inflammation → reduced NO bioavailability → cGMP/PKG deficiency → cardiomyocyte hypertrophy and titin hypophosphorylation. The same inflammatory milieu drives pulmonary endothelial dysfunction and early vasculopathy. Additionally, right atrial dilatation in HFpEF exceeds what is expected for the degree of pulmonary pressure elevation — attributed partly to high obesity prevalence and increased plasma volume rather than pressure load alone. (source: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf)
+Paulus and Tschöpe (2013) proposed that obesity and metabolic comorbidities cause systemic inflammation (elevated TNF-α, IL-6) → coronary microvascular endothelial inflammation → reduced NO bioavailability → cGMP/PKG deficiency → cardiomyocyte hypertrophy and titin hypophosphorylation. The same inflammatory milieu drives pulmonary endothelial dysfunction and early vasculopathy. Additionally, right atrial dilatation in HFpEF exceeds what is expected for the degree of pulmonary pressure elevation — attributed partly to high obesity prevalence and increased plasma volume rather than pressure load alone. (source: Paulus2013NovelParadigm)
 
 ---
 
@@ -66,7 +66,7 @@ Al-Naamani 2015 (JACC): In HFpEF patients with PH (N≈100), PAC (= stroke volum
 | PVR | 0.37 |
 | DPG | — (inferior) |
 
-PAC reflects pulmonary vascular stiffness — captures early vasculopathy before PVR rises. PVR is a late and insensitive marker in HFpEF-PH because the haemodynamic phenotype is a stiffness problem before it becomes a resistance problem. (source: raw/2015-JACC-Al-Naamani-pulmonary-arterial-capacitance.pdf)
+PAC reflects pulmonary vascular stiffness — captures early vasculopathy before PVR rises. PVR is a late and insensitive marker in HFpEF-PH because the haemodynamic phenotype is a stiffness problem before it becomes a resistance problem. (source: AlNaamani2015PAC)
 
 **Contradiction with guidelines:** Current ESC/ACC PH guidelines classify and guide CpcPH vs. IpcPH using PVR and DPG. Al-Naamani 2015 shows PVR is a worse prognostic predictor than PAC in this population — guidelines may be using the wrong haemodynamic variable. See [[contradictions]].
 
@@ -100,3 +100,7 @@ PAC reflects pulmonary vascular stiffness — captures early vasculopathy before
 
 - PAC (AUC 0.73) > PVR (AUC 0.37) for outcome prediction in HFpEF-PH; but ESC/ACC PH guidelines classify CpcPH vs. IpcPH using PVR threshold (>3 WU). See [[contradictions]].
 - PDE5i/nitrate class failure in HFpEF (RELAX, NEAT-HFpEF) — yet NO/cGMP pathway is implicated in pulmonary vasculopathy. The agents may not reach sufficient pulmonary vascular concentrations or the vasculopathy in HFpEF-PH is a stiffness rather than vasoconstriction problem. See [[hfpef-treatment-gap]].
+
+## References
+- Al-Naamani N, Preston IR, Paulus JK, Hill NS, Roberts KE. Pulmonary Arterial Capacitance Is a Better Predictor of Mortality Than Pulmonary Vascular Resistance and Resting Hemodynamics in Patients With Pulmonary Hypertension due to Left Heart Failure. *JACC Heart Fail.* 2015;3(6):467–474. doi:[10.1016/j.jchf.2015.01.013](https://doi.org/10.1016/j.jchf.2015.01.013)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)

@@ -13,8 +13,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2021-JACCHeartFail-Gori-PARAGON-HF_study_high-sensitivity_tnt.pdf
-  citekey: gori2021paragon
+- citekey: gori2021paragon
+  doi: 10.1016/j.jchf.2021.04.009
 page-type: source-summary-page
 ---
 # Gori 2021 — PARAGON-HF hs-TnT
@@ -22,7 +22,7 @@ page-type: source-summary-page
 > Sacubitril/valsartan reduced hs-TnT by ~10% vs. valsartan in HFpEF; patients whose hs-TnT declined to ≤17 ng/L by week 16 had better subsequent outcomes; higher baseline hs-TnT may predict greater Sac/Val benefit (P interaction = 0.07).
 
 **Full citation:**
-Gori M, Senni M, Claggett B, Liu J, Maggioni AP, Zile M, Prescott MF, Van Veldhuisen DJ, Zannad F, Pieske B, Lam CSP, Rouleau J, Jhund P, Packer M, Lefkowitz M, Shi V, McMurray JJV, Solomon SD. Integrating High-Sensitivity Troponin T and Sacubitril/Valsartan Treatment in HFpEF: The PARAGON-HF Trial. *JACC Heart Fail.* 2021;9(9):627–635. doi:[10.1016/j.jchf.2021.04.009](https://doi.org/10.1016/j.jchf.2021.04.009)
+Gori M, Senni M, Gupta DK, Bhatt AS, Silverman MG, Bhatt AB, O'Meara E, Claggett BL, Zile MR, McMurray JJV, Packer M, Desai AS, Solomon SD, de Denus S; PARAGON-HF Investigators. Association between cardiac troponin T and sacubitril-valsartan in patients with heart failure and preserved ejection fraction: the PARAGON-HF Biomarker Study. *JACC Heart Fail.* 2021;9(9):627–635. doi:[10.1016/j.jchf.2021.04.009](https://doi.org/10.1016/j.jchf.2021.04.009)
 
 ---
 

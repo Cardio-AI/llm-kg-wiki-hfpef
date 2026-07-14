@@ -18,15 +18,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2023-JAHA-Sung-QRS_fragmentation_hfpef.pdf
-  citekey: Sung2023fQRS
+- citekey: Sung2023fQRS
+  doi: 10.1161/JAHA.122.028105
 page-type: source-summary-page
 ---
 # Sung 2023 — QRS Fragmentation as a Prognostic Marker in HFpEF
 
 > In 960 HFpEF patients followed for a median 657 days, anterior/lateral QRS fragmentation (fQRS) was present in 8.7% and independently predicted HF hospitalisation (HR 1.90; P<0.001), CV death, and all-cause death, and was associated with higher rates of myocardial perfusion defects and coronary slow flow.
 
-**File:** `raw/2023-JAHA-Sung-QRS_fragmentation_hfpef.pdf`  
+**Full citation:**
+Sung K-T, Hung C-L, Tsao C-W, Kuo JY, Yun CH, Lim YT, Shih SC, Chuang ML. Prognostic significance of fragmented QRS on 12-lead ECG in heart failure with preserved ejection fraction. *J Am Heart Assoc.* 2023;12(3):e028105. doi:[10.1161/JAHA.122.028105](https://doi.org/10.1161/JAHA.122.028105)
 **Authors:** Sung KT et al. (Mackay Memorial Hospital, Taiwan)  
 **Year:** 2023 · **Journal:** J Am Heart Assoc 2023;12:e028105  
 **Study type:** Retrospective single-centre cohort · **N:** 960 HFpEF  

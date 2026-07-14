@@ -18,17 +18,18 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-13
 sources:
-- file: raw/2014-NEJM-Pitt-TOPCAT_study.pdf
-  citekey: Pitt2014TOPCAT
-- file: raw/2011-AHA-Desai-TOPCAT_study.pdf
-  citekey: Desai2011TOPCAT
+- citekey: Pitt2014TOPCAT
+  doi: 10.1056/NEJMoa1313731
+- citekey: Desai2011TOPCAT
+  doi: 10.1016/j.ahj.2011.09.007
 page-type: source-summary-page
 ---
 # TOPCAT — Spironolactone in HFpEF (Pitt 2014)
 
 > Spironolactone was neutral vs. placebo on the primary composite (HR 0.89, P=0.14) in HFpEF overall; the HF hospitalisation component was nominally significant (HR 0.83, P=0.04); suspected enrollment contamination in Russia/Georgia and a high drug discontinuation rate (~33%) make the overall result permanently contested.
 
-**File:** `raw/2014-NEJM-Pitt-TOPCAT_study.pdf` · Design paper: `raw/2011-AHA-Desai-TOPCAT_study.pdf` · **Authors:** Pitt B, Pfeffer MA, Assmann SF, et al. (TOPCAT Investigators)  
+**Full citation:**
+Pitt B, Pfeffer MA, Assmann SF, et al.; TOPCAT Investigators. Spironolactone for Heart Failure with Preserved Ejection Fraction. *N Engl J Med.* 2014;370(15):1383–1392. doi:[10.1056/NEJMoa1313731](https://doi.org/10.1056/NEJMoa1313731)
 **Year:** 2014 · **Journal:** N Engl J Med 2014;370(15):1383–1392 · **DOI:** 10.1056/NEJMoa1313731  
 **ClinicalTrials.gov:** NCT00094302  
 **Study type:** Multinational double-blind RCT · **N:** 3,445 (spironolactone 1,722; placebo 1,723)  

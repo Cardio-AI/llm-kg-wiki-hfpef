@@ -13,15 +13,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2011-LANCET-Abraham-CHAMPION_study_design.pdf
-  citekey: abraham2011champion
+- citekey: abraham2011champion
+  doi: 10.1016/S0140-6736(10)61800-1
 page-type: source-summary-page
 ---
 # CHAMPION Trial: Primary Results (Abraham 2011)
 
 > CHAMPION primary RCT (N=550; NYHA III HF): haemodynamic-guided management via daily wireless PA pressure monitoring reduced HF hospitalisation rate by 28% (HR 0.72; P=0.0002) over 6 months — the first device-based remote haemodynamic monitoring trial to demonstrate HF hospitalisation reduction across EF subtypes including HFpEF.
 
-**File:** `raw/2011-LANCET-Abraham-CHAMPION_study_design.pdf` · **Authors:** Abraham WT, Fisher WG, Smith AL, et al.; CHAMPION Trial Study Group · **Year:** 2011 · **Journal:** Lancet 377(9766):658–666
+**Full citation:**
+Abraham WT, Fisher WG, Smith AL, Delurgio DB, Leon AR, Loh E, Kocovic DZ, Packer M, Clavell AL, Hayes DL, Ellestad M, Messenger JC, Khalil KS, Narahara KA, Mehta FA, Warman EN, Parker ME, Gupta MS; CHAMPION Trial Study Group. Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial. *Lancet.* 2011;377(9766):658–666. doi:[10.1016/S0140-6736(10)61800-1](https://doi.org/10.1016/S0140-6736(10)61800-1)
 
 ---
 

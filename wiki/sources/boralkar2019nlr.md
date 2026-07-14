@@ -18,15 +18,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2019-AJCariol-Boralkar-lymphocyte_NLR_hospitalization_hfpef.pdf
-  citekey: Boralkar2019NLR
+- citekey: Boralkar2019NLR
+  doi: 10.1016/j.amjcard.2019.10.020
 page-type: source-summary-page
 ---
 # Boralkar 2019 — NLR and NLR Trajectory in Acute HFpEF (Stanford)
 
 > In 443 patients hospitalized for acute HFpEF (Stanford STRIDE database), NLR on admission (HR 1.18; P=0.04) and absolute NLR trajectory from admission to discharge (HR 1.26; P=0.001) were independently predictive of all-cause mortality beyond the GWTG-HF risk score; NLR trajectory significantly improved AUC and reclassification at 1-, 2-, and 3-year follow-up.
 
-**File:** `raw/2019-AJCariol-Boralkar-lymphocyte_NLR_hospitalization_hfpef.pdf`  
+**Full citation:**
+Boralkar KA, Kobayashi Y, Amsallem M, Arthur Ataam J, Moneghetti KJ, Cauwenberghs N, Horne BD, Knowlton KU, Maecker H, Kuznetsova T, Heidenreich PA, Haddad F. Value of Neutrophil to Lymphocyte Ratio and Its Trajectory in Patients Hospitalized With Acute Heart Failure and Preserved Ejection Fraction. *Am J Cardiol.* 2020;125(2):229–235. doi:[10.1016/j.amjcard.2019.10.020](https://doi.org/10.1016/j.amjcard.2019.10.020)
 **Authors:** Boralkar KA, Kobayashi Y, Amsallem M, et al. (Haddad lab, Stanford)  
 **Year:** 2019 (published online 2019; print Am J Cardiol 2020;125:229–235)  
 **Journal:** Am J Cardiol 2020;125:229–235 · **DOI:** 10.1016/j.amjcard.2019.10.020  

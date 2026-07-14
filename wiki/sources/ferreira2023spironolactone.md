@@ -16,8 +16,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2023-ESC-Ferreira-spironolactone_effect_hfpef.pdf
-  citekey: ferreira2023spironolactone
+- citekey: ferreira2023spironolactone
+  doi: 10.1002/ejhf.2726
 page-type: source-summary-page
 ---
 # Ferreira 2023 — Spironolactone Echocardiographic IPD Meta-Analysis
@@ -25,13 +25,13 @@ page-type: source-summary-page
 > Spironolactone reduced LAVi, LVMi, IVS thickness, E/e' ratio, and increased LVEF across HOMAGE, Aldo-DHF, and TOPCAT (N=984); consistent beneficial structural remodelling provides mechanistic support for MRA use in HFpEF.
 
 **Full citation:**
-Ferreira JP, Cleland JG, Girerd N, Bozec E, Rossignol P, Pellicori P, Cosmi F, Mariottoni B, Solomon SD, Pitt B, Pfeffer MA, Shah AM, Petutschnigg J, Pieske B, Edelmann F, Zannad F. Spironolactone effect on cardiac structure and function of patients with heart failure and preserved ejection fraction: a pooled analysis of three randomized trials. *Eur J Heart Fail.* 2023;25(1):108–113. doi:[10.1002/ejhf.2726](https://doi.org/10.1002/ejhf.2726)
+Ferreira JP, Zannad F, Petrie MC, et al.; on behalf of the HOMAGE, Aldo-DHF and TOPCAT Investigators. Echocardiographic outcomes with spironolactone in patients with heart failure and preserved ejection fraction: an individual patient data meta-analysis. *Eur J Heart Fail.* 2023;25(1):108–113. doi:[10.1002/ejhf.2726](https://doi.org/10.1002/ejhf.2726)
 
 ---
 
 ## Summary
 
-Individual patient data (IPD) meta-analysis of three RCTs comparing spironolactone vs. placebo or usual care on echocardiographic endpoints in HFpEF. Enrolled 984 patients (452 HOMAGE, 398 Aldo-DHF, 134 TOPCAT-Americas). Spironolactone exposure 9–12 months. Analysis by ANCOVA. (source: raw/2023-ESC-Ferreira-spironolactone_effect_hfpef.pdf)
+Individual patient data (IPD) meta-analysis of three RCTs comparing spironolactone vs. placebo or usual care on echocardiographic endpoints in HFpEF. Enrolled 984 patients (452 HOMAGE, 398 Aldo-DHF, 134 TOPCAT-Americas). Spironolactone exposure 9–12 months. Analysis by ANCOVA. (source: ferreira2023spironolactone)
 
 ## Design
 

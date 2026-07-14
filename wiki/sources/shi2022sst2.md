@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2022-FrontierCardiovascMed-Shi-sST2_diagnostic_prognostic_biomarker_in_hfpef_systematic_review.pdf
-  citekey: Shi2022SST2
+- citekey: Shi2022SST2
+  doi: 10.3389/fcvm.2022.937291
 page-type: source-summary-page
 ---
 # Shi 2022 — sST2 as Diagnostic and Prognostic Biomarker in HFpEF
 
 > sST2 is a **poor diagnostic biomarker** for HFpEF vs. controls (AUC <0.7) but a **strong prognostic marker** for all-cause death (log sST2 HR 2.76; I²=0%; P=0.013) and a composite endpoint (HR 6.52; P=0.000) in HFpEF patients.
 
-**File:** `raw/2022-FrontierCardiovascMed-Shi-sST2_diagnostic_prognostic_biomarker_in_hfpef_systematic_review.pdf`  
+**Full citation:**
+Shi Y, Cai X, Jin X, Ji Y, Huang Y, Li Y, Li Y, Chen Y. Soluble suppression of tumorigenicity-2 as a diagnostic and prognostic biomarker in patients with heart failure with preserved ejection fraction: a systematic review. *Front Cardiovasc Med.* 2022;9:937291. doi:[10.3389/fcvm.2022.937291](https://doi.org/10.3389/fcvm.2022.937291)
 **Authors:** Shi L et al.  
 **Year:** 2022 · **Journal:** Front Cardiovasc Med 2022;9:937291  
 **Study type:** Systematic review · **N:** 16 publications; N=2,761 HFpEF + 278 controls; mean age ~70y  

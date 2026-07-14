@@ -18,31 +18,32 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf
-  citekey: Ammar2025BNP
+- citekey: Ammar2025BNP
+  doi: 10.1007/s10741-024-10442-6
 page-type: source-summary-page
 ---
 # BNP and NT-proBNP as Prognostic Biomarkers in HFpEF (Ammar 2025)
 
 > Systematic review and meta-analysis (22 studies; 10,158 HFpEF patients) confirming that elevated BNP (HR 1.34 for adverse events; HR 1.44 for mortality) and NT-proBNP (HR 1.80 for adverse events; HR 1.65 for mortality) are significant independent prognostic biomarkers in HFpEF; notably, low BNP in HFpEF does not indicate good prognosis — inverse of the HFrEF pattern.
 
-**File:** `raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf` · **Authors:** Ammar LA, Massoud GP, Chidiac C, Booz GW, Altara R, Zouein FA · **Year:** 2025 · **Journal:** Heart Fail Rev 2025;30(1):45–54
+**Full citation:**
+Ammar LA, Massoud GP, Chidiac C, Booz GW, Altara R, Zouein FA. BNP and NT-proBNP as Prognostic Biomarkers for the Prediction of Adverse Outcomes in HFpEF Patients: A Systematic Review and Meta-Analysis. *Heart Fail Rev.* 2025;30(1):45–54. doi:[10.1007/s10741-024-10442-6](https://doi.org/10.1007/s10741-024-10442-6)
 
 ---
 
 ## Core Arguments
 
-1. **BNP predicts adverse events in HFpEF (HR 1.34).** Overall adverse events (cardiovascular events, thromboembolic events, hospitalization, death): HR 1.34 (95% CI 1.20–1.52); sensitivity analysis yielded consistent results. Dose-response: BNP 30–99 pg/mL HR 2.50, 100–299 HR 4.70, ≥300 HR 7.80 (Kasahara et al.). (source: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf)
+1. **BNP predicts adverse events in HFpEF (HR 1.34).** Overall adverse events (cardiovascular events, thromboembolic events, hospitalization, death): HR 1.34 (95% CI 1.20–1.52); sensitivity analysis yielded consistent results. Dose-response: BNP 30–99 pg/mL HR 2.50, 100–299 HR 4.70, ≥300 HR 7.80 (Kasahara et al.). (source: Ammar2025BNP)
 
-2. **BNP predicts cardiovascular events (HR 1.36) and mortality (HR 1.44).** Cardiovascular events: HR 1.36 (95% CI 1.12–1.64). Mortality: HR 1.44 (95% CI 1.04–1.84; I²=39%). Three studies with sex-stratified analysis showed BNP predictive in men but less clearly in women (HR 1.34 women vs 1.65 men). (source: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf)
+2. **BNP predicts cardiovascular events (HR 1.36) and mortality (HR 1.44).** Cardiovascular events: HR 1.36 (95% CI 1.12–1.64). Mortality: HR 1.44 (95% CI 1.04–1.84; I²=39%). Three studies with sex-stratified analysis showed BNP predictive in men but less clearly in women (HR 1.34 women vs 1.65 men). (source: Ammar2025BNP)
 
-3. **NT-proBNP is a strong predictor — HR 1.80 for adverse events.** NT-proBNP adverse events: HR 1.80 (95% CI 1.38–2.35) from 3 studies; mortality HR 1.65 (95% CI 1.55–1.76). Dose-response confirmed: NT-proBNP 300–623 pg/mL HR 1.45 for HF hospitalisation increasing to HR 3.78 at 1752–31,290 pg/mL (Myhre et al.). (source: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf)
+3. **NT-proBNP is a strong predictor — HR 1.80 for adverse events.** NT-proBNP adverse events: HR 1.80 (95% CI 1.38–2.35) from 3 studies; mortality HR 1.65 (95% CI 1.55–1.76). Dose-response confirmed: NT-proBNP 300–623 pg/mL HR 1.45 for HF hospitalisation increasing to HR 3.78 at 1752–31,290 pg/mL (Myhre et al.). (source: Ammar2025BNP)
 
-4. **Low BNP in HFpEF does NOT indicate good prognosis.** In HFrEF, low BNP is associated with favorable prognosis. In HFpEF, low BNP was an indicator of poor prognosis in one cohort (Sakane et al.: 22.2% of HFpEF vs 10.9% of HFrEF had low BNP during ADHF; HFpEF-low-BNP group had worse outcomes). BMI confounds BNP interpretation: obese HFpEF patients have lower BNP despite equivalent haemodynamic burden ("obesity paradox"). (source: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf)
+4. **Low BNP in HFpEF does NOT indicate good prognosis.** In HFrEF, low BNP is associated with favorable prognosis. In HFpEF, low BNP was an indicator of poor prognosis in one cohort (Sakane et al.: 22.2% of HFpEF vs 10.9% of HFrEF had low BNP during ADHF; HFpEF-low-BNP group had worse outcomes). BMI confounds BNP interpretation: obese HFpEF patients have lower BNP despite equivalent haemodynamic burden ("obesity paradox"). (source: Ammar2025BNP)
 
-5. **Thromboembolic risk quantified.** BNP 148–340 pg/mL: thromboembolic risk HR 2.13 (Sobue et al.); BNP ≥341 pg/mL: HR 3.51 — a clinically underappreciated adverse outcome in HFpEF beyond HF hospitalisation. (source: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf)
+5. **Thromboembolic risk quantified.** BNP 148–340 pg/mL: thromboembolic risk HR 2.13 (Sobue et al.); BNP ≥341 pg/mL: HR 3.51 — a clinically underappreciated adverse outcome in HFpEF beyond HF hospitalisation. (source: Ammar2025BNP)
 
-6. **BNP ≥100 pg/mL predicts 4× hospitalisation risk.** Anjan et al.: BNP >100 pg/mL associated with adjusted HR 4.00 for hospitalisation (95% CI 1.60–9.70) — a potentially usable clinical threshold. (source: raw/2025-HeartFailRev-Ammar-BNP_NT-proBNP_biomarkers_systematic_review_meta_analysis.pdf)
+6. **BNP ≥100 pg/mL predicts 4× hospitalisation risk.** Anjan et al.: BNP >100 pg/mL associated with adjusted HR 4.00 for hospitalisation (95% CI 1.60–9.70) — a potentially usable clinical threshold. (source: Ammar2025BNP)
 
 ---
 

@@ -13,8 +13,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf
-    citekey: Haykowsky2011Exercise
+  - citekey: Haykowsky2011Exercise
+    doi: 10.1016/j.jacc.2011.02.055
 ---
 
 # Peripheral Mechanisms of Exercise Intolerance in HFpEF

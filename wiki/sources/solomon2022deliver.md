@@ -17,15 +17,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2022-NEJM-Solomon-Deliver_study.pdf
-  citekey: Solomon2022DELIVER
+- citekey: Solomon2022DELIVER
+  doi: 10.1056/NEJMoa2206286
 page-type: source-summary-page
 ---
 # DELIVER
 
 > Dapagliflozin significantly reduced worsening HF and CV death in HF with LVEF >40% (HR 0.82, P<0.001); benefit consistent across all LVEF subgroups including ≥60%; dapagliflozin also improved KCCQ symptoms (win ratio 1.11, P=0.009); together with EMPEROR-Preserved, established SGLT2i across the full HF EF spectrum.
 
-**File:** `raw/2022-NEJM-Solomon-Deliver_study.pdf` · **Authors:** Solomon SD et al. · **Year:** 2022 · **Journal:** NEJM 387:1089–1098  
+**Full citation:**
+Solomon SD, McMurray JJV, Claggett B, et al.; DELIVER Trial Committees and Investigators. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2022;387(12):1089–1098. doi:[10.1056/NEJMoa2206286](https://doi.org/10.1056/NEJMoa2206286)
 **Study type:** RCT · **N:** 6,263 · **Population:** HF with LVEF >40%, evidence of structural heart disease, elevated NPs  
 **Follow-up:** Median 2.3 years (IQR 1.7–2.8) · **Intervention:** Dapagliflozin 10 mg/day vs. placebo  
 **Primary outcome:** Composite of worsening HF (hospitalisation or urgent visit) or CV death  

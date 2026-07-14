@@ -9,6 +9,7 @@ config-page
 - [[trials]] — master clinical trials overview table (all trials in wiki: title, abbreviation, intervention, condition, NCT, dates)
 - [[trials-pending]] — trials referenced in sources but not yet added; review before deciding to ingest
 - [[sources-pending-from-meta-analyses]] — candidate primary studies from meta-analyses for future ingest; prioritised by evidence potential
+- [[queries/index]] — answered questions saved as canonical query pages
 
 ---
 
@@ -97,7 +98,7 @@ config-page
 - [[armstrong2020victoria]] — VICTORIA: vericiguat in HFrEF; N=5,050; HR 0.90 (P=0.02); contrast with neutral VITALITY-HFpEF (same drug)
 - [[pieske2017socrates]] — SOCRATES-PRESERVED: vericiguat phase 2b in HFpEF; NT-proBNP signal at 10 mg; motivated VITALITY-HFpEF phase 3 (then neutral)
 - [[kosiborod2023stephfpef]] — STEP-HFpEF (non-DM, 2023): semaglutide 2.4 mg; obese HFpEF without T2DM; KCCQ-CSS +7.8 pts, body weight −10.7 pp, 6MWD +20.3m (all P<0.001); win ratio 1.72; N=529; NCT04788511
-- [[packer2025summit]] — SUMMIT primary (NEJM 2025): tirzepatide in obese HFpEF; N=731; HR 0.62 (P=0.026) for CV death/worsening HF; KCCQ-CSS +6.9 pts; first GLP-1RA trial with event endpoint; ~ # pending ingest (primary PDF not in raw/)
+- [[packer2025summit]] — SUMMIT primary (NEJM 2025): tirzepatide in obese HFpEF; N=731; HR 0.62 (P=0.026) for CV death/worsening HF; KCCQ-CSS +6.9 pts; first GLP-1RA trial with event endpoint
 - [[packer2025summit-ckd]] — SUMMIT CKD subanalysis (JACC 2025;85:1721): 61% CKD; benefit consistent across CKD/no-CKD (interaction P=0.86); weight loss −13.3% (CKD) and −14.5% (no-CKD) tirzepatide
 - [[kramer2025summit-cmr]] — SUMMIT CMR substudy (JACC 2025;85:699): N=106; LV mass −11 g (P=0.004); paracardiac fat −45 mL (P<0.001); first GIP/GLP-1 RA to reduce LV mass in HFpEF by CMR
 - [[kosiborod2024stephfpefdm]] — STEP-HFpEF DM (2024): semaglutide in obese HFpEF with T2DM; N=616; KCCQ-CSS +7.3 pts, 6MWD +14.3m, weight −6.4%, CRP ratio 0.67; HF hosp HR 0.40 (nominal); NCT04916470

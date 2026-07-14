@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2023-MDPIBioMed-Wester-sleep-disordered_breathing_hfpef_insights.pdf
-  citekey: Wester2023SDB
+- citekey: Wester2023SDB
+  doi: 10.3390/biomedicines11113038
 page-type: source-summary-page
 ---
 # Wester 2023 — Insights into HFpEF and Sleep-Disordered Breathing
 
 > SDB affects up to 58–80% of HFpEF patients, shares pathomechanisms with HFpEF (intermittent hypoxia/reoxygenation → CaMKII overactivation → diastolic dysfunction/arrhythmia), and is especially prevalent in the "obese HFpEF phenotype," which may particularly benefit from PAP therapy and GLP-1 agonists.
 
-**File:** `raw/2023-MDPIBioMed-Wester-sleep-disordered_breathing_hfpef_insights.pdf`  
+**Full citation:**
+Wester M, Arzt M, Maier LS, Wagner S. Sleep-disordered breathing as a treatable cause of heart failure with preserved ejection fraction. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)
 **Authors:** Wester M, Arzt M, Sinha F, Maier LS, Lebek S  
 **Year:** 2023 · **Journal:** Biomedicines 2023;11:3038 · **DOI:** 10.3390/biomedicines11113038  
 **Affiliation:** University Hospital Regensburg, Germany; UT Southwestern Medical Center, Dallas, TX  

@@ -17,15 +17,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2021-JACC-Pandey-DL_echo_detect_diastolic_dysfunction.pdf
-  citekey: Pandey2021DeepNNEcho
+- citekey: Pandey2021DeepNNEcho
+  doi: 10.1016/j.jcmg.2021.04.010
 page-type: source-summary-page
 ---
 # Deep-Learning Echocardiographic Assessment of Diastolic Dysfunction (Pandey 2021)
 
 > A topological data analysis–based deep neural network using 9 echocardiographic variables classifies diastolic dysfunction severity better than ASE 2016 guidelines and identifies a high-risk HFpEF phenogroup in TOPCAT that derives differential benefit from spironolactone.
 
-**File:** `raw/2021-JACC-Pandey-DL_echo_detect_diastolic_dysfunction.pdf` · **Authors:** Pandey A, Kagiyama N, Yanamala N, Segar MW, Cho JS, Tokodi M, Sengupta PP  
+**Full citation:**
+Pandey A, Kagiyama N, Yanamala N, Segar MW, Cho JS, Tokodi M, Sengupta PP. Deep-Learning Models for the Echocardiographic Assessment of Diastolic Dysfunction. *JACC Cardiovasc Imaging.* 2021;14(9):1887–1900. doi:[10.1016/j.jcmg.2021.04.010](https://doi.org/10.1016/j.jcmg.2021.04.010)
 **Year:** 2021 · **Journal:** JACC Cardiovascular Imaging 2021;14(10):1887–1900 · **DOI:** 10.1016/j.jcmg.2021.04.010  
 **Study type:** Multi-cohort observational model development + external validation  
 **N:** Development cohort 1,242 (training n=990; internal validation n=252); hemodynamic validation 84; clinical outcome validation 219; TOPCAT echocardiography substudy 518; RELAX-HF/NEAT-HFpEF pooled cohort 346  

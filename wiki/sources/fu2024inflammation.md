@@ -17,29 +17,30 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf
-  citekey: Fu2024Inflammation
+- citekey: Fu2024Inflammation
+  doi: 10.3389/fcvm.2024.1461073
 page-type: source-summary-page
 ---
 # Systemic Inflammatory Markers in HFpEF (Fu 2024)
 
 > Systematic review and meta-analysis (8 cohort studies; 9,744 HFpEF patients) showing that elevated systemic inflammatory markers (NLR, PLR, hs-CRP, WBC, platelets) significantly predict all-cause mortality (HR 1.43), cardiovascular mortality (HR 2.04), and cardiovascular rehospitalisation (HR 2.83) in HFpEF, with very low heterogeneity (I²=0%) across all outcomes.
 
-**File:** `raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf` · **Authors:** Fu Z, Liu P, Gao X, Shi S, Li Y, Zhang B, Wu H, Song Q · **Year:** 2024 · **Journal:** Front Cardiovasc Med 2024;11:1461073
+**Full citation:**
+Fu Z, Liu P, Gao X, Shi S, Li Y, Zhang B, Wu H, Song Q. Association of systemic inflammatory markers with clinical adverse prognosis and outcomes in HFpEF: a systematic review and meta-analysis of cohort studies. *Front Cardiovasc Med.* 2024;11:1461073. doi:[10.3389/fcvm.2024.1461073](https://doi.org/10.3389/fcvm.2024.1461073)
 
 ---
 
 ## Core Arguments
 
-1. **Inflammatory markers significantly predict all-cause mortality in HFpEF.** Pooled HR 1.43 (95% CI 1.19–1.72; P<0.05; I²=0%) across 7 studies with follow-up 420 days to 3.6 years. Very low heterogeneity suggests consistent effect across different inflammatory markers and populations. (source: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf)
+1. **Inflammatory markers significantly predict all-cause mortality in HFpEF.** Pooled HR 1.43 (95% CI 1.19–1.72; P<0.05; I²=0%) across 7 studies with follow-up 420 days to 3.6 years. Very low heterogeneity suggests consistent effect across different inflammatory markers and populations. (source: Fu2024Inflammation)
 
-2. **Inflammatory markers predict cardiovascular mortality (HR 2.04).** Pooled HR 2.04 (95% CI 1.33–3.12; P<0.05; I²=0%) from 4 studies. Inflammatory burden doubles cardiovascular mortality risk in HFpEF. (source: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf)
+2. **Inflammatory markers predict cardiovascular mortality (HR 2.04).** Pooled HR 2.04 (95% CI 1.33–3.12; P<0.05; I²=0%) from 4 studies. Inflammatory burden doubles cardiovascular mortality risk in HFpEF. (source: Fu2024Inflammation)
 
-3. **Inflammatory markers predict cardiovascular rehospitalisation (HR 2.83).** Pooled HR 2.83 (95% CI 0.92–8.67; P<0.05; I²=0%) from 3 studies. Wide CI reflects limited study numbers but direction is consistent. (source: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf)
+3. **Inflammatory markers predict cardiovascular rehospitalisation (HR 2.83).** Pooled HR 2.83 (95% CI 0.92–8.67; P<0.05; I²=0%) from 3 studies. Wide CI reflects limited study numbers but direction is consistent. (source: Fu2024Inflammation)
 
-4. **Multiple inflammatory markers converge on similar prognostic signal.** NLR, PLR, LMR, hs-CRP, WBC, and platelets all used as markers across included studies — the convergent finding across biochemically distinct markers supports the concept of systemic low-grade inflammation as a core prognostic driver in HFpEF. (source: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf)
+4. **Multiple inflammatory markers converge on similar prognostic signal.** NLR, PLR, LMR, hs-CRP, WBC, and platelets all used as markers across included studies — the convergent finding across biochemically distinct markers supports the concept of systemic low-grade inflammation as a core prognostic driver in HFpEF. (source: Fu2024Inflammation)
 
-5. **Inflammation in HFpEF differs mechanistically from HFrEF.** In HFrEF, inflammation is primarily myocardial-injury driven. In HFpEF, systemic metabolic and cardiovascular risk factors (obesity, hypertension, diabetes) drive systemic low-grade inflammation that triggers endothelial dysfunction, cardiomyocyte hypertrophy, and interstitial fibrosis. (source: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf)
+5. **Inflammation in HFpEF differs mechanistically from HFrEF.** In HFrEF, inflammation is primarily myocardial-injury driven. In HFpEF, systemic metabolic and cardiovascular risk factors (obesity, hypertension, diabetes) drive systemic low-grade inflammation that triggers endothelial dysfunction, cardiomyocyte hypertrophy, and interstitial fibrosis. (source: Fu2024Inflammation)
 
 ---
 
@@ -63,7 +64,7 @@ page-type: source-summary-page
 | Zhu and Zhou | China | 2,898 | WBC | 3.4 yr |
 | Menghoum et al. | Belgium | 228 (NCT03197350) | Platelets | 26 mo |
 
-(source: raw/2024-FrontCardiovascMed-Fu-systematic_inflammatory_markers_hfpef_systematic_review.pdf)
+(source: Fu2024Inflammation)
 
 ---
 

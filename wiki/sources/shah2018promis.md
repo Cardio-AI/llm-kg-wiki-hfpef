@@ -18,15 +18,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2018-ESC-Shah-PROMIS-HFpEF_study_cmd_in_hfpef.pdf
-  citekey: Shah2018PROMIS
+- citekey: Shah2018PROMIS
+  doi: 10.1093/eurheartj/ehy529
 page-type: source-summary-page
 ---
 # PROMIS-HFpEF — CMD Prevalence in HFpEF (Shah 2018)
 
 > First prospective multi-centre, multinational study demonstrating CMD prevalence of 75% (151/202) in guideline-defined HFpEF patients without unrevascularised macrovascular CAD, using adenosine stress transthoracic Doppler echocardiography; CMD correlated with microalbuminuria, NT-proBNP, and impaired RV function — but not with CRP or symptoms.
 
-**File:** `raw/2018-ESC-Shah-PROMIS-HFpEF_study_cmd_in_hfpef.pdf`  
+**Full citation:**
+Shah SJ, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, Beussink-Nelson L, Ljung-Osterberg L, Fermer ML, Broberg MA, Gan LM, Lund LH. Prevalence and correlates of coronary microvascular dysfunction in heart failure with preserved ejection fraction: PROMIS-HFpEF. *Eur Heart J.* 2018;39(37):3439–3450. doi:[10.1093/eurheartj/ehy529](https://doi.org/10.1093/eurheartj/ehy529)
 **Authors:** Shah SJ, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, et al.  
 **Year:** 2018 · **Journal:** Eur Heart J 2018;39:3439–3450 · **DOI:** 10.1093/eurheartj/ehy529  
 **Study type:** Prospective multicentre multinational observational cohort · **N:** 202 HFpEF patients  

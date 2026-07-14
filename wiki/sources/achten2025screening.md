@@ -16,8 +16,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2025-HeartFailRev-Achten-screening_hfpef_in_obesity.pdf
-  citekey: achten2025screening
+- citekey: achten2025screening
+  doi: 10.1007/s10741-025-10540-z
 page-type: source-summary-page
 ---
 # Achten 2025 — HFpEF Screening in Obesity: Rationale and Roadmap
@@ -31,7 +31,7 @@ Achten A, Peeters L, Verkoulen G, Weerts J, Knackstedt C, Boerma EJ, van Empel V
 
 ## Summary
 
-Narrative review (Maastricht UMC + Zuyderland Medical Center, Netherlands). Argues the case for systematic HFpEF screening in obese individuals — distinct from general HF screening — given earlier onset, specific pathophysiology, and availability of effective (SGLT2i, GLP-1RA) and potentially preventive treatments. Reviews diagnostic challenges specific to obesity. (source: raw/2025-HeartFailRev-Achten-screening_hfpef_in_obesity.pdf)
+Narrative review (Maastricht UMC + Zuyderland Medical Center, Netherlands). Argues the case for systematic HFpEF screening in obese individuals — distinct from general HF screening — given earlier onset, specific pathophysiology, and availability of effective (SGLT2i, GLP-1RA) and potentially preventive treatments. Reviews diagnostic challenges specific to obesity. (source: achten2025screening)
 
 ## Epidemiology and Rationale for Screening
 

@@ -18,15 +18,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf
-  citekey: Brubaker2023SECRET2
+- citekey: Brubaker2023SECRET2
+  doi: 10.1161/CIRCHEARTFAILURE.122.010161
 page-type: source-summary-page
 ---
 # SECRET-II
 
 > Parallel-arm RCT (N=88, Wake Forest; NCT02636439) comparing 20 weeks of caloric restriction + aerobic training + resistance training (RT+CR+AT) vs. caloric restriction + aerobic training alone (CR+AT) in obese older HFpEF patients; both groups improved similarly in peak VO₂ (+5–7%), KCCQ (+15–20 points), and body weight; resistance training added leg strength (+4.9 Nm vs. CR+AT; P=0.05) and muscle quality (+0.07 Nm/cm²; P=0.043) but did not improve peak VO₂ more than aerobic training alone and failed to prevent skeletal muscle mass loss — a key hypothesis-refuting finding.
 
-**File:** `raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf` · **Authors:** Brubaker PH, Kitzman DW et al. · **Year:** 2023 · **Journal:** Circ Heart Fail 2023;16:e010161
+**Full citation:**
+Brubaker PH, Kitzman DW, et al. Resistance Training Added to Caloric Restriction and Aerobic Exercise Training in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: The SECRET-II Randomized Trial. *Circ Heart Fail.* 2023;16(9):e010161. doi:[10.1161/CIRCHEARTFAILURE.122.010161](https://doi.org/10.1161/CIRCHEARTFAILURE.122.010161)
 
 ---
 
@@ -42,7 +43,7 @@ page-type: source-summary-page
 
 5. **Highly female-predominant, racially diverse, obese population.** ~85% women; ~52% non-White; BMI 40±6 kg/m². This is one of the most demographically representative HFpEF exercise trial populations, given that HFpEF with obesity disproportionately affects women and racial minorities.
 
-(source: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf)
+(source: Brubaker2023SECRET2)
 
 ---
 
@@ -89,7 +90,7 @@ page-type: source-summary-page
 | LV mass change | Reduced | Reduced | NS |
 | Arterial stiffness | Reduced | Reduced | NS |
 
-(source: raw/2023-CirculationAHA-Brubaker-SECRET-II_study_resistance_training_trial_hfpef.pdf)
+(source: Brubaker2023SECRET2)
 
 ---
 

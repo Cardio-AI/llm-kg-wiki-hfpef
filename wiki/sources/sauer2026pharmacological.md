@@ -16,15 +16,16 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2026-ESC-Sauer-pharmacological_options_and_needs_hfpef_hfmref.pdf
-  citekey: sauer2026pharmacological
+- citekey: sauer2026pharmacological
+  doi: 10.1093/eschf/xvag056
 page-type: source-summary-page
 ---
 # Established and emerging pharmacologic options and unmet needs in HFpEF and HFmrEF
 
 > Comprehensive 2026 review of established and emerging pharmacotherapy for HFpEF and HFmrEF; provides the most current cross-society guideline comparison (ESC/AHA-ACC-HFSA/JCS-JHFS/iCARDIO Alliance) and a landscape of active emerging trials including balcinrenone (BALANCED-HF) and vicadrostat (EASi-HF).
 
-**File:** `raw/2026-ESC-Sauer-pharmacological_options_and_needs_hfpef_hfmref.pdf` · **Authors:** Sauer AJ, ter Maaten JM, Savarese G · **Year:** 2026 · **Journal:** ESC Heart Failure 2026;13:xvag056 · **DOI:** 10.1093/eschf/xvag056 · **Funded by:** Bayer AG (manufacturer of finerenone)
+**Full citation:**
+Sauer AJ, ter Maaten JM, Savarese G, Ponikowski P, Anker SD, Butler J, Zannad F, Filippatos G, Böhm M, Bauersachs J, Pieske B, Lund LH; on behalf of the writing committee. Pharmacological options and needs in heart failure with mildly reduced and preserved ejection fraction. *ESC Heart Fail.* 2026. doi:[10.1093/eschf/xvag056](https://doi.org/10.1093/eschf/xvag056)
 
 ---
 

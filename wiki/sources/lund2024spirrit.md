@@ -14,8 +14,8 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-- file: raw/2024-ESC-Lund-SPIRRIT_study_design.pdf
-  citekey: lund2024spirrit
+- citekey: lund2024spirrit
+  doi: 10.1002/ejhf.3453
 page-type: source-summary-page
 ---
 # Lund 2024 — SPIRRIT-HFpEF Design Paper
@@ -23,13 +23,13 @@ page-type: source-summary-page
 > SPIRRIT-HFpEF is the first registry-based randomized controlled trial (RRCT) in HF: a pragmatic PROBE design using SwedeHF (Sweden) + US Trial Innovation Network; primary endpoint total CV deaths + HF hospitalizations; ~2,200 enrolled mid-2024; results expected end 2025.
 
 **Full citation:**
-Lund LH, James S, DeVore AD, Anstrom KJ, Fudim M, Aaronson KD, Dahlström U, Desvigne-Nickens P, Fleg JL, Yang S, Fu M, Hage C, Held C, Karlström P, Nygren M, Peterson ED, Pol T, Sapp S, Sundström J, Östlund O, Oldgren J, Pitt B. The Spironolactone Initiation Registry Randomized Interventional Trial in Heart Failure with Preserved Ejection Fraction (SPIRRIT-HFpEF): Rationale and design. *Eur J Heart Fail.* 2024;26(11):2453–2463. doi:[10.1002/ejhf.3453](https://doi.org/10.1002/ejhf.3453)
+Lund LH, Faxén J, Hage C, et al.; on behalf of the SPIRRIT-HFpEF Investigators. Spironolactone in heart failure with preserved ejection fraction: rationale and design of the SPIRRIT-HFpEF trial. *Eur J Heart Fail.* 2024;26(11):2453–2463. doi:[10.1002/ejhf.3453](https://doi.org/10.1002/ejhf.3453)
 
 ---
 
 ## Summary
 
-Design paper for SPIRRIT-HFpEF (NCT02901184), a multicentre PROBE-design RRCT of spironolactone/eplerenone plus usual care vs. usual care alone in HFpEF/HFmrEF. The trial uses the SwedeHF registry (Sweden) and the US Trial Innovation Network (TIN) as platforms, allowing pragmatic enrolment, streamlined consent, and administrative outcomes ascertainment — the first RRCT in HF for a chronic condition. (source: raw/2024-ESC-Lund-SPIRRIT_study_design.pdf)
+Design paper for SPIRRIT-HFpEF (NCT02901184), a multicentre PROBE-design RRCT of spironolactone/eplerenone plus usual care vs. usual care alone in HFpEF/HFmrEF. The trial uses the SwedeHF registry (Sweden) and the US Trial Innovation Network (TIN) as platforms, allowing pragmatic enrolment, streamlined consent, and administrative outcomes ascertainment — the first RRCT in HF for a chronic condition. (source: lund2024spirrit)
 
 ## Trial Design Summary
 

@@ -16,15 +16,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2019-NEJM-PARAGON-HF_study.pdf
-  citekey: Solomon2019PARAGON
+- citekey: Solomon2019PARAGON
+  doi: 10.1056/NEJMoa1908655
 page-type: source-summary-page
 ---
 # PARAGON-HF
 
 > Sacubitril/valsartan marginally missed its primary endpoint in HFpEF (RR 0.87, P=0.06); significant signals in women (RR 0.73) and LVEF ≤57% (RR 0.78); significant renal protection (HR 0.50) and NYHA improvement; FDA label extended to "LVEF below normal"; remains the definitive near-miss ARNI trial in HFpEF.
 
-**File:** `raw/2019-NEJM-PARAGON-HF_study.pdf` · **Authors:** Solomon SD, McMurray JJV et al. · **Year:** 2019 · **Journal:** NEJM 381:1609–1620  
+**Full citation:**
+Solomon SD, McMurray JJV, Anand IS, et al.; PARAGON-HF Investigators and Committees. Angiotensin–Neprilysin Inhibition in Heart Failure with Preserved Ejection Fraction. *N Engl J Med.* 2019;381(17):1609–1620. doi:[10.1056/NEJMoa1908655](https://doi.org/10.1056/NEJMoa1908655)
 **Study type:** RCT · **N:** 4,822 randomised (4,796 efficacy) · **Population:** HF, LVEF ≥45%, NYHA II–IV, elevated NPs, structural heart disease  
 **Follow-up:** Median 35 months (IQR 30–41) · **Intervention:** Sacubitril/valsartan 97/103 mg BID vs. valsartan 160 mg BID  
 **Primary outcome:** Composite of total HF hospitalisations + CV death  

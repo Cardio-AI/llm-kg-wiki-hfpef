@@ -14,10 +14,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
-    citekey: Kosiborod2023STEPHFPEF
-  - file: raw/2023-ESC-Anker_HFpEF_phenotyping.pdf
-    citekey: Anker2023HFpEFPhenotype
+  - citekey: Kosiborod2023STEPHFPEF
+    doi: 10.1056/NEJMoa2306963
+  - citekey: Anker2023HFpEFPhenotype
+    doi: 10.1002/ejhf.2894
 ---
 
 # Obese-Metabolic HFpEF Phenotype

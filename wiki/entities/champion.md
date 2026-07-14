@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2011-LANCET-Abraham-CHAMPION_study_design.pdf
-    citekey: abraham2011champion
-  - file: raw/2014-CircHeartFail-Adamson-CHAMPION_study_wireless_pulmonary_ap_hfpef.pdf
-    citekey: adamson2014champion
+  - citekey: abraham2011champion
+    doi: 10.1016/S0140-6736(10)61800-1
+  - citekey: adamson2014champion
+    doi: 10.1161/CIRCHEARTFAILURE.114.001567
 ---
 
 # CHAMPION Trial

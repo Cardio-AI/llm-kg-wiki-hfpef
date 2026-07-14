@@ -15,15 +15,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2014-NEJM-McMurray-PARADIGM-HF_study.pdf
-  citekey: McMurray2014PARADIGM
+- citekey: McMurray2014PARADIGM
+  doi: 10.1056/NEJMoa1409077
 page-type: source-summary-page
 ---
 # PARADIGM-HF
 
 > Sacubitril/valsartan (LCZ696) superior to enalapril in HFrEF: primary composite HR 0.80 (0.73–0.87) P<0.001; CV death HR 0.80 (0.71–0.89); all-cause death HR 0.84 (0.76–0.93); KCCQ improved +1.64 pts (P=0.001); paradoxically lower creatinine and hyperkalemia vs. enalapril; trial stopped early for overwhelming benefit; established ARNI as HFrEF pillar and directly motivated PARAGON-HF in HFpEF.
 
-**File:** `raw/2014-NEJM-McMurray-PARADIGM-HF_study.pdf` · **Authors:** McMurray JJV, Packer M, Desai AS et al. · **Year:** 2014 · **Journal:** NEJM 371(11):993–1004  
+**Full citation:**
+McMurray JJV, Packer M, Desai AS, et al.; PARADIGM-HF Investigators and Committees. Angiotensin–Neprilysin Inhibition versus Enalapril in Heart Failure. *N Engl J Med.* 2014;371(11):993–1004. doi:[10.1056/NEJMoa1409077](https://doi.org/10.1056/NEJMoa1409077)
 **Study type:** RCT (active-comparator) · **N:** 8,442 randomised (LCZ696 4,187; enalapril 4,212) · **Population:** HFrEF, LVEF ≤40% (amended ≤35%), NYHA II–IV, elevated NPs  
 **Follow-up:** Median 27 months · **Intervention:** LCZ696 (sacubitril/valsartan) 200 mg BID vs. enalapril 10 mg BID  
 **Primary outcome:** CV death or first HF hospitalisation  

@@ -13,8 +13,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-19
 sources:
-  - file: raw/2025-HFR-Mirzai-Review_physical_activity_hfpef.pdf
-    citekey: Zeid2025MyoMobile
+  - citekey: Zeid2025MyoMobile
+    doi: 10.1093/ehjdh/ztae096
 ---
 # MyoMobile
 

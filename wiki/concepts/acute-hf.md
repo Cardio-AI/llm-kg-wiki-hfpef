@@ -12,10 +12,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2019-AJCariol-Boralkar-lymphocyte_NLR_hospitalization_hfpef.pdf
-    citekey: Boralkar2019NLR
-  - file: raw/2023-JACCHeartFail-Tamaki-NLR_PLR_HFpEF.pdf
-    citekey: Tamaki2023NLRPLR
+  - citekey: Boralkar2019NLR
+    doi: 10.1016/j.amjcard.2019.10.020
+  - citekey: Tamaki2023NLRPLR
+    doi: 10.1161/JAHA.122.026326
 ---
 
 # Acute Heart Failure in HFpEF

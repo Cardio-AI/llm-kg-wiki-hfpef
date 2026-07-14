@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2024-IJCard-Timóteo-pericardium_epicardial_adipose_tissue_hf.pdf
-    citekey: Timoteo2024EAT
-  - file: raw/2023-CirculationAHA-percardial_fat_hfpef.pdf
-    citekey: Zamani2023PericardialFat
+  - citekey: Timoteo2024EAT
+    doi: 10.1016/j.ijcard.2024.132303
+  - citekey: Zamani2023PericardialFat
+    doi: 10.1161/CIRCULATIONAHA.123.067117
 ---
 
 # Epicardial Adipose Tissue in HFpEF

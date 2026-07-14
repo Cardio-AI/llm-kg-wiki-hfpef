@@ -1,6 +1,54 @@
 log page
 # Change Log
 
+## 2026-05-21 (session — query pages, continued 4)
+
+### Query page created
+- `wiki/queries/sex-differences-hfpef-risk.md` — answered: "What parameters and risk factors cause the higher rate of HFpEF development in women?" (Evidence Quality 4/5; 7 mechanisms: cardiac structure, vascular aging, menopause/estrogen, amplified comorbidity risk, obstetric history, immune biology, exercise haemodynamics)
+
+---
+
+## 2026-05-21 (session — query pages, continued 3)
+
+### Query page created
+- `wiki/queries/obesity-np-interpretation.md` — answered: "How does obesity affect natriuretic peptide interpretation in HFpEF?" (Evidence Quality 4/5; two mechanisms: adipocyte NPR-C/neprilysin clearance + Thr-71 glycosylation; 20–30% false-negative rate; obesity paradox inversion; H₂FPEF BMI offset; tNT-proBNP research assay)
+
+---
+
+## 2026-05-21 (session — query pages, continued 2)
+
+### Query page created
+- `wiki/queries/exercise-unmasked-hfpef-diagnosis.md` — answered: "Exertional dyspnea, normal resting echo — additional evidence-supported diagnostic strategies?" (Evidence Quality 4/5; exercise PASP AUC 0.99, PCWP/CO slope gold standard, HFA-PEFF Step F1 escalation, CPET, saline/PLR, aetiological workup)
+
+---
+
+## 2026-05-21 (session — query pages, continued)
+
+### Query page created
+- `wiki/queries/spironolactone-hfpef.md` — answered: "Is spironolactone beneficial in HFpEF?" (Evidence Quality 3/5; TOPCAT neutral primary, Americas subgroup, Ferreira 2023 IPD structural benefit, FINEARTS-HF class context, SPIRRIT pending)
+
+---
+
+## 2026-05-21 (session — query pages)
+
+### Query pages created
+- `wiki/queries/sglt2-inhibitors-hfpef-rcts.md` — answered: "Which randomized trials demonstrated benefit of SGLT2 inhibitors in HFpEF?" (Evidence Quality 5/5)
+- `wiki/queries/echo-parameters-diastolic-dysfunction.md` — answered: "What echocardiographic parameters are most commonly used to assess diastolic dysfunction?" (Evidence Quality 5/5)
+- `wiki/queries/biomarkers-ntprobnp-tnt-dncb.md` — answered: NT-proBNP and hs-TnT diagnostic meaning; DnCB flagged as non-existent HF biomarker (trick question; alias resolution correctly intercepted) (Evidence Quality 4/5)
+
+---
+
+## 2026-05-20 (session — question-answering format + query page)
+
+### Query page created
+- `wiki/queries/sglt2-inhibitors-obese-hfpef.md` — answered: "Do SGLT2 inhibitors benefit obese patients with HFpEF?" (Evidence Quality 4/5)
+- `wiki/queries/index.md` — created queries index
+
+### Tooling fix
+- Saved feedback memory: always apply `_tasks/question-answering.md` format (inline `[[citekey]]`, `## Evidence Quality`, `## References`) for all future answers
+
+---
+
 ## 2026-05-20 (session 32f — citation correctness fix)
 
 ### Entity/concept pages removed from `(source: [[...]])` citations

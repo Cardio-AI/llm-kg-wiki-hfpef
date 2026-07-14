@@ -16,12 +16,12 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-15
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2024-ESC-Ipek-CMR_characterization_HFpEF.pdf
-  citekey: ipek2024cmr
-- file: raw/2024-IJCI-Lange-CMR_phenotyping_HF.pdf
-  citekey: lange2024cmr
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: ipek2024cmr
+  doi: 10.1093/ehjci/jea224
+- citekey: lange2024cmr
+  doi: 10.1007/s10554-024-03145-4
 page-type: entity-page
 ---
 # Cardiac MRI
@@ -70,11 +70,11 @@ CMR is primarily used in HFpEF as a **second-line or problem-solving modality**:
 - Cannot assess diastolic function in real-time or during exercise (no stress CMR equivalent for filling pressures)
 - Gadolinium contraindicated in severe CKD (eGFR <30)
 
-(source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+(source: McDonagh2021ESC)
 
 ## Evidence
 
-CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for aetiological characterisation, particularly for suspected cardiac amyloidosis or HCM in the differential diagnosis of [[hfpef]] with very high LVEF (>65–70%). (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for aetiological characterisation, particularly for suspected cardiac amyloidosis or HCM in the differential diagnosis of [[hfpef]] with very high LVEF (>65–70%). (source: McDonagh2021ESC)
 
 **HFpEF-specific CMR markers (Ipek 2024 comprehensive review):**
 - **Feature-tracking CMR (FT-CMR) strain:** LA reservoir strain and LV GLS detect functional impairment before LVEF decline; more sensitive than LVEF for HFpEF
@@ -100,7 +100,7 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 
 ## Status
 
-**ESC 2021:** Recommended when echocardiography is suboptimal or when specific tissue diagnosis is required. Not recommended as routine first-line imaging in HFpEF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+**ESC 2021:** Recommended when echocardiography is suboptimal or when specific tissue diagnosis is required. Not recommended as routine first-line imaging in HFpEF. (source: McDonagh2021ESC)
 
 **Research role (Ipek 2024):** CMR has the greatest HFpEF phenotyping potential of any imaging modality — multiparametric assessment of function (FT-CMR), tissue composition (T1/T2/LGE/ECV), metabolism (spectroscopy), and hemodynamics (perfusion, exercise). Adoption limited by scanner access, cost, and pacemaker/ICD contraindications in the elderly HFpEF population.
 
@@ -113,3 +113,8 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 - CMR is the reference standard for LVEF, but echocardiography remains the clinical standard due to availability — this creates systematic LVEF measurement differences between research and clinical settings; CMR availability in the elderly HFpEF population is further reduced by pacemaker/ICD contraindications. (source: [[mcdonagh2021esc]]; [[ipek2024cmr]])
 
 See [[contradictions]].
+
+## References
+- Ipek R, Holland J, Cramer M, Rider O. CMR to characterize myocardial structure and function in heart failure with preserved left ventricular ejection fraction. *Eur Heart J Cardiovasc Imaging.* 2024;25(11):1491–1504. doi:[10.1093/ehjci/jea224](https://doi.org/10.1093/ehjci/jea224)
+- Lange T, Backhaus SJ, Schulz A, Hashem D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A. CMR-based cardiac phenotyping in different forms of heart failure. *Int J Cardiovasc Imaging.* 2024;40(8):1585–1596. doi:[10.1007/s10554-024-03145-4](https://doi.org/10.1007/s10554-024-03145-4)
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

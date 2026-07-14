@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2026-RespPhysiolNeuro-Babb-ventilatory_limitation_hfpef_no_room_to_breath.pdf
-    citekey: Babb2026VentilatoryLimit
-  - file: raw/2025-JACC-Leahy-heart-lung_interactions_hfpef.pdf
-    citekey: Leahy2025HeartLung
+  - citekey: Babb2026VentilatoryLimit
+    doi: 10.1016/j.resp.2025.104546
+  - citekey: Leahy2025HeartLung
+    doi: 10.1016/j.jchf.2025.102523
 ---
 
 # Ventilatory Limitation to Exercise in Obese HFpEF

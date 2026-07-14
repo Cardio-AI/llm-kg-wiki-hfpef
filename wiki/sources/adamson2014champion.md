@@ -14,14 +14,15 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2014-CircHeartFail-Adamson-CHAMPION_study_wireless_pulmonary_ap_hfpef.pdf
-    citekey: adamson2014champion
+  - citekey: adamson2014champion
+    doi: 10.1161/CIRCHEARTFAILURE.114.001567
 ---
 # CHAMPION HFpEF Subgroup Analysis (Adamson 2014)
 
 > In the 119 CHAMPION patients with HFpEF (LVEF ≥40%), PA pressure-guided haemodynamic management reduced HF hospitalisations comparably to the overall trial — confirming device benefit specifically in HFpEF and providing the first prospective evidence for any haemodynamic-guided intervention reducing hospitalisation in HFpEF.
 
-**File:** `raw/2014-CircHeartFail-Adamson-CHAMPION_study_wireless_pulmonary_ap_hfpef.pdf` · **Authors:** Adamson PB, Abraham WT, Bourge RC, et al. · **Year:** 2014 · **Journal:** Circ Heart Fail 7(6):935–944
+**Full citation:**
+Adamson PB, Abraham WT, Bourge RC, Costanzo MR, Hasan A, Yadav C, Henderson J, Cowart P, Stevenson LW, Bauman JG. Wireless pulmonary artery pressure monitoring guides management to reduce decompensation in heart failure with preserved ejection fraction. *Circ Heart Fail.* 2014;7(6):935–944. doi:[10.1161/CIRCHEARTFAILURE.114.001567](https://doi.org/10.1161/CIRCHEARTFAILURE.114.001567)
 
 ---
 

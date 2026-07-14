@@ -18,15 +18,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf
-  citekey: McMurray2024DETERMINE
+- citekey: McMurray2024DETERMINE
+  doi: 10.1161/CIRCULATIONAHA.123.065061
 page-type: source-summary-page
 ---
 # DETERMINE
 
 > Dapagliflozin improved KCCQ total symptom score in HFrEF (P=0.022) but did not improve KCCQ or 6-minute walk distance in HFpEF; the discordance between symptom benefit and functional capacity (6MWD) across both arms challenges the validity of 6MWD as a surrogate for HF treatment response.
 
-**File:** `raw/2023-CirculationsAHA-McMurry-DETERMINE_study.pdf` · **Authors:** McMurray JJV et al. · **Year:** 2024 · **Journal:** Circulation 149:825–838  
+**Full citation:**
+McMurray JJV, Docherty KF, de Boer RA, et al. Effect of Dapagliflozin Versus Placebo on Symptoms and 6-Minute Walk Distance in Patients With Heart Failure: The DETERMINE Randomized Clinical Trials. *Circulation.* 2024;149(11):825–838. doi:[10.1161/CIRCULATIONAHA.123.065061](https://doi.org/10.1161/CIRCULATIONAHA.123.065061)
 **DOI:** 10.1161/CIRCULATIONAHA.123.065061  
 **Study type:** Two parallel RCTs (phase III) · **Total N:** 817 (DETERMINE-Reduced: 313; DETERMINE-Preserved: 504)  
 **Follow-up:** 16 weeks · **Intervention:** Dapagliflozin 10 mg/day vs. placebo  

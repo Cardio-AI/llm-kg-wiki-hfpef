@@ -16,15 +16,16 @@ tags:
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
-- file: raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf
-  citekey: patel2024reducelaphf
+- citekey: patel2024reducelaphf
+  doi: 10.1001/jamacardio.2024.0520
 page-type: source-summary-page
 ---
 # REDUCE LAP-HF II: Atrial Shunt and Cardiac Structural Remodelling
 
 > Post-hoc echocardiographic analysis of REDUCE LAP-HF II (n=621, 24 months): atrial shunting reduced LV end-diastolic volume (−5.65 mL, P<0.001) and LA minimal volume (−2.8 mL, P=0.01), improved LV systolic function (s' +0.69 cm/s, P<0.001) and LA emptying fraction (+1.88 pp, P=0.02), with no RV systolic dysfunction overall; responders (PVR <1.74 WU, n=313) showed more favourable structural remodelling and better RV accommodation of shunt flow.
 
-**File:** `raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf` · **Authors:** Patel RB et al. · **Year:** 2024 · **Journal:** JAMA Cardiology 9(6):507–522, DOI: 10.1001/jamacardio.2024.0520
+**Full citation:**
+Patel RB, Silvestry FE, Komtebedde J, Solomon SD, Hasenfuß G, Litwin SE, Borlaug BA, Price MJ, Kawash R, Hummel SL, Cutlip DE, Leon MB, van Veldhuisen DJ, Rieth AJ, McKenzie S, Bugger H, Mazurek JA, Shah SJ. Atrial Shunt Device Effects on Cardiac Structure and Function in Heart Failure With Preserved Ejection Fraction: The REDUCE LAP-HF II Randomized Clinical Trial. *JAMA Cardiol.* 2024;9(6):507–522. doi:[10.1001/jamacardio.2024.0520](https://doi.org/10.1001/jamacardio.2024.0520)
 
 ---
 

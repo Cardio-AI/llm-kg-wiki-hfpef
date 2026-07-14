@@ -20,15 +20,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2014-CirculationAHA-Shah-Phenomapping.pdf
-  citekey: Shah2015Phenomapping
+- citekey: Shah2015Phenomapping
+  doi: 10.1161/CIRCULATIONAHA.114.010637
 page-type: source-summary-page
 ---
 # Shah et al. 2015 — HFpEF Phenomapping
 
 > Unsupervised ML phenomapping of 397 HFpEF patients identified 3 mutually exclusive phenogroups with distinct clinical profiles and outcomes; phenogroup 3 (oldest, cardiorenal, RV dysfunction) had HR 4.2 (95% CI 2.0–9.1) for the combined outcome of CV hospitalisation or death (P<0.001) and HR 4.8 (95% CI 2.4–9.6) for HF hospitalisation alone vs. phenogroup 1; prognostic information validated prospectively in 107 independent patients.
 
-**File:** `raw/2014-CirculationAHA-Shah-Phenomapping.pdf` · **Authors:** Sanjiv J. Shah, Daniel H. Katz, Senthil Selvaraj, Michael A. Burke, Clyde W. Yancy, Mihai Gheorghiade, Robert O. Bonow, Chiang-Ching Huang, Rahul C. Deo · **Year:** 2015 · **Journal:** *Circulation* 2015;131:269–279 · **DOI:** 10.1161/CIRCULATIONAHA.114.010637  
+**Full citation:**
+Shah SJ, Katz DH, Selvaraj S, Burke MA, Yancy CW, Gheorghiade M, Bonow RO, Huang CC, Deo RC. Phenomapping for Novel Classification of Heart Failure With Preserved Ejection Fraction. *Circulation.* 2015;131(3):269–279. doi:[10.1161/CIRCULATIONAHA.114.010637](https://doi.org/10.1161/CIRCULATIONAHA.114.010637)
 **Study type:** Prospective observational cohort + unsupervised ML analysis · **N:** 397 derivation; 107 validation · **Population:** HFpEF (LVEF ≥50%, grade ≥2 diastolic dysfunction or elevated BNP >100 pg/mL or invasive elevated PCWP); enrolled post-hospitalisation from Northwestern HFpEF outpatient programme · **Follow-up:** Continuous (death/Social Security Death Index query; HF hospitalisations tracked every 6 months) · **NCT:** NCT01030991 · **Period:** March 2008 – May 2011 (derivation); January 2012 – February 2014 (validation)
 
 ---

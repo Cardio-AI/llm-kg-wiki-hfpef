@@ -15,15 +15,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf
-  citekey: Pieske2019HFAPEFF
+- citekey: Pieske2019HFAPEFF
+  doi: 10.1093/eurheartj/ehz641
 page-type: source-summary-page
 ---
 # HFA-PEFF Diagnostic Algorithm
 
 > The HFA-PEFF algorithm provides a stepwise, four-stage diagnostic approach to HFpEF — P (pre-test), E (echo + NP score), F1 (functional testing if uncertain), F2 (final aetiology) — incorporating a composite point-based score that classifies patients as definite HFpEF (≥5 points), uncertain (2–4), or unlikely (≤1).
 
-**File:** `raw/2019-eurheartj-pieske-HFA-PEFF_diagnostic_algorithm.pdf` · **Authors:** Pieske B et al.; HFA/ESC Writing Committee · **Year:** 2019 · **Journal:** Eur Heart J 40(40):3297–3317  
+**Full citation:**
+Pieske B, Tschöpe C, de Boer RA, et al.; Heart Failure Association (HFA) of the ESC. How to diagnose heart failure with preserved ejection fraction: the HFA-PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC). *Eur Heart J.* 2019;40(40):3297–3317. doi:[10.1093/eurheartj/ehz641](https://doi.org/10.1093/eurheartj/ehz641)
 **DOI:** 10.1093/eurheartj/ehz641
 
 ---

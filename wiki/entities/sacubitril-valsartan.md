@@ -15,10 +15,10 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-04
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-  citekey: Heidenreich2022AHA
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: Heidenreich2022AHA
+  doi: 10.1161/CIR.0000000000001063
 page-type: entity-page
 ---
 # Sacubitril/Valsartan
@@ -41,7 +41,7 @@ page-type: entity-page
 
 ## Description
 
-Sacubitril/valsartan combines an ARB (valsartan) with a neprilysin inhibitor (sacubitril-prodrug LBQ657). Neprilysin degrades [[natriuretic-peptides]], bradykinin, and other vasoactive peptides; its inhibition augments NP levels, promoting natriuresis and vasodilation. The combined neurohormonal blockade is more potent than ACE-I alone in [[hfref]]. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+Sacubitril/valsartan combines an ARB (valsartan) with a neprilysin inhibitor (sacubitril-prodrug LBQ657). Neprilysin degrades [[natriuretic-peptides]], bradykinin, and other vasoactive peptides; its inhibition augments NP levels, promoting natriuresis and vasodilation. The combined neurohormonal blockade is more potent than ACE-I alone in [[hfref]]. (source: McDonagh2021ESC)
 
 **Practical dosing:**
 - Starting dose: 49/51 mg b.i.d. (24/26 mg if prior hypotension history)
@@ -51,14 +51,14 @@ Sacubitril/valsartan combines an ARB (valsartan) with a neprilysin inhibitor (sa
 
 ## Role in HFpEF
 
-PARAGON-HF tested sacubitril/valsartan in [[hfpef]] (LVEF ≥45%) and missed its primary composite endpoint overall. A significant EF-by-treatment interaction showed benefit concentrated in patients with **LVEF below the trial median (~57%)**. A combined PARADIGM-HF + PARAGON-HF meta-analysis showed reduction in CV death and HF hospitalization in patients with LVEF **below normal**. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+PARAGON-HF tested sacubitril/valsartan in [[hfpef]] (LVEF ≥45%) and missed its primary composite endpoint overall. A significant EF-by-treatment interaction showed benefit concentrated in patients with **LVEF below the trial median (~57%)**. A combined PARADIGM-HF + PARAGON-HF meta-analysis showed reduction in CV death and HF hospitalization in patients with LVEF **below normal**. (source: McDonagh2021ESC)
 
 This places sacubitril/valsartan in the grey zone between HFmrEF and lower-EF HFpEF — potentially the responsive zone for neurohormonal blockade. See [[hfpef-treatment-gap]].
 
 ## Evidence
 
-- **PARADIGM-HF** ([[hfref]], LVEF ≤40%): Superiority over enalapril in reducing HF hospitalizations, CV mortality, and all-cause mortality. Additional benefits: improved QOL, reduced diabetes incidence, slower eGFR decline, reduced hyperkalaemia. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
-- **[[paragon-hf]]** ([[hfpef]], LVEF ≥45%): Missed primary endpoint overall; significant subgroup signal in LVEF <57%; FDA endorsed for LVEF "less than normal." (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+- **PARADIGM-HF** ([[hfref]], LVEF ≤40%): Superiority over enalapril in reducing HF hospitalizations, CV mortality, and all-cause mortality. Additional benefits: improved QOL, reduced diabetes incidence, slower eGFR decline, reduced hyperkalaemia. (source: McDonagh2021ESC)
+- **[[paragon-hf]]** ([[hfpef]], LVEF ≥45%): Missed primary endpoint overall; significant subgroup signal in LVEF <57%; FDA endorsed for LVEF "less than normal." (source: McDonagh2021ESC)
 - **[[paraglide-hf]]** (LVEF >40%, post-worsening HF event): NT-proBNP time-averaged ratio 0.85 (95% CI 0.73–0.999) — statistically significant overall reduction. Benefit driven by LVEF ≤60% subgroup; minimal to no benefit in LVEF >60%. Primary safety concern: symptomatic hypotension (SH) 24.0% Sac/Val vs. 15.5% Val (P=0.020), particularly in women (OR 2.29; P=0.012) and LVEF >60% patients. Sex-consistency analysis showed no sex-treatment interaction (P=0.908) for NT-proBNP benefit. In-hospital vs. out-of-hospital initiation had identical effect (P-interaction=0.99). Diverse enrollment: 52% women, 22% Black. (source: mentz2023paraglide; fudim2024paraglide; nouhravesh2025paraglide; rambarat2025paraglide)
 
 ## Status
@@ -69,11 +69,11 @@ This places sacubitril/valsartan in the grey zone between HFmrEF and lower-EF HF
 | AHA 2022 | Class I, Level A | Class 2b, B-R |
 | FDA | Approved | LVEF "less than normal" (labelling) |
 
-**ESC 2021 (HFrEF):** Replacement for ACE-I in symptomatic HFrEF patients already on ACE-I + beta-blocker + MRA — **Class I, Level B.** No recommendation for HFpEF. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+**ESC 2021 (HFrEF):** Replacement for ACE-I in symptomatic HFrEF patients already on ACE-I + beta-blocker + MRA — **Class I, Level B.** No recommendation for HFpEF. (source: McDonagh2021ESC)
 
-**AHA 2022 (HFpEF):** **Class 2b, B-R** — sacubitril/valsartan may be considered for HFpEF to decrease hospitalizations; evidence based on PARAGON-HF LVEF <57% subgroup signal and sex-stratified analyses (women showed more benefit). (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+**AHA 2022 (HFpEF):** **Class 2b, B-R** — sacubitril/valsartan may be considered for HFpEF to decrease hospitalizations; evidence based on PARAGON-HF LVEF <57% subgroup signal and sex-stratified analyses (women showed more benefit). (source: Heidenreich2022AHA)
 
-**FDA (HFpEF/HFmrEF):** Endorsed for patients with chronic HF and LVEF "less than normal" — a deliberately imprecise label covering [[hfmref]] and lower-EF [[hfpef]]. No equivalent ESC recommendation. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+**FDA (HFpEF/HFmrEF):** Endorsed for patients with chronic HF and LVEF "less than normal" — a deliberately imprecise label covering [[hfmref]] and lower-EF [[hfpef]]. No equivalent ESC recommendation. (source: McDonagh2021ESC)
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[natriuretic-peptides]], [[hf-phenotype-classification]], [[guideline-comparison]]
@@ -84,3 +84,11 @@ This places sacubitril/valsartan in the grey zone between HFmrEF and lower-EF HF
 - PARAGON-HF missed its primary endpoint overall — FDA label is based on a subgroup/meta-analysis signal, not a positive primary trial in HFpEF. Unclear whether the benefit is real or driven primarily by the HFmrEF subgroup within the trial.
 
 See [[contradictions]].
+
+## References
+- Fudim M, Cyr DD, Ward JH, et al. Association of Sacubitril/Valsartan vs Valsartan with Blood Pressure Changes and Symptomatic Hypotension: The PARAGLIDE-HF Trial. *J Card Fail.* 2024;30(12):1568–1577. DOI: not yet verified [needs source]
+- Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
+- Mentz RJ, Ward JH, Hernandez AF, et al. Rationale and Design of the PARAGLIDE-HF Trial: Prospective Comparison of ARNI with ARB Given following Stabilization in Decompensated HFpEF. *J Card Fail.* 2023;29(6):922–930. DOI: not yet verified [needs source]
+- Nouhravesh N, et al. In-Hospital Versus Out-of-Hospital Initiation of Sacubitril/Valsartan in Patients With HFpEF and Worsening Heart Failure: Insights From PARAGLIDE-HF. *J Am Heart Assoc.* 2025;14:e037899. DOI: not yet verified [needs source]
+- Rambarat P, Erickson T, Cyr D, Ward J, Hernandez AD, Morrow DA, Starling RC, Velazquez E, Zieroth S, Williamson K, Solomon S, Mentz RJ. Effects of angiotensin-neprilysin inhibition in women vs men: Insights from PARAGLIDE-HF. *Am Heart J.* 2025;288:41–51. doi:[10.1016/j.ahj.2025.03.017](https://doi.org/10.1016/j.ahj.2025.03.017)

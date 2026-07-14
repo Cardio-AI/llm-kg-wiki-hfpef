@@ -19,15 +19,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf
-  citekey: Reddy2017ArtStiff
+- citekey: Reddy2017ArtStiff
+  doi: 10.1016/j.jacc.2017.05.029
 page-type: source-summary-page
 ---
 # Reddy 2017 — Arterial Stiffening With Exercise in HFpEF (Reddy/Borlaug)
 
 > In 98 invasively characterized HFpEF subjects vs. 22 hypertensive controls, arterial stiffness indices were similar at rest but diverged dramatically with exercise — HFpEF subjects had higher arterial elastance, lower total arterial compliance, and increased wave reflections during exercise, directly correlated with higher filling pressures and lower CO; inorganic sodium nitrite partially reversed exertional arterial stiffening with hemodynamic benefit.
 
-**File:** `raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf`  
+**Full citation:**
+Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2017;70(2):136–148. doi:[10.1016/j.jacc.2017.05.029](https://doi.org/10.1016/j.jacc.2017.05.029)
 **Authors:** Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA  
 **Year:** 2017 · **Journal:** J Am Coll Cardiol 2017;70(2):136–148 · **DOI:** 10.1016/j.jacc.2017.05.029  
 **NCTs:** NCT01418248 (EXEC); NCT01932606; NCT02262078  

@@ -17,15 +17,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-04
 sources:
-- file: raw/2015-NEJM-Redfield-NEAT-HFpEF_study.pdf
-  citekey: Redfield2015NEAT
+- citekey: Redfield2015NEAT
+  doi: 10.1056/NEJMoa1510774
 page-type: source-summary-page
 ---
 # NEAT-HFpEF
 
 > Isosorbide mononitrate did not improve and actually reduced daily physical activity in HFpEF, with accelerometer units decreasing progressively with higher doses; the first trial to show that nitrates may worsen real-world functional status rather than improve it.
 
-**File:** `raw/2015-NEJM-Redfield-NEAT-HFpEF_study.pdf` · **Authors:** Redfield MM et al. · **Year:** 2015 · **Journal:** NEJM 373:2314–2324  
+**Full citation:**
+Redfield MM, Anstrom KJ, Levine JA, et al.; NHLBI Heart Failure Clinical Research Network. Isosorbide Mononitrate in Heart Failure with Preserved Ejection Fraction. *N Engl J Med.* 2015;373(24):2314–2324. doi:[10.1056/NEJMoa1510774](https://doi.org/10.1056/NEJMoa1510774)
 **Study type:** RCT (crossover) · **N:** 110 · **Population:** HFpEF, LVEF ≥50%, age ≥50, exertional limitation as primary symptom  
 **Follow-up:** 6 weeks per crossover period · **Intervention:** Isosorbide mononitrate 30→60→120 mg once daily vs. placebo  
 **Primary outcome:** Average daily accelerometer units at the 120 mg dose  

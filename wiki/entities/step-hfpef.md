@@ -15,10 +15,10 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-19
 sources:
-- file: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf
-  citekey: Kosiborod2023STEPHFPEF
-- file: raw/2024-JACC-Petrie-semaglutide_NT-proBNP_obesity_hfpef.pdf
-  citekey: petrie2024stephfpef
+- citekey: Kosiborod2023STEPHFPEF
+  doi: 10.1056/NEJMoa2306963
+- citekey: petrie2024stephfpef
+  doi: 10.1016/j.jacc.2024.04.022
 page-type: entity-page
 ---
 # STEP-HFpEF
@@ -74,7 +74,7 @@ The lean muscle mass concern: semaglutide reduces lean mass as well as fat mass.
 
 **Exploratory:** HF events 1 sema vs. 12 placebo; HR 0.08 (0.00–0.42) — not powered.
 
-Safety: SAEs 13.3% vs. 26.7%; cardiac disorders 7 (2.7%) vs. 30 (11.3%). (source: raw/2023-NEJM-Kosiborod-STEP_HF_study.pdf)
+Safety: SAEs 13.3% vs. 26.7%; cardiac disorders 7 (2.7%) vs. 30 (11.3%). (source: Kosiborod2023STEPHFPEF)
 
 **NT-proBNP analysis — STEP-HFpEF Program ([[petrie2024stephfpef]]):**
 - Pooled STEP-HFpEF (N=529) + STEP-HFpEF DM (N=616); total N=1,145; prespecified secondary analysis
@@ -85,7 +85,7 @@ Safety: SAEs 13.3% vs. 26.7%; cardiac disorders 7 (2.7%) vs. 30 (11.3%). (source
 - Win ratio by tertile: T1 1.45; T2 1.42; T3 2.17 — P interaction=0.04
 - Body weight reduction uniform across tertiles (P interaction=0.21); CRP reduction consistent
 - **Interpretation:** Direct HF disease-modifying mechanism operative beyond mechanical unloading; higher neurohormonal burden (elevated NT-proBNP) predicts greater symptomatic benefit
-(source: raw/2024-JACC-Petrie-semaglutide_NT-proBNP_obesity_hfpef.pdf)
+(source: petrie2024stephfpef)
 
 ## Status
 
@@ -100,3 +100,7 @@ Safety: SAEs 13.3% vs. 26.7%; cardiac disorders 7 (2.7%) vs. 30 (11.3%). (source
 ## Contradictions
 
 Symptomatic benefit (KCCQ +7.8, 6MWD +21.5m) without hard outcome evidence parallels the CAPACITY-HFpEF pattern (negative KCCQ) and inverts it: symptomatic improvement without mortality data leaves the clinical significance ambiguous. The lean mass loss concern creates a biological tension between weight loss as mechanism vs. sarcopenia as risk. See [[contradictions]].
+
+## References
+- Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
+- Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Perna E, Sharma K, Lelonek M, Kosiborod MN; STEP-HFpEF Trial Committees and Investigators. Semaglutide and NT-proBNP in obesity-related heart failure with preserved ejection fraction: insights from the STEP-HFpEF program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)

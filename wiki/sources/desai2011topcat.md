@@ -16,15 +16,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-04
 sources:
-- file: raw/2011-AHA-Desai-TOPCAT_study.pdf
-  citekey: Desai2011TOPCAT
+- citekey: Desai2011TOPCAT
+  doi: 10.1016/j.ahj.2011.09.007
 page-type: source-summary-page
 ---
 # TOPCAT Design Paper (Desai 2011)
 
 > Design and baseline characteristics paper for TOPCAT — a multi-national RCT of spironolactone vs. placebo in HFpEF with a dual-pathway enrollment strategy (hospitalization-based OR natriuretic peptide-based) that later proved critical to understanding the trial's contested results.
 
-**File:** `raw/2011-AHA-Desai-TOPCAT_study.pdf` · **Authors:** Desai AS et al. · **Year:** 2011 · **Journal:** American Heart Journal  
+**Full citation:**
+Desai AS, Lewis EF, Li R, et al. Rationale and design of the treatment of preserved cardiac function heart failure with an aldosterone antagonist trial: a randomized, controlled study of spironolactone in patients with symptomatic heart failure and preserved ejection fraction. *Am Heart J.* 2011;162(6):966–972.e10. doi:[10.1016/j.ahj.2011.09.007](https://doi.org/10.1016/j.ahj.2011.09.007)
 **Study type:** Design/methods paper · **N:** 3,445 (planned) · **Population:** HF with LVEF ≥45%, age ≥50  
 **Follow-up:** Minimum 2 years (mean ~3.3 years) · **Intervention:** Spironolactone vs. placebo (titrated 15→30→45 mg/day)  
 **Primary outcome:** Composite of CV death + resuscitated cardiac arrest + HF hospitalization
@@ -69,7 +70,7 @@ Patients qualified via **one of two routes** — this distinction later became c
 | **Hospitalization-based** | ≥1 HF hospitalization in the 12 months before screening |
 | **NP-based (no hospitalization)** | BNP ≥100 pg/mL OR NT-proBNP ≥360 pg/mL within the prior 60 days |
 
-Both pathways required LVEF ≥45% and signs/symptoms of HF. The NP pathway was intended to capture outpatient HFpEF without a recent hospitalisation. (source: 2011-AHA-Desai-TOPCAT_study.pdf)
+Both pathways required LVEF ≥45% and signs/symptoms of HF. The NP pathway was intended to capture outpatient HFpEF without a recent hospitalisation. (source: Desai2011TOPCAT)
 
 ### Sites and Countries
 

@@ -16,15 +16,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2019-NEJM-McMurray-DAPA-HF_study.pdf
-  citekey: McMurray2019DAPAHF
+- citekey: McMurray2019DAPAHF
+  doi: 10.1056/NEJMoa1911303
 page-type: source-summary-page
 ---
 # DAPA-HF
 
 > Dapagliflozin 10 mg/day reduced primary composite of worsening HF or CV death by 26% (HR 0.74 [0.65–0.85] P<0.001) in HFrEF regardless of diabetes status (DM HR 0.75; non-DM HR 0.73); KCCQ win ratio 1.18 P<0.001; renal AEs fewer on dapagliflozin (6.5% vs 7.2%); creatinine rise only +0.02 mg/dL; NT-proBNP −301 pg/mL P<0.001; hematocrit +2.41% P<0.001; NNT=21; established SGLT2 inhibitors as fourth pillar of HFrEF therapy beyond glucose lowering; directly motivated DELIVER and EMPEROR-Preserved in HFpEF.
 
-**File:** `raw/2019-NEJM-McMurray-DAPA-HF_study.pdf` · **Authors:** McMurray JJV, Solomon SD, Inzucchi SE et al. · **Year:** 2019 · **Journal:** NEJM 381(21):1995–2008  
+**Full citation:**
+McMurray JJV, Solomon SD, Inzucchi SE, et al.; DAPA-HF Trial Committees and Investigators. Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction. *N Engl J Med.* 2019;381(21):1995–2008. doi:[10.1056/NEJMoa1911303](https://doi.org/10.1056/NEJMoa1911303)
 **Study type:** RCT (placebo-controlled) · **N:** 4,744 randomised (dapagliflozin 2,373; placebo 2,371) · **Population:** HFrEF, LVEF ≤40%, NYHA II–IV, eGFR ≥25, on optimised background therapy  
 **Follow-up:** Median 18.2 months · **Intervention:** Dapagliflozin 10 mg once daily vs. placebo  
 **Primary outcome:** Worsening HF (hospitalisation or urgent IV therapy visit) or CV death  

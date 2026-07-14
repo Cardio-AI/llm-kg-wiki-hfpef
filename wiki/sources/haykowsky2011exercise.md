@@ -17,15 +17,16 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf
-  citekey: Haykowsky2011Exercise
+- citekey: Haykowsky2011Exercise
+  doi: 10.1016/j.jacc.2011.02.055
 page-type: source-summary-page
 ---
 # Haykowsky 2011 — Determinants of Exercise Intolerance in HFpEF
 
 > In 48 elderly HFpEF patients vs. 25 age-matched healthy controls, peak VO₂ was 30% lower in HFpEF (14.3 vs. 20.4 ml/kg/min); both reduced peak CO and reduced A-VO₂ Diff contributed; critically, the **change in A-VO₂ Diff from rest to peak exercise was the strongest independent predictor of peak VO₂** — implicating peripheral noncardiac factors as primary determinants of exercise intolerance.
 
-**File:** `raw/2011-ACCF-Haykowsky-exercise_intolerance.pdf`  
+**Full citation:**
+Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of Exercise Intolerance in Elderly Heart Failure Patients With Preserved Ejection Fraction. *J Am Coll Cardiol.* 2011;58(3):265–274. doi:[10.1016/j.jacc.2011.02.055](https://doi.org/10.1016/j.jacc.2011.02.055)
 **Authors:** Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW  
 **Year:** 2011 · **Journal:** J Am Coll Cardiol 2011;58(3):265–274 · **DOI:** 10.1016/j.jacc.2011.02.055  
 **Study type:** Observational case-control, incremental cycle ergometry · **N:** 48 HFpEF + 25 healthy controls (HC)  

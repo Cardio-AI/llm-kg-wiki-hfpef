@@ -15,8 +15,8 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-19
 sources:
-- file: raw/2024-ESC-Lund-SPIRRIT_study_design.pdf
-  citekey: lund2024spirrit
+- citekey: lund2024spirrit
+  doi: 10.1002/ejhf.3453
 page-type: entity-page
 ---
 # SPIRRIT

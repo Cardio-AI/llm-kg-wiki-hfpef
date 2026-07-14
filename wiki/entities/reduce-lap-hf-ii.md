@@ -16,8 +16,8 @@ last_updated: 2026-05-12
 sources:
 - file: null
   citekey: null
-- file: raw/2024-JAMACardiol-Patel-REDUCE_LAP-HF_study.pdf
-  citekey: patel2024reducelaphf
+- citekey: patel2024reducelaphf
+  doi: 10.1001/jamacardio.2024.0520
 page-type: entity-page
 ---
 # REDUCE LAP-HF II

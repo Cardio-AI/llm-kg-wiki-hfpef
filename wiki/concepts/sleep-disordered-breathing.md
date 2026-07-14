@@ -14,12 +14,12 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2017-JACCHeartFail-Cowi-sleep-disordered_breathing_hf.pdf
-    citekey: Cowie2017SDB
-  - file: raw/2018-ESCHeartFail-Suzuki-sleep-disordered_breathing_hf.pdf
-    citekey: Suzuki2018SDB
-  - file: raw/2023-MDPIBioMed-Wester-sleep-disordered_breathing_hfpef_insights.pdf
-    citekey: Wester2023SDB
+  - citekey: Cowie2017SDB
+    doi: 10.1016/j.jchf.2017.03.011
+  - citekey: Suzuki2018SDB
+    doi: 10.1002/ehf2.12264
+  - citekey: Wester2023SDB
+    doi: 10.3390/biomedicines11113038
 ---
 
 # Sleep-Disordered Breathing in HFpEF

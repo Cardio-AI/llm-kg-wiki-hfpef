@@ -18,15 +18,16 @@ tags:
 created: 2026-05-06
 last_updated: 2026-05-06
 sources:
-- file: raw/2022-ESC-Savarese-Global_burden_HF.pdf
-  citekey: Savarese2022GlobalBurden
+- citekey: Savarese2022GlobalBurden
+  doi: 10.1093/cvr/cvac013
 page-type: source-summary-page
 ---
 # Global Burden of Heart Failure — Savarese 2022
 
 > HF affects >64 million worldwide; incidence stable or declining in developed countries while HFpEF prevalence steadily increases and may become the predominant HF form; 5-year mortality ~50–75% despite decades of progress; costs rising.
 
-**File:** `raw/2022-ESC-Savarese-Global_burden_HF.pdf` · **Authors:** Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS · **Year:** 2022 · **Journal/Source:** *Cardiovasc Res.* 2022;118:3272–3287. doi:10.1093/cvr/cvac013
+**Full citation:**
+Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS. Global burden of heart failure: a comprehensive and updated review of epidemiology. *Cardiovasc Res.* 2022;118(17):3272–3287. doi:[10.1093/cvr/cvac013](https://doi.org/10.1093/cvr/cvac013)
 
 Invited review commissioned by ESC. Comprehensive synthesis of global epidemiological data on HF prevalence, incidence, aetiology, outcomes, and costs by EF phenotype and geographic region.
 
@@ -36,7 +37,7 @@ Invited review commissioned by ESC. Comprehensive synthesis of global epidemiolo
 
 ### 1. Global Prevalence
 
-HF affects an estimated **>64 million people worldwide**. Overall prevalence 1–3% in the general adult population of industrialised countries. Prevalence is increasing due to population ageing, improved survival post-MI, and prolonged HF survival with evidence-based therapy. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+HF affects an estimated **>64 million people worldwide**. Overall prevalence 1–3% in the general adult population of industrialised countries. Prevalence is increasing due to population ageing, improved survival post-MI, and prolonged HF survival with evidence-based therapy. (source: Savarese2022GlobalBurden)
 
 **Selected national estimates (Figure 1):**
 
@@ -59,7 +60,7 @@ HF affects an estimated **>64 million people worldwide**. Overall prevalence 1�
 | South America | ~1 |
 | Africa | Data missing |
 
-USA: ~6 million Americans ≥20 years with HF (2015–2018 NHANES); projected to rise to 3.0% by 2030. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+USA: ~6 million Americans ≥20 years with HF (2015–2018 NHANES); projected to rise to 3.0% by 2030. (source: Savarese2022GlobalBurden)
 
 ### 2. HFpEF Prevalence and Phenotype Distribution
 
@@ -77,7 +78,7 @@ HFpEF prevalence is **steadily increasing** and is projected to become the most 
 | China-HF Registry | Hospitalised, China | 40% | 23% | 36% |
 | Japan | Hospitalised | — | — | 43% |
 
-(source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+(source: Savarese2022GlobalBurden)
 
 **Key interpretation:** The wide range (16–47%) reflects diagnostic criteria, clinical setting (inpatient vs. outpatient), geographic region, and inclusion criteria. Asian registries show markedly lower HFpEF proportions, potentially reflecting different aetiology profiles and patient demographics. GWTG-HF (inpatient USA) shows highest HFpEF proportion — partly driven by inclusive EF ≥50% definition and obesity-heavy US population.
 
@@ -105,7 +106,7 @@ Global incidence: 1–20 cases per 1000 person-years; most data from Europe/Nort
 - HFpEF incidence: declined by 28% — less than HFrEF, and increasing in absolute terms in both sexes
 - Net effect: HFpEF share of incident HF is growing
 
-Incidence is declining in developed countries overall. HFpEF incidence declining more slowly and prevalence rising due to longer survival. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+Incidence is declining in developed countries overall. HFpEF incidence declining more slowly and prevalence rising due to longer survival. (source: Savarese2022GlobalBurden)
 
 ### 4. Aetiology
 
@@ -121,7 +122,7 @@ Incidence is declining in developed countries overall. HFpEF incidence declining
 
 **Chagas cardiomyopathy:** Most common non-ischaemic CMP in South America; 300,000 carriers in USA (immigrants); ~22% of Chagas patients reach HF stage C/D.
 
-**Cancer therapy-induced:** Anthracyclines → HF incidence 1–2%; trastuzumab + anthracyclines → up to 18.6%; breast cancer radiotherapy → up to 10% develop HFpEF. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+**Cancer therapy-induced:** Anthracyclines → HF incidence 1–2%; trastuzumab + anthracyclines → up to 18.6%; breast cancer radiotherapy → up to 10% develop HFpEF. (source: Savarese2022GlobalBurden)
 
 ### 5. Outcomes
 
@@ -149,7 +150,7 @@ The 5-year convergence is explained by **cause-of-death divergence** (Figure 3):
 | GWTG-HF (5y) | HFpEF | 52% | 37% | — |
 | GWTG-HF (5y) | HFrEF | 65.9% | — | — |
 
-**Key interpretation:** HFpEF has lower CV mortality at 1 year vs. HFrEF, but higher non-CV mortality (30.7% vs. 20.1%). Non-CV deaths (cancer, respiratory, infections) offset the CV mortality advantage by 5 years. CV mortality is declining over time; non-CV mortality is rising — this is more pronounced in HFpEF and reflects the increasing comorbidity burden driving non-CV deaths. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+**Key interpretation:** HFpEF has lower CV mortality at 1 year vs. HFrEF, but higher non-CV mortality (30.7% vs. 20.1%). Non-CV deaths (cancer, respiratory, infections) offset the CV mortality advantage by 5 years. CV mortality is declining over time; non-CV mortality is rising — this is more pronounced in HFpEF and reflects the increasing comorbidity burden driving non-CV deaths. (source: Savarese2022GlobalBurden)
 
 ### 6. Hospitalizations
 
@@ -180,7 +181,7 @@ The 5-year convergence is explained by **cause-of-death divergence** (Figure 3):
 
 **Global cost (2012):** $108 billion total; 70% direct (mainly hospitalisations), 40% indirect.
 **USA projection:** $20.9B (2012) → $53.1B (2030); 2.5-fold increase driven by >65 years age group.
-**HFpEF-specific:** Expected to drive cost increases disproportionately as prevalence rises in elderly; data on EF-specific costs still limited. (source: 2022-ESC-Savarese-Global_burden_HF.pdf)
+**HFpEF-specific:** Expected to drive cost increases disproportionately as prevalence rises in elderly; data on EF-specific costs still limited. (source: Savarese2022GlobalBurden)
 
 ---
 

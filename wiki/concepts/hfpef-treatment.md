@@ -13,12 +13,12 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-    citekey: Heidenreich2022AHA
-  - file: raw/2024-JACC-Kittleson-Update_to_2020_ACC_AHA_in_HF.pdf
-    citekey: Kittleson2024AccAha
-  - file: raw/2024-MDPIJCM-Ortega-Hernandez_prognostic_impact_statin_hfpef.pdf
-    citekey: OrtegaHernandez2024Statins
+  - citekey: Heidenreich2022AHA
+    doi: 10.1161/CIR.0000000000001063
+  - citekey: Kittleson2024AccAha
+    doi: 10.1016/j.jacc.2024.06.001
+  - citekey: OrtegaHernandez2024Statins
+    doi: 10.3390/jcm13195844
 ---
 
 # HFpEF Treatment

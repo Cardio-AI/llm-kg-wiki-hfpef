@@ -18,15 +18,16 @@ tags:
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-- file: raw/2025-JACC-Packer-SUMMIT_study.pdf
-  citekey: Packer2025SUMMITCKD
+- citekey: Packer2025SUMMITCKD
+  doi: 10.1016/j.jacc.2025.03.009
 page-type: source-summary-page
 ---
 # SUMMIT CKD Subanalysis — Tirzepatide in HFpEF with Obesity by CKD Status
 
 > Tirzepatide benefit in HFpEF with obesity was consistent regardless of CKD status (interaction P=0.86), with substantial weight loss and KCCQ improvement preserved in the 61% of patients who had CKD.
 
-**File:** `raw/2025-JACC-Packer-SUMMIT_study.pdf` · **Authors:** Packer M, Zile MR, Kramer CM, et al. · **Year:** 2025 · **Journal:** J Am Coll Cardiol  
+**Full citation:**
+Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure With Preserved Ejection Fraction and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)
 **Study type:** Pre-specified secondary analysis of SUMMIT RCT (NCT04847557) · **N:** 731 total; ~61% with CKD (eGFR <60 mL/min/1.73 m² by cystatin C) · **Population:** HFpEF (LVEF ≥50%), obesity (BMI ≥30), NYHA II–IV  
 **Intervention/Exposure:** Tirzepatide 2.5 mg → 15 mg SC weekly vs. placebo (see [[summit]] for full trial details)  
 **Primary outcome:** Consistency of tirzepatide treatment effect across CKD/no-CKD strata
@@ -37,7 +38,7 @@ page-type: source-summary-page
 
 The effect of tirzepatide on KCCQ-CSS, body weight, and inflammation was consistent across CKD and no-CKD subgroups (interaction P=0.86). Both subgroups showed substantial weight loss (~13–15% tirzepatide vs. ~2% placebo), KCCQ-CSS improvement (~6–7 pts), and anti-inflammatory effects (hsCRP −35 to −44%). CKD patients represent 61% of this HFpEF population and derive equal benefit from tirzepatide.
 
-This paper also reports the overall SUMMIT primary results for reference: HR 0.62 (0.41–0.95; P=0.026) for CV death/worsening HF and KCCQ-CSS +6.9 pts (3.3–10.6; P<0.001). (source: raw/2025-JACC-Packer-SUMMIT_study.pdf)
+This paper also reports the overall SUMMIT primary results for reference: HR 0.62 (0.41–0.95; P=0.026) for CV death/worsening HF and KCCQ-CSS +6.9 pts (3.3–10.6; P<0.001). (source: Packer2025SUMMITCKD)
 
 ## Methods (brief)
 

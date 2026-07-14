@@ -18,15 +18,16 @@ tags:
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
-- file: raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf
-  citekey: Pieske2017SOCRATES
+- citekey: Pieske2017SOCRATES
+  doi: 10.1093/eurheartj/ehw593
 page-type: source-summary-page
 ---
 # SOCRATES-PRESERVED — Vericiguat Phase 2b in HFpEF (Pieske 2017)
 
 > Phase 2b dose-finding RCT of vericiguat (sGC stimulator) in HFpEF: co-primary NT-proBNP and LA volume endpoints both negative (P>0.2), but exploratory KCCQ-CSS improvement at 10 mg (+9.2 pts, P=0.016) motivated VITALITY-HFpEF phase 3 — which was also neutral, illustrating the surrogate-to-outcome translation problem.
 
-**File:** `raw/2017-EHJ-Pieske-SOCRATES-PRESERVED_study.pdf` · **Authors:** Pieske B, Maggioni AP, Lam CSP, et al.  
+**Full citation:**
+Pieske B, Maggioni AP, Lam CSP, et al. Vericiguat in patients with worsening chronic heart failure and preserved ejection fraction: results of the SOluble guanylate Cyclase stimulatoR in heArT failurE patientS with PRESERVED EF (SOCRATES-PRESERVED) study. *Eur Heart J.* 2017;38(15):1119–1127. doi:[10.1093/eurheartj/ehw593](https://doi.org/10.1093/eurheartj/ehw593)
 **Year:** 2017 · **Journal:** Eur Heart J 2017;38:1119–1127 · **DOI:** 10.1093/eurheartj/ehw593  
 **Study type:** Phase 2b multicenter double-blind RCT (dose-finding) · **N:** 477 · **Sites:** 145 sites  
 **Population:** HFpEF; LVEF ≥45%; worsening HF (hospitalisation or IV diuretics within 4 weeks of clinical stabilization)  

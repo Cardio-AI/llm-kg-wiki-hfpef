@@ -16,15 +16,16 @@ tags:
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
-- file: raw/2020-JAMA-Udelson-CAPACITY-HFpEF_study.pdf
-  citekey: Udelson2020CAPACITY
+- citekey: Udelson2020CAPACITY
+  doi: 10.1001/jama.2020.16641
 page-type: source-summary-page
 ---
 # CAPACITY-HFpEF
 
 > Praliciguat (sGC stimulator) did not improve peak VO₂ (P=0.37); KCCQ overall score significantly worse on active drug (P=0.007); 6-MWT responders fewer on praliciguat (37% vs. 59%, P=0.007); significant harm signal in patients ≥70y (P interaction=0.004) — the primary enrichment target group; confirms cGMP pathway negative in metabolic-phenotype HFpEF alongside simultaneous VITALITY-HFpEF publication.
 
-**File:** `raw/2020-JAMA-Udelson-CAPACITY-HFpEF_study.pdf` · **Authors:** Udelson JE, Lewis GD, Shah SJ et al. · **Year:** 2020 · **Journal:** JAMA 324(15):1522–1531  
+**Full citation:**
+Udelson JE, Lewis GD, Shah SJ, et al. Effect of Praliciguat on Peak Rate of Oxygen Consumption in Patients With Heart Failure With Preserved Ejection Fraction: The CAPACITY HFpEF Randomized Clinical Trial. *JAMA.* 2020;324(15):1522–1531. doi:[10.1001/jama.2020.16641](https://doi.org/10.1001/jama.2020.16641)
 **Study type:** RCT (phase 2) · **N:** 196 randomised; primary analysis n=143 (65 vs. 78) · **Population:** HFpEF, LVEF ≥40%, metabolic phenotype enrichment (≥2 of: DM, HTN, obesity, age ≥70)  
 **Follow-up:** 12 weeks · **Intervention:** Praliciguat 40 mg/day vs. placebo  
 **Primary outcome:** Change in peak VO₂ from baseline to week 12  

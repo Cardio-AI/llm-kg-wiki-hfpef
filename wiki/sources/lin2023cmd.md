@@ -17,31 +17,32 @@ tags:
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:
-- file: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf
-  citekey: Lin2023CMD
+- citekey: Lin2023CMD
+  doi: 10.1007/s10741-023-10362-x
 page-type: source-summary-page
 ---
 # CMD Prevalence in HFpEF (Lin 2023)
 
 > First systematic review and meta-analysis of CMD prevalence in HFpEF (10 studies, 1,267 patients): pooled prevalence 71% (95% CI 0.63–0.79); invasive measurement 79%; HFpEF patients had significantly lower CFR (MD −1.28; P<0.01) and higher CMD prevalence (RR 2.21; P<0.01) vs controls; prevalence not associated with age or sex.
 
-**File:** `raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf` · **Authors:** Lin X, Wu G, Wang S, Huang J · **Year:** 2023 · **Journal:** Heart Fail Rev 2024;29:405–416 (published online Oct 2023)
+**Full citation:**
+Lin X, Wu G, Wang S, Huang J. The prevalence of coronary microvascular dysfunction (CMD) in heart failure with preserved ejection fraction (HFpEF): a systematic review and meta-analysis. *Heart Fail Rev.* 2024;29(2):405–416. doi:[10.1007/s10741-023-10362-x](https://doi.org/10.1007/s10741-023-10362-x)
 
 ---
 
 ## Core Arguments
 
-1. **CMD is highly prevalent in HFpEF — pooled estimate 71%.** Ten studies (N=1,267; 822 HFpEF, 445 without HFpEF) showed CMD prevalence ranging 40–86% in individual studies; random-effects pooled prevalence 71% (95% CI 0.63–0.79; I²=80.9%). (source: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf)
+1. **CMD is highly prevalent in HFpEF — pooled estimate 71%.** Ten studies (N=1,267; 822 HFpEF, 445 without HFpEF) showed CMD prevalence ranging 40–86% in individual studies; random-effects pooled prevalence 71% (95% CI 0.63–0.79; I²=80.9%). (source: Lin2023CMD)
 
-2. **Invasive measurement yields higher prevalence than non-invasive.** Invasive: 79% (0.71–0.87); non-invasive (CMR, PET, echocardiography): 66% (0.54–0.77). No significant inter-subgroup heterogeneity. CFR threshold used: CFR<2.0 → 67%; CFR<2.5 → 75%. (source: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf)
+2. **Invasive measurement yields higher prevalence than non-invasive.** Invasive: 79% (0.71–0.87); non-invasive (CMR, PET, echocardiography): 66% (0.54–0.77). No significant inter-subgroup heterogeneity. CFR threshold used: CFR<2.0 → 67%; CFR<2.5 → 75%. (source: Lin2023CMD)
 
-3. **HFpEF patients have significantly lower CFR than controls.** Compared to patients without HFpEF (hypertensive or healthy controls), HFpEF patients had: CFR lower by MD −1.28 (95% CI −1.82 to −0.74; P<0.01); CMD prevalence higher by RR 2.21 (95% CI 1.52–3.20; P<0.01). (source: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf)
+3. **HFpEF patients have significantly lower CFR than controls.** Compared to patients without HFpEF (hypertensive or healthy controls), HFpEF patients had: CFR lower by MD −1.28 (95% CI −1.82 to −0.74; P<0.01); CMD prevalence higher by RR 2.21 (95% CI 1.52–3.20; P<0.01). (source: Lin2023CMD)
 
-4. **CMD affects both endothelium-dependent and independent pathways.** Endothelium-independent CMD prevalence 62% (0.53–0.72); endothelium-dependent 50% (0.19–0.81). Both mechanisms affected, supporting the heterogeneous pathogenesis (smooth muscle dysfunction, structural vessel changes, and inflammatory endothelial injury). (source: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf)
+4. **CMD affects both endothelium-dependent and independent pathways.** Endothelium-independent CMD prevalence 62% (0.53–0.72); endothelium-dependent 50% (0.19–0.81). Both mechanisms affected, supporting the heterogeneous pathogenesis (smooth muscle dysfunction, structural vessel changes, and inflammatory endothelial injury). (source: Lin2023CMD)
 
-5. **Prevalence not associated with age or sex.** Meta-regression: CMD prevalence not associated with age (t=0.13, P=0.903) or sex (t=−0.84, P=0.427). No publication bias detected by Egger's test (t=−0.22, P=0.829). (source: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf)
+5. **Prevalence not associated with age or sex.** Meta-regression: CMD prevalence not associated with age (t=0.13, P=0.903) or sex (t=−0.84, P=0.427). No publication bias detected by Egger's test (t=−0.22, P=0.829). (source: Lin2023CMD)
 
-6. **CMD is prognostically relevant in HFpEF.** Qualitative analysis showed association between CMD and poor clinical outcomes — worse diastolic function, higher filling pressures, and worse exercise tolerance. (source: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf)
+6. **CMD is prognostically relevant in HFpEF.** Qualitative analysis showed association between CMD and poor clinical outcomes — worse diastolic function, higher filling pressures, and worse exercise tolerance. (source: Lin2023CMD)
 
 ---
 
@@ -60,7 +61,7 @@ page-type: source-summary-page
 | Rush 2021 | 53 | CMR, MPR<2.0 | 85% |
 | Arnold 2022 | 101 | CMR, MPR<2.0 | 70% |
 
-(source: raw/2023-HeartFailRev-Lin_CMD_in_hfpef_systematic_review.pdf)
+(source: Lin2023CMD)
 
 ---
 

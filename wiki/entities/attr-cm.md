@@ -13,8 +13,8 @@ tags:
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:
-  - file: raw/2018-NEJM-Maurer-ATTR-ACT_study.pdf
-    citekey: Maurer2018ATTRACT
+  - citekey: Maurer2018ATTRACT
+    doi: 10.1056/NEJMoa1805689
 ---
 # ATTR Cardiomyopathy
 
@@ -38,7 +38,7 @@ sources:
 
 ATTR cardiomyopathy results from accumulation of TTR amyloid fibrils in myocardial tissue, causing restrictive cardiomyopathy with preserved or mildly reduced LVEF, elevated filling pressures, exercise intolerance, and progressive conduction disease.
 
-**Wild-type (ATTRwt):** Age-related TTR tetramer instability; predominantly elderly males; often presents as HFpEF. Estimated prevalence: 13–19% of HFpEF in series using systematic screening. (source: raw/2019-CIRCRESAHA-Pfeffer-HFpEF_perspective.pdf)
+**Wild-type (ATTRwt):** Age-related TTR tetramer instability; predominantly elderly males; often presents as HFpEF. Estimated prevalence: 13–19% of HFpEF in series using systematic screening. (source: Pfeffer2019HFpEF)
 
 **Variant (ATTRv):** Autosomal dominant TTR gene point mutation; earlier age of onset; may include cardiomyopathy + polyneuropathy; 100+ pathogenic mutations; Val122Ile common in African Americans.
 
@@ -71,3 +71,6 @@ RNA silencing agents (patisiran, vutrisiran) approved for ATTRv polyneuropathy; 
 ## Contradictions
 
 ATTR-ACT enrolled combined ATTRwt (~95%) + ATTRv (~5%); not powered for genotype-stratified inference — benefit in ATTRv cardiomyopathy extrapolated from the combined result. See [[contradictions]] #26.
+
+## References
+- Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)

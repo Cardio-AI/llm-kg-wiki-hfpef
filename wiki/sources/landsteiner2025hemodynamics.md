@@ -18,8 +18,8 @@ tags:
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
-- file: raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf
-  citekey: landsteiner2025hemodynamics
+- citekey: landsteiner2025hemodynamics
+  doi: 10.1161/CIRCRESAHA.125.326048
   zotero: unverified
 page-type: source-summary-page
 ---
@@ -27,7 +27,8 @@ page-type: source-summary-page
 
 > Societal HFpEF guidelines and pivotal clinical trial entry criteria identify overlapping but non-equivalent patient populations; exercise hemodynamics uncover 23–28% of hemodynamically confirmed HFpEF not captured by resting measurements, while trial NT-proBNP thresholds exclude 55–83% of physiologically confirmed HFpEF patients.
 
-**File:** `raw/2025-CirculationAHA-Landsteiner-Exercise_hemodynamics.pdf` · **Authors:** Landsteiner I et al. (Cardiology, MGH/Harvard) · **Year:** 2025 · **Journal:** Circ Res 137:357–359  
+**Full citation:**
+Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326048](https://doi.org/10.1161/CIRCRESAHA.125.326048) [DOI unverified]
 **Study type:** Retrospective referral cohort · **N:** 872 · **Population:** Exertional dyspnea, LVEF ≥50%, Mass General Brigham referral cohort  
 **Follow-up:** Clinical outcomes (combined all-cause mortality and CV events)  
 **Intervention/Exposure:** Comprehensive phenotyping: right heart catheterization, invasive CPET with upright exercise, NT-proBNP, echocardiogram  

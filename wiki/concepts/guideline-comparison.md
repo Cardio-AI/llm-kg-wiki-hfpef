@@ -13,16 +13,16 @@ tags:
 created: 2026-05-04
 last_updated: 2026-05-12
 sources:
-- file: raw/2021-ESC-Guidelines-Heart-Failure.pdf
-  citekey: McDonagh2021ESC
-- file: raw/2023-ESC-McDonagh-Focused_update_guidelines.pdf
-  citekey: McDonagh2023ESCupdate
-- file: raw/2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf
-  citekey: Heidenreich2022AHA
-- file: raw/2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf
-  citekey: Kittleson2023ACC
-- file: raw/2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf
-  citekey: Mahmood2024Guidelines
+- citekey: McDonagh2021ESC
+  doi: 10.1093/eurheartj/ehab368
+- citekey: McDonagh2023ESCupdate
+  doi: 10.1093/eurheartj/ehad195
+- citekey: Heidenreich2022AHA
+  doi: 10.1161/CIR.0000000000001063
+- citekey: Kittleson2023ACC
+  doi: 10.1016/j.jacc.2023.03.393
+- citekey: Mahmood2024Guidelines
+  doi: 10.1093/ehjqcco/qcae053
 page-type: concept-page
 ---
 # HFpEF Guideline Comparison — ESC 2021 / ESC 2023 / AHA 2022 / ACC 2023 ECDP
@@ -67,7 +67,7 @@ page-type: concept-page
 Both guidelines use LVEF ≥50% as the HFpEF threshold and recognise LVEF ≤40% as HFrEF. Both treat 41–49% as HFmrEF ("mildly reduced," terminology updated from "mid-range" in ESC 2021).
 
 ### Key Difference: HFimpEF
-AHA 2022 introduces **HFimpEF** ("improved EF") for patients with prior LVEF ≤40% who subsequently recover to ≥40%. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+AHA 2022 introduces **HFimpEF** ("improved EF") for patients with prior LVEF ≤40% who subsequently recover to ≥40%. (source: Heidenreich2022AHA)
 
 - ESC 2021 has no equivalent category; patients with recovered EF remain managed under the phenotype in which they were originally classified.
 - Clinical implication: AHA 2022 explicitly recommends **continuing HFrEF disease-modifying therapy** (RAAS blockade, beta-blockers, SGLT2i) in HFimpEF even after EF recovery — to prevent relapse.
@@ -86,7 +86,7 @@ Three criteria:
    - Structural: LA volume index >34 mL/m², LV mass index ≥115 g/m² (M) or ≥95 g/m² (F)
    - Functional: E/e' ≥13 + mean e' <9 cm/s
 
-Diastolic stress testing (exercise echocardiography) or invasive measurement used when Table 9 criteria not met. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+Diastolic stress testing (exercise echocardiography) or invasive measurement used when Table 9 criteria not met. (source: McDonagh2021ESC)
 
 ### AHA 2022 — Elevated Filling Pressures Required
 Three criteria:
@@ -94,11 +94,11 @@ Three criteria:
 2. LVEF ≥50%
 3. **Evidence of elevated LV filling pressures** — measured invasively (PCWP >15 mmHg at rest or >25 mmHg on exercise) OR by echocardiographic surrogates (E/e' ratio, PA systolic pressure, left atrial size)
 
-The AHA framing is more hemodynamically explicit: elevated filling pressure is the defining haemodynamic abnormality of HFpEF, not merely a structural surrogate. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+The AHA framing is more hemodynamically explicit: elevated filling pressure is the defining haemodynamic abnormality of HFpEF, not merely a structural surrogate. (source: Heidenreich2022AHA)
 
 ### Practical Impact
 - A patient with diastolic dysfunction (elevated E/e') but normal NPs and no LA enlargement meets AHA 2022 but may not meet ESC 2021 Table 9 criteria — or vice versa.
-- The two operational definitions may enroll different patient populations in trials and registries, contributing to observed variability in HFpEF trial results. (source: 2021-ESC-Guidelines-Heart-Failure.pdf; source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+- The two operational definitions may enroll different patient populations in trials and registries, contributing to observed variability in HFpEF trial results. (source: McDonagh2021ESC; source: Heidenreich2022AHA)
 - See also [[hfpef-diagnostic-definitions]] for the Ho 2019 demonstration that seven competing definitions enroll 12–90% of the same cohort.
 
 ---
@@ -113,7 +113,7 @@ Uses the **HFA-PEFF** (Heart Failure Association Probability of HFpEF) algorithm
 - Step 4: Invasive testing (LVEDP, PCWP)
 
 ### AHA 2022
-Endorses the **H₂FPEF score** (6-item, 0–9 points) — full scoring table: → [[hfpef-diagnosis]] (canonical). Items: BMI >30 (2 pts), AF (3 pts), age >60 (1 pt), ≥2 antihypertensives (1 pt), E/e' >9 (1 pt), PA systolic >35 mmHg (1 pt). Score ≤1: low; ≥6: high; 2–5: pursue stress testing. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+Endorses the **H₂FPEF score** (6-item, 0–9 points) — full scoring table: → [[hfpef-diagnosis]] (canonical). Items: BMI >30 (2 pts), AF (3 pts), age >60 (1 pt), ≥2 antihypertensives (1 pt), E/e' >9 (1 pt), PA systolic >35 mmHg (1 pt). Score ≤1: low; ≥6: high; 2–5: pursue stress testing. (source: Heidenreich2022AHA)
 
 Both algorithms converge on the same gold standard: invasive haemodynamics at rest and exercise, matching the approach validated by [[decipher-hfpef]].
 
@@ -134,7 +134,7 @@ Makes A–D staging the **primary organisational framework** (Table 3):
 | C | Symptomatic HF (current or prior HF symptoms) | Active treatment; NYHA class applies within C |
 | D | Advanced HF (refractory, recurrent hospitalizations) | MCS, transplant evaluation; INTERMACS profiles 1–6 |
 
-Stage B ("pre-HF") is notably absent as a distinct named category in ESC 2021. The AHA framing positions Stage A/B as a prevention and early-detection opportunity. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+Stage B ("pre-HF") is notably absent as a distinct named category in ESC 2021. The AHA framing positions Stage A/B as a prevention and early-detection opportunity. (source: Heidenreich2022AHA)
 
 ---
 
@@ -147,7 +147,7 @@ Stage B ("pre-HF") is notably absent as a distinct named category in ESC 2021. T
 | Diuretics (congestion) | I | C |
 | Comorbidity treatment | I | C |
 
-No pharmacological agent carried a mortality-reducing Class I recommendation for HFpEF. SGLT2i in HFpEF was an explicit knowledge gap at ESC 2021 cutoff. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
+No pharmacological agent carried a mortality-reducing Class I recommendation for HFpEF. SGLT2i in HFpEF was an explicit knowledge gap at ESC 2021 cutoff. (source: McDonagh2021ESC)
 
 ### ESC 2023 Focused Update — SGLT2i Class I
 
@@ -157,7 +157,7 @@ No pharmacological agent carried a mortality-reducing Class I recommendation for
 | Diuretics (congestion) | I | C |
 | Treatment for aetiology/comorbidities | I | C |
 
-Based on EMPEROR-Preserved + DELIVER + aggregate meta-analysis (HR 0.80, 95% CI 0.73–0.87). Footnote explicitly acknowledges benefit driven by HF hospitalization reduction with no significant CV death reduction. Evidence cutoff 31 March 2023. (source: 2023-ESC-McDonagh-Focused_update_guidelines.pdf)
+Based on EMPEROR-Preserved + DELIVER + aggregate meta-analysis (HR 0.80, 95% CI 0.73–0.87). Footnote explicitly acknowledges benefit driven by HF hospitalization reduction with no significant CV death reduction. Evidence cutoff 31 March 2023. (source: McDonagh2023ESCupdate)
 
 **HFpEF management algorithm (ESC 2023, Figure 2):** Three green Class I arms — Diuretics + SGLT2i + Comorbidity treatment. No RAAS/MRA/ARNI arms in HFpEF figure.
 
@@ -172,7 +172,7 @@ Based on EMPEROR-Preserved + DELIVER + aggregate meta-analysis (HR 0.80, 95% CI 
 | Diuretics | I | C | Symptom relief |
 | Comorbidity treatment | I | C | Hypertension, AF, T2DM |
 
-(source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
+(source: Heidenreich2022AHA)
 
 The SGLT2i discordance between the two guidelines is **entirely explained by publication timing**: EMPEROR-Preserved was published August 2021 (after ESC cutoff); DELIVER was published 2022. The ESC guideline authors acknowledged SGLT2i as the primary candidate for a future positive HFpEF trial.
 
@@ -203,10 +203,10 @@ Despite their differences, the guidelines agree on:
 
 ## History
 
-- **ESC 2021** (August 2021): Last major ESC guidelines; no SGLT2i recommendation for HFpEF (EMPEROR-Preserved published same month, after cutoff). Added SGLT2i as fourth HFrEF pillar. (source: 2021-ESC-Guidelines-Heart-Failure.pdf)
-- **AHA 2022** (April 2022): Incorporated EMPEROR-Preserved and DELIVER; elevated SGLT2i to Class 2a; introduced HFimpEF. First major guideline to give HFpEF-specific pharmacotherapy above Class 2b. (source: 2022-CirculationsAHA-Heidenreich-AHA-ACC-HFSA-Guideline-HF.pdf)
-- **ACC 2023 ECDP** (April 2023): Operational supplement to AHA 2022; elevates SGLT2i to near-Class I in Figure 9; introduces sex-stratified ARNI/MRA algorithm; provides dose tables, contraindication lists, mimic diagnostic framework (Table 1), CHECK-IN/INHALE referral acronyms; references GLP-1RA (semaglutide/tirzepatide) + ongoing SUMMIT/STEP-HFpEF trials. (source: 2023-JACC-Kittleson-ACC_expert_consensu_HFpEF.pdf)
-- **ESC 2023 Focused Update** (August 2023): Upgraded SGLT2i to **Class I, Level A for HFpEF and HFmrEF** — resolving the primary ESC vs. AHA divergence. Also: STRONG-HF → Class I pre/post-discharge intensive care; EMPULSE → SGLT2i in acute HF; Finerenone Class I for CKD+T2DM; IV iron Class I (symptoms) + IIa (hospitalization) for HFrEF+HFmrEF. EF terminology and thresholds deliberately deferred to next full guidelines. (source: 2023-ESC-McDonagh-Focused_update_guidelines.pdf)
+- **ESC 2021** (August 2021): Last major ESC guidelines; no SGLT2i recommendation for HFpEF (EMPEROR-Preserved published same month, after cutoff). Added SGLT2i as fourth HFrEF pillar. (source: McDonagh2021ESC)
+- **AHA 2022** (April 2022): Incorporated EMPEROR-Preserved and DELIVER; elevated SGLT2i to Class 2a; introduced HFimpEF. First major guideline to give HFpEF-specific pharmacotherapy above Class 2b. (source: Heidenreich2022AHA)
+- **ACC 2023 ECDP** (April 2023): Operational supplement to AHA 2022; elevates SGLT2i to near-Class I in Figure 9; introduces sex-stratified ARNI/MRA algorithm; provides dose tables, contraindication lists, mimic diagnostic framework (Table 1), CHECK-IN/INHALE referral acronyms; references GLP-1RA (semaglutide/tirzepatide) + ongoing SUMMIT/STEP-HFpEF trials. (source: Kittleson2023ACC)
+- **ESC 2023 Focused Update** (August 2023): Upgraded SGLT2i to **Class I, Level A for HFpEF and HFmrEF** — resolving the primary ESC vs. AHA divergence. Also: STRONG-HF → Class I pre/post-discharge intensive care; EMPULSE → SGLT2i in acute HF; Finerenone Class I for CKD+T2DM; IV iron Class I (symptoms) + IIa (hospitalization) for HFrEF+HFmrEF. EF terminology and thresholds deliberately deferred to next full guidelines. (source: McDonagh2023ESCupdate)
 - **ESC 2025 full guidelines** (anticipated): May further incorporate GLP-1RA (STEP-HFpEF, SUMMIT), FINEARTS-HF results, and formally address HFmrEF identity. [expand on ingest]
 
 ---
@@ -289,7 +289,7 @@ See [[contradictions]] #18. AHA threshold is consistently lower — creates a gr
 ### SGLT2i Adoption by Guideline (post-2021)
 - **Recommends SGLT2i for HFpEF:** AHA/ACC/HFSA, ESC 2023, NHFA/CSANZ, SHA, JCS/JHFS (all updated post-EMPEROR-Preserved/DELIVER)
 - **Does not yet recommend:** CCS/CHFS (2020 update predates evidence), NICE UK (update 2023 — NICE review pending)
-- As of 2024, 5/7 guidelines recommend SGLT2i for HFpEF. (source: 2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf)
+- As of 2024, 5/7 guidelines recommend SGLT2i for HFpEF. (source: Mahmood2024Guidelines)
 
 ### Surveillance Frequency
 | Guideline | Stable HFpEF review | Post-discharge review |
@@ -300,7 +300,7 @@ See [[contradictions]] #18. AHA threshold is consistently lower — creates a gr
 | JCS/JHFS | Early after discharge; annual clinic | Early review |
 | CCS/CHFS | Risk-stratified (1y: annual; intermediate: 1–6 monthly; higher: 1–2 monthly) | Not specified |
 
-(source: 2024-ehj-qcco-Mahmood_systematic_review_practice_guidelines.pdf)
+(source: Mahmood2024Guidelines)
 
 ---
 
@@ -316,3 +316,10 @@ See [[contradictions]] #18. AHA threshold is consistently lower — creates a gr
 - **ESC 2021 (no recommendation) vs. ESC 2023 (Class I):** formerly the major wiki divergence; now resolved. All pages previously citing "ESC has no HFpEF SGLT2i recommendation" should be updated to reference ESC 2023.
 
 See [[contradictions]].
+
+## References
+- Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
+- Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL Jr, Yancy CW. 2023 ACC expert consensus decision pathway on management of heart failure with preserved ejection fraction: a report of the American College of Cardiology Solution Set Oversight Committee. *J Am Coll Cardiol.* 2023;81(18):1835–1878. doi:[10.1016/j.jacc.2023.03.393](https://doi.org/10.1016/j.jacc.2023.03.393)
+- Mahmood A, Dhall E, Primus CP, Gallagher A, Zakeri R, Mohammed SF, Chahal AA, Ricci F, Aung N, Khanji MY. Heart failure with preserved ejection fraction management: a systematic review of clinical practice guidelines and recommendations. *Eur Heart J Qual Care Clin Outcomes.* 2024;10(6):571–589. doi:[10.1093/ehjqcco/qcae053](https://doi.org/10.1093/ehjqcco/qcae053)
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
+- McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2023 Focused Update of the 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure. *Eur Heart J.* 2023;44(37):3627–3639. doi:[10.1093/eurheartj/ehad195](https://doi.org/10.1093/eurheartj/ehad195)

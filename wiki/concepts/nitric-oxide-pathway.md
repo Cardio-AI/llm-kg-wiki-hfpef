@@ -13,10 +13,10 @@ tags:
 created: 2026-05-19
 last_updated: 2026-05-19
 sources:
-  - file: raw/2017-JACC-Reddy-atrial_stiffening_exercise_hfpef.pdf
-    citekey: Reddy2017ArtStiff
-  - file: raw/2013-JACC-Paulus-Tschoeppe-HFpEF_novel_paradigm.pdf
-    citekey: Paulus2013NovelParadigm
+  - citekey: Reddy2017ArtStiff
+    doi: 10.1016/j.jacc.2017.05.029
+  - citekey: Paulus2013NovelParadigm
+    doi: 10.1016/j.jacc.2013.02.092
 ---
 
 # Nitric Oxide Pathway in HFpEF
