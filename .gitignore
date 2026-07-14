@@ -1,0 +1,6 @@
+# Local-only source PDFs and Zotero exports — copyrighted, never committed.
+# citekey + DOI (see wiki/citations.md) is the public citation surface.
+raw/
+
+# Zotero API credentials
+_config/zotero.md
