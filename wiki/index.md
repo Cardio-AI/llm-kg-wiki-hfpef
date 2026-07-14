@@ -6,6 +6,7 @@ config-page
 - [[timeline]] — chronological evolution of HFpEF understanding
 - [[contradictions]] — tensions between sources and pages
 - [[citations]] — master citekey → full citation registry; read this when asked for a reference
+- [[citations-doi-review]] — 8 citekeys needing manual DOI verification (public-release cleanup, 2026-07-14)
 - [[trials]] — master clinical trials overview table (all trials in wiki: title, abbreviation, intervention, condition, NCT, dates)
 - [[trials-pending]] — trials referenced in sources but not yet added; review before deciding to ingest
 - [[sources-pending-from-meta-analyses]] — candidate primary studies from meta-analyses for future ingest; prioritised by evidence potential

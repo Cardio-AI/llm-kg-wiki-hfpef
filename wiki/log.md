@@ -1,6 +1,21 @@
 log page
 # Change Log
 
+## 2026-07-14 (session — public release citation cleanup)
+
+### Raw PDF citations replaced with citekey/DOI
+- All wiki pages converted from `(source: raw/filename.pdf)` / `file: raw/....pdf` frontmatter to `(source: citekey)` + `doi:` frontmatter, so the repo can go public without redistributing copyrighted source PDFs
+- Source pages (`wiki/sources/*.md`, 152 files): `**File:** raw/....pdf` line replaced with `**Full citation:**` block (text sourced from `wiki/citations.md`)
+- All other wiki pages (~90 files): inline citations resolved to citekeys; each page with ≥1 citekey now ends with a `## References` section listing full DOI-linked citations
+- `wiki/citations.md`: normalized 48 entries that had a bare `doi:10.x` (no markdown link) to the standard `doi:[10.x](https://doi.org/10.x)` link format; stripped redundant inline `[unverified]`/`[verify...]` bracket text from reference blockquotes (the DOI-review flag now carries that signal instead)
+- New `wiki/citations-doi-review.md`: 8 citekeys without a confirmed DOI (5 missing entirely, 3 flagged unverified) — flagged for manual verification, no DOIs guessed
+- `CLAUDE.md`, `_templates/{source,study,concept,entity}.md`, `_tasks/ingest.md` updated to the citekey+doi convention; raw/ path citation is no longer part of the workflow
+- `.gitignore` added (`raw/`, `_config/zotero.md`); both untracked from git (`git rm -r --cached`) — files remain on local disk for the ingest workflow
+- Git history rewritten via `git filter-repo --path raw --invert-paths` to remove the 35 PDFs already committed in prior commits; force-pushed to origin. Repo size dropped from ~84MB to ~1.1MB. Verified via fresh bare clone: 0 PDF blobs in history.
+- Local backup bundle taken before the rewrite (`llm-wiki-hfpef-backup-2026-07-14.bundle`, one directory above the repo)
+
+---
+
 ## 2026-05-21 (session — query pages, continued 4)
 
 ### Query page created
