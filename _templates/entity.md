@@ -1,8 +1,8 @@
 ---
-type: entity
+page-type: entity-page
 title: 
 summary: 
-entity_type:  # drug | trial | guideline | biomarker | imaging-tool | institution | score
+entity_type:  # trial | drug | guideline | comorbidity | disease | study | imaging-tool | diagnostic-tool | phenotype | registry | score | treatment-approach | intervention | biomarker | institution — see CLAUDE.md Page Type Taxonomy
 tags:
   - 
 created: 
@@ -14,6 +14,13 @@ sources:
 # [Entity Name]
 
 > One-sentence description.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| | | |
 
 ---
 
@@ -36,3 +43,6 @@ Current clinical or research status. Guideline recommendations if applicable.
 
 ## Contradictions
 Note any. Update `wiki/contradictions.md`.
+
+## References
+Full formatted reference (pulled from `wiki/citations.md` → Full Formatted References) for every citekey cited on this page.

@@ -1,9 +1,9 @@
-Purpose: create concise synthesis of ONE topic/source/study/guideline.
+Purpose: create concise synthesis of ONE topic/source/study/guideline. "ONE topic" bounds the summary's *subject*, not its source count — a concept summary may synthesize several canonical pages/citekeys as long as they all serve that one topic.
 Outputs: `wiki/summaries/`
 
 ---
 # Rules
-1. Use canonical pages only
+1. Use canonical pages only (see CLAUDE.md Governance Terms)
 2. Resolve aliases first
 3. Prefer concise synthesis
 4. Preserve uncertainty
@@ -12,7 +12,7 @@ Outputs: `wiki/summaries/`
 
 ---
 # Structure
-- Caveman summary
+- TL;DR — one or two sentences, plain language, the single most important takeaway
 - Key findings
 - Mechanisms
 - Clinical implications
@@ -25,4 +25,9 @@ Outputs: `wiki/summaries/`
 Never:
 - rewrite entire source
 - duplicate long prose
-- create detached summaries
+- create detached summaries — a summary is detached when it doesn't link back to the canonical page(s) it was synthesized from; every summary must cite/link its source canonical page(s)
+
+---
+# Output Naming
+
+`wiki/summaries/<topic>.md`, kebab-case, matching the topic's canonical page name where one exists.

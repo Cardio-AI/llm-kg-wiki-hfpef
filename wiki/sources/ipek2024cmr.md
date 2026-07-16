@@ -1,5 +1,4 @@
 ---
-type: source
 title: CMR to characterize myocardial structure and function in heart failure with
   preserved left ventricular ejection fraction
 citekey: ipek2024cmr
@@ -14,7 +13,7 @@ created: 2026-05-15
 last_updated: 2026-05-15
 sources:
 - citekey: ipek2024cmr
-  doi: 10.1093/ehjci/jea224
+  doi: 10.1093/ehjci/jeae224
 page-type: source-summary-page
 ---
 # CMR in HFpEF: Comprehensive Phenotyping Review
@@ -22,7 +21,7 @@ page-type: source-summary-page
 > Comprehensive review (Eur Heart J Cardiovasc Imaging 2024): multi-parametric CMR — combining volumetrics, strain, LGE, T1/T2 mapping, exercise CMR, and spectroscopy — enables phenotype-specific characterisation of HFpEF pathophysiology including diffuse fibrosis, metabolic derangements (↑myocardial triglycerides, ↓PCr/ATP), haemodynamic reserve limitation, and microvascular dysfunction not captured by standard echocardiography.
 
 **Full citation:**
-Ipek R, Holland J, Cramer M, Rider O. CMR to characterize myocardial structure and function in heart failure with preserved left ventricular ejection fraction. *Eur Heart J Cardiovasc Imaging.* 2024;25(11):1491–1504. doi:[10.1093/ehjci/jea224](https://doi.org/10.1093/ehjci/jea224)
+Ipek R, Holland J, Cramer M, Rider O. CMR to characterize myocardial structure and function in heart failure with preserved left ventricular ejection fraction. *Eur Heart J Cardiovasc Imaging.* 2024;25(11):1491–1504. doi:[10.1093/ehjci/jeae224](https://doi.org/10.1093/ehjci/jeae224)
 
 ---
 

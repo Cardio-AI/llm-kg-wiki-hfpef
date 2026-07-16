@@ -1,5 +1,4 @@
 ---
-type: entity
 title: TOPCAT
 summary: "RCT of spironolactone vs. placebo in HFpEF (LVEF \u226545%); neutral overall\
   \ primary endpoint, but the Americas subgroup showed significant benefit; suspected\

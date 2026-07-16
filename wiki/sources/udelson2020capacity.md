@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'CAPACITY-HFpEF: Praliciguat in HFpEF'
 citekey: Udelson2020CAPACITY
 year: 2020
@@ -189,7 +188,7 @@ SBP change at week 12: −6.3 mmHg (praliciguat) vs. −1.1 mmHg (placebo). Body
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]]
+- Entities: [[hfpef]], [[capacity-hfpef]]
 - Sources: [[armstrong2020vitality]], [[redfield2015neat]], [[zamani2015indie]], [[massie2008ipreserve]]
 
 ## Contradictions

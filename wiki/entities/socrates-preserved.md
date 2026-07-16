@@ -1,5 +1,4 @@
 ---
-type: entity
 title: SOCRATES-PRESERVED
 summary: "Phase 2b dose-finding RCT of vericiguat in HFpEF (LVEF \u226545%); published\
   \ EHJ 2017; showed NT-proBNP reduction and LA volume signal at higher doses; motivated\
@@ -12,7 +11,7 @@ tags:
 - treatment
 - no-cgmp
 created: 2026-05-12
-last_updated: 2026-05-16
+last_updated: 2026-07-16
 sources:
 - citekey: Pieske2017SOCRATES
   doi: 10.1093/eurheartj/ehw593
@@ -28,7 +27,7 @@ page-type: entity-page
 | Alias | Type | Notes |
 |---|---|---|
 | SOCRATES-PRESERVED | acronym | Soluble guanylate Cyclase stimulatOR As a Treatment for Heart fEilure — Preserved |
-| NCT01951638 | Trial-ID | [verify on ingest] |
+| NCT01951638 | Trial-ID | confirmed via ClinicalTrials.gov (2026-07-16): "Phase IIb Safety and Efficacy Study of Four Dose Regimens of BAY1021189 [vericiguat] in Patients With Heart Failure and Preserved Ejection Fraction Suffering From Worsening Chronic Heart Failure (SOCRATES-PRESERVED)" |
 | vericiguat phase 2b HFpEF | descriptive | common informal description |
 | Pieske 2017 | research-name | often cited by first author and year |
 
@@ -37,7 +36,7 @@ page-type: entity-page
 ## Description
 
 **Full title:** Soluble Guanylate Cyclase Stimulator in Heart Failure Patients with Preserved Ejection Fraction  
-**NCT:** [verify on ingest]  
+**NCT:** NCT01951638 (confirmed via ClinicalTrials.gov, 2026-07-16)  
 **Intervention:** Vericiguat (multiple doses tested: 1.25, 2.5, 5, 10 mg) vs. placebo  
 **Population:** HFpEF, LVEF ≥45%, worsening HF (recent hospitalisation or IV diuretics)  
 **N:** ~477  
@@ -69,9 +68,15 @@ Co-primary endpoints: NT-proBNP and LA volume. At higher doses (10 mg), a signal
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]], [[natriuretic-peptides]]
-- Entities: [[victoria]], [[relax]], [[hfpef]]
+- Entities: [[victoria]], [[relax]], [[hfpef]], [[sgc-stimulators]]
 - Sources: [[armstrong2020vitality]], [[pieske2019hfapeff]]
 
 ## Contradictions
 
 SOCRATES-PRESERVED signal (NT-proBNP reduction at high dose) vs. VITALITY-HFpEF neutral (KCCQ-PLS, no outcomes benefit) — the signal did not translate to phase 3. This is a core example in [[contradictions]] of surrogate endpoint failure in HFpEF.
+
+## References
+- Solomon SD, McMurray JJV, Anand IS, et al.; PARAGON-HF Investigators and Committees. Angiotensin–Neprilysin Inhibition in Heart Failure with Preserved Ejection Fraction. *N Engl J Med.* 2019;381(17):1609–1620. doi:[10.1056/NEJMoa1908655](https://doi.org/10.1056/NEJMoa1908655)
+- Pieske B, Tschöpe C, de Boer RA, et al.; Heart Failure Association (HFA) of the ESC. How to diagnose heart failure with preserved ejection fraction: the HFA-PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC). *Eur Heart J.* 2019;40(40):3297–3317. doi:[10.1093/eurheartj/ehz641](https://doi.org/10.1093/eurheartj/ehz641)
+- Armstrong PW, Lam CSP, Anstrom KJ, et al.; VITALITY-HFpEF Study Group. Effect of Vericiguat vs Placebo on Quality of Life in Patients with Heart Failure and Preserved Ejection Fraction: The VITALITY-HFpEF Randomized Clinical Trial. *JAMA.* 2020;324(15):1512–1521. doi:[10.1001/jama.2020.15922](https://doi.org/10.1001/jama.2020.15922)
+- Pieske B, Maggioni AP, Lam CSP, et al. Vericiguat in patients with worsening chronic heart failure and preserved ejection fraction: results of the SOluble guanylate Cyclase stimulatoR in heArT failurE patientS with PRESERVED EF (SOCRATES-PRESERVED) study. *Eur Heart J.* 2017;38(15):1119–1127. doi:[10.1093/eurheartj/ehw593](https://doi.org/10.1093/eurheartj/ehw593)

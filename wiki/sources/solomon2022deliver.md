@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'DELIVER: Dapagliflozin in HFpEF/HFmrEF'
 citekey: Solomon2022DELIVER
 year: 2022
@@ -161,10 +160,10 @@ No evidence of heterogeneity across any prespecified subgroup. The concern from 
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[guideline-comparison]]
-- Entities: [[hfpef]], [[hfmref]], [[sglt2-inhibitors]]
+- Entities: [[hfpef]], [[hfmref]], [[sglt2-inhibitors]], [[deliver]]
 - Sources: [[anker2021emperor]], [[mcmurray2019dapahf]], [[heidenreich2022aha]]
 
 ## Contradictions
-- ESC 2021: no SGLT2i recommendation for HFpEF; AHA 2022: Class 2a. Timing discordance. See [[contradictions]] #9.
+- ESC 2021: no SGLT2i recommendation for HFpEF; AHA 2022: Class 2a. Timing discordance — resolved by ESC 2023 Focused Update (Class I). See [[contradictions]] #9 (archived/resolved).
 - DELIVER KCCQ positive (win ratio 1.11, P=0.009 at 8 months) vs. DETERMINE-Preserved KCCQ neutral (P=0.079 at 16 weeks). Same drug (dapagliflozin), both HFpEF. Explanation likely: different analytical approach (win ratio vs. change score) + longer follow-up in DELIVER. See [[contradictions]] #16.
-- CV mortality NS in DELIVER (HR 0.88, P NS) — hospitalisation-driven benefit; mortality gap persists. See [[contradictions]] #9.
+- CV mortality NS in DELIVER (HR 0.88, P NS) — hospitalisation-driven benefit; mortality gap persists, consistent with the broader SGLT2i antifibrotic-vs-mortality dissociation. See [[contradictions]] #36.

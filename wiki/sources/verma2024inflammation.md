@@ -1,10 +1,8 @@
 ---
-type: source
-title: 'Inflammation and the Effects of Semaglutide in Patients With Heart Failure
-  With Preserved Ejection Fraction: The STEP-HFpEF Program'
+title: 'Inflammation in Obesity-Related HFpEF: The STEP-HFpEF Program'
 citekey: verma2024inflammation
 year: 2024
-authors: Verma S, Butler J, Bhatt DL, et al.
+authors: Verma S, Petrie MC, Borlaug BA, et al.
 journal: Journal of the American College of Cardiology
 tags:
 - trial
@@ -23,7 +21,7 @@ page-type: source-summary-page
 > Semaglutide reduces CRP by 36% in HFpEF with obesity, but its benefits on symptoms, weight, and exercise capacity are independent of baseline inflammatory burden — suggesting CRP reduction is not the primary mechanistic pathway for symptom improvement.
 
 **Full citation:**
-Verma S, Butler J, Bhatt DL, et al. Inflammation and the Effects of Semaglutide in Patients With Heart Failure With Preserved Ejection Fraction: The STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(17):1646–1662. doi:[10.1016/j.jacc.2024.08.028](https://doi.org/10.1016/j.jacc.2024.08.028)
+Verma S, Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Rönnbäck C, Abildstrøm SZ, Liisberg K, Wolf D, von Lewinski D, Lelonek M, Melenovsky V, Senni M, Kosiborod MN; STEP-HFpEF Trial Committees and Investigators. Inflammation in Obesity-Related HFpEF: The STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(17):1646–1662. doi:[10.1016/j.jacc.2024.08.028](https://doi.org/10.1016/j.jacc.2024.08.028)
 
 ---
 

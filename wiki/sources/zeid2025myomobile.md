@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Personalized App-Based Coaching for Improving Physical Activity in HFpEF:
   Rationale and Design of the MyoMobile Study (Zeid 2025)'
 citekey: Zeid2025MyoMobile

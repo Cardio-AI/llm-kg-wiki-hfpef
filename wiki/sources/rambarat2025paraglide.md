@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Effects of angiotensin-neprilysin inhibition in women vs men: Insights from
   PARAGLIDE-HF'
 citekey: rambarat2025paraglide
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > Pre-specified sex analysis of PARAGLIDE-HF (n=466; 52% women, 48% men): Sac/Val produced numerically similar NT-proBNP reduction in women (ratio 0.86, 95% CI 0.69–1.07) and men (ratio 0.84, 95% CI 0.67–1.05) with no sex-treatment interaction (P=0.908); win ratio also similar (women 1.17, men 1.22); but women had significantly more symptomatic hypotension with Sac/Val (OR 2.29, 95% CI 1.20–4.40, P=0.012).
 
 **Full citation:**
-Rambarat P, Erickson T, Cyr D, Ward J, Hernandez AD, Morrow DA, Starling RC, Velazquez E, Zieroth S, Williamson K, Solomon S, Mentz RJ. Effects of angiotensin-neprilysin inhibition in women vs men: Insights from PARAGLIDE-HF. *Am Heart J.* 2025;288:41–51. doi:[10.1016/j.ahj.2025.03.017](https://doi.org/10.1016/j.ahj.2025.03.017)
+Rambarat P, Erickson T, Cyr D, Ward J, Hernandez AF, Morrow DA, Starling RC, Velazquez E, Zieroth S, Williamson K, Solomon S, Mentz RJ. Effects of angiotensin-neprilysin inhibition in women vs men: Insights from PARAGLIDE-HF. *Am Heart J.* 2025;288:41–51. doi:[10.1016/j.ahj.2025.03.017](https://doi.org/10.1016/j.ahj.2025.03.017)
 
 ---
 

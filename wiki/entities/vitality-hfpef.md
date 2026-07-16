@@ -1,5 +1,4 @@
 ---
-type: entity
 title: VITALITY-HFpEF
 summary: "Phase 2b RCT (N=789) of vericiguat 15 mg or 10 mg vs. placebo in HFpEF (LVEF\
   \ \u226545%) with recent decompensation; published JAMA 2020 (Armstrong et al.);\
@@ -80,7 +79,7 @@ The contrast with VICTORIA (vericiguat positive in HFrEF, HR 0.90, NEJM 2020, sa
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]], [[socrates-preserved]], [[victoria]]
+- Entities: [[hfpef]], [[socrates-preserved]], [[victoria]], [[sgc-stimulators]], [[kansas-city-cardiomyopathy-questionnaire]], [[neat-hfpef]], [[indie-hfpef]], [[capacity-hfpef]]
 - Sources: [[armstrong2020vitality]], [[udelson2020capacity]], [[redfield2015neat]], [[zamani2015indie]]
 
 ## Contradictions

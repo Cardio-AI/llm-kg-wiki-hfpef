@@ -9,15 +9,15 @@ Outputs: `html/` (site) · `graph/` (JSON artifacts) · build report appended to
 2. `[[wikilinks]]` → relative `<a href>` links; broken link targets → `<span class="broken-link">` and logged in build report
 3. Frontmatter fields → `<meta>` tags in each page `<head>`
 4. Update `graph/derivations.json` with source file SHA-256 hashes and build timestamp
-5. Re-running `build.py` is always safe — idempotent overwrite
+5. Re-running `build.py` is always safe — idempotent overwrite; `build.py` is rewritten fresh at the start of each invocation of this task, not hand-maintained between runs
 
 ---
 
 # Workflow
-1. **Write `build.py`** in the project root (Python stdlib only — no pip installs required):
+1. **Write `build.py`** in the project root:
    - Enumerate all `wiki/**/*.md` pages
    - Parse YAML frontmatter (between `---` delimiters)
-   - Convert markdown body to HTML (`markdown` module preferred; fallback to `mistune`; last resort: minimal regex for headings/bold/code/links)
+   - Convert markdown body to HTML: prefer the `markdown` pip package, installing it if missing; fall back to `mistune` if `markdown` can't be installed; last resort (no package installable): minimal regex for headings/bold/code/links
    - Resolve `[[PageName]]` → relative URL (kebab-case path to `index.html`); log unresolved links
    - Wrap each page in an HTML shell: sidebar nav (generated from `wiki/index.md`), page content, footer with `last_updated`
    - Write to `html/<same relative subpath>/index.html`
@@ -30,7 +30,7 @@ Outputs: `html/` (site) · `graph/` (JSON artifacts) · build report appended to
 
 3. **Build `html/search.json`** — `[{title, url, summary, tags}]` for all pages (enables client-side search)
 
-4. **Run `build.py`** and fix any errors until the build completes cleanly
+4. **Run `build.py`** and fix any errors until the build completes cleanly — "cleanly" means zero unhandled exceptions; broken wikilinks and orphan pages are expected findings to log (per Rule 2), not build failures
 
 5. **Append build report to `wiki/log.md`**: pages compiled, broken wikilinks, orphan pages, build timestamp
 

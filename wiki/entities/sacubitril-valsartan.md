@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Sacubitril/Valsartan (ARNI)
 summary: "Angiotensin receptor-neprilysin inhibitor; Class I for HFrEF (PARADIGM-HF);\
   \ PARAGON-HF missed its primary endpoint in HFpEF overall but showed benefit in\
@@ -86,9 +85,9 @@ This places sacubitril/valsartan in the grey zone between HFmrEF and lower-EF HF
 See [[contradictions]].
 
 ## References
-- Fudim M, Cyr DD, Ward JH, et al. Association of Sacubitril/Valsartan vs Valsartan with Blood Pressure Changes and Symptomatic Hypotension: The PARAGLIDE-HF Trial. *J Card Fail.* 2024;30(12):1568–1577. DOI: not yet verified [needs source]
+- Fudim M, Cyr DD, Ward JH, et al. Association of Sacubitril/Valsartan vs Valsartan with Blood Pressure Changes and Symptomatic Hypotension: The PARAGLIDE-HF Trial. *J Card Fail.* 2024;30(12):1568–1577. doi:10.1016/j.cardfail.2024.04.030
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
-- Mentz RJ, Ward JH, Hernandez AF, et al. Rationale and Design of the PARAGLIDE-HF Trial: Prospective Comparison of ARNI with ARB Given following Stabilization in Decompensated HFpEF. *J Card Fail.* 2023;29(6):922–930. DOI: not yet verified [needs source]
-- Nouhravesh N, et al. In-Hospital Versus Out-of-Hospital Initiation of Sacubitril/Valsartan in Patients With HFpEF and Worsening Heart Failure: Insights From PARAGLIDE-HF. *J Am Heart Assoc.* 2025;14:e037899. DOI: not yet verified [needs source]
-- Rambarat P, Erickson T, Cyr D, Ward J, Hernandez AD, Morrow DA, Starling RC, Velazquez E, Zieroth S, Williamson K, Solomon S, Mentz RJ. Effects of angiotensin-neprilysin inhibition in women vs men: Insights from PARAGLIDE-HF. *Am Heart J.* 2025;288:41–51. doi:[10.1016/j.ahj.2025.03.017](https://doi.org/10.1016/j.ahj.2025.03.017)
+- Mentz RJ, Ward JH, Hernandez AF, Lepage S, Morrow DA, Sarwat S, Sharma K, Solomon SD, Starling RC, Velazquez EJ, Williamson K, Zieroth S, Braunwald E. Rationale, Design and Baseline Characteristics of the PARAGLIDE-HF Trial: Sacubitril/Valsartan vs Valsartan in HFmrEF and HFpEF With a Worsening Heart Failure Event. *J Card Fail.* 2023;29(6):922–930. doi:10.1016/j.cardfail.2023.02.001
+- Nouhravesh N, et al. In-Hospital Versus Out-of-Hospital Initiation of Sacubitril/Valsartan in Patients With HFpEF and Worsening Heart Failure: Insights From PARAGLIDE-HF. *J Am Heart Assoc.* 2025;14:e037899. doi:10.1161/JAHA.124.037899
+- Rambarat P, Erickson T, Cyr D, Ward J, Hernandez AF, Morrow DA, Starling RC, Velazquez E, Zieroth S, Williamson K, Solomon S, Mentz RJ. Effects of angiotensin-neprilysin inhibition in women vs men: Insights from PARAGLIDE-HF. *Am Heart J.* 2025;288:41–51. doi:[10.1016/j.ahj.2025.03.017](https://doi.org/10.1016/j.ahj.2025.03.017)

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'HEART Camp: Behavioral Exercise Coaching in Heart Failure with Preserved Ejection
   Fraction'
 citekey: Alonso2022HEARTcamp
@@ -26,7 +25,7 @@ page-type: source-summary-page
 > Secondary analysis of the HEART Camp RCT (N=59 HFpEF subset; 25 HEART Camp, 34 Enhanced Usual Care; NCT01658670; J Card Fail 2022;28:431–442) showing that a 18-month behavioral exercise coaching intervention dramatically improved exercise adherence (42% vs. 14% at 12 months; 56% vs. 0% at 18 months) and produced superior 6MWT (+63 m vs. +13 m at 18 months; P=0.048) and KCCQ improvement in HFpEF patients — while the HFrEF subgroup showed no benefit, suggesting HFpEF-specific responsiveness to adherence-focused interventions.
 
 **Full citation:**
-Alonso WW, Kupzyk K, Mukherjee R, et al. Exercise Adherence and Quality of Life in Patients with Heart Failure with Preserved Ejection Fraction: Secondary Analysis of the HEART Camp Randomized Trial. *J Card Fail.* 2022;28(3):431–442. doi:[10.1016/j.cardfail.2021.10.005](https://doi.org/10.1016/j.cardfail.2021.10.005)
+Alonso WW, Kupzyk K, Norman JF, Lundgren SW, Fisher A, Lindsey ML, Keteyian SJ, Pozehl BJ. The HEART Camp Exercise Intervention Improves Exercise Adherence, Physical Function, and Patient-Reported Outcomes in Adults With Preserved Ejection Fraction Heart Failure. *J Card Fail.* 2022;28(3):431–442. doi:[10.1016/j.cardfail.2021.09.003](https://doi.org/10.1016/j.cardfail.2021.09.003)
 
 ---
 
@@ -118,7 +117,7 @@ HEART Camp addresses the most clinically underappreciated barrier to exercise tr
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]
-- Entities: [[supervised-exercise-training]], [[hfpef]]
+- Entities: [[supervised-exercise-training]], [[hfpef]], [[heart-camp]]
 - Sources: [[sachdev2023exercise]], [[edelmann2025exdhf]], [[borlaug2024inable]], [[brubaker2023secret2]], [[bohmke2022nonpharm]]
 
 ---

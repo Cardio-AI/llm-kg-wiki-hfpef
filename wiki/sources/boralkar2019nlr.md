@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Boralkar 2019 \u2014 NLR and NLR Trajectory in Acute HFpEF (Stanford STRIDE)"
 citekey: Boralkar2019NLR
 year: 2019

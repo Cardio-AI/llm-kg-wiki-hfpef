@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'VITALITY-HFpEF: Vericiguat in HFpEF'
 citekey: Armstrong2020VITALITY
 year: 2020
@@ -157,7 +156,7 @@ Armstrong PW, Lam CSP, Anstrom KJ, et al.; VITALITY-HFpEF Study Group. Effect of
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[vitality-hfpef]], [[hfpef]]
+- Entities: [[vitality-hfpef]], [[hfpef]], [[kansas-city-cardiomyopathy-questionnaire]], [[six-minute-walk-test]]
 - Sources: [[udelson2020capacity]], [[redfield2015neat]], [[zamani2015indie]], [[massie2008ipreserve]]
 
 ## Contradictions

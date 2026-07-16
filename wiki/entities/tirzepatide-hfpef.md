@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Tirzepatide HFpEF (redirect)
 summary: "Redirect \u2014 tirzepatide HFpEF = SUMMIT (NCT04847557; Eli Lilly; published\
   \ NEJM 2025). See [[summit]] for the canonical page."
@@ -37,3 +36,9 @@ This page was originally a stub created before SUMMIT was confirmed as the tirze
 The NCT04788511 previously assigned to this page belongs to STEP-HFpEF (semaglutide), not tirzepatide.
 
 → See **[[summit]]** for all content.
+
+## Related Pages
+- Entities: [[semaglutide-hfpef]]
+
+## References
+- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure, Preserved Ejection Fraction, and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)

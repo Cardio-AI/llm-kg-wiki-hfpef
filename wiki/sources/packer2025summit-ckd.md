@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in HFpEF\
   \ and Obesity \u2014 SUMMIT CKD Subanalysis"
 citekey: Packer2025SUMMITCKD
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > Tirzepatide benefit in HFpEF with obesity was consistent regardless of CKD status (interaction P=0.86), with substantial weight loss and KCCQ improvement preserved in the 61% of patients who had CKD.
 
 **Full citation:**
-Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure With Preserved Ejection Fraction and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)
+Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure, Preserved Ejection Fraction, and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)
 **Study type:** Pre-specified secondary analysis of SUMMIT RCT (NCT04847557) · **N:** 731 total; ~61% with CKD (eGFR <60 mL/min/1.73 m² by cystatin C) · **Population:** HFpEF (LVEF ≥50%), obesity (BMI ≥30), NYHA II–IV  
 **Intervention/Exposure:** Tirzepatide 2.5 mg → 15 mg SC weekly vs. placebo (see [[summit]] for full trial details)  
 **Primary outcome:** Consistency of tirzepatide treatment effect across CKD/no-CKD strata

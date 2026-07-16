@@ -1,5 +1,4 @@
 ---
-type: source
 title: Patient Phenotype Profiling in HFpEF to Guide Therapeutic Decision Making (HFA/ESC/ESH
   Scientific Statement)
 citekey: Anker2023HFpEFPhenotype
@@ -172,7 +171,7 @@ New data not previously in wiki:
 ---
 
 ## Related Pages
-- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[obese-metabolic-hfpef]], [[hypertensive-fibrotic-hfpef]], [[atrial-fibrillation-hfpef]]
+- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[obese-metabolic-hfpef]], [[hypertensive-fibrotic-hfpef]], [[atrial-fibrillation-hfpef]], [[chronotropic-incompetence]]
 - Entities: [[obesity-hfpef]], [[hypertension-hfpef]], [[fair-hfpef]], [[hfpef]], [[sglt2-inhibitors]], [[spironolactone]], [[sacubitril-valsartan]], [[atrial-fibrillation]], [[supervised-exercise-training]]
 - Sources: [[kittleson2023acc]], [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[pitt2014topcat]], [[solomon2019paragon]]
 

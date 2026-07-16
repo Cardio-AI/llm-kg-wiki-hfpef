@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'FINEARTS Restoration: Revisiting the Role of Steroidal Mineralocorticoid Receptor
   Antagonists in HFmrEF/HFpEF Following FINEARTS-HF'
 citekey: turgeon2025finearts

@@ -1,5 +1,4 @@
 ---
-type: entity
 title: CHARM-Preserved
 summary: RCT of candesartan (ARB) vs. placebo in HF with LVEF >40%; missed its primary
   endpoint of CV death + HF hospitalization but showed a trend toward reduced HF hospitalizations,

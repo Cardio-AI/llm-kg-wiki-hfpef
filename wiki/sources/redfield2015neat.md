@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'NEAT-HFpEF: Isosorbide Mononitrate in HFpEF'
 citekey: Redfield2015NEAT
 year: 2015
@@ -86,7 +85,7 @@ Redfield MM, Anstrom KJ, Levine JA, et al.; NHLBI Heart Failure Clinical Researc
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]]
+- Entities: [[hfpef]], [[neat-hfpef]]
 - Sources: [[zamani2015indie]], [[armstrong2020vitality]], [[udelson2020capacity]]
 
 ## Contradictions

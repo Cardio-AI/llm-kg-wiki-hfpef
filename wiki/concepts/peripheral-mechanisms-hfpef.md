@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Peripheral Mechanisms of Exercise Intolerance in HFpEF
 summary: Reduced peripheral oxygen extraction (A-VO₂ difference reserve) is the strongest independent predictor of peak VO₂ in HFpEF (partial correlate 0.58; standardized β 0.66; P=0.0002), surpassing changes in cardiac output, HR, or SV; skeletal muscle dysfunction, impaired microvascular O₂ delivery, and deconditioning drive impaired peripheral O₂ extraction independent of cardiac filling pressures.
@@ -90,3 +89,9 @@ HFpEF shows a different SV reserve mechanism during exercise:
 - [[iron-deficiency]] — iron deficiency amplifies peripheral O₂ extraction impairment
 - [[ventilatory-limitation]] — in obese HFpEF, ventilatory ceiling is an additional (third) limiting factor
 - [[coronary-microvascular-dysfunction]] — impairs both myocardial and skeletal muscle perfusion
+- [[chronotropic-incompetence]] — blunted HR response limits CO augmentation and peripheral perfusion
+
+## References
+- Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of Exercise Intolerance in Elderly Heart Failure Patients With Preserved Ejection Fraction. *J Am Coll Cardiol.* 2011;58(3):265–274. doi:[10.1016/j.jacc.2011.02.055](https://doi.org/10.1016/j.jacc.2011.02.055)
+- Beale AL, Warren JL, Roberts N, Meyer P, Townsend NP, Kaye DM. Iron deficiency in heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Open Heart.* 2019;6(2):e001012. doi:[10.1136/openhrt-2019-001012](https://doi.org/10.1136/openhrt-2019-001012)
+- Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

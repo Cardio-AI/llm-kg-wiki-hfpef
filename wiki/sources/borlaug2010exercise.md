@@ -1,5 +1,4 @@
 ---
-type: study
 title: Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved
   Ejection Fraction
 citekey: borlaug2010exercise
@@ -18,7 +17,7 @@ created: 2026-05-14
 last_updated: 2026-05-14
 sources:
 - citekey: borlaug2010exercise
-  doi: 10.1161/CIRCHEARTFAILURE.109.919740
+  doi: 10.1161/CIRCHEARTFAILURE.109.930701
   zotero: unverified
 page-type: source-summary-page
 ---
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > In patients with exertional dyspnea, normal BNP, and normal resting hemodynamics, invasive exercise testing unmasked HFpEF in 58% — a population missed entirely by all noninvasive diagnostic criteria.
 
 **Full citation:**
-Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.919740](https://doi.org/10.1161/CIRCHEARTFAILURE.109.919740) [DOI unverified]
+Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.930701](https://doi.org/10.1161/CIRCHEARTFAILURE.109.930701) [DOI unverified]
 **Study type:** Retrospective observational · **N:** 55 · **Population:** Exertional dyspnea, EF ≥50%, normal BNP, normal resting hemodynamics; Mayo Clinic catheterization laboratory, Aug 2005–Aug 2009  
 **Follow-up:** Single-session hemodynamic assessment  
 **Intervention/Exposure:** Invasive right ± left heart catheterization with supine cycle ergometry or arm exercise  
@@ -38,7 +37,7 @@ Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics
 ## Key Findings
 
 - 32/55 patients (58%) classified as HFpEF by exercise PCWP ≥25 mmHg at peak exercise
-- All resting hemodynamics were within normal limits in both groups (HFpEF and noncardiac dyspnea [[NCD]])
+- All resting hemodynamics were within normal limits in both groups (HFpEF and noncardiac dyspnea [[noncardiac-dyspnea|NCD]])
 - The hemodynamic gap between groups emerged within the first 1.5 minutes of exercise at 20W; 80–90% of peak PCWP rise occurred at this low workload
 - Exercise-induced pulmonary hypertension (mean PAP >30 mmHg) was present in **88%** of HFpEF patients; caused by pulmonary venous hypertension (PVRI dropped equally in both groups), not pulmonary vascular disease
 - Exercise PCWP was strongly correlated with exercise PASP (R²=0.76, P<0.0001)
@@ -78,7 +77,7 @@ Retrospective single-centre referral cohort; not randomly selected. Testing was 
 
 ## Related Pages
 
-- Concepts: [[hfpef-diagnosis]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[diastolic-dysfunction]]
+- Concepts: [[hfpef-diagnosis]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[diastolic-dysfunction]], [[noncardiac-dyspnea]]
 - Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]]
 - Sources: [[ho2019hfpefdefinitions]], [[sachdev2023exercise]], [[landsteiner2025hemodynamics]]
 

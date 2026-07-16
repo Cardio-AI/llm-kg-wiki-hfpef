@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Time to screen: rationale and roadmap for HFpEF screening in individuals with
   obesity'
 citekey: achten2025screening
@@ -102,5 +101,5 @@ Narrative review (Maastricht UMC + Zuyderland Medical Center, Netherlands). Argu
 ## Related Pages
 
 - Entities: [[hfpef]], [[sglt2-inhibitors]], [[step-hfpef]], [[summit]], [[echocardiography]]
-- Concepts: [[biomarkers-hfpef]], [[natriuretic-peptides]]
+- Concepts: [[biomarkers-hfpef]], [[natriuretic-peptides]], [[hfpef-aba-score]]
 - Sources: [[petrie2024stephfpef]], [[requenaibanez2022sglt2]], [[upadhya2025echo]]

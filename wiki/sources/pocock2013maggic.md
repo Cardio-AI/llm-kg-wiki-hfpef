@@ -1,5 +1,4 @@
 ---
-type: study
 title: "MAGGIC: Meta-analysis Global Group in Chronic Heart Failure \u2014 Individual\
   \ Patient Data Meta-analysis"
 citekey: Pocock2013MAGGIC
@@ -158,7 +157,7 @@ MAGGIC is the largest prognostic meta-analysis in chronic HF and provides key me
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hfpef-diagnosis]], [[hf-phenotype-classification]]
-- Entities: [[hfpef]], [[hfref]], [[hfmref]]
+- Entities: [[hfpef]], [[hfref]], [[hfmref]], [[maggic-risk-score]]
 - Sources: [[yusuf2003charm]], [[massie2008ipreserve]], [[solomon2019paragon]], [[mcdonagh2021esc]], [[heidenreich2022aha]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: source
 title: The role of echocardiography in the diagnosis of heart failure with preserved
   ejection fraction
 citekey: upadhya2025echo

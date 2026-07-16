@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'Competing HFpEF Definitions: Prognostic Implications and Diagnostic Accuracy'
 citekey: Ho2019HFpEFDefinitions
 year: 2019
@@ -19,7 +18,7 @@ created: 2026-04-30
 last_updated: 2026-04-30
 sources:
 - citekey: Ho2019HFpEFDefinitions
-  doi: 10.1161/CIRCULATIONAHA.118.039451
+  doi: 10.1161/CIRCULATIONAHA.118.039136
 page-type: source-summary-page
 ---
 # Ho 2019 — Competing HFpEF Definitions: Prognostic Implications
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > Seven guideline HFpEF definitions applied to the same cohort enrolled 12–90% of patients; only 53% had invasively confirmed physiologic HFpEF (elevated PCWP), and HFpEF_phys independently predicted CV events regardless of guideline label.
 
 **Full citation:**
-Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039451](https://doi.org/10.1161/CIRCULATIONAHA.118.039451)
+Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Existing HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039136](https://doi.org/10.1161/CIRCULATIONAHA.118.039136)
 **Study type:** Prospective observational · **N:** 461 · **Population:** LVEF ≥50%, NYHA II–IV, referred for CPET at MGH · **Follow-up:** Median [not specified in extraction; events-based]  
 **Intervention/Exposure:** Application of 7 HFpEF diagnostic definitions with invasive CPET as reference standard  
 **Primary outcome:** Proportion enrolled by each definition; sensitivity/specificity for HFpEF_phys; CV event incidence by definition

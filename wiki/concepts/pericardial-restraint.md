@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Pericardial Restraint
 summary: "Mechanical constraint imposed by the pericardium and paracardiac adipose\
   \ tissue on cardiac volume expansion; particularly relevant in obesity-related HFpEF\
@@ -87,7 +86,7 @@ Pericardial restraint provides a mechanistic explanation for the exaggerated exe
 
 ## NT-proBNP Paradox and Pericardial Restraint
 
-Petrie 2024 STEP-HFpEF pooled NT-proBNP analysis (N=1,145) revealed a paradox: patients with the **greatest** weight loss (≥20%) showed **less** NT-proBNP reduction with semaglutide than moderate weight losers. Proposed explanation: large weight loss → reduces pericardial fat → releases pericardial restraint → shifts filling pressure from pericardial-constrained mechanism to intrinsic myocardial stiffness mechanism → different NP secretion response. This paradox, if correct, implies that pericardial restraint is a major NP driver in obese HFpEF — its resolution by weight loss may reduce the haemodynamic stimulus for NP secretion in that subgroup. (source: [[step-hfpef]])
+Petrie 2024 STEP-HFpEF pooled NT-proBNP analysis (N=1,145) revealed a paradox: patients with the **greatest** weight loss (≥20%) showed **less** NT-proBNP reduction with semaglutide than moderate weight losers. Proposed explanation: large weight loss → reduces pericardial fat → releases pericardial restraint → shifts filling pressure from pericardial-constrained mechanism to intrinsic myocardial stiffness mechanism → different NP secretion response. This paradox, if correct, implies that pericardial restraint is a major NP driver in obese HFpEF — its resolution by weight loss may reduce the haemodynamic stimulus for NP secretion in that subgroup. (source: [[petrie2024stephfpef]])
 
 ---
 
@@ -113,3 +112,8 @@ Petrie 2024 STEP-HFpEF pooled NT-proBNP analysis (N=1,145) revealed a paradox: p
 ## Contradictions
 
 Tirzepatide reduced pericardial AT by 43 mL (SUMMIT CMR; P<0.001) while semaglutide did NOT reduce LV mass (STEP-HFpEF echocardiography). Whether this reflects the additional GIP agonism of tirzepatide, greater weight loss with tirzepatide, or measurement modality differences (CMR vs. echo) is unresolved. Both SUMMIT and STEP-HFpEF showed symptomatic benefit — so the pericardial fat reduction with tirzepatide is an added structural change, not the sole mechanism of benefit. See [[contradictions]].
+
+## References
+- Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049)
+- Kramer CM, Borlaug BA, Zile MR, Ruff D, DiMaria JM, Menon V, Ou Y, Zarante AM, Hurt KC, Murakami M, Packer M; SUMMIT Trial Study Group. Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related Heart Failure: SUMMIT CMR Substudy. *J Am Coll Cardiol.* 2025;85(7):699–706. doi:[10.1016/j.jacc.2024.11.001](https://doi.org/10.1016/j.jacc.2024.11.001)
+- Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Liisberg K, Perna E, Sharma K, Ezekowitz JA, Fu M, Melenovský V, Ito H, Lelonek M, Kosiborod MN. Semaglutide and NT-proBNP in Obesity-Related HFpEF: Insights From the STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)

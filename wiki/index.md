@@ -10,6 +10,8 @@ config-page
 - [[trials]] — master clinical trials overview table (all trials in wiki: title, abbreviation, intervention, condition, NCT, dates)
 - [[trials-pending]] — trials referenced in sources but not yet added; review before deciding to ingest
 - [[sources-pending-from-meta-analyses]] — candidate primary studies from meta-analyses for future ingest; prioritised by evidence potential
+- [[sources-missing]] — standalone papers referenced in wiki prose with no source page yet; review before ingest (2026-07-14)
+- [[candidate-pages-review]] — concept/entity/mechanism pages surfaced by mining all sources/concepts/entities; awaiting approval before creation (2026-07-14)
 - [[queries/index]] — answered questions saved as canonical query pages
 
 ---
@@ -70,6 +72,7 @@ config-page
 - [[pieske2019hfapeff]] — Pieske 2019 (Eur Heart J): HFA-PEFF 4-step diagnostic algorithm (P–E–F1–F2); composite score ≥5=HFpEF; AF-adjusted NP thresholds; canonical ESC/HFA diagnostic reference
 
 ### Clinical Trial Papers
+- [[cleland2021homage]] — HOMAGE: spironolactone vs. usual care in Stage B pre-HF (N=527); primary endpoint (galectin-3 × PIIINP interaction) neutral (P=0.947); PIIINP mean diff −0.15 µg/L (P=0.323); secondary echo/BP/NT-proBNP signals favourable but exploratory
 - [[anker2021emperor]] — EMPEROR-Preserved: empagliflozin in HFpEF (LVEF >40%); 5,988 patients, 622 sites/23 countries; first positive major HFpEF trial; methods fully expanded
 - [[pitt2014topcat]] — TOPCAT: spironolactone vs. placebo in HFpEF; 3,445 patients, 266 centers/6 countries; neutral overall; Americas subgroup positive; methods expanded
 - [[ferreira2026emperor]] — EMPEROR-Preserved secondary analysis (Ferreira 2026): serum Mg predicts outcomes; empagliflozin raises Mg; higher Mg → more benefit; opposite to HFrEF direction
@@ -153,6 +156,9 @@ config-page
 - [[wester2023sdb]] — Wester 2023 (Biomedicines; Regensburg/UT Southwestern): SDB 58–80% in HFpEF; three HFpEF phenotypes (older vascular ~45%, metabolic obese ~30%, younger NP-deficient ~25%); CaMKII pathway: intermittent hypoxia → ↑ROS → CaMKII oxidation → Na⁺/Ca²⁺ dysregulation → diastolic SR Ca²⁺ leak → atrial arrhythmias → HFpEF; treatment: PAP therapy, GLP-1RA, SGLT2i; ACE2 sex-specific pathway
 - [[timoteo2024eat]] — Timóteo 2024 (Int J Cardiol): EAT in HFpEF review; two pathways: (1) pericardial restraint → ↑LVEDP; (2) paracrine dysfunction: TNF-α/IL-1β/IL-6/leptin → fibrosis/inflammation/microvascular dysfunction/AF; CT preferred for EAT volume measurement; treatment targets: statins, SGLT2i, GLP-1RA, pericardiotomy pilot
 - [[ilonze2024disparities]] — Ilonze 2024 (Curr Cardiovasc Risk Rep; review): racial/ethnic disparities across HFpEF care continuum; Black patients: 7.4/1,000 PY first HFH (highest); 20–35% have low BNP despite elevated PCWP; ATTR V122I in 3.43% of Black Americans ≥60y; H2FPEF score underdiagnoses Black patients; SGLT2i + GLP-1RA underutilised in minority patients; SDOH framework
+- [[giannitsi2019sixmwt]] — Giannitsi 2019 (Ther Adv Cardiovasc Dis 13:1–10): narrative review of 6MWT in HF; ATS/ERS-standardised protocol (≥30m corridor, 3m course marking, standardised encouragement phrasing); CPET rationale (cost/equipment/training/availability vs. patient cooperation); 6MWD-peak VO₂ correlations (r=0.28–0.81); prognostic thresholds (≤300m poor prognosis, <200m markedly increased mortality); intervention-response evidence (CRT, IV iron, sacubitril/valsartan, MitraClip); calls for HFpEF-specific MCID/prognostic validation
+- [[bilbao2016mlhf]] — Bilbao 2016 (Health Qual Life Outcomes 14:23): MLHFQ factor-structure validation (N=2,565, 13 Spanish hospitals); confirms two-factor physical/emotional structure (21 items, 0–105 range: physical 8 items 0–40, emotional 5 items 0–25); also validates a third "social" subscale
+- [[spertus2020kccq]] — Spertus 2020 (J Am Coll Cardiol 76:2379–2390): "Interpreting the KCCQ" state-of-the-art review; 23 items → 7 domains (symptom frequency/burden/stability, physical/social limitation, QoL, self-efficacy); TSS/CSS/OSS construction; 5/10/20-point MCID thresholds (anchor-based, Spertus 2005); FDA Clinical Outcome Assessment qualification (not a guideline endorsement)
 
 ### Systematic Reviews and Meta-Analyses
 - [[masri2026attrcm]] — Masri 2026 (Prog Cardiovasc Dis pre-proof): ATTR-CM trials systematic review; covers tafamidis (ATTR-ACT), acoramidis (ATTRibute-CM), patisiran (APOLLO-B), vutrisiran (HELIOS-B; HR 0.72, P<0.001), eplontersen; multiple approved/approvable options; early treatment maximises benefit; ATTR-CM now fully tractable as HFpEF subphenotype
@@ -182,6 +188,10 @@ config-page
 - [[nouhravesh2025paraglide]] — PARAGLIDE-HF initiation setting (JAHA 2025): no difference in-hospital vs out-of-hospital initiation (P-interaction=0.99); Sac/Val safe to initiate in either setting
 - [[rambarat2025paraglide]] — PARAGLIDE-HF sex analysis (AHJ 2025): NT-proBNP benefit consistent by sex (P-interaction=0.908); women excess symptomatic hypotension (OR 2.29, P=0.012); higher LVEF + worse eGFR in women
 - [[patel2024reducelaphf]] — REDUCE LAP-HF II echocardiographic substudy (JAMA Cardiol 2024): n=621; LV EDV −5.65 mL (P<0.001); LA EF +1.88 pp (P=0.02); RV EDV +9.58 mL (P<0.001); PVR subgroup interaction P=0.01 for RV changes; RV systolic function unchanged
+- [[chaudhary2025worseninghf]] — REDUCE LAP-HF II expanded worsening-HF (WHF) definition analysis (JACC Heart Fail 2025;13(9):102571): n=621; 3-tier hierarchical WHF taxonomy (hospitalisation/urgent outpatient/nonurgent outpatient diuretic escalation); expanding definition raised incidence 17.4%→25.9% and turned nonsignificant responder-subgroup shunt effect significant (RR 0.56, P=0.009); level 1 alone predicted mortality (HR 3.54) at least as strongly as expanded "any WHF" (HR 2.60) — power gain without added mortality specificity
+- [[litwin2024reducelaphf]] — REDUCE LAP-HF I/II 3-year/5-year follow-up (Am Heart J 2024;278:106–116): overall trial neutral through 3 years (win ratio 1.04, 95% CI 0.83–1.30); responder subgroup (PVR ≤1.74 WU, no CRM device) benefit durable/strengthening: win ratio 1.6, 44% HF-event reduction, KCCQ +10.1 pts
+- [[doi2026reducelaphf]] — REDUCE LAP-HF II insights: HF duration/remodeling/hemodynamic severity (JACC Heart Fail 2026;103167): no significant effect on primary composite in overall population; HF diagnosis duration >3y associated with worse shunt outcomes (HR 1.72, P=0.001), interaction test NS
+- [[berk2025patisiran]] — Patisiran post hoc APOLLO-B functional-capacity analysis (JACC Adv 2025;4(8):101876): MCID 6.9–7.8m 6MWT; ADL/KCCQ-OS treatment-response detail; explicit regulatory-status statement — patisiran NOT FDA-approved for cardiac ATTR-CM indication (approved Brazil; compassionate-use only in France, tafamidis 61mg failures) — resolves prior wiki contradiction
 
 ### Trial Design Papers
 - [[vantassell2017dhart2]] — D-HART2 design (Clin Cardiol 2017): anakinra (IL-1 receptor antagonist) 24 weeks in HFpEF enriched for hs-CRP >2 mg/L; primary CRP AUC endpoint; rationale: Paulus–Tschöpe IL-1→diastolic dysfunction cascade
@@ -203,6 +213,12 @@ config-page
 - [[spironolactone]] — MRA; Class I for HFrEF; TOPCAT Americas subgroup positive in HFpEF; overall trial neutral
 - [[balcinrenone]] — Selective MR modulator (distinct from sMRA and nsMRA); Phase 2 MIRACLE neutral on UACR endpoint (N=133, all 3 doses); Phase 3 BALANCED-HF (~N=4,800, dapagliflozin combination) ongoing; no regulatory approval
 - [[vicadrostat]] — Aldosterone synthase inhibitor (CYP11B2 inhibitor); acts upstream of MR to suppress aldosterone synthesis; Phase 3 EASi-HF (~N=6,000, empagliflozin combination, EF ≥40%) ongoing; no regulatory approval
+- [[semaglutide-hfpef]] — GLP-1RA; STEP-HFpEF/STEP-HFpEF DM; NT-proBNP reduction independent of weight loss; CRP reduction
+- [[sgc-stimulators]] — Vericiguat + praliciguat drug class; SOCRATES-PRESERVED, VITALITY-HFpEF, CAPACITY-HFpEF all neutral/harmful in HFpEF
+- [[statins]] — Mechanistic (D'Amario 2019 biopsy/PKG data) + observational (RICA registry HR 0.74) evidence; no dedicated RCT in HFpEF
+- [[ranolazine]] — Late I_Na inhibitor; RALI-DHF proof-of-concept (exercise LVEDP −4.7 mmHg); no Phase 3 follow-up
+- [[tolvaptan]] — V2-receptor antagonist/aquaretic; guideline recommendations vary (CCS/CHFS, JCS/JHFS formal; others discuss without recommending)
+- [[acetazolamide]] — Carbonic-anhydrase-inhibitor diuretic adjunct; SHA sole formal recommendation; ESC notes need for further data
 
 ### Clinical Trial Entities
 - [[paragon-hf]] — Sacubitril/valsartan vs. valsartan in HFpEF; missed primary endpoint; LVEF <57% subgroup signal; FDA label
@@ -235,24 +251,46 @@ config-page
 - [[rehab-hf]] — REHAB-HF (NCT02196038): transitional progressive multidomain rehabilitation in acute HF (any EF; ≥60y; N=349); SPPB improved; HFpEF subgroup benefits more than HFrEF on global rank endpoint; rehospitalisation not reduced
 - [[optimex-clin]] — OptimEx-Clin (NCT02078947): HIIT vs. MCT vs. guideline control in HFpEF (5 sites; N=180); HIIT not superior to MCT; exercise gains not sustained at 12 months with telemedical supervision
 - [[rebalance-hf]] — REBALANCE-HF (NCT04592445): endovascular splanchnic nerve ablation vs. sham in HFpEF; exercise PCWP −5.4 mmHg (P=0.003); KCCQ improved; first sham-controlled RCT for neural preload reduction; JAMA Cardiol 2024
+- [[emperor-preserved]] — Empagliflozin outcome trial; HR ~0.79 for CV death/HFH; first major positive HFpEF RCT
+- [[deliver]] — Dapagliflozin outcome trial; co-pivotal with EMPEROR-Preserved establishing SGLT2i class effect across EF spectrum
+- [[guide-hf]] — CardioMEMS haemodynamic-guided management; primary composite HR 0.88 (NS); pre-COVID sensitivity HR 0.81 (P=0.049)
+- [[neat-hfpef]] — Isosorbide mononitrate crossover RCT; neutral/harm signal; part of NO/cGMP-pathway failure cluster
+- [[indie-hfpef]] — Inorganic nitrate (KNO₃) RCT; neutral; companion trial to NEAT-HFpEF
+- [[capacity-hfpef]] — Praliciguat RCT; neutral; published simultaneously with VITALITY-HFpEF
+- [[ex-dhf]] — Combined endurance+resistance training RCT (N=322); Packer composite not met (P=0.17) despite VO2/NYHA benefit
+- [[serve-hf]] — Adaptive servo-ventilation in HFrEF+CSA; increased all-cause (HR 1.13) and CV mortality (HR 1.34); ASV contraindication established
+- [[soloist-whf]] — Sotagliflozin in T2DM + worsening HF; effect consistent across EF but underpowered for HFpEF; stopped early (COVID funding)
+- [[diamond-hfpef]] — CMR+invasive coronary physiology study; MPR/ECV uncorrelated (r=−0.06); CMD and fibrosis as independent axes
+- [[responder-hf]] — Ongoing atrial-shunt trial (NCT05233358); successor to REDUCE LAP-HF II, PVR-defined "responder" phenotype only
+- [[homage-trial]] — Stage B (pre-HF) spironolactone RCT; contributed IPD to pooled echo remodeling analysis
+- [[paramount-trial]] — LCZ696 (sacubitril/valsartan precursor) Phase 2 predecessor to PARAGON-HF; NT-proBNP + LA dimension improvement
+- [[heart-camp]] — Behavioral exercise-adherence coaching RCT; HFpEF subgroup (N=59) secondary analysis
 
 ### Registry Entities
 - [[torch]] — DZHK TORCH registry: 19 German centres; 2,300 (Phase 1) + 4,340 (TORCH-Plus) non-ischemic CMP patients; deep molecular phenotyping
 - [[decipher-hfpef]] — DECIPHER-HFpEF: 7 German centres; n=185; validates CMR vs. invasive PV loops in HFpEF; biopsy + biomarkers; NCT03251183
 - [[myovasc]] — MyoVasc registry: N=3,289 HF patients + controls; 10-year follow-up; multi-omics; DZHK Rhine-Main; PI Philipp Wild; backbone for [[myomobile]] RCT; NCT04064450
+- [[pursuit-hfpef]] — Osaka-area prospective ADHF-HFpEF registry (UMIN000021831); N=1,026; basis for NLR+PLR cardiac-death prediction finding
 
 ### Comorbidity Entities
 - [[atrial-fibrillation]] — Most common sustained arrhythmia; both cause and consequence of HFpEF; requires adjusted diagnostic thresholds
 - [[obesity-hfpef]] — Obesity (BMI ≥30) in HFpEF; 30–40% prevalence; pericardial restraint + adipose inflammation; targeted by semaglutide (STEP-HFpEF) + tirzepatide (SUMMIT HR 0.62)
 - [[hypertension-hfpef]] — Arterial hypertension in HFpEF; 60–80% prevalence (most common comorbidity); RAAS blockade consistently neutral; SBP <130 mmHg target; phenotype-guided agents (indapamide, nebivolol, CCB)
 - [[attr-cm]] — ATTR Cardiomyopathy (disease entity); TTR amyloid; 13–19% prevalence in HFpEF; tafamidis disease-modifying (AHA 2022 Class I); requires active exclusion in HFpEF workup
+- [[patisiran-apollo-b]] — siRNA (TTR gene silencer); first cardiac-outcomes evidence in ATTR-CM via APOLLO-B trial
 
 ### Imaging Modalities
 - [[echocardiography]] — Primary imaging modality for LVEF and diastolic function assessment in HFpEF
 - [[cardiac-mri]] — Gold standard for LVEF; tissue characterisation; second-line in HFpEF workup
+- [[technetium-pyrophosphate-scintigraphy]] — Non-invasive gold-standard diagnostic for ATTR-CM exclusion in HFpEF workup
 
 ### Diagnostic Tools
 - [[cardiopulmonary-exercise-testing]] — Gold standard for invasive HFpEF confirmation; dissects cardiac vs. peripheral exercise intolerance mechanisms
+- [[maggic-risk-score]] — Externally validated HF prognostic risk score; used as adjustment covariate in phenomapping analyses
+- [[kansas-city-cardiomyopathy-questionnaire]] — Most-cited patient-reported outcome instrument in the wiki; primary/key-secondary endpoint across HFpEF trials
+- [[six-minute-walk-test]] — Standard functional-capacity outcome measure; secondary endpoint across pharmacological and exercise trials
+- [[minnesota-living-with-heart-failure-questionnaire]] — QoL instrument used in RAAS/PDE5i-era HFpEF trials (I-PRESERVE, RELAX)
+- [[short-physical-performance-battery]] — Geriatric functional-assessment battery; REHAB-HF primary endpoint
 
 ### Interventions
 - [[supervised-exercise-training]] — Most consistently positive HFpEF intervention; peak VO2 +2.8 mL/kg/min; Class I AHA/ACC 2022; hard outcomes unknown
@@ -305,3 +343,13 @@ config-page
 - [[hemodynamic-monitoring]] — CardioMEMS; CHAMPION 28% HFH reduction; GUIDE-HF pre-COVID HR 0.81
 - [[acc-aha-hf-guidelines]] — 2022 AHA/ACC guidelines; PM-2 BP control; QM-1 SGLT2i for HFpEF
 - [[acute-hf]] — ADHF in HFpEF; NLR trajectory HR 1.26; haemodynamic management
+- [[worsening-heart-failure]] — WHF as trial construct: 3-tier hierarchical definition (hospitalisation/urgent outpatient/nonurgent outpatient); broadening increases event rate/power but not mortality specificity; underlies SOLOIST-WHF/PARAGLIDE-HF population definitions and FINEARTS-HF/DELIVER endpoint constructs
+- [[titin]] — Sarcomeric stiffness mechanism; N2BA→N2B isoform shift + hypophosphorylation; dynamically modifiable target
+- [[chronotropic-incompetence]] — ~30–50% prevalence exercise-limiting mechanism; beta-blocker withdrawal improves VO2; rate-adaptive pacing failed
+- [[noncardiac-dyspnea]] — Differential-diagnosis contrast class for exercise-unmasked HFpEF; basis for H₂FPEF score derivation
+- [[dynamic-hyperinflation]] — ΔEELV ≥150 mL from rest; 62% at 20W, 85% at peak exercise; raises exercise PCWP
+- [[magnesium-hfpef]] — Serum Mg quintile treatment-effect modifier in EMPEROR-Preserved; lower Mg associated with worse outcomes
+- [[hfpef-mimics-differential-diagnosis]] — HCM, cardiac sarcoidosis, constrictive pericarditis, Fabry disease, haemochromatosis, high-output HF as active-exclusion phenocopies
+- [[hfpef-aba-score]] — 3-variable (BMI/Age/AF) pre-echo screening score; outperforms NT-proBNP alone for risk stratification
+- [[cancer-therapy-cardiotoxicity-hfpef]] — Anthracycline/taxane/trastuzumab/radiotherapy-induced HFpEF; iatrogenic phenotype with quantified per-agent incidence
+- [[inspiratory-muscle-training]] — Respiratory-muscle-specific training; distinct from aerobic/resistance modalities; Palau 2014 VO2peak +2.9 mL/kg/min

@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Diastolic Dysfunction
 summary: Impaired LV relaxation and increased myocardial stiffness leading to elevated
   LV filling pressures; the core haemodynamic mechanism underlying HFpEF, assessed
@@ -106,7 +105,7 @@ Use limited to research settings due to invasiveness. (source: McDonagh2021ESC)
 > **Update (Sachdev 2023):** Invasive CPET evidence establishes that peripheral skeletal muscle myopathy — not filling pressure elevation — is the primary contributor to exercise intolerance in HFpEF (A-VO2 difference accounts for >50% of VO2 reduction). Exertional PCWP elevation (the cardiac component of diastolic dysfunction) is real but secondary. See [[exercise-intolerance]] and [[sachdev2023exercise]].
 
 ## Related Pages
-- Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[guideline-comparison]]
+- Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[guideline-comparison]], [[titin]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[atrial-fibrillation]], [[echocardiography]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[pfeffer2019hfpef]], [[damario2019cmd]]
 

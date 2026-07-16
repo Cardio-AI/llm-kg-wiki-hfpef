@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'OptimEx-Clin: High-Intensity Interval Training versus Moderate Continuous
   Training versus Guideline Control in HFpEF'
 citekey: Mueller2021OptimEx
@@ -127,7 +126,7 @@ Mueller S, Winzer EB, Duvinage A, et al.; OptimEx-Clin Study Group. Effect of Hi
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]]
-- Entities: [[supervised-exercise-training]], [[optimex-clin]]
+- Entities: [[supervised-exercise-training]], [[optimex-clin]], [[six-minute-walk-test]]
 - Sources: [[sachdev2023exercise]], [[donelli2020hiit]], [[prokopidis2025exercise]]
 
 ---

@@ -1,5 +1,4 @@
 ---
-type: source
 title: External validation of artificial intelligence for detection of heart failure
   with preserved ejection fraction
 citekey: akerman2025ai

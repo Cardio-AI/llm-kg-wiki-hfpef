@@ -1,5 +1,4 @@
 ---
-type: entity
 title: ATTR-ACT
 summary: Double-blind RCT (N=441) of tafamidis (transthyretin stabiliser) vs. placebo
   in ATTR cardiomyopathy; published NEJM 2018; all-cause mortality reduced (risk ratio
@@ -76,9 +75,15 @@ Disease progression (KCCQ, 6MWT) also attenuated in tafamidis vs. placebo.
 ## Related Pages
 
 - Concepts: [[hfpef-phenotype-profiling]], [[hfpef-diagnosis]]
-- Entities: [[hfpef]], [[hfmref]]
+- Entities: [[hfpef]], [[hfmref]], [[patisiran-apollo-b]], [[technetium-pyrophosphate-scintigraphy]]
 - Sources: [[heidenreich2022aha]], [[kittleson2023acc]], [[pfeffer2019hfpef]]
 
 ## Contradictions
 
 None registered.
+
+## References
+- Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)
+- Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL Jr, Yancy CW. 2023 ACC expert consensus decision pathway on management of heart failure with preserved ejection fraction: a report of the American College of Cardiology Solution Set Oversight Committee. *J Am Coll Cardiol.* 2023;81(18):1835–1878. doi:[10.1016/j.jacc.2023.03.393](https://doi.org/10.1016/j.jacc.2023.03.393)
+- Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
+- Maurer MS, Schwartz JH, Gundapaneni B, et al.; ATTR-ACT Study Investigators. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy. *N Engl J Med.* 2018;379(11):1007–1016. doi:[10.1056/NEJMoa1805689](https://doi.org/10.1056/NEJMoa1805689)

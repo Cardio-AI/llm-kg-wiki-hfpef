@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'REHAB-HF: Transitional, Progressive, Multidomain Rehabilitation for Older
   Patients with Acute Decompensated Heart Failure'
 citekey: Kitzman2021REHABHF
@@ -123,7 +122,7 @@ Kitzman DW, Whellan DJ, Duncan P, et al.; REHAB-HF Trial Investigators. Physical
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]]
-- Entities: [[supervised-exercise-training]], [[rehab-hf]]
+- Entities: [[supervised-exercise-training]], [[rehab-hf]], [[six-minute-walk-test]], [[short-physical-performance-battery]]
 - Sources: [[mentz2021rehabhfhfpef]], [[sachdev2023exercise]], [[kitzman2021rehabhf]]
 
 ---

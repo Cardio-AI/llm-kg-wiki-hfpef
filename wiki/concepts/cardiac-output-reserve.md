@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Cardiac Output Reserve in HFpEF
 summary: Cardiac output reserve — the capacity to augment CO from rest to peak exercise — is impaired in HFpEF; peak CO is 6.3 vs. 7.6 L/min in age-matched controls; HFpEF compensates via EDV reserve (Frank-Starling), not ESV reserve as in healthy adults; at submaximal loads CO is adequate but reserve is exhausted at peak; chronotropic incompetence limits heart rate augmentation, the second most important CO determinant.
@@ -82,3 +81,8 @@ In obese HFpEF (BMI >30), exercise capacity is also ventilatory-limited (source:
 - [[diastolic-dysfunction]] — diastolic dysfunction limits EDV augmentation at high heart rates
 - [[ventilatory-limitation]] — third limiting factor in obese HFpEF
 - [[cardiopulmonary-exercise-testing]] — CPET measures CO reserve (VO₂, A-VO₂ Diff, CO)
+- [[chronotropic-incompetence]] — blunted HR augmentation limiting CO reserve
+
+## References
+- Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of Exercise Intolerance in Elderly Heart Failure Patients With Preserved Ejection Fraction. *J Am Coll Cardiol.* 2011;58(3):265–274. doi:[10.1016/j.jacc.2011.02.055](https://doi.org/10.1016/j.jacc.2011.02.055)
+- Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2026.104546](https://doi.org/10.1016/j.resp.2026.104546)

@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'EMPEROR-Reduced: Empagliflozin in HFrEF'
 citekey: Packer2020EMPEROR
 year: 2020

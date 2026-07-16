@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Coronary Microvascular Dysfunction
 summary: "Impaired vasodilatory and/or increased vasoconstrictive responses of the\
   \ coronary microcirculation (vessels <500 \xB5m); proposed as a key intermediate\
@@ -75,8 +74,8 @@ Pre-2013: CMD studied primarily in the context of microvascular angina and non-o
 
 ## Related Pages
 
-- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]]
+- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[titin]]
+- Entities: [[hfpef]], [[statins]], [[ranolazine]]
 - Sources: [[paulus2013novelparadigm]], [[damario2019cmd]], [[pfeffer2019hfpef]]
 
 ## Contradictions

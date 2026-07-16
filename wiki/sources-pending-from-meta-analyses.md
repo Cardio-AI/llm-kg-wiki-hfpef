@@ -7,7 +7,7 @@ tags:
   - pending
   - sources
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-07-15
 ---
 # Source Candidates from Meta-Analyses — Pending Ingest
 
@@ -82,7 +82,7 @@ These 16 observational studies were included in the beta-blocker meta-analysis. 
 
 | Reference | Intervention | HF phenotype | Priority |
 |---|---|---|---|
-| Solomon et al., 2012 (PARAMOUNT) | Sacubitril/valsartan (LCZ696) vs. valsartan; 12 weeks | HFpEF (LVEF >45%); N=232 | **High** — PARAMOUNT is the Phase 2 precursor to PARAGON-HF; demonstrates NT-proBNP reduction and LA dimension improvement with ARNi in HFpEF; important mechanistic bridge |
+| ~~Solomon et al., 2012 (PARAMOUNT)~~ | ~~Sacubitril/valsartan (LCZ696) vs. valsartan; 12 weeks~~ | ~~HFpEF (LVEF >45%); N=232~~ | ~~**High**~~ — **INGESTED** (2026-07-15): source [[solomon2012paramount]] and entity [[paramount-trial]] both created; added to [[trials]] Phase 2/Mechanistic Trials |
 | Upadhya et al. 2017 | Spironolactone | HFpEF | Low — small STRUCTURE sub-study |
 | McDiarmid et al. 2020 | Spironolactone | HFpEF | Low |
 | Cocco et al. 2002 | Spironolactone | HFpEF/HFrEF | Low — pre-modern HFpEF era |

@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'TOPCAT Design Paper: Rationale, Design, and Baseline Characteristics'
 citekey: Desai2011TOPCAT
 year: 2011

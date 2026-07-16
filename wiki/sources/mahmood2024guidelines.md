@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Mahmood 2024 \u2014 Systematic Review of HFpEF Clinical Practice Guidelines"
 citekey: Mahmood2024Guidelines
 year: 2024
@@ -183,7 +182,7 @@ First systematic review to apply AGREE II methodology to HFpEF guidelines from 7
 
 ## Related Pages
 - Concepts: [[guideline-comparison]], [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[natriuretic-peptides]], [[exercise-intolerance]]
-- Entities: [[sglt2-inhibitors]], [[spironolactone]], [[supervised-exercise-training]], [[hfpef]]
+- Entities: [[sglt2-inhibitors]], [[spironolactone]], [[supervised-exercise-training]], [[hfpef]], [[soloist-whf]], [[tolvaptan]], [[acetazolamide]]
 - Sources: [[mcdonagh2021esc]], [[mcdonagh2023escupdate]], [[heidenreich2022aha]], [[kittleson2023acc]], [[anker2023hfpefphenotype]]
 
 ## Contradictions

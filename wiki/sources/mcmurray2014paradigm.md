@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'PARADIGM-HF: Sacubitril/Valsartan vs. Enalapril in HFrEF'
 citekey: McMurray2014PARADIGM
 year: 2014

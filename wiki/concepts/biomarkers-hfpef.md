@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Biomarkers in HFpEF
 summary: "Circulating biomarkers in HFpEF span six functional categories \u2014 natriuretic\
   \ peptides, inflammatory, fibrosis, leukocyte, iron deficiency, and metabolic/renal\
@@ -116,7 +115,7 @@ No Class I recommendation for IV iron in HFpEF from any guideline society (ESC C
 | Cystatin C / eGFR-cystatin | Preferred eGFR marker for HFpEF patients on incretin-based therapy (SGLT2i, GLP-1 RA) — no early dip artifact (SUMMIT CKD subanalysis: net improvement +3.3 mL/min/1.73m² at 52 weeks with tirzepatide) |
 | Uric acid | Hyperuricaemia in HFpEF; xanthine oxidase-mediated oxidative stress |
 | Adiponectin / leptin | Dysregulation in obesity-HFpEF phenotype; leptin promotes cardiac fibrosis |
-| Troponin (hs-TnI/T) | Subtle cardiomyocyte injury in HFpEF; prognostic but not diagnostic |
+| Troponin (hs-TnI/T) | Subtle cardiomyocyte injury in HFpEF; prognostic but not diagnostic. In PARAGON-HF, 58.3% had hs-TnT >14 ng/L at baseline (adjusted HR 1.38 per doubling for the primary composite); sacubitril/valsartan reduced hs-TnT by 9–10% vs. valsartan, and patients whose hs-TnT fell to ≤17 ng/L by week 16 had better outcomes (P=0.046) (source: Gori2021PARAGON) |
 
 ### 7. Structural / Imaging-Derived Biomarkers
 
@@ -188,7 +187,7 @@ Current biomarker evidence in HFpEF is largely **observational and prognostic**,
 
 ## Related Pages
 
-- Concepts: [[natriuretic-peptides]], [[hfpef-diagnosis]], [[hfpef-phenotype-profiling]], [[ml-ai-hfpef]], [[diastolic-dysfunction]]
+- Concepts: [[natriuretic-peptides]], [[hfpef-diagnosis]], [[hfpef-phenotype-profiling]], [[ml-ai-hfpef]], [[diastolic-dysfunction]], [[magnesium-hfpef]], [[hfpef-aba-score]]
 - Entities: [[echocardiography]], [[cardiac-mri]], [[finearts-hf]], [[summit]], [[sglt2-inhibitors]]
 - Sources: [[ammar2025bnp]], [[hage2026ntprobnp]], [[boralkar2019nlr]], [[tamaki2023nlrplr]], [[shi2022sst2]], [[beale2019iron]], [[fu2024inflammation]], [[verma2024inflammation]], [[paulus2013novelparadigm]]
 
@@ -196,3 +195,19 @@ Current biomarker evidence in HFpEF is largely **observational and prognostic**,
 
 - **tNT-proBNP vs. standard NT-proBNP (Hage 2026):** tNT-proBNP tends to be more prognostic (AUROC 0.710 vs. 0.682) but the difference is NS (p=0.068) in a small cohort (N=83). Whether this reflects a true analytic advantage or noise is unresolved. See [[contradictions]].
 - **NT-proBNP obesity paradox:** Standard NT-proBNP is lower in obese HFpEF patients, yet obese HFpEF has similar or worse outcomes — partly explained by glycosylation suppression (Hage 2026) and adipose tissue degradation of BNP. The relative contribution of each mechanism is uncertain.
+
+## References
+- Hage C, Mang A, Daubert JC, Donal E, Myhre PL, Linde C, Lund LH. Total NT-proBNP improves prognostication compared to conventional NT-proBNP in patients with heart failure. *Int J Cardiol.* 2026;458:134554. doi:[10.1016/j.ijcard.2026.134554](https://doi.org/10.1016/j.ijcard.2026.134554)
+- Van Tassell BW, Trankle CR, Canada JM, Carbone S, Buckley L, Kadariya D, Del Buono MG, Billingsley H, Wohlford G, Viscusi M, Oddi-Erdle C, Abouzaki NA, Dixon D, Biondi-Zoccai G, Arena R, Abbate A. IL-1 Blockade in Patients With Heart Failure With Preserved Ejection Fraction: Results From DHART2. *Circ Heart Fail.* 2018;11(8):e005036. doi:[10.1161/CIRCHEARTFAILURE.118.005036](https://doi.org/10.1161/CIRCHEARTFAILURE.118.005036)
+- Shi Y, Liu J, Liu C, Shuang X, Yang C, Qiao W, Dong G. Diagnostic and prognostic value of serum soluble suppression of tumorigenicity-2 in heart failure with preserved ejection fraction: A systematic review and meta-analysis. *Front Cardiovasc Med.* 2022;9:937291. doi:[10.3389/fcvm.2022.937291](https://doi.org/10.3389/fcvm.2022.937291)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)
+- Upadhya B, Rose GA, Stacey RB, Palma RA, Ryan T, Pendyal A, Kelsey AM, Bhansali A, Kitzman DW. Role of echocardiography in the diagnosis and management of heart failure with preserved ejection fraction. *Heart Fail Rev.* 2025;30(4):899–922. doi:[10.1007/s10741-025-10516-z](https://doi.org/10.1007/s10741-025-10516-z)
+- Fayyaz AU, Eltony M, Prokop LJ, Koepp KE, Borlaug BA, Dasari S, Bois MC, Margulies KB, Maleszewski JJ, Wang Y, Redfield MM. Pathophysiological insights into HFpEF from studies of human cardiac tissue. *Nat Rev Cardiol.* 2025;22:90–104. doi:[10.1038/s41569-024-01067-1](https://doi.org/10.1038/s41569-024-01067-1)
+- Tamaki S, Nagai Y, Shutta R, Masuda D, Yamashita S, Seo M, Yamada T, Nakagawa A, Yasumura Y, Nakagawa Y, Yano M, Hayashi T, Hikoso S, Nakatani D, Sotomi Y, Sakata Y; OCVC-Heart Failure Investigators. Combination of Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as a Novel Predictor of Cardiac Death in Patients With Acute Decompensated Heart Failure With Preserved Left Ventricular Ejection Fraction: A Multicenter Study. *J Am Heart Assoc.* 2023;12(8):e026326. doi:[10.1161/JAHA.122.026326](https://doi.org/10.1161/JAHA.122.026326)
+- Beale AL, Warren JL, Roberts N, Meyer P, Townsend NP, Kaye DM. Iron deficiency in heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Open Heart.* 2019;6(2):e001012. doi:[10.1136/openhrt-2019-001012](https://doi.org/10.1136/openhrt-2019-001012)
+- Sauer AJ, ter Maaten JM, Savarese G. Established and emerging pharmacologic options and unmet needs in HFpEF and HFmrEF. *ESC Heart Fail.* 2026;13:xvag056. doi:[10.1093/eschf/xvag056](https://doi.org/10.1093/eschf/xvag056)
+- Gori M, Senni M, Claggett B, Liu J, Maggioni AP, Zile M, Prescott MF, Van Veldhuisen DJ, Zannad F, Pieske B, Lam CSP, Rouleau J, Jhund P, Packer M, Pfeffer MA, Lefkowitz M, Shi V, McMurray JJV, Solomon SD. Integrating High-Sensitivity Troponin T and Sacubitril/Valsartan Treatment in HFpEF: The PARAGON-HF Trial. *JACC Heart Fail.* 2021;9(9):627–635. doi:[10.1016/j.jchf.2021.04.009](https://doi.org/10.1016/j.jchf.2021.04.009)
+- Shah SJ, Katz DH, Selvaraj S, Burke MA, Yancy CW, Gheorghiade M, Bonow RO, Huang CC, Deo RC. Phenomapping for Novel Classification of Heart Failure With Preserved Ejection Fraction. *Circulation.* 2015;131(3):269–279. doi:[10.1161/CIRCULATIONAHA.114.010637](https://doi.org/10.1161/CIRCULATIONAHA.114.010637)
+- Boralkar KA, Kobayashi Y, Amsallem M, Arthur Ataam J, Moneghetti KJ, Cauwenberghs N, Horne BD, Knowlton KU, Maecker H, Kuznetsova T, Heidenreich PA, Haddad F. Value of Neutrophil to Lymphocyte Ratio and Its Trajectory in Patients Hospitalized With Acute Heart Failure and Preserved Ejection Fraction. *Am J Cardiol.* 2020;125(2):229–235. doi:[10.1016/j.amjcard.2019.10.020](https://doi.org/10.1016/j.amjcard.2019.10.020)
+- Ammar LA, Massoud GP, Chidiac C, Booz GW, Altara R, Zouein FA. BNP and NT-proBNP as Prognostic Biomarkers for the Prediction of Adverse Outcomes in HFpEF Patients: A Systematic Review and Meta-Analysis. *Heart Fail Rev.* 2025;30(1):45–54. doi:[10.1007/s10741-024-10442-6](https://doi.org/10.1007/s10741-024-10442-6)
+- Verma S, Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Rönnbäck C, Abildstrøm SZ, Liisberg K, Wolf D, von Lewinski D, Lelonek M, Melenovsky V, Senni M, Kosiborod MN; STEP-HFpEF Trial Committees and Investigators. Inflammation in Obesity-Related HFpEF: The STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(17):1646–1662. doi:[10.1016/j.jacc.2024.08.028](https://doi.org/10.1016/j.jacc.2024.08.028)

@@ -1,5 +1,4 @@
 ---
-type: source
 title: HFA-PEFF Diagnostic Algorithm for HFpEF
 citekey: Pieske2019HFAPEFF
 year: 2019

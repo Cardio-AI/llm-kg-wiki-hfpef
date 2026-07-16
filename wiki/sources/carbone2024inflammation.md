@@ -1,5 +1,4 @@
 ---
-type: source
 title: Inflammation, Cardiorespiratory Fitness, and Obesity in Heart Failure With
   Preserved Ejection Fraction
 citekey: carbone2024inflammation
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > Carbone 2024 (4-page editorial, JACC HF): systemic inflammation amplified by obesity mechanistically impairs cardiorespiratory fitness in HFpEF via skeletal muscle mitochondrial dysfunction; interventions simultaneously reducing adiposity and inflammation (GLP-1RA, SGLT2i, supervised exercise) are mechanistically superior to anti-inflammatory monotherapy.
 
 **Full citation:**
-Carbone S, Lavie CJ, Baldassarre LA, et al. Inflammation, Cardiorespiratory Fitness, and Obesity in Heart Failure With Preserved Ejection Fraction. *JACC Heart Fail.* 2024;12(7):1270–1273. doi:[10.1016/j.jchf.2024.04.024](https://doi.org/10.1016/j.jchf.2024.04.024)
+Carbone S, Abbate A. Inflammation and Cardiorespiratory Fitness in HFpEF: A Decade of Progress. *JACC Heart Fail.* 2024;12(7):1170–1172. doi:[10.1016/j.jchf.2024.05.004](https://doi.org/10.1016/j.jchf.2024.05.004)
 
 ---
 

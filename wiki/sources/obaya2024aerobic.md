@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Effects of Aerobic Training Modality on Peak VO\u2082 and Ejection Fraction\
   \ in Heart Failure with Preserved Ejection Fraction"
 citekey: obaya2024aerobic
@@ -22,7 +21,7 @@ page-type: source-summary-page
 > RCT (n=40, 12 weeks): lower-limb aerobic training (cycling) produced significantly greater VO₂ improvement than upper-limb training (arm ergometer) in HFpEF (21.51 vs 19.26 mL/kg/min post-training, P<0.001 between groups); LVEF unchanged in both groups — supporting lower-limb modality preference and confirming that exercise benefit in HFpEF is peripheral, not cardiac systolic.
 
 **Full citation:**
-Obaya A, et al. Effects of Aerobic Training Modality on Peak VO₂ and Ejection Fraction in Heart Failure with Preserved Ejection Fraction. *Physiother Res Int.* 2024. doi:[10.1002/pri.2044](https://doi.org/10.1002/pri.2044)
+Obaya HE, Abd El-Hakim AAEM, Fares HM, Saad MKE, Abo Elyazed TI. Effect of different types of aerobic training on peak VO2 and ejection fraction for diastolic heart failure patients; a comparative randomized control trial. *Physiother Res Int.* 2024;e2044. doi:[10.1002/pri.2044](https://doi.org/10.1002/pri.2044)
 
 ---
 

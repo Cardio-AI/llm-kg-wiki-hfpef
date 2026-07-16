@@ -1,5 +1,4 @@
 ---
-type: entity
 title: ALDO-DHF
 summary: "Multicenter RCT of spironolactone 25 mg vs. placebo in ambulatory HFpEF\
   \ (LVEF \u226550%); 422 patients; 12 months; spironolactone improved diastolic function\
@@ -86,3 +85,6 @@ The study preceded [[topcat]] (published 2014) and [[finearts-hf]] (published 20
 ## Contradictions
 
 See [[contradictions]] #21 (MRA class: TOPCAT neutral overall vs. FINEARTS-HF positive) and #24 (ALDO-DHF structural-functional dissociation).
+
+## References
+- Edelmann F, Wachter R, Schmidt AG, Kraigher-Krainer E, Colantonio C, Kamke W, Duvinage A, Stahrenberg R, Durstewitz K, Löffler M, Düngen HD, Tschöpe C, Herrmann-Lingen C, Halle M, Hasenfuss G, Gelbrich G, Pieske B; for the Aldo-DHF Investigators. Effect of Spironolactone on Diastolic Function and Exercise Capacity in Patients With Heart Failure With Preserved Ejection Fraction: The Aldo-DHF Randomized Controlled Trial. *JAMA.* 2013;309(8):781–791. doi:[10.1001/jama.2013.905](https://doi.org/10.1001/jama.2013.905)

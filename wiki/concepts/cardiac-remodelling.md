@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Cardiac Remodelling in HFpEF
 summary: HFpEF is characterised by concentric LV remodelling (↑ wall thickness relative to cavity size, preserved or ↑ LVEF) driven by hypertension, aging, and metabolic stress; this differs fundamentally from HFrEF eccentric remodelling; in HFpEF, wider QRS duration reflects more advanced remodelling and independently predicts adverse outcomes (HR 1.27 for composite); LA remodelling (dilation, fibrosis) creates the AF substrate.
@@ -80,3 +79,6 @@ See [[left-atrial-remodelling]] for details:
 - [[left-atrial-remodelling]] — atrial component
 - [[ecg-biomarkers-hfpef]] — QRS duration as remodelling marker
 - [[hypertensive-fibrotic-hfpef]] — phenotype primarily driven by hypertensive remodelling
+
+## References
+- Joseph J, Claggett BC, Anand IS, Fleg JL, Huynh T, Desai AS, Solomon SD, O'Meara E, Mckinlay S, Pitt B, Pfeffer MA, Lewis EF. QRS Duration Is a Predictor of Adverse Outcomes in Heart Failure With Preserved Ejection Fraction. *JACC Heart Fail.* 2016;4(6):477–486. doi:[10.1016/j.jchf.2016.02.013](https://doi.org/10.1016/j.jchf.2016.02.013)

@@ -1,5 +1,4 @@
 ---
-type: study
 title: Deep-Learning Models for the Echocardiographic Assessment of Diastolic Dysfunction
 citekey: Pandey2021DeepNNEcho
 year: 2021

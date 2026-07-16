@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'An artificial intelligence-enabled ECG algorithm for the identification of
   patients with atrial fibrillation during sinus rhythm: a retrospective analysis
   of outcome prediction'

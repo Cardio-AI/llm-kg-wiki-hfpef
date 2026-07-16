@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: phenotype-page
 title: Obese-Metabolic HFpEF Phenotype
 summary: The obese-metabolic HFpEF phenotype (~30% of HFpEF; BMI ≥30 kg/m²) is characterised by systemic inflammation, metabolic dysfunction, and exercise intolerance disproportionate to structural cardiac disease; GLP-1 receptor agonists (semaglutide 2.4 mg) improve KCCQ-CSS +7.8 pts, 6MWD +20.3 m, and body weight −10.7% at 52 weeks in non-diabetic obese HFpEF (STEP-HFpEF); SGLT2 inhibitors provide additional benefit; phenotype-specific mechanisms include EAT-driven paracrine inflammation, lipotoxicity, and sleep-disordered breathing.
@@ -128,3 +127,16 @@ Recommended add-ons for obese HFpEF beyond SGLT2i:
 - [[sleep-disordered-breathing]] — ~80% OSA prevalence in obese HFpEF; bidirectional relationship
 - [[peripheral-mechanisms-hfpef]] — peripheral muscle dysfunction amplifying exercise intolerance
 - [[sglt2-inhibitors]] — first-line therapy across all HFpEF including obese phenotype
+
+## References
+- Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Ilonze OJ, Mazimba S. Racial and Ethnic Disparities in Heart Failure with Preserved Ejection Fraction: Epidemiology, Diagnosis, Management and Outcomes. *Curr Cardiovasc Risk Rep.* 2025;19:5. doi:[10.1007/s12170-024-00755-4](https://doi.org/10.1007/s12170-024-00755-4)
+- Timóteo AT, Albuquerque FB, Teixeira BL. Pericardium, epicardial adipose tissue, and heart failure with preserved ejection fraction: Pathophysiology, quantification and treatment target. *Int J Cardiol.* 2024;412:132303. doi:[10.1016/j.ijcard.2024.132303](https://doi.org/10.1016/j.ijcard.2024.132303)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)
+- Wester M, Arzt M, Sinha F, Maier LS, Lebek S. Insights into the Interaction of Heart Failure with Preserved Ejection Fraction and Sleep-Disordered Breathing. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)
+- Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of Exercise Intolerance in Elderly Heart Failure Patients With Preserved Ejection Fraction. *J Am Coll Cardiol.* 2011;58(3):265–274. doi:[10.1016/j.jacc.2011.02.055](https://doi.org/10.1016/j.jacc.2011.02.055)
+- Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2026.104546](https://doi.org/10.1016/j.resp.2026.104546)
+- Kosiborod MN, Petrie MC, Borlaug BA, et al.; STEP-HFpEF DM Trial Committees and Investigators. Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes. *N Engl J Med.* 2024;390(15):1394–1407. doi:[10.1056/NEJMoa2313307](https://doi.org/10.1056/NEJMoa2313307)
+- Albulushi A, Askari KM, Al-Abedi AM, Al-Kulaibi MA, Hasan MS, Hosseini Z, Al-Rahman MT, Tanoh DB, Hasan AS, Al-Helli Y, Basouni A. Impact of SGLT2 inhibitors on myocardial fibrosis in diabetic HFpEF: a longitudinal study. *Eur J Med Res.* 2025;30:592. doi:[10.1186/s40001-025-02834-7](https://doi.org/10.1186/s40001-025-02834-7)
+- Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

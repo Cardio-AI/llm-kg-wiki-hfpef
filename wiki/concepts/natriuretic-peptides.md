@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Natriuretic Peptides (BNP / NT-proBNP)
 summary: "BNP and NT-proBNP are Class I diagnostic biomarkers for heart failure with\
   \ high negative predictive value; their role in HFpEF is limited by reduced sensitivity\
@@ -58,7 +57,7 @@ BNP (B-type natriuretic peptide) and NT-proBNP (N-terminal pro-BNP) are secreted
 
 ### Diagnostic Thresholds (Non-Acute Setting)
 
-| Biomarker | Sinus Rhythm | [[atrial-fibrillation|Atrial Fibrillation]] |
+| Biomarker | Sinus Rhythm | [[atrial-fibrillation\|Atrial Fibrillation]] |
 |---|---|---|
 | BNP | ≥35 pg/mL | ≥105 pg/mL |
 | NT-proBNP | ≥125 pg/mL | ≥365 pg/mL |
@@ -122,7 +121,7 @@ HFpEF has a **lower ratio** = more glycosylation than HFrEF. In HFpEF, high glyc
 - Does glycosylation of NT-proBNP differ across ethnicities in a clinically meaningful way, and does this contribute to racial/ethnic disparities in HFpEF diagnosis?
 
 ## Related Pages
-- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[hf-phenotype-classification]], [[guideline-comparison]], [[biomarkers-hfpef]]
+- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[hf-phenotype-classification]], [[guideline-comparison]], [[biomarkers-hfpef]], [[hfpef-aba-score]]
 - Entities: [[hfpef]], [[hfref]], [[hfmref]], [[atrial-fibrillation]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[ferreira2026emperor]], [[ammar2025bnp]], [[hage2026ntprobnp]]
 
@@ -133,6 +132,6 @@ HFpEF has a **lower ratio** = more glycosylation than HFrEF. In HFpEF, high glyc
 See [[contradictions]].
 
 ## References
-- Ferreira JP, Butler J, Zannad F, et al. Serum magnesium and empagliflozin effects in patients with heart failure with preserved ejection fraction: findings from EMPEROR-Preserved. *JACC Heart Fail.* 2026. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
+- Ferreira JP, Packer M, Butler J, Vasques-Nóvoa F, Marques P, Pocock S, Filippatos G, Zannad F, Anker SD. Serum Magnesium, Outcomes, and the Effect of Empagliflozin in Heart Failure With Mildly Reduced and Preserved Ejection Fraction: Findings From EMPEROR-Preserved. *JACC Heart Fail.* 2026;14(2):102889. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

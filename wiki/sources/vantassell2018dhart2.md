@@ -1,5 +1,4 @@
 ---
-type: source
 page-type: source-summary-page
 title: "Interleukin-1 Blockade in Patients With Heart Failure and Preserved Ejection Fraction: a Randomized, Double-Blinded, Placebo-Controlled Pilot Study"
 citekey: vantassell2018dhart2
@@ -15,14 +14,14 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
   - citekey: vantassell2018dhart2
-    doi: 10.1161/CIRCHEARTFAILURE.117.005036
+    doi: 10.1161/CIRCHEARTFAILURE.118.005036
 ---
 # D-HART2 Results: Anakinra in HFpEF (Van Tassell 2018)
 
 > D-HART2 (N=31; 24 weeks): anakinra significantly reduced hs-CRP (AUC ratio 0.40; P=0.001) confirming IL-1 target engagement, but peak VO₂ at 24 weeks did not improve (+0.32 mL/kg/min vs. placebo; P=0.54) — inflammation suppression did not translate to functional capacity improvement in HFpEF.
 
 **Full citation:**
-Van Tassell BW, Buckley LF, Carbone S, Trankle CR, Canada JM, Mauro AG, Dessie S, Oddi C, Abouzaki NA, Melchior R, Christopher S, Dixon DL, Gailani MR, Turlington J, Thurber CJ, Thomas G, Vo N, Severin M, Jovin IS, Arena R, Biondi-Zoccai G, Abbate A. Interleukin-1 Blockade in Patients With Heart Failure and Preserved Ejection Fraction: a Randomized, Double-Blinded, Placebo-Controlled Pilot Study. *Circ Heart Fail.* 2018;11(4):e005036. doi:[10.1161/CIRCHEARTFAILURE.117.005036](https://doi.org/10.1161/CIRCHEARTFAILURE.117.005036)
+Van Tassell BW, Trankle CR, Canada JM, Carbone S, Buckley L, Kadariya D, Del Buono MG, Billingsley H, Wohlford G, Viscusi M, Oddi-Erdle C, Abouzaki NA, Dixon D, Biondi-Zoccai G, Arena R, Abbate A. IL-1 Blockade in Patients With Heart Failure With Preserved Ejection Fraction: Results From DHART2. *Circ Heart Fail.* 2018;11(8):e005036. doi:[10.1161/CIRCHEARTFAILURE.118.005036](https://doi.org/10.1161/CIRCHEARTFAILURE.118.005036)
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-type: entity
 title: PEP-CHF
 summary: "Double-blind RCT (N=850) of perindopril (ACE inhibitor) vs. placebo in elderly\
   \ HF patients (age \u226570, LVEF >40%) with diastolic dysfunction; published EHJ\
@@ -12,7 +11,7 @@ tags:
 - treatment
 - raas
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-07-16
 sources:
 - file: null
   citekey: Cleland2006PEPCHF
@@ -37,7 +36,7 @@ page-type: entity-page
 ## Description
 
 **Full title:** Perindopril in Elderly People With Chronic Heart Failure  
-**NCT:** [verify on ingest — pre-registration era trial]  
+**NCT:** none — trial initiated ~1999–2001, predates ClinicalTrials.gov's mandatory-registration era (2005 ICMJE requirement); confirmed via search, no registry ID exists for this trial (checked 2026-07-16).  
 **Intervention:** Perindopril 4 mg vs. placebo  
 **Population:** Age ≥70 years, LVEF >40%, echocardiographic features of diastolic dysfunction (LVH or dilated LA), clinical HF  
 **N:** 850  
@@ -79,3 +78,7 @@ Primary composite HR 0.92 (95% CI 0.70–1.21; P=0.55). HF hospitalisation: HR 0
 ## Contradictions
 
 PEP-CHF's 1-year exploratory data (trending positive) vs. the overall neutral 26-month result — whether early drug discontinuation confounds interpretation is debated. Sits alongside CHARM-Preserved (HR 0.89, HF hosp signal P=0.017) in the "trending but not significant" cluster of RAAS trials that, combined with I-PRESERVE's fully neutral result, have collectively ended ACE-i/ARB pursuit in HFpEF. See [[contradictions]].
+
+## References
+- Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)
+- Cleland JGF, Tendera M, Adamus J, et al.; PEP-CHF Investigators. The Perindopril in Elderly People with Chronic Heart Failure (PEP-CHF) study. *Eur Heart J.* 2006;27(19):2338–2345. doi:[10.1093/eurheartj/ehl250](https://doi.org/10.1093/eurheartj/ehl250)

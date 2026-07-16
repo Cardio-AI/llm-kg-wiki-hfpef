@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'I-PRESERVE: Irbesartan in Heart Failure with Preserved Ejection Fraction'
 citekey: Massie2008IPreserve
 year: 2008
@@ -184,7 +183,7 @@ SBP lowered −3.8±18.0 mmHg systolic, −2.1±10.5 mmHg diastolic at 6 months.
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]]
-- Entities: [[hfpef]], [[i-preserve]], [[spironolactone]]
+- Entities: [[hfpef]], [[i-preserve]], [[spironolactone]], [[minnesota-living-with-heart-failure-questionnaire]]
 - Sources: [[yusuf2003charm]], [[pitt2014topcat]], [[solomon2019paragon]], [[mcdonagh2021esc]]
 
 ## Contradictions

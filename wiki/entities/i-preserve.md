@@ -1,5 +1,4 @@
 ---
-type: entity
 title: I-PRESERVE
 summary: "RCT of irbesartan (ARB) vs. placebo in HFpEF (LVEF \u226545%); fully neutral\
   \ primary endpoint with no meaningful subgroup signals \u2014 one of the most definitively\
@@ -56,7 +55,7 @@ No guideline recommendation for irbesartan in [[hfpef]] based on this trial. (so
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]]
-- Entities: [[hfpef]], [[topcat]], [[paragon-hf]], [[charm-preserved]]
+- Entities: [[hfpef]], [[topcat]], [[paragon-hf]], [[charm-preserved]], [[minnesota-living-with-heart-failure-questionnaire]]
 - Sources: [[mcdonagh2021esc]], [[massie2008ipreserve]]
 
 ## Contradictions

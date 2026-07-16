@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Heart-Lung Interactions in HFpEF
 summary: In obese HFpEF, dynamic hyperinflation during exercise increases intrathoracic pressure and compresses the pulmonary vasculature, elevating measured PCWP independently of true LV filling pressure; magnitude of hyperinflation (ΔEELV) correlates with ΔPCWP at peak exercise (r²=0.167; P=0.002); this heart-lung coupling reframes PCWP interpretation and treatment targets in obese HFpEF.
@@ -17,7 +16,7 @@ sources:
   - citekey: Leahy2025HeartLung
     doi: 10.1016/j.jchf.2025.102523
   - citekey: Babb2026VentilatoryLimit
-    doi: 10.1016/j.resp.2025.104546
+    doi: 10.1016/j.resp.2026.104546
 ---
 
 # Heart-Lung Interactions in HFpEF
@@ -82,3 +81,9 @@ This confirms that DH → elevated PCWP is unidirectional: DH compresses the car
 - [[pericardial-restraint]] — separate but additive obesity-driven mechanism elevating filling pressures
 - [[epicardial-adipose-tissue]] — EAT contributes to both pericardial restraint and metabolic dysfunction
 - [[obesity-hfpef]] — obesity is the common driver of DH, EAT, and pericardial restraint
+- [[dynamic-hyperinflation]] — the core mechanism by which the lungs elevate measured PCWP in obese HFpEF
+
+## References
+- Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr, Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S. Heart-lung interactions in heart failure with preserved ejection fraction: dynamic hyperinflation increases exercise pulmonary capillary wedge pressure. *JACC Heart Fail.* 2025;13:102523. doi:[10.1016/j.jchf.2025.102523](https://doi.org/10.1016/j.jchf.2025.102523)
+- Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2026.104546](https://doi.org/10.1016/j.resp.2026.104546)
+- Zamani SK, Sarma S, MacNamara JP, Hynan LS, Haykowsky MJ, Hearon CM Jr, Wakeham D, Brazile T, Levine BD, Zaha VG, Nelson MD. Excess Pericardial Fat Is Related to Adverse Cardio-Mechanical Interaction in Heart Failure With Preserved Ejection Fraction. *Circulation.* 2023;148(17):1410–1412. doi:[10.1161/CIRCULATIONAHA.123.065909](https://doi.org/10.1161/CIRCULATIONAHA.123.065909)

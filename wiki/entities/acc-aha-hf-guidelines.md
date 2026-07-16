@@ -1,5 +1,4 @@
 ---
-type: entity
 page-type: entity-page
 title: ACC/AHA Heart Failure Guidelines
 summary: The 2022 ACC/AHA/HFSA guideline (Heidenreich 2022) and 2024 performance measure update (Kittleson 2024) are the primary US guideline documents for HF management; the 2022 guideline introduced SGLT2i as Class 2a for HFpEF (LVEF ≥50%); the 2024 update established the first HFpEF-specific performance measure (BP control, PM-2) and added SGLT2i for HFpEF as a quality measure (QM-1); the ESC 2021/2023 guidelines are the European counterparts.
@@ -16,7 +15,7 @@ sources:
   - citekey: Heidenreich2022AHA
     doi: 10.1161/CIR.0000000000001063
   - citekey: Kittleson2024AccAha
-    doi: 10.1016/j.jacc.2024.06.001
+    doi: 10.1016/j.jacc.2024.05.014
 ---
 
 # ACC/AHA Heart Failure Guidelines
@@ -86,3 +85,7 @@ sources:
 - [[mcdonagh2021esc]] — ESC 2021 guideline (European counterpart)
 - [[sglt2-inhibitors]] — primary pharmacotherapy with HFpEF recommendation
 - [[spironolactone]] — Class 2b recommendation
+
+## References
+- Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
+- Kittleson MM, Breathett K, Ziaeian B, Aguilar D, Blumer V, Bozkurt B, Diekemper RL, Dorsch MP, Heidenreich PA, Jurgens CY, Khazanie P, Koromia GA, Van Spall HGC; AHA/ACC Joint Committee on Performance Measures. 2024 Update to the 2020 ACC/AHA Clinical Performance and Quality Measures for Adults With Heart Failure. *J Am Coll Cardiol.* 2024;84(12):1123–1143. doi:[10.1016/j.jacc.2024.05.014](https://doi.org/10.1016/j.jacc.2024.05.014)

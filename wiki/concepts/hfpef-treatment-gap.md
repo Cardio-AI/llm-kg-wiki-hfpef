@@ -1,5 +1,4 @@
 ---
-type: concept
 title: HFpEF Treatment Gap
 summary: "No large RCT has proven mortality reduction across the full HFpEF population;\
   \ SGLT2i are now Class I (ESC 2023) and Class 2a (AHA 2022) \u2014 the first pharmacotherapy\
@@ -147,7 +146,7 @@ The companion trial STEP-HFpEF DM (NCT04916470, Kosiborod 2024) showed similar s
 - Can phenotype-targeted exercise regimens (HIIT for select subgroups, MICT for majority) improve responder rates beyond the current ~2/3?
 
 ## Related Pages
-- Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[exercise-intolerance]], [[guideline-comparison]], [[hfpef-phenotype-profiling]]
+- Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[exercise-intolerance]], [[guideline-comparison]], [[hfpef-phenotype-profiling]], [[cancer-therapy-cardiotoxicity-hfpef]]
 - Entities: [[hfpef]], [[hfmref]], [[atrial-fibrillation]], [[sacubitril-valsartan]], [[spironolactone]], [[sglt2-inhibitors]], [[paragon-hf]], [[topcat]], [[charm-preserved]], [[i-preserve]], [[supervised-exercise-training]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[sachdev2023exercise]], [[ferreira2026emperor]], [[mcmurray2024determine]], [[mirzai2025exercise]], [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[pfeffer2019hfpef]]
 
@@ -165,7 +164,7 @@ See [[contradictions]].
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
 - Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
-- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure With Preserved Ejection Fraction and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)
+- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure, Preserved Ejection Fraction, and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)
 - Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)
 - Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)
 - Solomon SD, McMurray JJV, Claggett B, et al.; DELIVER Trial Committees and Investigators. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2022;387(12):1089–1098. doi:[10.1056/NEJMoa2206286](https://doi.org/10.1056/NEJMoa2206286)

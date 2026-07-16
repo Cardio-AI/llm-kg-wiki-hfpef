@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Haykowsky 2011 \u2014 Determinants of Exercise Intolerance in Elderly HFpEF"
 citekey: Haykowsky2011Exercise
 year: 2011

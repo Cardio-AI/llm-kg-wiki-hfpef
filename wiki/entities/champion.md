@@ -1,5 +1,4 @@
 ---
-type: entity
 page-type: entity-page
 title: CHAMPION Trial
 summary: Landmark RCT (N=550, NYHA III HF) demonstrating that wireless pulmonary artery pressure monitoring reduces HF hospitalizations by 28% (HR 0.72; P=0.0002) over 6 months across EF subtypes including HFpEF; first haemodynamic-guided device trial with proven hospitalization reduction; CardioMEMS implant enables daily PA diastolic pressure telemonitoring to detect subclinical congestion 1–2 weeks before symptom onset.
@@ -14,9 +13,9 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
   - citekey: abraham2011champion
-    doi: 10.1016/S0140-6736(10)61800-1
+    doi: 10.1016/S0140-6736(11)60101-3
   - citekey: adamson2014champion
-    doi: 10.1161/CIRCHEARTFAILURE.114.001567
+    doi: 10.1161/CIRCHEARTFAILURE.113.001229
 ---
 
 # CHAMPION Trial
@@ -84,3 +83,10 @@ CHAMPION addresses the HFpEF treatment bottleneck: while pharmacological options
 - [[hfpef-treatment]] — pharmacological and device options
 - [[natriuretic-peptides]] — alternative to haemodynamic monitoring for decongestion guidance
 - [[pulmonary-hypertension-hfpef]] — mechanism linking filling pressure to pulmonary pressures
+
+## Related Pages
+- Entities: [[guide-hf]]
+
+## References
+- Abraham WT, Adamson PB, Bourge RC, Aaron MF, Costanzo MR, Stevenson LW, Strickland W, Neelagaru S, Raval N, Krueger S, Weiner S, Shavelle D, Jeffries B, Yadav JS; CHAMPION Trial Study Group. Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial. *Lancet.* 2011;377(9766):658–666. doi:[10.1016/S0140-6736(11)60101-3](https://doi.org/10.1016/S0140-6736(11)60101-3)
+- Adamson PB, Abraham WT, Bourge RC, Costanzo MR, Hasan A, Yadav C, Henderson J, Cowart P, Stevenson LW, Bauman JG. Wireless pulmonary artery pressure monitoring guides management to reduce decompensation in heart failure with preserved ejection fraction. *Circ Heart Fail.* 2014;7(6):935–944. doi:[10.1161/CIRCHEARTFAILURE.113.001229](https://doi.org/10.1161/CIRCHEARTFAILURE.113.001229)

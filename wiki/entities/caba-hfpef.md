@@ -1,5 +1,4 @@
 ---
-type: entity
 title: CABA-HFpEF
 summary: Phase 3 DZHK international RCT of catheter ablation (pulmonary vein isolation)
   vs. conventional rate control in HFpEF with atrial fibrillation; NCT05508256; first
@@ -72,3 +71,7 @@ Results pending. [Source: not yet published as of 2026-05-12.]
 ## Contradictions
 
 None registered yet.
+
+## References
+- Pieske B, Tschöpe C, de Boer RA, et al.; Heart Failure Association (HFA) of the ESC. How to diagnose heart failure with preserved ejection fraction: the HFA-PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC). *Eur Heart J.* 2019;40(40):3297–3317. doi:[10.1093/eurheartj/ehz641](https://doi.org/10.1093/eurheartj/ehz641)
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)

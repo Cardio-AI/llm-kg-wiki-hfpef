@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Zhu and Zhou 2021 \u2014 Leukocyte Count and Adverse Outcomes in HFpEF (TOPCAT)"
 citekey: ZhuZhou2021Leukocyte
 year: 2021

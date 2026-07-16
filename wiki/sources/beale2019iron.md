@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Beale 2019 \u2014 Iron Deficiency Prevalence and Impact in HFpEF (Systematic\
   \ Review)"
 citekey: Beale2019Iron
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > Iron deficiency is highly prevalent in HFpEF (59%, 95% CI 52–65%) and is associated with worse exercise capacity and quality of life in observational studies; however, as of 2019, no RCT evidence existed for the benefit of iron supplementation in HFpEF specifically.
 
 **Full citation:**
-Beale AL, Warren JL, Roberts N, Lam CSP, Kaye DM. Iron deficiency in heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Open Heart.* 2019;6(2):e001012. doi:[10.1136/openhrt-2019-001012](https://doi.org/10.1136/openhrt-2019-001012)
+Beale AL, Warren JL, Roberts N, Meyer P, Townsend NP, Kaye DM. Iron deficiency in heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Open Heart.* 2019;6(2):e001012. doi:[10.1136/openhrt-2019-001012](https://doi.org/10.1136/openhrt-2019-001012)
 **Authors:** Beale AL, Warren JL, Roberts N, Meyer P, Townsend M, Kaye DM  
 **Year:** 2019 · **Journal:** Open Heart 2019;6:e001012  
 **Study type:** Systematic review and meta-analysis · **PROSPERO:** 42017069896  

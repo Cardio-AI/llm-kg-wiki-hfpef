@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Racial and Ethnic Disparities in HFpEF
 summary: Black patients bear the highest HFpEF burden (7.4/1,000 PY first hospitalisation in Black women); face diagnostic barriers from lower natriuretic peptide levels (~20–35% with elevated PCWP but BNP <100 pg/mL, predominantly Black) and underperformance of validated scoring systems; carry a 3.43% prevalence of ATTR V122I amyloid variant; and remain underrepresented in clinical trials despite evidence that SGLT2i, semaglutide, and spironolactone are effective across racial groups.
@@ -104,3 +103,8 @@ Beyond ATTR V122I, Black patients have higher prevalence of:
 - [[attr-cm]] — ATTR V122I is a specific and prevalent HFpEF mimic in Black patients
 - [[hfpef-diagnosis]] — diagnostic tools perform worse in minority populations
 - [[hfpef-treatment]] — treatment underutilisation in minority populations
+- [[hfpef-mimics-differential-diagnosis]] — comprehensive workup for phenocopies disproportionately relevant in Black patients
+
+## References
+- Ilonze OJ, Mazimba S. Racial and Ethnic Disparities in Heart Failure with Preserved Ejection Fraction: Epidemiology, Diagnosis, Management and Outcomes. *Curr Cardiovasc Risk Rep.* 2025;19:5. doi:[10.1007/s12170-024-00755-4](https://doi.org/10.1007/s12170-024-00755-4)
+- Kittleson MM, Breathett K, Ziaeian B, Aguilar D, Blumer V, Bozkurt B, Diekemper RL, Dorsch MP, Heidenreich PA, Jurgens CY, Khazanie P, Koromia GA, Van Spall HGC; AHA/ACC Joint Committee on Performance Measures. 2024 Update to the 2020 ACC/AHA Clinical Performance and Quality Measures for Adults With Heart Failure. *J Am Coll Cardiol.* 2024;84(12):1123–1143. doi:[10.1016/j.jacc.2024.05.014](https://doi.org/10.1016/j.jacc.2024.05.014)

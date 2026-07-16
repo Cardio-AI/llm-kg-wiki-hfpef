@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'REHAB-HF: HFpEF versus HFrEF Subgroup Analysis'
 citekey: mentz2021rehabhfhfpef
 year: 2021
@@ -19,7 +18,7 @@ created: 2026-05-18
 last_updated: 2026-05-18
 sources:
 - citekey: mentz2021rehabhfhfpef
-  doi: 10.1016/j.jchf.2021.07.008
+  doi: 10.1016/j.jchf.2021.05.007
 page-type: source-summary-page
 ---
 # REHAB-HF HFpEF/HFrEF Subgroup Analysis
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > Pre-specified EF subgroup analysis of REHAB-HF (NCT02196038) showing that multidomain rehabilitation produced nominally larger functional gains in HFpEF (SPPB +1.9 points, 6MWD +40 m) than HFrEF (+1.1 points, +27 m), with benefit on global rank endpoint in HFpEF (probability index 0.59; P=0.04) but not HFrEF (P=0.69; interaction P=0.098).
 
 **Full citation:**
-Mentz RJ, Whellan DJ, Duncan PW, et al.; REHAB-HF Trial Investigators. Heart Failure With Preserved vs Reduced Ejection Fraction in the REHAB-HF Trial. *JACC Heart Fail.* 2021;9(10):747–757. doi:[10.1016/j.jchf.2021.07.008](https://doi.org/10.1016/j.jchf.2021.07.008)
+Mentz RJ, Whellan DJ, Reeves GR, Pastva AM, Duncan P, Upadhya B, Nelson MB, Chen H, Reed SD, Rejeski WJ, Kitzman DW. Rehabilitation Intervention in Older Patients With Acute Heart Failure With Preserved Versus Reduced Ejection Fraction. *JACC Heart Fail.* 2021;9(10):747–757. doi:[10.1016/j.jchf.2021.05.007](https://doi.org/10.1016/j.jchf.2021.05.007)
 **Study type:** Pre-specified subgroup analysis of REHAB-HF RCT · **N:** 185 HFpEF (EF≥45%), 164 HFrEF (EF<45%) · **Population:** Age ≥60, hospitalised for ADHF, any EF · **Follow-up:** 6 months  
 **Primary outcome:** SPPB at 3 months; global rank endpoint (death + rehospitalisation + SPPB composite)
 
@@ -94,7 +93,7 @@ Subanalysis of [[kitzman2021rehabhf]] (parent trial).
 
 ## Related Pages
 
-- Concepts: [[exercise-intolerance]]
+- Concepts: [[exercise-intolerance]], [[short-physical-performance-battery]]
 - Entities: [[supervised-exercise-training]], [[rehab-hf]]
 - Sources: [[kitzman2021rehabhf]], [[sachdev2023exercise]]
 

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart
   Failure
 citekey: McDonagh2021ESC

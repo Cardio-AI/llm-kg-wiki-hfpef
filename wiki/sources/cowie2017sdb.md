@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Cowie 2017 \u2014 Sleep-Disordered Breathing in Heart Failure (State of the\
   \ Art)"
 citekey: Cowie2017SDB
@@ -26,7 +25,7 @@ page-type: source-summary-page
 > SDB affects 50–75% of HF patients; CSA and OSA have distinct mechanisms and respond differently to treatment — adaptive servo-ventilation (ASV) is contraindicated in HFrEF+CSA (SERVE-HF mortality signal) but remains under-investigated in HFpEF where OSA predominates.
 
 **Full citation:**
-Cowie MR, Gallagher AM. Sleep disordered breathing and heart failure: what does the future hold? *JACC Heart Fail.* 2017;5(10):715–723. doi:[10.1016/j.jchf.2017.03.011](https://doi.org/10.1016/j.jchf.2017.03.011)
+Cowie MR, Gallagher AM. Sleep Disordered Breathing and Heart Failure: What Does the Future Hold? *JACC Heart Fail.* 2017;5(10):715–723. doi:[10.1016/j.jchf.2017.06.016](https://doi.org/10.1016/j.jchf.2017.06.016)
 **Authors:** Cowie MR, Gallagher AM  
 **Year:** 2017 · **Journal:** JACC Heart Fail 2017;5:715–723  
 **Type:** State-of-the-art review  
@@ -42,7 +41,7 @@ Cowie MR, Gallagher AM. Sleep disordered breathing and heart failure: what does 
 - Both can coexist; AHI ≥15 events/h (regardless of symptoms) defines clinically significant SDB
 
 ### SERVE-HF (Adaptive Servo-Ventilation in HFrEF+CSA)
-- SERVE-HF (N=1,325 HFrEF, LVEF ≤45%, AHI ≥15, predominantly CSA): ASV significantly **increased CV mortality** (HR 1.28; P=0.01) and all-cause mortality (HR 1.17; P=0.048)
+- SERVE-HF (N=1,325 HFrEF, LVEF ≤45%, AHI ≥15, predominantly CSA): primary endpoint neutral (P=0.10), but ASV significantly **increased all-cause mortality** (HR 1.13; P=0.01) and **CV mortality** (HR 1.34; P=0.006) 
 - Mechanism uncertain: suppression of CSA may eliminate a compensatory respiratory drive; increased mean airway pressure may reduce LV preload, causing harm in low-output state
 - **Contraindication established: ASV is contraindicated in HFrEF + predominantly CSA**
 
@@ -72,7 +71,7 @@ This review establishes that SDB is highly prevalent in HFpEF and mechanisticall
 ## Related Pages
 
 - Concepts: [[sleep-disordered-breathing]], [[exercise-intolerance]]
-- Entities: [[hfpef]], [[hfref]]
+- Entities: [[hfpef]], [[hfref]], [[serve-hf]]
 - Sources: [[suzuki2018sdb]], [[wester2023sdb]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Ranolazine for the Treatment of Diastolic Heart Failure in Patients with Preserved
   Ejection Fraction: the RALI-DHF Proof-of-Concept Study'
 citekey: maier2013ralidhf
@@ -16,7 +15,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
 - citekey: maier2013ralidhf
-  doi: 10.1016/j.jchf.2012.12.004
+  doi: 10.1016/j.jchf.2012.12.002
 page-type: source-summary-page
 ---
 # RALI-DHF: Ranolazine in Diastolic Heart Failure (Maier 2013)
@@ -24,7 +23,7 @@ page-type: source-summary-page
 > RALI-DHF (N=20 HFpEF; Phase 2 crossover): ranolazine reduced invasively measured exercise LVEDP by 4.7 mmHg (P=0.001) — proof-of-concept for the late Na⁺ current → Ca²⁺ overload → diastolic dysfunction therapeutic pathway, with no large Phase 3 RCT subsequently conducted.
 
 **Full citation:**
-Maier LS, Layug B, Karwatowska-Prokopczuk E, Belardinelli L, Lee S, Sander J, Lang C, Wachter R, Edelmann F, Hasenfuss G, Jacobshagen C. Ranolazine for the Treatment of Diastolic Heart Failure in Patients With Preserved Ejection Fraction: the RALI-DHF Proof-of-Concept Study. *JACC Heart Fail.* 2013;1(2):115–122. doi:[10.1016/j.jchf.2012.12.004](https://doi.org/10.1016/j.jchf.2012.12.004)
+Maier LS, Layug B, Karwatowska-Prokopczuk E, Belardinelli L, Lee S, Sander J, Lang C, Wachter R, Edelmann F, Hasenfuss G, Jacobshagen C. Ranolazine for the Treatment of Diastolic Heart Failure in Patients With Preserved Ejection Fraction: the RALI-DHF Proof-of-Concept Study. *JACC Heart Fail.* 2013;1(2):115–122. doi:[10.1016/j.jchf.2012.12.002](https://doi.org/10.1016/j.jchf.2012.12.002)
 
 ---
 
@@ -63,6 +62,7 @@ The [[fayyaz2025pathophys]] tissue-level review confirms diastolic Ca²⁺ handl
 
 ## Related Pages
 - Concepts: [[diastolic-dysfunction]], [[coronary-microvascular-dysfunction]], [[hfpef-treatment-gap]]
+- Entities: [[ranolazine]]
 - Sources: [[fayyaz2025pathophys]], [[redfield2015neat]], [[zamani2015indie]]
 
 ## Contradictions

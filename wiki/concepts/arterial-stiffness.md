@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Arterial Stiffness in HFpEF
 summary: Arterial stiffness is a key pathophysiological mechanism in HFpEF that diverges from hypertensive controls specifically during exercise — HFpEF patients have higher arterial elastance, lower total arterial compliance, and increased wave reflections at exercise, correlating with elevated PCWP and reduced CO; SDB (OSA) independently predicts higher PWV in HFpEF but not HFrEF; inorganic nitrite partially reverses exertional arterial stiffening.
@@ -87,3 +86,7 @@ Confirms NO pathway as a targetable mechanism (source: [[reddy2017artstiff]])
 - [[sleep-disordered-breathing]] — SDB is a modifiable driver of arterial stiffening in HFpEF
 - [[exercise-intolerance]] — arterial stiffening contributes to impaired exercise hemodynamics
 - [[hemodynamics]] — exercise arterial stiffening is a key hemodynamic mechanism
+
+## References
+- Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2017;70(2):136–148. doi:[10.1016/j.jacc.2017.05.029](https://doi.org/10.1016/j.jacc.2017.05.029)
+- Suzuki S, Yoshihisa A, Sato Y, Watanabe S, Yokokawa T, Sato T, Oikawa M, Kobayashi A, Yamaki T, Kunii H, Nakazato K, Suzuki H, Saitoh S, Ishida T, Takeishi Y. Association between sleep-disordered breathing and arterial stiffness in heart failure patients with reduced or preserved ejection fraction. *ESC Heart Fail.* 2018;5(2):284–291. doi:[10.1002/ehf2.12273](https://doi.org/10.1002/ehf2.12273)

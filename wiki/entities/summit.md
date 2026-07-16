@@ -1,5 +1,4 @@
 ---
-type: entity
 title: SUMMIT
 summary: "Phase 3 RCT of tirzepatide (dual GLP-1/GIP agonist, LY3298176; Eli Lilly)\
   \ vs. placebo in HFpEF with obesity; N=731 (364 tirzepatide, 367 placebo); median\
@@ -175,7 +174,7 @@ The original SUMMIT primary endpoint was a hierarchical composite (all-cause dea
 ## Related Pages
 
 - Concepts: [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[pericardial-restraint]]
-- Entities: [[obesity-hfpef]], [[step-hfpef]], [[hfpef]], [[sglt2-inhibitors]]
+- Entities: [[obesity-hfpef]], [[step-hfpef]], [[hfpef]], [[sglt2-inhibitors]], [[kansas-city-cardiomyopathy-questionnaire]]
 - Sources: [[packer2025summit]], [[packer2025summit-ckd]], [[kramer2025summit-cmr]], [[kosiborod2023stephfpef]], [[verma2024inflammation]]
 
 ## Contradictions
@@ -185,4 +184,4 @@ The original SUMMIT primary endpoint was a hierarchical composite (all-cause dea
 ## References
 - Kramer CM, Borlaug BA, Zile MR, Ruff D, DiMaria JM, Menon V, Ou Y, Zarante AM, Hurt KC, Murakami M, Packer M; SUMMIT Trial Study Group. Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related Heart Failure: SUMMIT CMR Substudy. *J Am Coll Cardiol.* 2025;85(7):699–706. doi:[10.1016/j.jacc.2024.11.001](https://doi.org/10.1016/j.jacc.2024.11.001)
 - Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2025;392(5):427–437. doi:[10.1056/NEJMoa2410027](https://doi.org/10.1056/NEJMoa2410027)
-- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure With Preserved Ejection Fraction and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)
+- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Interplay of Chronic Kidney Disease and the Effects of Tirzepatide in Patients With Heart Failure, Preserved Ejection Fraction, and Obesity: The SUMMIT Trial. *J Am Coll Cardiol.* 2025;85(18):1721–1735. doi:[10.1016/j.jacc.2025.03.009](https://doi.org/10.1016/j.jacc.2025.03.009)

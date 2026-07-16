@@ -1,5 +1,4 @@
 ---
-type: study
 title: "STRONG-HF \u2014 Safety, Tolerability, and Efficacy of Up-Titration of GDMT\
   \ in Acute Heart Failure"
 citekey: Mebazaa2022STRONGHF

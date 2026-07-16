@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Left Atrial Structure and Function in HFrEF versus HFpEF: Systematic Review
   and Meta-Analysis (Jin 2022)'
 citekey: Jin2022LA

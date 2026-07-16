@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'IL-1 Blockade in Patients with Heart Failure With Preserved Ejection Fraction:
   Rationale and Design of the Diastolic Heart Failure Anakinra Response Trial 2 (D-HART2)'
 citekey: vantassell2017dhart2
@@ -16,7 +15,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
 - citekey: vantassell2017dhart2
-  doi: 10.1002/clc.22709
+  doi: 10.1002/clc.22719
 page-type: source-summary-page
 ---
 # D-HART2 Trial Design: Anakinra (IL-1 Blockade) in HFpEF (Van Tassell 2017)
@@ -24,7 +23,7 @@ page-type: source-summary-page
 > D-HART2 design paper: Phase 2b double-blind RCT of anakinra (IL-1 receptor antagonist, 100 mg/day SC × 24 weeks) vs. placebo in N=31 elevated-CRP HFpEF patients; primary CRP area-under-curve endpoint; rationale is IL-1 blockade to interrupt the Paulus–Tschöpe inflammation-to-diastolic-dysfunction cascade.
 
 **Full citation:**
-Van Tassell BW, Buckley LF, Carbone S, Trankle CR, Canada JM, Dixon DL, Abouzaki N, Oddi-Erdle C, Biondi-Zoccai G, Arena R, Abbate A. Interleukin-1 Blockade in Patients with Heart Failure with Preserved Ejection Fraction: Rationale and Design of the Diastolic Heart Failure Anakinra Response Trial 2 (D-HART2). *Clin Cardiol.* 2017;40(9):626–632. doi:[10.1002/clc.22709](https://doi.org/10.1002/clc.22709)
+Van Tassell BW, Buckley LF, Carbone S, Trankle CR, Canada JM, Dixon DL, Abouzaki N, Oddi-Erdle C, Biondi-Zoccai G, Arena R, Abbate A. Interleukin-1 Blockade in Patients with Heart Failure with Preserved Ejection Fraction: Rationale and Design of the Diastolic Heart Failure Anakinra Response Trial 2 (D-HART2). *Clin Cardiol.* 2017;40(9):626–632. doi:[10.1002/clc.22719](https://doi.org/10.1002/clc.22719)
 
 ---
 

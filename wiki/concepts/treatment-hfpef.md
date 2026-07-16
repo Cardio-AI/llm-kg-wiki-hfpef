@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Treatment of HFpEF (redirect)
 summary: Redirect stub — canonical content is at hfpef-treatment. This page exists to resolve [[treatment-hfpef]] cross-references.
@@ -22,3 +21,6 @@ sources: []
 > Canonical content for HFpEF treatment is at [[hfpef-treatment]]. This page exists to resolve [[treatment-hfpef]] cross-references throughout the wiki.
 
 See [[hfpef-treatment]] for the full treatment evidence synthesis, including SGLT2i (Class 2a), diuretics, GLP-1 RA, MRA, ARNi, and phenotype-directed therapy.
+
+## References
+None — this is a redirect stub with no independent claims. See [[hfpef-treatment]] for the full reference list.

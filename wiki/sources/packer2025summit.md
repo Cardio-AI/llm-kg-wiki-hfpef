@@ -1,5 +1,4 @@
 ---
-type: study
 title: Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity
   (SUMMIT)
 citekey: Packer2025SUMMIT

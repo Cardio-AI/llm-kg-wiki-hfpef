@@ -1,5 +1,4 @@
 ---
-type: study
 title: HIIT versus Moderate Continuous Training in HFpEF (DonelliDaSilveira 2020)
 citekey: donelli2020hiit
 year: 2020

@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Sleep-Disordered Breathing in HFpEF
 summary: SDB affects 50–80% of HFpEF patients (predominantly OSA in obese HFpEF); intermittent hypoxia/reoxygenation drives CaMKII overactivation, sympathetic activation, systemic inflammation, and arterial stiffening — all compounding diastolic dysfunction; SERVE-HF showed ASV is harmful in HFrEF+CSA; RCT evidence for SDB treatment in HFpEF specifically is lacking.
@@ -108,3 +107,8 @@ SERVE-HF (N=1,325 HFrEF, LVEF ≤45%, AHI ≥15, predominantly CSA):
 - [[obesity-hfpef]] — SDB most prevalent in obese HFpEF phenotype
 - [[hfpef-phenotypes]] — obese phenotype has highest SDB burden
 - [[atrial-fibrillation]] — CaMKII-mediated atrial arrhythmogenesis driven by SDB
+
+## References
+- Cowie MR, Gallagher AM. Sleep Disordered Breathing and Heart Failure: What Does the Future Hold? *JACC Heart Fail.* 2017;5(10):715–723. doi:[10.1016/j.jchf.2017.06.016](https://doi.org/10.1016/j.jchf.2017.06.016)
+- Suzuki S, Yoshihisa A, Sato Y, Watanabe S, Yokokawa T, Sato T, Oikawa M, Kobayashi A, Yamaki T, Kunii H, Nakazato K, Suzuki H, Saitoh S, Ishida T, Takeishi Y. Association between sleep-disordered breathing and arterial stiffness in heart failure patients with reduced or preserved ejection fraction. *ESC Heart Fail.* 2018;5(2):284–291. doi:[10.1002/ehf2.12273](https://doi.org/10.1002/ehf2.12273)
+- Wester M, Arzt M, Sinha F, Maier LS, Lebek S. Insights into the Interaction of Heart Failure with Preserved Ejection Fraction and Sleep-Disordered Breathing. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)

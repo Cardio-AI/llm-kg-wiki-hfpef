@@ -1,5 +1,5 @@
 ---
-type: concept
+page-type: concept-page  # or mechanism-page — use mechanism-page when this concept warrants standalone molecular/cellular depth (see CLAUDE.md Page Type Taxonomy)
 title: 
 summary: 
 tags:
@@ -13,6 +13,13 @@ sources:
 # [Concept Name]
 
 > One-sentence definition.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| | | |
 
 ---
 
@@ -40,3 +47,6 @@ What remains unknown or actively debated.
 
 ## Contradictions
 Note any. Update `wiki/contradictions.md`.
+
+## References
+Full formatted reference (pulled from `wiki/citations.md` → Full Formatted References) for every citekey cited on this page.

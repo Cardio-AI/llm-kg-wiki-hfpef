@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'The role of SGLT2 inhibitors in HFpEF: a systematic review and meta-analysis
   of randomized controlled trials'
 citekey: minisy2025sglt2

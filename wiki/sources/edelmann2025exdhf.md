@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Exercise training in patients with heart failure and preserved ejection fraction:
   the Ex-DHF randomised clinical trial'
 citekey: edelmann2025exdhf
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > Ex-DHF (ISRCTN86879094; n=322, 12 months, combined endurance + resistance training): **primary endpoint NOT met** (Packer composite score, Kendall's tau-b −0.073, P=0.17), but VO₂ improved by +1.3 mL/kg/min (P=0.003) and NYHA class improved substantially (OR 5.89, P<0.001); adherence ~53% likely attenuated composite endpoint benefit.
 
 **Full citation:**
-Edelmann F, et al. Exercise training in patients with heart failure and preserved ejection fraction: the Ex-DHF randomised clinical trial. *Nat Med.* 2025;31:306–314. doi:[10.1038/s41591-024-03342-7](https://doi.org/10.1038/s41591-024-03342-7)
+Edelmann F, et al. Combined endurance and resistance exercise training in heart failure with preserved ejection fraction: a randomized controlled trial. *Nat Med.* 2025;31:306–314. doi:[10.1038/s41591-024-03342-7](https://doi.org/10.1038/s41591-024-03342-7)
 
 ---
 
@@ -62,7 +61,7 @@ Current ESC 2023 guidelines maintain exercise training as recommended (Class I, 
 
 ## Related Pages
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]
-- Entities: [[supervised-exercise-training]]
+- Entities: [[supervised-exercise-training]], [[ex-dhf]]
 - Sources: [[sharif2024locomotor]], [[obaya2024aerobic]]
 
 ## Contradictions

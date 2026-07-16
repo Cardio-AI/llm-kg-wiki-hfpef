@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Sex Differences in Cardiovascular Pathophysiology: Why Women Are Overrepresented
   in Heart Failure With Preserved Ejection Fraction'
 citekey: beale2018sex

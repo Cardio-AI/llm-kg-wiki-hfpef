@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'SECRET-II: Resistance Training Added to Caloric Restriction and Aerobic Exercise
   Training in Obese Older HFpEF'
 citekey: Brubaker2023SECRET2
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > Parallel-arm RCT (N=88, Wake Forest; NCT02636439) comparing 20 weeks of caloric restriction + aerobic training + resistance training (RT+CR+AT) vs. caloric restriction + aerobic training alone (CR+AT) in obese older HFpEF patients; both groups improved similarly in peak VO₂ (+5–7%), KCCQ (+15–20 points), and body weight; resistance training added leg strength (+4.9 Nm vs. CR+AT; P=0.05) and muscle quality (+0.07 Nm/cm²; P=0.043) but did not improve peak VO₂ more than aerobic training alone and failed to prevent skeletal muscle mass loss — a key hypothesis-refuting finding.
 
 **Full citation:**
-Brubaker PH, Kitzman DW, et al. Resistance Training Added to Caloric Restriction and Aerobic Exercise Training in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: The SECRET-II Randomized Trial. *Circ Heart Fail.* 2023;16(9):e010161. doi:[10.1161/CIRCHEARTFAILURE.122.010161](https://doi.org/10.1161/CIRCHEARTFAILURE.122.010161)
+Brubaker PH, Nicklas BJ, Houston DK, Hundley WG, Chen H, Molina AJA, Lyles WM, Nelson B, Upadhya B, Newland R, Kitzman DW. A Randomized, Controlled Trial of Resistance Training Added to Caloric Restriction Plus Aerobic Exercise Training in Obese Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2023;16(9):e010161. doi:[10.1161/CIRCHEARTFAILURE.122.010161](https://doi.org/10.1161/CIRCHEARTFAILURE.122.010161)
 
 ---
 
@@ -117,7 +116,7 @@ SECRET-II directly extends SECRET (NCT00959660), which showed that caloric restr
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]
-- Entities: [[supervised-exercise-training]], [[hfpef]]
+- Entities: [[supervised-exercise-training]], [[hfpef]], [[six-minute-walk-test]]
 - Sources: [[kitzman2016secret]], [[sachdev2023exercise]], [[bohmke2022nonpharm]], [[edelmann2025exdhf]], [[sharif2024locomotor]]
 
 ---

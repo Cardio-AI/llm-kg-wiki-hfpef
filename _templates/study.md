@@ -1,5 +1,5 @@
 ---
-type: study
+page-type: source-summary-page
 title: 
 citekey: 
 year: 
@@ -18,6 +18,15 @@ sources:
 # [Study / Trial Name]
 
 > One-sentence summary of the primary finding.
+
+---
+
+## Aliases
+| Alias | Type | Notes |
+|---|---|---|
+| | | |
+
+---
 
 **Full citation:**
 <Authors. Title. *Journal.* Year;vol(iss):pages. doi:[10.xxxx](https://doi.org/10.xxxx)>
@@ -58,3 +67,6 @@ Papers using data from this study:
 
 ## Contradictions
 Note any. Update `wiki/contradictions.md`.
+
+## References
+Full formatted reference (pulled from `wiki/citations.md` → Full Formatted References) for the citekey above.

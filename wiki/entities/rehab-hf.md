@@ -1,5 +1,4 @@
 ---
-type: entity
 title: REHAB-HF
 summary: Multicentre RCT (N=349) of transitional progressive multidomain rehabilitation
   in older patients hospitalised for acute decompensated HF (any EF); improved SPPB
@@ -20,7 +19,7 @@ sources:
 - citekey: Kitzman2021REHABHF
   doi: 10.1056/NEJMoa2026141
 - citekey: mentz2021rehabhfhfpef
-  doi: 10.1016/j.jchf.2021.07.008
+  doi: 10.1016/j.jchf.2021.05.007
 page-type: entity-page
 ---
 # REHAB-HF
@@ -95,7 +94,7 @@ REHAB-HF demonstrates that structured multidomain rehabilitation is feasible and
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]]
-- Entities: [[supervised-exercise-training]], [[optimex-clin]]
+- Entities: [[supervised-exercise-training]], [[optimex-clin]], [[six-minute-walk-test]], [[short-physical-performance-battery]]
 - Sources: [[kitzman2021rehabhf]], [[mentz2021rehabhfhfpef]], [[sachdev2023exercise]]
 
 ---

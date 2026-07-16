@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Atrial Shunt Device Effects on Cardiac Structure and Function in Heart Failure
   With Preserved Ejection Fraction: The REDUCE LAP-HF II Randomized Clinical Trial'
 citekey: patel2024reducelaphf
@@ -75,7 +74,7 @@ The structural remodelling observed (reduced LVEDV, improved LV s') suggests nor
 
 ## Related Pages
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[hfpef-phenotype-profiling]]
-- Entities: [[decipher-hfpef]], [[echocardiography]]
+- Entities: [[decipher-hfpef]], [[echocardiography]], [[responder-hf]]
 - Sources: [[abraham2016champion]]
 
 ## Contradictions

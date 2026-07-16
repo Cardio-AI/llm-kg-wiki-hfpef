@@ -1,5 +1,4 @@
 ---
-type: source
 title: Total NT-proBNP in heart failure with preserved vs reduced ejection fraction
 citekey: hage2026ntprobnp
 year: 2026

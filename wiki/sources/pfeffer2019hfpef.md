@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'HFpEF: In Perspective (Pfeffer 2019)'
 citekey: Pfeffer2019HFpEF
 year: 2019
@@ -161,7 +160,7 @@ Primary pathophysiology synthesis for the wiki. Provides:
 ---
 
 ## Related Pages
-- Concepts: [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[exercise-intolerance]], [[hfpef-phenotype-profiling]]
+- Concepts: [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[exercise-intolerance]], [[hfpef-phenotype-profiling]], [[titin]]
 - Entities: [[hfpef]], [[charm-preserved]], [[i-preserve]], [[topcat]], [[paragon-hf]], [[sglt2-inhibitors]], [[spironolactone]], [[supervised-exercise-training]]
 - Sources: [[pitt2014topcat]], [[yusuf2003charm]], [[massie2008ipreserve]], [[solomon2019paragon]], [[anker2021emperor]], [[solomon2022deliver]]
 

@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'INDIE-HFpEF: Inorganic Nitrate (Beetroot Juice) in HFpEF'
 citekey: Zamani2015INDIE
 year: 2015
@@ -163,7 +162,7 @@ INDIE-HFpEF is a mechanistic pilot distinct from the large therapeutic trials:
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]]
+- Entities: [[hfpef]], [[indie-hfpef]]
 - Sources: [[redfield2015neat]], [[udelson2020capacity]], [[armstrong2020vitality]]
 
 ## Contradictions

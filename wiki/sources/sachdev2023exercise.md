@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Exercise Training in Heart Failure With Preserved Ejection Fraction: A Scientific
   Statement From the American Heart Association'
 citekey: Sachdev2023Exercise
@@ -79,7 +78,7 @@ Fills the central knowledge gap in [[hfpef-treatment-gap]]: [[supervised-exercis
 
 ## Related Pages
 
-- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
+- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[chronotropic-incompetence]]
 - Entities: [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]], [[hfpef]]
 - Sources: [[mcdonagh2021esc]], [[ho2019hfpefdefinitions]]
 

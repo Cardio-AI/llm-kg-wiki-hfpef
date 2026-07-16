@@ -1,5 +1,4 @@
 ---
-type: study
 title: "STEP-HFpEF \u2014 Semaglutide in Obese HFpEF (non-DM)"
 citekey: Kosiborod2023STEPHFPEF
 year: 2023

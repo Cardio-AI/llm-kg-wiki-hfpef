@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Prevalence of Coronary Microvascular Dysfunction in HFpEF: Systematic Review
   and Meta-Analysis (Lin 2023)'
 citekey: Lin2023CMD

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 2023 ACC Expert Consensus Decision Pathway on Management of Heart Failure With
   Preserved Ejection Fraction
 citekey: Kittleson2023ACC
@@ -263,7 +262,7 @@ Color coding: SGLT2i = green border/yellow (Class 2a but may become Class I); lo
 
 ## Related Pages
 - Concepts: [[guideline-comparison]], [[hfpef-treatment-gap]], [[hfpef-diagnosis]]
-- Entities: [[hfpef]], [[sglt2-inhibitors]], [[sacubitril-valsartan]], [[spironolactone]]
+- Entities: [[hfpef]], [[sglt2-inhibitors]], [[sacubitril-valsartan]], [[spironolactone]], [[soloist-whf]]
 - Sources: [[heidenreich2022aha]], [[mcdonagh2021esc]], [[solomon2022deliver]], [[anker2021emperor]]
 
 ## Contradictions

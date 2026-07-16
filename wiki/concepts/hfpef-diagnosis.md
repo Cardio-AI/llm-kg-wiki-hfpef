@@ -1,5 +1,4 @@
 ---
-type: concept
 title: HFpEF Diagnosis
 summary: "Diagnosing HFpEF requires symptoms + LVEF \u226550% + evidence of elevated\
   \ LV filling pressures; ESC 2021 uses Table 9 structural/functional markers; AHA\
@@ -20,7 +19,7 @@ sources:
 - citekey: Heidenreich2022AHA
   doi: 10.1161/CIR.0000000000001063
 - citekey: Ho2019HFpEFDefinitions
-  doi: 10.1161/CIRCULATIONAHA.118.039451
+  doi: 10.1161/CIRCULATIONAHA.118.039136
 - citekey: Pieske2019HFAPEFF
   doi: 10.1093/eurheartj/ehz641
 - citekey: Reddy2018H2FPEF
@@ -28,9 +27,9 @@ sources:
 - citekey: Pfeffer2019HFpEF
   doi: 10.1161/CIRCRESAHA.119.313572
 - citekey: borlaug2010exercise
-  doi: 10.1161/CIRCHEARTFAILURE.109.919740
+  doi: 10.1161/CIRCHEARTFAILURE.109.930701
 - citekey: landsteiner2025hemodynamics
-  doi: 10.1161/CIRCRESAHA.125.326048
+  doi: 10.1161/CIRCRESAHA.125.326504
 - citekey: borlaug2023statement
   doi: 10.1016/j.jacc.2023.01.049
 page-type: concept-page
@@ -64,15 +63,15 @@ The third criterion is the key discriminating element and is assessed using [[na
 
 ### Diagnostic Markers (ESC 2021, Table 9)
 
-| Parameter               | Threshold                                                       | Notes                                                                                 |                                                                         |
-| ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| LV mass index           | ≥95 g/m² (F), ≥115 g/m² (M)                                     | Absence of LVH does not exclude HFpEF                                                 |                                                                         |
-| Relative wall thickness | >0.42                                                           | —                                                                                     |                                                                         |
-| LA volume index         | >34 mL/m² (SR), >40 mL/m² ([[atrial-fibrillation]])             | ([[atrial-fibrillation]])                                                             | Reflects chronic LV filling pressure elevation                          |
-| E/e' ratio at rest      | >9                                                              | Sensitivity 78%, specificity 59%; cut-off >13 yields sensitivity 46%, specificity 86% |                                                                         |
-| NT-proBNP / BNP         | >125 / >35 pg/mL (SR); >365 / >105 pg/mL ([[atrial-fibrillation | AF]])                                                                                 | Up to 20% of invasively proven HFpEF below threshold (especially obese) |
-| TR velocity             | >2.8 m/s                                                        | —                                                                                     |                                                                         |
-| PA systolic pressure    | >35 mmHg                                                        | Sensitivity 54%, specificity 85%                                                      |                                                                         |
+| Parameter | Threshold | Notes |
+|---|---|---|
+| LV mass index | ≥95 g/m² (F), ≥115 g/m² (M) | Absence of LVH does not exclude HFpEF |
+| Relative wall thickness | >0.42 | — |
+| LA volume index | >34 mL/m² (SR), >40 mL/m² ([[atrial-fibrillation\|AF]]) | Reflects chronic LV filling pressure elevation |
+| E/e' ratio at rest | >9 | Sensitivity 78%, specificity 59%; cut-off >13 yields sensitivity 46%, specificity 86% |
+| NT-proBNP / BNP | >125 / >35 pg/mL (SR); >365 / >105 pg/mL ([[atrial-fibrillation\|AF]]) | Up to 20% of invasively proven HFpEF below threshold (especially obese) |
+| TR velocity | >2.8 m/s | — |
+| PA systolic pressure | >35 mmHg | Sensitivity 54%, specificity 85% |
 
 The greater the number of abnormalities present, the higher the probability of HFpEF. (source: McDonagh2021ESC)
 
@@ -152,7 +151,7 @@ HFpEF_phys (invasive PCWP elevation) independently predicts CV events (HR 1.62, 
 - Should future HFpEF trials use invasive CPET-confirmed enrollment to ensure comparable populations?
 
 ## Related Pages
-- Concepts: [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[exercise-intolerance]], [[guideline-comparison]]
+- Concepts: [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[exercise-intolerance]], [[guideline-comparison]], [[noncardiac-dyspnea]]
 - Entities: [[hfpef]], [[hfmref]], [[echocardiography]], [[cardiac-mri]], [[atrial-fibrillation]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[ho2019hfpefdefinitions]], [[pieske2019hfapeff]], [[reddy2018h2fpef]], [[pfeffer2019hfpef]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]]
 
@@ -165,10 +164,10 @@ HFpEF_phys (invasive PCWP elevation) independently predicts CV events (HR 1.62, 
 See [[contradictions]].
 
 ## References
-- Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.919740](https://doi.org/10.1161/CIRCHEARTFAILURE.109.919740) [DOI unverified]
+- Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.930701](https://doi.org/10.1161/CIRCHEARTFAILURE.109.930701) [DOI unverified]
 - Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049) [DOI unverified]
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
-- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039451](https://doi.org/10.1161/CIRCULATIONAHA.118.039451)
-- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326048](https://doi.org/10.1161/CIRCRESAHA.125.326048) [DOI unverified]
+- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Existing HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039136](https://doi.org/10.1161/CIRCULATIONAHA.118.039136)
+- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326504](https://doi.org/10.1161/CIRCRESAHA.125.326504) [DOI unverified]
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
 - Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)

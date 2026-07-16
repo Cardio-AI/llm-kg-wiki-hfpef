@@ -1,5 +1,4 @@
 ---
-type: entity
 title: OptimEx-Clin
 summary: "Five-site European RCT (N=180 HFpEF) comparing HIIT, MCT, and guideline\
   \ control; both exercise arms improved peak VO\u2082 vs. control at 3 months (HIIT\
@@ -91,7 +90,7 @@ OptimEx-Clin is the definitive head-to-head comparison of HIIT vs MCT in HFpEF. 
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]]
-- Entities: [[supervised-exercise-training]], [[rehab-hf]]
+- Entities: [[supervised-exercise-training]], [[rehab-hf]], [[six-minute-walk-test]]
 - Sources: [[mueller2021optimex]], [[donelli2020hiit]], [[sachdev2023exercise]], [[prokopidis2025exercise]]
 
 ---

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'The Spironolactone Initiation Registry Randomized Interventional Trial in
   Heart Failure with Preserved Ejection Fraction (SPIRRIT-HFpEF): Rationale and design'
 citekey: lund2024spirrit

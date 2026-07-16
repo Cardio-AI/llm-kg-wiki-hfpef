@@ -1,5 +1,4 @@
 ---
-type: source
 title: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure
 citekey: Heidenreich2022AHA
 year: 2022

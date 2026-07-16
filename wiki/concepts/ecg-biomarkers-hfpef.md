@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: ECG Biomarkers in HFpEF
 summary: ECG parameters carry independent prognostic information in HFpEF beyond standard clinical variables; QRS duration ≥120 ms (17.9% prevalence in TOPCAT) increases composite outcome risk by 27% and HF hospitalisation by 38% with a continuous risk starting at ~100 ms; anterior/lateral QRS fragmentation (fQRS, 8.7% prevalence) independently predicts HF hospitalisation (HR 1.90), CV and all-cause death, and correlates with microvascular disease.
@@ -88,3 +87,7 @@ Anterior/lateral territory predilection suggests the left anterior descending mi
 - [[cardiac-remodelling]] — wide QRS reflects advanced LV remodelling in HFpEF
 - [[myocardial-fibrosis]] — diffuse fibrosis may contribute to conduction heterogeneity
 - [[hfpef-diagnosis]] — ECG as part of multi-modal HFpEF assessment
+
+## References
+- Joseph J, Claggett BC, Anand IS, Fleg JL, Huynh T, Desai AS, Solomon SD, O'Meara E, Mckinlay S, Pitt B, Pfeffer MA, Lewis EF. QRS Duration Is a Predictor of Adverse Outcomes in Heart Failure With Preserved Ejection Fraction. *JACC Heart Fail.* 2016;4(6):477–486. doi:[10.1016/j.jchf.2016.02.013](https://doi.org/10.1016/j.jchf.2016.02.013)
+- Sung KT, Chang SH, Chi PC, Chien SC, Lo CI, Lin CF, Huang WH, Yun CH, Tsai CT, Su CH, Hou CJY, Yeh HI, Tsao CH, Kuo JY, Hung CL. QRS Fragmentation in Preserved Ejection Fraction Heart Failure: Functional Insights, Pathological Correlates, and Prognosis. *J Am Heart Assoc.* 2023;12(3):e028105. doi:[10.1161/JAHA.122.028105](https://doi.org/10.1161/JAHA.122.028105)

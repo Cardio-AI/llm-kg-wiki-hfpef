@@ -1,5 +1,4 @@
 ---
-type: entity
 title: VICTORIA
 summary: "Phase 3 RCT (N=5,050) of vericiguat vs. placebo in HFrEF (LVEF <45%); published\
   \ NEJM 2020; HR 0.90 (P=0.02) for CV death/HF hospitalisation; positive in HFrEF\
@@ -81,3 +80,7 @@ Primary endpoint HR 0.90 (95% CI 0.82–0.98; P=0.02). NNT ~24 at ~10 months. Ab
 ## Contradictions
 
 VICTORIA (positive in HFrEF) vs. VITALITY-HFpEF (neutral in HFpEF) with the same drug class — strongest pharmacological demonstration of EF-specific pathway relevance. Also contrasts with SOCRATES-PRESERVED phase 2b NT-proBNP signal that did not translate to VITALITY phase 3 outcomes. See [[contradictions]].
+
+## References
+- Armstrong PW, Lam CSP, Anstrom KJ, et al.; VITALITY-HFpEF Study Group. Effect of Vericiguat vs Placebo on Quality of Life in Patients with Heart Failure and Preserved Ejection Fraction: The VITALITY-HFpEF Randomized Clinical Trial. *JAMA.* 2020;324(15):1512–1521. doi:[10.1001/jama.2020.15922](https://doi.org/10.1001/jama.2020.15922)
+- Armstrong PW, Roessig L, Patel MJ, et al.; VICTORIA Study Group. Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction. *N Engl J Med.* 2020;382(20):1883–1893. doi:[10.1056/NEJMoa1915928](https://doi.org/10.1056/NEJMoa1915928)

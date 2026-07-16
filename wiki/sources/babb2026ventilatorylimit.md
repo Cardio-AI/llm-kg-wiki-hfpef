@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Babb 2026 \u2014 Ventilatory Limitation to Exercise in HFpEF and Obesity:\
   \ No Room to Breathe"
 citekey: Babb2026VentilatoryLimit
@@ -23,7 +22,7 @@ created: 2026-05-18
 last_updated: 2026-05-18
 sources:
 - citekey: Babb2026VentilatoryLimit
-  doi: 10.1016/j.resp.2025.104546
+  doi: 10.1016/j.resp.2026.104546
 page-type: source-summary-page
 ---
 # Babb 2026 — Ventilatory Limitation to Exercise in Obese HFpEF: No Room to Breathe
@@ -31,7 +30,7 @@ page-type: source-summary-page
 > In 42 obese HFpEF patients, sublingual nitroglycerin (NTG) lowered PCWP and cardiac output but did **not** change exercise capacity, breathing mechanics, or lung volumes — patients stopped exercise at the **same mechanical ventilatory limitation point** before and after NTG, demonstrating that exercise is ventilatory-limited, not primarily cardiac-limited, in obese HFpEF.
 
 **Full citation:**
-Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2025.104546](https://doi.org/10.1016/j.resp.2025.104546)
+Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2026.104546](https://doi.org/10.1016/j.resp.2026.104546)
 **Authors:** Babb TG et al. (Institute for Exercise and Environmental Medicine, UT Southwestern / Texas Presbyterian Hospital, Dallas)  
 **Year:** 2026 · **Journal:** Respir Physiol Neurobiol 2026;341:104546 · **Published online:** January 27, 2026  
 **Study type:** Single-blind randomised placebo-controlled crossover · **NCT:** NCT04068844  

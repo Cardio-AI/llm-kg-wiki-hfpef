@@ -1,5 +1,4 @@
 ---
-type: entity
 page-type: entity-page
 title: ATTR Cardiomyopathy
 summary: Disease entity — cardiac amyloidosis caused by misfolding of transthyretin (TTR) tetramers; two forms: wild-type (ATTRwt, age-related) and variant (ATTRv, hereditary point mutation); present in 13–19% of HFpEF in contemporary series; first HFpEF subphenotype with a disease-modifying therapy (tafamidis, AHA 2022 Class I).
@@ -64,8 +63,8 @@ RNA silencing agents (patisiran, vutrisiran) approved for ATTRv polyneuropathy; 
 
 ## Related Pages
 
-- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-diagnosis]]
-- Entities: [[attr-act]], [[hfpef]], [[hfmref]]
+- Concepts: [[hfpef-phenotype-profiling]], [[hfpef-diagnosis]], [[hfpef-mimics-differential-diagnosis]]
+- Entities: [[attr-act]], [[hfpef]], [[hfmref]], [[patisiran-apollo-b]], [[technetium-pyrophosphate-scintigraphy]]
 - Sources: [[maurer2018attract]], [[heidenreich2022aha]], [[kittleson2023acc]], [[pfeffer2019hfpef]]
 
 ## Contradictions

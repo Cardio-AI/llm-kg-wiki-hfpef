@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Splanchnic Nerve Modulation in Heart Failure With Preserved Ejection Fraction:
   REBALANCE-HF Match-Controlled Pilot Trial'
 citekey: fudim2024rebalance
@@ -15,7 +14,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
 - citekey: fudim2024rebalance
-  doi: 10.1001/jamacardio.2024.3060
+  doi: 10.1001/jamacardio.2024.2612
 page-type: source-summary-page
 ---
 # REBALANCE-HF: Splanchnic Nerve Ablation in HFpEF (Fudim 2024)
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > REBALANCE-HF (N=80 HFpEF; sham-controlled RCT): endovascular splanchnic nerve ablation reduced exercise PCWP by −5.4 mmHg vs. sham (P=0.003) at 6 months, demonstrating that sympathetically mediated venous blood volume redistribution is a therapeutically targetable driver of exercise filling pressures in HFpEF.
 
 **Full citation:**
-Fudim M, Borlaug BA, Slivnick JA, Piccini JP, Anstrom KJ, Sun JL, Al-Hindawi A, Devore AD, Al-Khatib SM, Khouri MG, Ahmad T, Johnson S, Kwiatkowski L, Lamba S, Kapetanakis EI, Basuray A, Leclercq C, Chetrit M, Schwartz LM, Haeusler KG, Schulz-Menger J, Voors AA, Fleg JL, Cooper LB, Hernandez AF, Walsh MN. Splanchnic Nerve Modulation in Heart Failure With Preserved Ejection Fraction: REBALANCE-HF Match-Controlled Pilot Trial. *JAMA Cardiol.* 2024;9(12):1143–1153. doi:[10.1001/jamacardio.2024.3060](https://doi.org/10.1001/jamacardio.2024.3060)
+Fudim M, Borlaug BA, Mohan RC, Price MJ, Fail P, Goyal P, Hummel SL, Zirakashvili T, Shaburishvili T, Patel RB, Reddy VY, Nielsen CD, Chetcuti SJ, Sukul D, Gulati R, Kim L, Benzuly K, Mitter SS, Klein L, Uriel N, Augostini RS, Blair JC, Rocha-Singh K, Burkhoff D, Patel MR, Somo SI, Litwin SE, Shah SJ. Endovascular Ablation of the Greater Splanchnic Nerve in Heart Failure With Preserved Ejection Fraction: The REBALANCE-HF Randomized Clinical Trial. *JAMA Cardiol.* 2024;9(12):1143–1153. doi:[10.1001/jamacardio.2024.2612](https://doi.org/10.1001/jamacardio.2024.2612)
 
 ---
 

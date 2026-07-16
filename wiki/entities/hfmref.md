@@ -1,5 +1,4 @@
 ---
-type: entity
 title: "HFmrEF \u2014 Heart Failure with Mildly Reduced Ejection Fraction"
 summary: "Heart failure with LVEF 41\u201349%, renamed from 'mid-range' in the 2021\
   \ ESC Guidelines; a heterogeneous, poorly characterised group where all pharmacological\

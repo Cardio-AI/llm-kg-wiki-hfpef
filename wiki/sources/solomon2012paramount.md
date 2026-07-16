@@ -1,5 +1,4 @@
 ---
-type: study
 title: "PARAMOUNT: LCZ696 vs. Valsartan in HFpEF \u2014 Phase 2 RCT"
 citekey: Solomon2012PARAMOUNT
 year: 2012
@@ -104,7 +103,7 @@ Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransf
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]]
-- Entities: [[sacubitril-valsartan]], [[paragon-hf]], [[hfpef]]
+- Entities: [[sacubitril-valsartan]], [[paragon-hf]], [[hfpef]], [[paramount-trial]]
 - Sources: [[solomon2019paragon]], [[vandebovenkamp2025hemodynamics]]
 
 ## Contradictions

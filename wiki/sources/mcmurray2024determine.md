@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'DETERMINE: Dapagliflozin on Symptoms and 6MWD in HF'
 citekey: McMurray2024DETERMINE
 year: 2024

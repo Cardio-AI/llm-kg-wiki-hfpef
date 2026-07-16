@@ -1,5 +1,4 @@
 ---
-type: source
 title: 2023 Focused Update of the 2021 ESC Guidelines for the Diagnosis and Treatment
   of Acute and Chronic Heart Failure
 citekey: McDonagh2023ESCupdate

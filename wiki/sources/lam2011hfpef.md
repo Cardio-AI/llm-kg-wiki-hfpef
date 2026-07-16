@@ -1,5 +1,4 @@
 ---
-type: source
 title: Epidemiology and clinical course of heart failure with preserved ejection fraction
 citekey: lam2011hfpef
 year: 2011
@@ -20,7 +19,7 @@ page-type: source-summary-page
 > HFpEF constitutes approximately 50% of all heart failure cases with rising prevalence; all-cause mortality approaches that of HFrEF (~20–30% per year), yet no treatment had been proven to reduce mortality at the time of publication.
 
 **Full citation:**
-Lam CSP, Donal E, Kraigher-Krainer E, Rosen BD. Epidemiology and clinical course of heart failure with preserved ejection fraction. *Eur J Heart Fail.* 2011;13(1):18–28. doi:[10.1002/ejhf.157](https://doi.org/10.1002/ejhf.157)
+Lam CSP, Donal E, Kraigher-Krainer E, Vasan RS. Epidemiology and clinical course of heart failure with preserved ejection fraction. *Eur J Heart Fail.* 2011;13(1):18–28. doi:[10.1093/eurjhf/hfq121](https://doi.org/10.1093/eurjhf/hfq121)
 
 ---
 

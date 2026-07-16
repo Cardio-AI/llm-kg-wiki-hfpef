@@ -1,5 +1,4 @@
 ---
-type: source
 title: Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction
   (Bohmke 2022)
 citekey: Bohmke2022Nonpharm
@@ -25,7 +24,7 @@ page-type: source-summary-page
 > Comprehensive narrative review of exercise training modalities (MCT, HIIT, combined resistance/aerobic, IMT) and dietary interventions (caloric restriction, sodium restriction, Mediterranean diet, DASH, malnutrition management) in HFpEF; introduces IMT (inspiratory muscle training) as a modality distinct from standard aerobic training with a unique mechanism operating on respiratory muscle oxygen demand.
 
 **Full citation:**
-Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
+Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies in Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
 
 ---
 
@@ -100,7 +99,7 @@ IMT trains respiratory muscles specifically, reducing the fraction of cardiac ou
 
 ## Related Pages
 
-- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]
+- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[inspiratory-muscle-training]]
 - Entities: [[supervised-exercise-training]], [[hfpef]]
 - Sources: [[sachdev2023exercise]], [[mirzai2025exercise]], [[redfield2015neat]]
 

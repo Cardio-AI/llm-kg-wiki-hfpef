@@ -1,5 +1,4 @@
 ---
-type: source
 title: Sympathetic and Hemodynamic Responses to Exercise in Heart Failure With Preserved
   Ejection Fraction
 citekey: manabe2023sympathetic

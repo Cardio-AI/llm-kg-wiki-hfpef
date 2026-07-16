@@ -1,5 +1,4 @@
 ---
-type: study
 title: "von Haehling 2024 \u2014 FAIR-HFpEF: Ferric Carboxymaltose in HFpEF and Iron\
   \ Deficiency"
 citekey: vonHaehling2024FAIR
@@ -29,7 +28,7 @@ page-type: source-summary-page
 > FAIR-HFpEF, the first RCT of ferric carboxymaltose (FCM) in HFpEF with iron deficiency, showed improved 6-minute walk distance at 24 weeks (+49m vs. −8m; difference 49m, 95% CI 5–93; P=0.029) but was stopped early after enrolling only 40 patients; secondary QoL endpoints were not significantly different.
 
 **Full citation:**
-von Haehling S, Doehner W, Jankowska EA, Ponikowski P, Anker SD, Mebazaa A, Dickstein K, Banasiak W, Kirwan BA, Metra M, Brunou P, Okonko DO. Intravenous iron in patients with iron deficiency and heart failure with preserved ejection fraction: the FAIR-HFpEF randomized controlled trial. *Eur Heart J.* 2024;45(40):3789–3800. doi:[10.1093/eurheartj/ehae587](https://doi.org/10.1093/eurheartj/ehae587)
+von Haehling S, Doehner W, Evertz R, Garfias-Veitl T, Derad C, Diek M, Karakas M, Birkemeyer R, Fillippatos G, Lainscak M, Butler J, Ponikowski P, Böhm M, Friede T, Anker SD. Ferric carboxymaltose and exercise capacity in heart failure with preserved ejection fraction and iron deficiency: the FAIR-HFpEF trial. *Eur Heart J.* 2024;45(40):3789–3800. doi:[10.1093/eurheartj/ehae479](https://doi.org/10.1093/eurheartj/ehae479)
 **Authors:** von Haehling S et al.  
 **Year:** 2024 · **Journal:** Eur Heart J 2024;45:3789–3800 · **DOI:** 10.1093/eurheartj/ehae479  
 **Study type:** Randomised double-blind placebo-controlled trial · **NCT:** NCT03074591  
@@ -94,7 +93,7 @@ FAIR-HFpEF is the first and to date only RCT of IV iron in HFpEF with iron defic
 ## Related Pages
 
 - Concepts: [[iron-deficiency]], [[exercise-intolerance]]
-- Entities: [[fair-hfpef]], [[hfpef]]
+- Entities: [[fair-hfpef]], [[hfpef]], [[six-minute-walk-test]]
 - Sources: [[beale2019iron]], [[ponikowski2020affirm]]
 
 ## Contradictions

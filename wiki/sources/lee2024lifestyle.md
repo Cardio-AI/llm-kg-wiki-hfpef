@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Effect of Weight Loss Through Lifestyle Interventions in HFpEF: Systematic
   Review and Meta-Analysis (Lee 2024)'
 citekey: Lee2024Lifestyle

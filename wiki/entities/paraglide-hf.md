@@ -1,6 +1,5 @@
 ---
-type: entity
-subtype: trial
+entity_type: trial
 title: PARAGLIDE-HF
 summary: Prospective comparison of ARNI with ARB Given following stabilization In
   DEcompensated HFpEF; sacubitril/valsartan vs. valsartan in 467 patients with LVEF
@@ -87,6 +86,13 @@ The symptomatic hypotension signal (particularly in women with LVEF >60%) is cli
 - Sex context: [[beale2018sex]], [[bozkurt2020sex]] — women's higher LVEF biology explains SH vulnerability
 
 ## Related Pages
-- Concepts: [[hfpef-treatment-gap]], [[natriuretic-peptides]]
-- Entities: [[sacubitril-valsartan]], [[paragon-hf]]
-- Sources: [[mentz2023paraglide]], [[fudim2024paraglide]], [[nouhravesh2025paraglide]], [[rambarat2025paraglide]]
+- Concepts: [[hfpef-treatment-gap]], [[natriuretic-peptides]], [[worsening-heart-failure]]
+- Entities: [[sacubitril-valsartan]], [[paragon-hf]], [[soloist-whf]]
+- Sources: [[mentz2023paraglide]], [[fudim2024paraglide]], [[nouhravesh2025paraglide]], [[rambarat2025paraglide]], [[chaudhary2025worseninghf]]
+
+## WHF Population Definition
+PARAGLIDE-HF's inclusion criterion — a WHF event within 30 days (HF hospitalisation, emergency department visit, or ambulatory urgent visit requiring IV diuretics) — corresponds to level 1-or-2 of the hierarchical WHF taxonomy formalised by Chaudhary et al. 2025 (post hoc REDUCE LAP-HF II analysis), explicitly excluding level 3 (nonurgent, oral-diuretic-only escalation). See [[worsening-heart-failure]] for the general concept, including evidence that non-hospitalisation WHF events add trial statistical power but little independent mortality-prediction value beyond hospitalisation-level events. (source: [[chaudhary2025worseninghf]])
+
+## References
+- Chaudhary RS, Hussain SMD, Wang YS, Komtebedde J, Hasenfuß G, Borlaug BA, Kaye DM, Cleland JGF, Leon MB, Shah SJ, van Veldhuisen DJ, Solomon SD, Cikes M, Cutlip DE. Expanded Definition of Worsening Heart Failure: Impact on Clinical Outcomes and Quality-of-Life Assessment. *JACC Heart Fail.* 2025;13(9):102571. doi:[10.1016/j.jchf.2025.102571](https://doi.org/10.1016/j.jchf.2025.102571)
+- Mentz RJ, Ward JH, Hernandez AF, Lepage S, Morrow DA, Sarwat S, Sharma K, Solomon SD, Starling RC, Velazquez EJ, Williamson K, Zieroth S, Braunwald E. Rationale, Design and Baseline Characteristics of the PARAGLIDE-HF Trial: Sacubitril/Valsartan vs Valsartan in HFmrEF and HFpEF With a Worsening Heart Failure Event. *J Card Fail.* 2023;29(6):922–930. doi:[10.1016/j.cardfail.2023.02.001](https://doi.org/10.1016/j.cardfail.2023.02.001)

@@ -1,5 +1,4 @@
 ---
-type: entity
 title: "HFpEF \u2014 Heart Failure with Preserved Ejection Fraction"
 summary: "Clinical syndrome of heart failure with LVEF \u226550%, elevated LV filling\
   \ pressures, and a high comorbidity burden; SGLT2i (AHA 2022 Class 2a) are the first\
@@ -18,7 +17,7 @@ sources:
 - citekey: Heidenreich2022AHA
   doi: 10.1161/CIR.0000000000001063
 - citekey: Ho2019HFpEFDefinitions
-  doi: 10.1161/CIRCULATIONAHA.118.039451
+  doi: 10.1161/CIRCULATIONAHA.118.039136
 - citekey: Sachdev2023Exercise
   doi: 10.1161/CIR.0000000000001122
 - citekey: Anker2023HFpEFPhenotype
@@ -126,8 +125,8 @@ HFpEF represents the core challenge described in [[hfpef-treatment-gap]]. No lar
 **Exercise training** ([[supervised-exercise-training]]) remains the most consistently positive intervention for functional outcomes: peak VO2 +2.8 mL/kg/min (8 RCTs, n=503). (source: Sachdev2023Exercise)
 
 ## Related Pages
-- Concepts: [[hf-phenotype-classification]], [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[hfpef-phenotype-profiling]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]]
-- Entities: [[hfmref]], [[hfref]], [[atrial-fibrillation]], [[echocardiography]], [[cardiac-mri]], [[sacubitril-valsartan]], [[spironolactone]], [[sglt2-inhibitors]], [[paragon-hf]], [[topcat]], [[charm-preserved]], [[i-preserve]], [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]]
+- Concepts: [[hf-phenotype-classification]], [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[hfpef-phenotype-profiling]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[titin]]
+- Entities: [[hfmref]], [[hfref]], [[atrial-fibrillation]], [[echocardiography]], [[cardiac-mri]], [[sacubitril-valsartan]], [[spironolactone]], [[sglt2-inhibitors]], [[paragon-hf]], [[topcat]], [[charm-preserved]], [[i-preserve]], [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]], [[semaglutide-hfpef]], [[sgc-stimulators]], [[statins]], [[ranolazine]], [[tolvaptan]], [[acetazolamide]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[ho2019hfpefdefinitions]], [[sachdev2023exercise]], [[anker2023hfpefphenotype]], [[savarese2022globalburden]], [[pfeffer2019hfpef]]
 
 ## Contradictions
@@ -138,7 +137,7 @@ See [[contradictions]].
 
 ## References
 - Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
-- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039451](https://doi.org/10.1161/CIRCULATIONAHA.118.039451)
+- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Existing HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039136](https://doi.org/10.1161/CIRCULATIONAHA.118.039136)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
 - Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)
 - Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

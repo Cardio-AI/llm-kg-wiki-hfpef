@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'DIAMOND-HFpEF: CMR-Based Microvascular Dysfunction and Prognosis in HFpEF'
 citekey: Arnold2022DIAMOND
 year: 2022
@@ -32,7 +31,7 @@ page-type: source-summary-page
 > CMR-based multiparametric study (N=101 HFpEF, 43 controls; Leicester) demonstrating MVD prevalence of 70% in HFpEF and that impaired MPR (per 1 SD increase HR ~0.69) independently predicts death/HF hospitalisation across 3 adjusted models — critically, MPR and diffuse myocardial fibrosis (ECV) are NOT correlated, identifying them as distinct and co-existing prognostic mechanisms.
 
 **Full citation:**
-Arnold JR, et al.; DIAMOND-HFpEF study group. Microvascular dysfunction in HFpEF as a mediator of adverse outcomes: the DIAMOND-HFpEF study. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.10.002](https://doi.org/10.1016/j.jcmg.2021.10.002)
+Arnold JR, Kanagala P, Budgeon CA, Jerosch-Herold M, Gulsin GS, Singh A, Khan JN, Chan DCS, Squire IB, Ng LL, McCann GP. Prevalence and Prognostic Significance of Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.11.022](https://doi.org/10.1016/j.jcmg.2021.11.022)
 **Authors:** Arnold JR et al. (DIAMOND-HFpEF study group)  
 **Year:** 2022 · **Journal:** JACC Cardiovasc Imaging 2022;15:1001–1011  
 **ClinicalTrials.gov:** NCT03050593  
@@ -122,7 +121,7 @@ Arnold JR, et al.; DIAMOND-HFpEF study group. Microvascular dysfunction in HFpEF
 ## Related Pages
 
 - Concepts: [[coronary-microvascular-dysfunction]], [[hfpef-fibrosis-paradigm]], [[cardiac-mri]]
-- Entities: [[hfpef]], [[cardiac-mri]]
+- Entities: [[hfpef]], [[cardiac-mri]], [[diamond-hfpef]]
 - Sources: [[shah2018promis]], [[lin2023cmd]], [[damario2019cmd]], [[ipek2024cmr]], [[lange2024cmr]]
 
 ## Contradictions

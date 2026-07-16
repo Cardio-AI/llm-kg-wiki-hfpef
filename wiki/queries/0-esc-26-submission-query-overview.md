@@ -42,14 +42,14 @@ Moderate heterogeneity (I²=62%); no publication bias (Egger). Mortality neutral
 ## Contradictions
 
 - DETERMINE-Preserved (KCCQ-TSS P=0.079, neutral) vs. DELIVER (KCCQ win ratio P=0.009, positive): same drug, same population, different follow-up duration (16 weeks vs. 2.3 years) and endpoint design. See [[contradictions]] #16.
-- CV mortality not significantly reduced in any individual HFpEF trial despite directionally favorable HRs (0.88–0.91). Contrasts with mortality benefit in HFrEF (DAPA-HF, EMPEROR-Reduced). See [[contradictions]] #9.
+- CV mortality not significantly reduced in any individual HFpEF trial despite directionally favorable HRs (0.88–0.91). Contrasts with mortality benefit in HFrEF (DAPA-HF, EMPEROR-Reduced). See [[contradictions]] #36.
 - EMPEROR-Preserved signal of attenuated benefit at LVEF ≥65% not replicated in DELIVER (HR 0.78 in LVEF ≥60% subgroup). See [[contradictions]].
 
 ---
 ## References
 
 **Anker2021EMPEROR**
-> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107522
+> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107038
 
 **Solomon2022DELIVER**
 > Solomon SD, McMurray JJV, Claggett B, et al. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2022;387:1089–1098. doi:10.1056/NEJMoa2206286
@@ -195,7 +195,7 @@ When either score is intermediate, invasive exercise haemodynamic testing (gold 
 > Reddy YNV, Carter RE, Obokata M, Redfield MM, Borlaug BA. A Simple, Evidence-Based Approach to Help Guide Diagnosis of Heart Failure with Preserved Ejection Fraction. *Circulation.* 2018;138(9):861–870. doi:10.1161/CIRCULATIONAHA.118.034646
 
 **Ho2019HFpEFDefinitions**
-> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039451
+> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039136
 
 **upadhya2025echo**
 > Upadhya B, Rose GA, Stacey RB, et al. The role of echocardiography in the diagnosis and management of heart failure with preserved ejection fraction. *Heart Fail Rev.* 2025;30:899–922. doi:10.1007/s10741-025-10516-z
@@ -274,7 +274,7 @@ No direct contradiction found regarding SGLT2i benefit in obese HFpEF. The numer
 ## References
 
 **Anker2021EMPEROR**
-> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107522
+> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107038
 
 **Solomon2022DELIVER**
 > Solomon SD, McMurray JJV, Claggett B, et al. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2022;387:1089–1098. doi:10.1056/NEJMoa2206286
@@ -584,7 +584,7 @@ Re-score HFA-PEFF / H₂FPEF
 > Sachdev V, Sharma K, Keteyian SJ, et al. Exercise Training in Heart Failure With Preserved Ejection Fraction: A Scientific Statement From the American Heart Association. *Circulation.* 2023;148(19):1531–1544. doi:10.1161/CIR.0000000000001171
 
 **Ho2019HFpEFDefinitions**
-> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039451
+> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039136
 
 ---
 ## Evidence Quality

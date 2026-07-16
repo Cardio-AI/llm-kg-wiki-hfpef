@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Cardiopulmonary Exercise Testing (CPET)
 summary: Integrated assessment of cardiorespiratory, metabolic, and gas exchange responses
   to graded exercise; in invasive form (with PA catheter and arterial line), it is
@@ -17,15 +16,15 @@ created: 2026-04-30
 last_updated: 2026-05-14
 sources:
 - citekey: Ho2019HFpEFDefinitions
-  doi: 10.1161/CIRCULATIONAHA.118.039451
+  doi: 10.1161/CIRCULATIONAHA.118.039136
 - citekey: Sachdev2023Exercise
   doi: 10.1161/CIR.0000000000001122
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
 - citekey: borlaug2010exercise
-  doi: 10.1161/CIRCHEARTFAILURE.109.919740
+  doi: 10.1161/CIRCHEARTFAILURE.109.930701
 - citekey: landsteiner2025hemodynamics
-  doi: 10.1161/CIRCRESAHA.125.326048
+  doi: 10.1161/CIRCRESAHA.125.326504
 page-type: entity-page
 ---
 # Cardiopulmonary Exercise Testing (CPET)
@@ -135,7 +134,7 @@ HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[hfpef-diagnosis]], [[diastolic-dysfunction]]
-- Entities: [[hfpef]], [[echocardiography]], [[supervised-exercise-training]]
+- Entities: [[hfpef]], [[echocardiography]], [[supervised-exercise-training]], [[six-minute-walk-test]]
 - Sources: [[ho2019hfpefdefinitions]], [[sachdev2023exercise]], [[mcdonagh2021esc]], [[borlaug2010exercise]], [[landsteiner2025hemodynamics]], [[borlaug2023statement]]
 
 ## Contradictions
@@ -143,8 +142,8 @@ HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 
 - Non-invasive markers have only moderate accuracy for HFpEF_phys (E/e' >9: sensitivity 78%, specificity 59%; NT-proBNP ≥125: sensitivity 48%) — invasive confirmation cannot be replaced by any single non-invasive criterion. See [[contradictions]].
 
 ## References
-- Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.919740](https://doi.org/10.1161/CIRCHEARTFAILURE.109.919740) [DOI unverified]
-- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039451](https://doi.org/10.1161/CIRCULATIONAHA.118.039451)
-- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326048](https://doi.org/10.1161/CIRCRESAHA.125.326048) [DOI unverified]
+- Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.930701](https://doi.org/10.1161/CIRCHEARTFAILURE.109.930701) [DOI unverified]
+- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Existing HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039136](https://doi.org/10.1161/CIRCULATIONAHA.118.039136)
+- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326504](https://doi.org/10.1161/CIRCRESAHA.125.326504) [DOI unverified]
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
 - Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

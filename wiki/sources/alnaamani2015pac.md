@@ -1,5 +1,4 @@
 ---
-type: study
 title: Pulmonary Arterial Capacitance Is a Better Predictor of Mortality Than Pulmonary
   Vascular Resistance and Resting Hemodynamics in Patients With Pulmonary Hypertension
   due to Left Heart Failure
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > PAC <1.1 mL/mmHg predicts ~5× greater mortality risk in HFpEF+PH-LHD (HR 4.9; 95% CI 1.9–12.4; P<0.001 by Kaplan-Meier analysis); outperforms PVR, DPG, and TPG as a prognostic marker (AUC 0.73 vs. 0.50, 0.45, 0.37 respectively). In multivariate Cox, PAC per 1 mL/mmHg increase: HR 0.48 (0.26–0.89; P=0.02).
 
 **Full citation:**
-Al-Naamani N, Preston IR, Paulus JK, Hill NS, Roberts KE. Pulmonary Arterial Capacitance Is a Better Predictor of Mortality Than Pulmonary Vascular Resistance and Resting Hemodynamics in Patients With Pulmonary Hypertension due to Left Heart Failure. *JACC Heart Fail.* 2015;3(6):467–474. doi:[10.1016/j.jchf.2015.01.013](https://doi.org/10.1016/j.jchf.2015.01.013)
+Al-Naamani N, Preston IR, Paulus JK, Hill NS, Roberts KE. Pulmonary Arterial Capacitance Is an Important Predictor of Mortality in Heart Failure With a Preserved Ejection Fraction. *JACC Heart Fail.* 2015;3(6):467–474. doi:[10.1016/j.jchf.2015.01.013](https://doi.org/10.1016/j.jchf.2015.01.013)
 **Year:** 2015 · **Journal:** JACC Heart Failure 2015;3(6):467–474 · **DOI:** 10.1016/j.jchf.2015.01.013  
 **Study type:** Prospective cohort · **N:** 73 (Iso-PH n=47; Comb-PH n=26) · **Population:** HFpEF (LVEF ≥50%) + PH due to left heart disease (PH-LHD); mean age 69±12 y; 74% female; 93% non-Hispanic White; BMI 33±10 kg/m² · **Follow-up:** Median 3.6 years (IQR 4.5 years); all followed until death or October 31, 2013; enrollment Jan 2004–Dec 2012  
 **Intervention/Exposure:** Pulmonary arterial capacitance (PAC = stroke volume / pulmonary pulse pressure), DPG, PVR, TPG at right heart catheterization  

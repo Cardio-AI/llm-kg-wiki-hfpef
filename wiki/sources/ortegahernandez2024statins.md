@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Ortega-Hern\xE1ndez 2024 \u2014 Prognostic Impact of Statins in HFpEF (RICA\
   \ Registry)"
 citekey: OrtegaHernandez2024Statins
@@ -89,7 +88,7 @@ This is the largest single-registry analysis of statin use in HFpEF with IHD sub
 ## Related Pages
 
 - Concepts: [[hfpef-treatment]], [[myocardial-fibrosis]]
-- Entities: [[hfpef]]
+- Entities: [[hfpef]], [[statins]]
 - Sources: [[timoteo2024eat]], [[fu2024inflammation]]
 
 ## Contradictions

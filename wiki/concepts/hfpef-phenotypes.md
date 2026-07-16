@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: HFpEF Phenotypes
 summary: HFpEF is heterogeneous; distinct clinical and biomarker subtypes coexist within the LVEF ≥50% syndrome, driven by different primary mechanisms (obesity vs. hypertension vs. atrial fibrillation vs. rare monogenic diseases). Phenotyping approaches identify patient subgroups with differential prognoses and potentially differential treatment responses, enabling precision medicine in HFpEF. Key dimensions include haemodynamic profile (IpcPH vs. combined pre/post-capillary), inflammatory signature, obesity, comorbidity dominance, and rare etiologies (ATTR-CM, restrictive cardiomyopathy).
@@ -172,3 +171,8 @@ Shah and others demonstrated heterogeneity; multiple distinct subtypes with diff
 - [[attr-cm]] — rare disease phenotype with disease-modifying therapy
 - [[atrial-fibrillation]] — AF-dominant HFpEF subphenotype
 - [[sleep-disordered-breathing]] — associated with obese HFpEF phenotype
+- [[hfpef-mimics-differential-diagnosis]] — non-HFpEF phenocopies requiring exclusion before phenotype assignment
+
+## References
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Cowie MR, Gallagher AM. Sleep Disordered Breathing and Heart Failure: What Does the Future Hold? *JACC Heart Fail.* 2017;5(10):715–723. doi:[10.1016/j.jchf.2017.06.016](https://doi.org/10.1016/j.jchf.2017.06.016)

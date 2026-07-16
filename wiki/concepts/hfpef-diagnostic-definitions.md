@@ -1,5 +1,4 @@
 ---
-type: concept
 title: "HFpEF Diagnostic Definitions \u2014 Heterogeneity and Consequences"
 summary: "Seven competing guideline definitions (ACC/AHA, ESC, HFSA, TOPCAT, PARAGON,\
   \ I-PRESERVE, RELAX) enroll 12\u201390% of the same patient cohort; they differ\
@@ -16,11 +15,11 @@ created: 2026-04-30
 last_updated: 2026-05-14
 sources:
 - citekey: Ho2019HFpEFDefinitions
-  doi: 10.1161/CIRCULATIONAHA.118.039451
+  doi: 10.1161/CIRCULATIONAHA.118.039136
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
 - citekey: landsteiner2025hemodynamics
-  doi: 10.1161/CIRCRESAHA.125.326048
+  doi: 10.1161/CIRCRESAHA.125.326504
 page-type: concept-page
 ---
 # HFpEF Diagnostic Definitions — Heterogeneity and Consequences
@@ -127,7 +126,7 @@ See [[ho2019hfpefdefinitions]] for primary data. Key numbers consolidated in ## 
 
 ## Related Pages
 
-- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[exercise-intolerance]], [[hfpef-treatment-gap]]
+- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[exercise-intolerance]], [[hfpef-treatment-gap]], [[noncardiac-dyspnea]]
 - Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]], [[echocardiography]], [[topcat]], [[paragon-hf]], [[i-preserve]], [[charm-preserved]]
 - Sources: [[ho2019hfpefdefinitions]], [[mcdonagh2021esc]], [[landsteiner2025hemodynamics]], [[borlaug2010exercise]]
 
@@ -137,6 +136,6 @@ See [[ho2019hfpefdefinitions]] for primary data. Key numbers consolidated in ## 
 - Trial NT-proBNP thresholds (used by PARAGON-HF, EMPEROR-Preserved, FINEARTS-HF) exclude 67–71% of hemodynamically confirmed HFpEF — the majority of true physiologic HFpEF is absent from these trials. The "generalizable" treatment evidence base applies to a minority of patients with confirmed disease. See [[contradictions]].
 
 ## References
-- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039451](https://doi.org/10.1161/CIRCULATIONAHA.118.039451)
-- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326048](https://doi.org/10.1161/CIRCRESAHA.125.326048) [DOI unverified]
+- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Existing HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039136](https://doi.org/10.1161/CIRCULATIONAHA.118.039136)
+- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326504](https://doi.org/10.1161/CIRCRESAHA.125.326504) [DOI unverified]
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

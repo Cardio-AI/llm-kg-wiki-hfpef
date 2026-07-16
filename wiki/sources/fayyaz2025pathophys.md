@@ -1,5 +1,4 @@
 ---
-type: source
 title: Pathophysiological insights into HFpEF from studies of human cardiac tissue
 citekey: fayyaz2025pathophys
 year: 2025

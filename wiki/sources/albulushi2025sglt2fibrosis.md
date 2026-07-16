@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Impact of SGLT2 inhibitors on myocardial fibrosis in diabetic HFpEF: a longitudinal
   study'
 citekey: albulushi2025sglt2fibrosis

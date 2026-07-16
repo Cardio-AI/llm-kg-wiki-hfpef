@@ -1,5 +1,4 @@
 ---
-type: entity
 title: STRONG-HF
 summary: International RCT (N=1,078) of high-intensity post-discharge GDMT uptitration
   (guided by NT-proBNP/GDF-15) vs. usual care in acute HF across the EF spectrum;

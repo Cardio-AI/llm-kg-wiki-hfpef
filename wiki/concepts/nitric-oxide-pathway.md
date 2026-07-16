@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Nitric Oxide Pathway in HFpEF
 summary: Reduced NO bioavailability is a central mechanism in HFpEF linking systemic inflammation and endothelial dysfunction to impaired LV relaxation, exercise arterial stiffening, and diastolic dysfunction; impaired cGMP-PKG signalling downstream of NO deficiency reduces titin phosphorylation, increases cardiomyocyte stiffness, and impairs myofilament calcium sensitivity; inorganic nitrite partially restores exercise hemodynamics.
@@ -91,3 +90,11 @@ Confirms that acute NO delivery can partially reverse exercise-induced hemodynam
 - [[diastolic-dysfunction]] — cGMP-PKG pathway deficit causes titin-based diastolic stiffness
 - [[coronary-microvascular-dysfunction]] — endothelial dysfunction impairs microvascular NO-mediated dilation
 - [[inflammation-hfpef]] — inflammation is the upstream driver of NO deficiency
+- [[sgc-stimulators]] — downstream pharmacological target of the NO/cGMP/PKG pathway
+- [[ranolazine]] — late Na⁺ current inhibitor with a parallel, NO-independent effect on diastolic stiffness
+
+## References
+- Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2017;70(2):136–148. doi:[10.1016/j.jacc.2017.05.029](https://doi.org/10.1016/j.jacc.2017.05.029)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)
+- Redfield MM, Anstrom KJ, Levine JA, et al.; NHLBI Heart Failure Clinical Research Network. Isosorbide Mononitrate in Heart Failure with Preserved Ejection Fraction. *N Engl J Med.* 2015;373(24):2314–2324. doi:[10.1056/NEJMoa1510774](https://doi.org/10.1056/NEJMoa1510774)
+- Redfield MM, Chen HH, Borlaug BA, et al.; NHLBI Heart Failure Clinical Research Network. Effect of Phosphodiesterase-5 Inhibition on Exercise Capacity and Clinical Status in Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2013;309(12):1268–1277. doi:[10.1001/jama.2013.2024](https://doi.org/10.1001/jama.2013.2024)

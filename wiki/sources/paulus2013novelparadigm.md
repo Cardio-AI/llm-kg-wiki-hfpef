@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities
   Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial
   Inflammation'

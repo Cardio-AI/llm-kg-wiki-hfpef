@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Hypertension in HFpEF
 summary: "Arterial hypertension affects 60\u201380% of HFpEF patients and is the most\
   \ prevalent cardiovascular risk factor in the syndrome; historically framed as the\
@@ -117,7 +116,7 @@ Unlike in HFrEF, beta-blockers have no proven outcome benefit in HFpEF and may w
 
 ## Related Pages
 
-- Concepts: [[hfpef-phenotype-profiling]], [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[coronary-microvascular-dysfunction]]
+- Concepts: [[hfpef-phenotype-profiling]], [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[coronary-microvascular-dysfunction]], [[chronotropic-incompetence]]
 - Entities: [[pep-chf]], [[charm-preserved]], [[i-preserve]], [[paragon-hf]], [[finearts-hf]], [[spirrit]], [[spirit-hf]], [[topcat]], [[hfpef]], [[spironolactone]], [[sacubitril-valsartan]]
 - Sources: [[anker2023hfpefphenotype]], [[borlaug2023statement]], [[paulus2013novelparadigm]], [[pfeffer2019hfpef]], [[yusuf2003charm]], [[massie2008ipreserve]], [[solomon2019paragon]]
 
@@ -128,3 +127,8 @@ Unlike in HFrEF, beta-blockers have no proven outcome benefit in HFpEF and may w
 **RAAS failure vs. finerenone success:** ACEi, ARB, and ARNI all neutral in HFpEF — yet finerenone (non-steroidal MRA, FINEARTS-HF) was positive. This is not simply "RAAS failure" — the aldosterone/mineralocorticoid pathway appears separable from the angiotensin pathway in HFpEF. Mechanisms may include finerenone's specific anti-fibrotic and anti-inflammatory profile beyond pure RAAS blockade. See [[contradictions]].
 
 **BP paradox:** Lower BP (after treatment) is associated with improved HFpEF outcomes in some cohorts — yet very low SBP (<120 mmHg) is associated with worse outcomes. The J-curve likely reflects a mix of effective treatment (lower BP = better controlled HTN = better HFpEF) and reverse causation (advanced HFpEF causes BP decline). See [[contradictions]].
+
+## References
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)

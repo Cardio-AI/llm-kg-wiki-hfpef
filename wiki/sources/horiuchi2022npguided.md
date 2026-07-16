@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Horiuchi 2022 \u2014 NP-Guided Therapy in HF: Benefit in HFrEF, No Benefit\
   \ in HFpEF"
 citekey: Horiuchi2022NPGuided
@@ -29,7 +28,7 @@ page-type: source-summary-page
 > NP-guided therapy (dose titration to target BNP/NT-proBNP levels) reduces mortality and hospitalisation in HFrEF patients <75y (supported by BATTLESCARRED, TIME-CHF, meta-analyses) but shows **no benefit and possibly harm in HFpEF** (TIME-CHF HFpEF subgroup tended to worsen; GUIDE-IT neutral; meta-analyses neutral/trend to harm).
 
 **Full citation:**
-Horiuchi Y, Tanimoto S, Iida K, Nakamura M, Fukuda K, Shimizu W. Natriuretic peptide-guided therapy and its challenges in heart failure with preserved ejection fraction: a review. *Heart Int.* 2022;16(2):112–116. doi:[10.17925/HI.2022.16.2.112](https://doi.org/10.17925/HI.2022.16.2.112)
+Horiuchi Y, Villacorta H, Maisel AS. Natriuretic Peptide-guided Therapy for Heart Failure. *Heart Int.* 2022;16(2):112–116. doi:[10.17925/HI.2022.16.2.112](https://doi.org/10.17925/HI.2022.16.2.112)
 **Authors:** Horiuchi Y, Villacorta H, Maisel A  
 **Year:** 2022 · **Journal:** Heart International 2022;16(2):112–116  
 **Type:** Review  

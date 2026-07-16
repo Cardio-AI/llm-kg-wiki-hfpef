@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen
   Consumption and Quality of Life in Obese Older Patients With Heart Failure With
   Preserved Ejection Fraction: A Randomized Clinical Trial (SECRET)'
@@ -146,7 +145,7 @@ Exercise + diet combined: peak VO₂ +2.5 mL/kg/min (additive, no interaction P=
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]
-- Entities: [[hfpef]], [[step-hfpef]], [[secret]]
+- Entities: [[hfpef]], [[step-hfpef]], [[secret]], [[six-minute-walk-test]]
 - Sources: [[sachdev2023exercise]], [[mirzai2025exercise]], [[bohmke2022nonpharm]], [[kosiborod2023stephfpef]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Vicadrostat
 summary: "Aldosterone synthase inhibitor (ASI) targeting CYP11B2 \u2014 reduces aldosterone\
   \ synthesis upstream of the mineralocorticoid receptor, avoiding compensatory aldosterone\
@@ -85,3 +84,6 @@ No published HF outcome data yet.
 ## Contradictions
 
 CYP11B2 selectivity vs. CYP11B1 (cortisol) is a theoretical concern with all ASIs — earlier ASI compounds had cross-inhibition causing cortisol deficiency. Whether vicadrostat maintains adequate selectivity in long-term use is an open safety question not addressed in the review.
+
+## References
+- Sauer AJ, ter Maaten JM, Savarese G. Established and emerging pharmacologic options and unmet needs in HFpEF and HFmrEF. *ESC Heart Fail.* 2026;13:xvag056. doi:[10.1093/eschf/xvag056](https://doi.org/10.1093/eschf/xvag056)

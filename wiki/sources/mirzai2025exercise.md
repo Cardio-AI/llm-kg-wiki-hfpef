@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Exercise Training in HFpEF: State-of-the-Art Review'
 citekey: Mirzai2025Exercise
 year: 2025

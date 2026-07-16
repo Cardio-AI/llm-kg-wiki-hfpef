@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Effect of HU6 on Body Weight and Cardiac Function in Patients With Obese Heart
   Failure With Preserved Ejection Fraction: The HuMAIN-HFpEF Randomized Clinical Trial'
 citekey: pandey2025humain
@@ -22,7 +21,7 @@ page-type: source-summary-page
 > HU6 (a controlled mitochondrial uncoupler) produces modest fat-specific weight loss (−2.86 kg vs. placebo) in obese HFpEF without significant improvement in peak VO₂, 6MWD, KCCQ, or diastolic function at 19 weeks — proof-of-concept for fat-specific catabolism but limited functional benefit in this Phase 2A trial.
 
 **Full citation:**
-Pandey A, et al. Effect of HU6 on Body Weight and Cardiac Function in Patients With Obese Heart Failure With Preserved Ejection Fraction: The HuMAIN-HFpEF Randomized Clinical Trial. *JAMA Cardiol.* 2025;10(6):609–616. doi:[10.1001/jamacardio.2025.0103](https://doi.org/10.1001/jamacardio.2025.0103)
+Pandey A, Lewis GD, Borlaug B, Shah SJ, Sauer AJ, Litwin S, Sharma K, Jorkasky DK, Tarka EA, Khan SM, Kitzman DW. Novel Controlled Metabolic Accelerator for Obesity-Related HFpEF: The HuMAIN-HFpEF Randomized Clinical Trial. *JAMA Cardiol.* 2025;10(6):609–616. doi:[10.1001/jamacardio.2025.0103](https://doi.org/10.1001/jamacardio.2025.0103)
 
 ---
 
@@ -65,7 +64,7 @@ HuMAIN is the first trial of fat-specific catabolism via mitochondrial uncouplin
 
 ## Related Pages
 - Concepts: [[hfpef-phenotype-profiling]], [[exercise-intolerance]]
-- Entities: [[step-hfpef]], [[summit]], [[tirzepatide-hfpef]]
+- Entities: [[step-hfpef]], [[summit]], [[tirzepatide-hfpef]], [[semaglutide-hfpef]]
 - Sources: [[kosiborod2023stephfpef]], [[packer2025summit]]
 
 ## Contradictions

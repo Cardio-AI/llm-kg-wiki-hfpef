@@ -1,5 +1,4 @@
 ---
-type: entity
 title: FINEARTS-HF
 summary: "Phase III RCT of finerenone (non-steroidal mineralocorticoid receptor antagonist)\
   \ vs. placebo in HFmrEF/HFpEF (LVEF \u226540%); N=6001; median 32 months; RR 0.84\
@@ -83,9 +82,11 @@ No formal guideline update yet incorporating FINEARTS-HF results (post-dates ESC
 
 ## Related Pages
 
-- Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
-- Entities: [[topcat]], [[aldo-dhf]], [[hfpef]], [[hfmref]]
-- Sources: [[solomon2024finearts]], [[pitt2014topcat]], [[edelmann2013aldodhf]], [[anker2023hfpefphenotype]]
+- Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[worsening-heart-failure]]
+- Entities: [[topcat]], [[aldo-dhf]], [[hfpef]], [[hfmref]], [[kansas-city-cardiomyopathy-questionnaire]]
+- Sources: [[solomon2024finearts]], [[pitt2014topcat]], [[edelmann2013aldodhf]], [[anker2023hfpefphenotype]], [[chaudhary2025worseninghf]]
+
+**Endpoint note:** FINEARTS-HF's primary endpoint — "total worsening HF (WHF) events + CV death" — is a total (first-plus-recurrent) events composite structurally analogous to the WHF-counting framework analysed methodologically by Chaudhary et al. 2025 (post hoc REDUCE LAP-HF II analysis); see [[worsening-heart-failure]] for the general WHF-definition concept and the finding that non-hospitalisation WHF events, while they increase event counts/trial power, add little independent mortality-prediction value.
 
 ## MRA Class Effect — Turgeon 2025 Bayesian Analysis
 
@@ -115,3 +116,8 @@ Pooled FINEARTS-HF + TOPCAT meta-analysis: HR 0.87 (95% CI 0.79–0.95) for CV d
 ## Contradictions
 
 TOPCAT (neutral overall HR 0.89 P=0.14) vs. FINEARTS-HF (positive RR 0.84 P=0.007): different drugs (spironolactone vs. finerenone), geographic contamination resolved, eGFR threshold pre-specified. Turgeon 2025 Bayesian re-analysis substantially resolves this tension — posterior probability of any spironolactone benefit = 100% when FINEARTS-HF used as prior. Whether benefit is drug-specific or class-level is now strongly favoured as class-level. See [[contradictions]] #21.
+
+## References
+- Turgeon RD, Beavers CJ. Restoration of steroidal mineralocorticoid receptor antagonist therapy in HFpEF: FINEARTS-HF data as a Bayesian prior. *J Card Fail.* 2025;31(3):603–605. doi:[10.1016/j.cardfail.2024.09.011](https://doi.org/10.1016/j.cardfail.2024.09.011)
+- Sauer AJ, ter Maaten JM, Savarese G. Established and emerging pharmacologic options and unmet needs in HFpEF and HFmrEF. *ESC Heart Fail.* 2026;13:xvag056. doi:[10.1093/eschf/xvag056](https://doi.org/10.1093/eschf/xvag056)
+- Solomon SD, McMurray JJV, Vaduganathan M, Claggett B, Jhund PS, Desai AS, Henderson AD, Lam CSP, Pitt B, Senni M, Shah SJ, Voors AA, Zannad F, et al.; FINEARTS-HF Committees and Investigators. Finerenone in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2024;391(16):1475–1485. doi:[10.1056/NEJMoa2407107](https://doi.org/10.1056/NEJMoa2407107)

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'TORCH DZHK: Rationale and Design of the German Cardiomyopathy Registry'
 citekey: Seyler2017TORCH
 year: 2017
@@ -15,7 +14,7 @@ created: 2026-05-04
 last_updated: 2026-05-04
 sources:
 - citekey: Seyler2017TORCH
-  doi: 10.1002/ehf2.12152
+  doi: 10.1002/ehf2.12145
 page-type: source-summary-page
 ---
 # TORCH DZHK Registry Rationale (Seyler 2017)
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > Design and rationale paper for the DZHK TranslatiOnal Registry for CardiomyopatHies (TORCH) — a German multi-centre registry and biobank for 2,300 patients with non-ischemic cardiomyopathies featuring deep molecular phenotyping and a multi-module structure linking clinical data to genomics, inflammation, and histopathology.
 
 **Full citation:**
-Seyler C, Meder B, Hund H, et al. Rationale and design of the DZHK (German Centre for Cardiovascular Research) TORCH (TranslatiOnal Registry for CardiomyopatHies). *ESC Heart Fail.* 2017;4(3):277–281. doi:[10.1002/ehf2.12152](https://doi.org/10.1002/ehf2.12152)
+Seyler C, Meder B, Weis T, Schwaneberg T, Weitmann K, Hoffmann W, Katus HA, Dösch A. TranslatiOnal Registry for CardiomyopatHies (TORCH) – rationale and first results. *ESC Heart Fail.* 2017;4(3):209–215. doi:[10.1002/ehf2.12145](https://doi.org/10.1002/ehf2.12145)
 
 ---
 

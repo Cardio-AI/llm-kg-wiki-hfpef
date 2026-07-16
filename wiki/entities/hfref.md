@@ -1,5 +1,4 @@
 ---
-type: entity
 title: "HFrEF \u2014 Heart Failure with Reduced Ejection Fraction"
 summary: "Heart failure with LVEF \u226440%; the phenotype with the strongest evidence\
   \ base and four guideline-endorsed pillars of mortality-reducing therapy."

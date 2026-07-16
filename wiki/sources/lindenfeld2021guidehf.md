@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Lindenfeld 2021 \u2014 GUIDE-HF: Haemodynamic-Guided Management of Heart Failure"
 citekey: Lindenfeld2021GUIDEHF
 year: 2021
@@ -75,7 +74,7 @@ GUIDE-HF provides the broadest EF-inclusive evidence for CardioMEMS PA pressure 
 ## Related Pages
 
 - Concepts: [[hemodynamic-monitoring]], [[pulmonary-arterial-pressure]]
-- Entities: [[hfpef]]
+- Entities: [[hfpef]], [[guide-hf]]
 - Sources: [[horiuchi2022npguided]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'TOPCAT: Spironolactone for Heart Failure with Preserved Ejection Fraction'
 citekey: Pitt2014TOPCAT
 year: 2014

@@ -1,5 +1,4 @@
 ---
-type: study
 title: "STEP-HFpEF DM \u2014 Semaglutide in Obesity-Related HFpEF with Type 2 Diabetes"
 citekey: Kosiborod2024STEPHFPEFDM
 year: 2024
@@ -28,7 +27,7 @@ page-type: source-summary-page
 > Semaglutide 2.4 mg improved HF symptoms (KCCQ-CSS +7.3 pts difference vs. placebo; P<0.001), reduced body weight (−6.4 percentage points; P<0.001), improved 6MWD (+14.3 m; P=0.008), reduced CRP (ratio 0.67; P<0.001), and improved hierarchical composite (win ratio 1.58, 1.29–1.94; P<0.001) in obese HFpEF patients with T2DM — the companion trial to STEP-HFpEF (non-DM), together establishing GLP-1RA as effective across the obese HFpEF spectrum regardless of T2DM status.
 
 **Full citation:**
-Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF DM Trial Committees and Investigators. Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes. *N Engl J Med.* 2024;390(15):1394–1407. doi:[10.1056/NEJMoa2313307](https://doi.org/10.1056/NEJMoa2313307)
+Kosiborod MN, Petrie MC, Borlaug BA, et al.; STEP-HFpEF DM Trial Committees and Investigators. Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes. *N Engl J Med.* 2024;390(15):1394–1407. doi:[10.1056/NEJMoa2313307](https://doi.org/10.1056/NEJMoa2313307)
 **Year:** 2024 · **Journal:** N Engl J Med 2024;390:1394–1407 · **DOI:** 10.1056/NEJMoa2313917 · **Published:** April 6, 2024  
 **ClinicalTrials.gov:** NCT04916470 · **Funded by:** Novo Nordisk  
 **Study type:** Phase 3, double-blind, placebo-controlled, randomised RCT · **N:** 616 randomised (semaglutide 310; placebo 306); enrolled at 108 sites in 16 countries  
@@ -162,7 +161,7 @@ HF hospitalisation signal nominally significant here (HR 0.40) but not powered; 
 ## Related Pages
 
 - Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[step-hfpef]], [[summit]], [[hfpef]]
+- Entities: [[step-hfpef]], [[summit]], [[hfpef]], [[kansas-city-cardiomyopathy-questionnaire]]
 - Sources: [[kosiborod2023stephfpef]], [[kittleson2023acc]], [[anker2023hfpefphenotype]], [[paulus2013novelparadigm]]
 
 ## Contradictions

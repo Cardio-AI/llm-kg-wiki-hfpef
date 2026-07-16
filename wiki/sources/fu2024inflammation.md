@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Systemic Inflammatory Markers and Clinical Outcomes in HFpEF: Systematic Review
   and Meta-Analysis (Fu 2024)'
 citekey: Fu2024Inflammation

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Beta-Blocker Therapy in HFpEF (B-HFpEF): Systematic Review and Meta-Analysis
   (Kaddoura 2024)'
 citekey: Kaddoura2024BetaBlocker
@@ -88,7 +87,7 @@ Kaddoura R, Madurasinghe V, Chapra A, Abushanab D, Al-Badriyeh D, Patel A. Beta-
 
 ## Related Pages
 
-- Concepts: [[exercise-intolerance]]
+- Concepts: [[exercise-intolerance]], [[chronotropic-incompetence]]
 - Entities: [[hfpef]]
 - Sources: [[vandebovenkamp2025hemodynamics]], [[borlaug2023statement]]
 

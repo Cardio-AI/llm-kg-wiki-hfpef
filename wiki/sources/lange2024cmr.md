@@ -1,5 +1,4 @@
 ---
-type: source
 title: CMR-based cardiac phenotyping in different forms of heart failure
 citekey: lange2024cmr
 year: 2024
@@ -22,7 +21,7 @@ page-type: source-summary-page
 > Cross-sectional CMR study (n=54 HF [22 HFpEF, 17 HFmrEF, 15 HFrEF] + 19 controls): HFpEF is characterised by impaired LA function (EDV 48.1 vs 38.1 mL; reservoir strain 28.9 vs 35.9; P<0.001) and impaired LV GLS (−15.0 vs −19.2%; P=0.001) with preserved LVEF and elevated native T1 (1012 vs 988 ms; P=0.003) — LA dysfunction is the primary structural mechanism in HFpEF, distinguishable from HFmrEF and HFrEF by CMR.
 
 **Full citation:**
-Lange T, Backhaus SJ, Schulz A, Hashem D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A. CMR-based cardiac phenotyping in different forms of heart failure. *Int J Cardiovasc Imaging.* 2024;40(8):1585–1596. doi:[10.1007/s10554-024-03145-4](https://doi.org/10.1007/s10554-024-03145-4)
+Lange T, Backhaus SJ, Schulz A, Hashemi D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A. CMR-based cardiac phenotyping in different forms of heart failure. *Int J Cardiovasc Imaging.* 2024;40(8):1585–1596. doi:[10.1007/s10554-024-03145-4](https://doi.org/10.1007/s10554-024-03145-4)
 
 ---
 

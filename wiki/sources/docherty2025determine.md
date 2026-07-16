@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'DETERMINE Accelerometry Substudy: Wearable Physical Activity in HF'
 citekey: Docherty2025DETERMINE
 year: 2025

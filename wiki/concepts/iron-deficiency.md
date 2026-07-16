@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Iron Deficiency in HFpEF
 summary: Iron deficiency (ID) is highly prevalent in HFpEF (59%; 95% CI 52–65%) and is associated with worse exercise capacity and quality of life independent of anaemia; IV ferric carboxymaltose (FCM) improved 6MWT by 49 m in the first HFpEF-specific RCT (FAIR-HFpEF, N=40, stopped early); the evidence base remains preliminary and underpowered.
@@ -18,7 +17,7 @@ sources:
   - citekey: vonHaehling2024FAIR
     doi: 10.1093/eurheartj/ehae587
   - citekey: Ponikowski2020AFFIRM
-    doi: 10.1016/S0140-6736(20)32220-6
+    doi: 10.1016/S0140-6736(20)32339-4
 ---
 
 # Iron Deficiency in HFpEF
@@ -98,3 +97,8 @@ No adequately powered RCT of IV iron in HFpEF. FAIR-HFpEF established proof-of-c
 - [[inflammation-hfpef]] — hepcidin pathway driven by inflammation → ID
 - [[fair-hfpef]] — trial entity for FAIR-HFpEF
 - [[natriuretic-peptides]] — ID can lower BNP, further complicating diagnosis in HFpEF
+
+## References
+- Beale AL, Warren JL, Roberts N, Meyer P, Townsend NP, Kaye DM. Iron deficiency in heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Open Heart.* 2019;6(2):e001012. doi:[10.1136/openhrt-2019-001012](https://doi.org/10.1136/openhrt-2019-001012)
+- von Haehling S, Doehner W, Evertz R, Garfias-Veitl T, Derad C, Diek M, Karakas M, Birkemeyer R, Fillippatos G, Lainscak M, Butler J, Ponikowski P, Böhm M, Friede T, Anker SD. Ferric carboxymaltose and exercise capacity in heart failure with preserved ejection fraction and iron deficiency: the FAIR-HFpEF trial. *Eur Heart J.* 2024;45(40):3789–3800. doi:[10.1093/eurheartj/ehae479](https://doi.org/10.1093/eurheartj/ehae479)
+- Ponikowski P, Kirwan BA, Anker SD, et al.; AFFIRM-AHF Investigators. Ferric carboxymaltose for iron deficiency at discharge after acute heart failure: a multicentre, double-blind, randomised, controlled trial. *Lancet.* 2020;396(10266):1895–1904. doi:[10.1016/S0140-6736(20)32339-4](https://doi.org/10.1016/S0140-6736(20)32339-4)

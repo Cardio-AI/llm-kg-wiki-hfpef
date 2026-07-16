@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Behind the Scenes of TOPCAT \u2014 Bending to Inform"
 citekey: pfeffer2022topcat
 year: 2022

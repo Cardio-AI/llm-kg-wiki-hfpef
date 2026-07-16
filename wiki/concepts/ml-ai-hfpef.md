@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Machine Learning and AI in HFpEF
 summary: Application of artificial intelligence and machine learning to HFpEF diagnosis,
   phenotyping, prognosis, and treatment selection

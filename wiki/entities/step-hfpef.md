@@ -1,5 +1,4 @@
 ---
-type: entity
 title: STEP-HFpEF
 summary: "Phase 3 RCT (N=529) of semaglutide 2.4 mg weekly vs. placebo in HFpEF with\
   \ obesity (BMI \u226530); published NEJM 2023 (Kosiborod et al.); KCCQ-CSS +7.8\
@@ -94,7 +93,7 @@ Safety: SAEs 13.3% vs. 26.7%; cardiac disorders 7 (2.7%) vs. 30 (11.3%). (source
 ## Related Pages
 
 - Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[pericardial-restraint]]
-- Entities: [[obesity-hfpef]], [[summit]], [[hfpef]], [[sglt2-inhibitors]]
+- Entities: [[obesity-hfpef]], [[summit]], [[hfpef]], [[sglt2-inhibitors]], [[semaglutide-hfpef]], [[kansas-city-cardiomyopathy-questionnaire]]
 - Sources: [[kittleson2023acc]], [[anker2023hfpefphenotype]], [[mahmood2024guidelines]], [[petrie2024stephfpef]]
 
 ## Contradictions
@@ -103,4 +102,4 @@ Symptomatic benefit (KCCQ +7.8, 6MWD +21.5m) without hard outcome evidence paral
 
 ## References
 - Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
-- Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Perna E, Sharma K, Lelonek M, Kosiborod MN; STEP-HFpEF Trial Committees and Investigators. Semaglutide and NT-proBNP in obesity-related heart failure with preserved ejection fraction: insights from the STEP-HFpEF program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)
+- Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Liisberg K, Perna E, Sharma K, Ezekowitz JA, Fu M, Melenovský V, Ito H, Lelonek M, Kosiborod MN. Semaglutide and NT-proBNP in Obesity-Related HFpEF: Insights From the STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'ATTR Cardiomyopathy: A Systematic Review of Clinical Trials and Emerging Therapeutics'
 citekey: masri2026attrcm
 year: 2026
@@ -11,7 +10,7 @@ tags:
 - attr-cm
 - treatment
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-07-15
 sources:
 - citekey: masri2026attrcm
   doi: 10.1016/j.pcad.2026.04.004
@@ -53,7 +52,7 @@ Masri A, et al. ATTR Cardiomyopathy: A Systematic Review of Clinical Trials and 
 - Monthly IV infusion; reduces hepatic TTR production by >80%
 - Population: ATTR-CM (NYHA II–III, elevated NT-proBNP); N~300
 - 12-month results: 6MWT improved, KCCQ improved, NT-proBNP reduced; functional outcomes positive
-- First siRNA with cardiac outcomes evidence in ATTR-CM; FDA label expanded for cardiac indication
+- First siRNA with cardiac outcomes evidence in ATTR-CM; **not FDA-approved for the cardiac ATTR-CM indication in the United States as of 2025** — approved in Brazil, and for compassionate use only in France (tafamidis 61mg failures) (source: [[berk2025patisiran]]). *[Contradiction resolved 2026-07-15: an earlier version of this bullet stated "FDA label expanded for cardiac indication," which conflicted with this same review's Discussion section (below) listing only tafamidis/acoramidis/vutrisiran as FDA-approved for the cardiac indication. [[berk2025patisiran]] — a post hoc APOLLO-B analysis co-authored by the trial investigators and Alnylam Pharmaceuticals — confirms the Discussion section was correct; the bullet has been corrected accordingly.]*
 
 **Vutrisiran (HELIOS-B, NCT04153149):**
 - Quarterly SC injection (more convenient than patisiran monthly IV)
@@ -105,8 +104,8 @@ The large treatment effect sizes (HR 0.70–0.72) contrast with the modest benef
 
 ## Related Pages
 - Concepts: [[hfpef-phenotype-profiling]], [[diastolic-dysfunction]]
-- Entities: [[attr-cm]], [[attr-act]]
-- Sources: [[maurer2018attract]], [[kittleson2024accaha]], [[borlaug2023statement]], [[ilonze2024disparities]]
+- Entities: [[attr-cm]], [[attr-act]], [[patisiran-apollo-b]], [[technetium-pyrophosphate-scintigraphy]]
+- Sources: [[maurer2018attract]], [[kittleson2024accaha]], [[borlaug2023statement]], [[ilonze2024disparities]], [[berk2025patisiran]]
 
 ## Contradictions
-None within this wiki. This review supersedes older single-trial citations for ATTR-CM treatment evidence.
+None remaining within this wiki as of 2026-07-15. This review supersedes older single-trial citations for ATTR-CM treatment evidence. (Previously flagged: an erroneous "FDA label expanded for cardiac indication" claim on the patisiran bullet above, which conflicted with this review's own Discussion section — resolved using [[berk2025patisiran]]; see the Class 2 section above and `wiki/entities/patisiran-apollo-b.md`.)

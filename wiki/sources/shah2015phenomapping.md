@@ -1,5 +1,4 @@
 ---
-type: study
 title: Phenomapping for Novel Classification of Heart Failure With Preserved Ejection
   Fraction
 citekey: Shah2015Phenomapping
@@ -164,7 +163,7 @@ Phenogroup assignment: PG1 37 (34.6%), PG2 29 (27.1%), PG3 41 (38.3%)
 ## Related Pages
 
 - Concepts: [[hfpef-phenotype-profiling]], [[ml-ai-hfpef]], [[hfpef-diagnostic-definitions]]
-- Entities: [[hfpef]], [[step-hfpef]], [[summit]]
+- Entities: [[hfpef]], [[step-hfpef]], [[summit]], [[maggic-risk-score]]
 - Sources: [[anker2023hfpefphenotype]], [[yi2025ai]], [[kosiborod2023stephfpef]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Zamani 2023 \u2014 Pericardial Fat and LV Eccentricity in Obese HFpEF"
 citekey: Zamani2023PericardialFat
 year: 2023
@@ -29,7 +28,7 @@ page-type: source-summary-page
 > In 28 obese HFpEF patients (NCT04068844), epicardial fat correlated strongly with LV eccentricity index (r=0.88; P<0.001) and paracardial fat with LV eccentricity (r=0.91; P<0.001), while BMI, subcutaneous fat, and visceral fat did **not** correlate; 13/28 had abnormal cardio-mechanical interaction (LV eccentricity >1.0), and exercise did not worsen it at 30W.
 
 **Full citation:**
-Zamani P, Tan J, Balmain BN, Tomlinson AR, Hearon CM Jr, Samels M, Levine BD, Sarma S. Pericardial fat and cardiac compression in heart failure with obesity and preserved ejection fraction. *Circulation.* 2023;148(17):1410–1412. doi:[10.1161/CIRCULATIONAHA.123.067117](https://doi.org/10.1161/CIRCULATIONAHA.123.067117)
+Zamani SK, Sarma S, MacNamara JP, Hynan LS, Haykowsky MJ, Hearon CM Jr, Wakeham D, Brazile T, Levine BD, Zaha VG, Nelson MD. Excess Pericardial Fat Is Related to Adverse Cardio-Mechanical Interaction in Heart Failure With Preserved Ejection Fraction. *Circulation.* 2023;148(17):1410–1412. doi:[10.1161/CIRCULATIONAHA.123.065909](https://doi.org/10.1161/CIRCULATIONAHA.123.065909)
 **Authors:** Zamani P et al. (UT Southwestern / UT Arlington)  
 **Year:** 2023 · **Journal:** Circulation 2023;148:1410–1412 (Research Letter)  
 **Study type:** Cross-sectional observational; research letter  

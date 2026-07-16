@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Myocardial Fibrosis in HFpEF
 summary: Myocardial fibrosis — both focal (LGE on CMR) and diffuse (elevated ECV/T1) — is a core structural mechanism of HFpEF; drives passive diastolic stiffness, impairs LV relaxation, and independently predicts adverse outcomes; sST2 (fibrosis biomarker) strongly predicts all-cause mortality (HR 2.76; I²=0%) independent of NT-proBNP; fibrosis and microvascular dysfunction are uncorrelated, independent prognostic mechanisms.
@@ -93,3 +92,9 @@ Critically, diffuse myocardial fibrosis (ECV) and microvascular dysfunction (MPR
 - [[inflammation-hfpef]] — inflammation drives fibroblast activation and fibrosis
 - [[cardiac-mri]] — imaging modality for fibrosis quantification
 - [[hfpef-fibrosis-paradigm]] — broader fibrosis-centric view of HFpEF
+- [[diamond-hfpef]] — source trial establishing fibrosis/CMD independence
+
+## References
+- Shi Y, Liu J, Liu C, Shuang X, Yang C, Qiao W, Dong G. Diagnostic and prognostic value of serum soluble suppression of tumorigenicity-2 in heart failure with preserved ejection fraction: A systematic review and meta-analysis. *Front Cardiovasc Med.* 2022;9:937291. doi:[10.3389/fcvm.2022.937291](https://doi.org/10.3389/fcvm.2022.937291)
+- Arnold JR, Kanagala P, Budgeon CA, Jerosch-Herold M, Gulsin GS, Singh A, Khan JN, Chan DCS, Squire IB, Ng LL, McCann GP. Prevalence and Prognostic Significance of Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.11.022](https://doi.org/10.1016/j.jcmg.2021.11.022)
+- Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; PARAMOUNT Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double-blind randomised controlled trial. *Lancet.* 2012;380(9851):1387–1395. doi:[10.1016/S0140-6736(12)61227-6](https://doi.org/10.1016/S0140-6736(12)61227-6)

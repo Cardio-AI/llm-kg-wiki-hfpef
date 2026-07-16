@@ -1,5 +1,4 @@
 ---
-type: entity
 title: REHAB-HFpEF
 summary: "RCT of structured cardiac rehabilitation vs. usual care in HFpEF; NCT05525663;\
   \ addresses the evidence gap for formal comprehensive cardiac rehabilitation programmes\
@@ -70,3 +69,7 @@ Results pending. [Source: not yet published as of 2026-05-12.]
 ## Contradictions
 
 None registered yet.
+
+## References
+- Mahmood A, Dhall E, Primus CP, Gallagher A, Zakeri R, Mohammed SF, Chahal AA, Ricci F, Aung N, Khanji MY. Heart failure with preserved ejection fraction management: a systematic review of clinical practice guidelines and recommendations. *Eur Heart J Qual Care Clin Outcomes.* 2024;10(6):571–589. doi:[10.1093/ehjqcco/qcae053](https://doi.org/10.1093/ehjqcco/qcae053)
+- Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

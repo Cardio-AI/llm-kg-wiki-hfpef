@@ -1,5 +1,4 @@
 ---
-type: study
 title: "SOCRATES-PRESERVED \u2014 Vericiguat in HFpEF: Phase 2b Dose-Finding"
 citekey: Pieske2017SOCRATES
 year: 2017
@@ -118,7 +117,7 @@ Phase 2b KCCQ signal did not replicate in phase 3.
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
-- Entities: [[socrates-preserved]], [[hfpef]]
+- Entities: [[socrates-preserved]], [[hfpef]], [[kansas-city-cardiomyopathy-questionnaire]]
 - Sources: [[armstrong2020vitality]], [[redfield2013relax]], [[redfield2015neat]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Tamaki 2023 \u2014 NLR and PLR as Prognostic Markers in ADHF-HFpEF (PURSUIT-HFpEF)"
 citekey: Tamaki2023NLRPLR
 year: 2023
@@ -28,7 +27,7 @@ page-type: source-summary-page
 > In 1,026 ADHF patients with LVEF ≥50% (PURSUIT-HFpEF registry, Japan), combined high NLR (>4.5) AND high PLR (>193) predicted cardiac death with HR 2.66 (P=0.0008) over 429-day follow-up; serial NLR+PLR (admission → discharge) strengthened prediction (HR 2.71); CRP was NOT independently associated with cardiac death.
 
 **Full citation:**
-Tamaki S, Yamada T, Watanabe T, Morita T, Kawasaki M, Kikuchi A, Kawai T, Seo M, Nakamura J, Fukunami M; PURSUIT-HFpEF Investigators. Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as Predictors of Adverse Outcomes in Acute Decompensated Heart Failure With Preserved Ejection Fraction. *J Am Heart Assoc.* 2023;12(8):e026326. doi:[10.1161/JAHA.122.026326](https://doi.org/10.1161/JAHA.122.026326)
+Tamaki S, Nagai Y, Shutta R, Masuda D, Yamashita S, Seo M, Yamada T, Nakagawa A, Yasumura Y, Nakagawa Y, Yano M, Hayashi T, Hikoso S, Nakatani D, Sotomi Y, Sakata Y; OCVC-Heart Failure Investigators. Combination of Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as a Novel Predictor of Cardiac Death in Patients With Acute Decompensated Heart Failure With Preserved Left Ventricular Ejection Fraction: A Multicenter Study. *J Am Heart Assoc.* 2023;12(8):e026326. doi:[10.1161/JAHA.122.026326](https://doi.org/10.1161/JAHA.122.026326)
 **Authors:** Tamaki S, Yamada T, Watanabe T, Morita T, et al. (PURSUIT-HFpEF Investigators)  
 **Year:** 2023 · **Journal:** J Am Heart Assoc 2023;12:e026326 · **DOI:** 10.1161/JAHA.122.026326  
 **Registry:** PURSUIT-HFpEF; UMIN000021831  
@@ -104,7 +103,7 @@ Tamaki S, Yamada T, Watanabe T, Morita T, Kawasaki M, Kikuchi A, Kawai T, Seo M,
 ## Related Pages
 
 - Concepts: [[inflammation-hfpef]], [[natriuretic-peptides]]
-- Entities: [[hfpef]], [[acute-hf]]
+- Entities: [[hfpef]], [[acute-hf]], [[pursuit-hfpef]]
 - Sources: [[fu2024inflammation]], [[ammar2025bnp]], [[shah2018promis]], [[verma2024inflammation]]
 
 ## Contradictions

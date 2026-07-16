@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Balcinrenone
 summary: Selective mineralocorticoid receptor (MR) modulator under investigation for
   HFpEF and HFmrEF; Phase 2 MIRACLE trial in HF+CKD was neutral on primary UACR endpoint;
@@ -79,3 +78,6 @@ The MIRACLE Phase 2 trial (N=133, HF+CKD, EF <60%) tested balcinrenone + dapagli
 ## Contradictions
 
 MIRACLE neutral on UACR does not necessarily predict BALANCED-HF outcome — UACR is a mechanistic surrogate, not a HF endpoint. The negative Phase 2 UACR result is a concern but does not refute ongoing Phase 3 evaluation.
+
+## References
+- Sauer AJ, ter Maaten JM, Savarese G. Established and emerging pharmacologic options and unmet needs in HFpEF and HFmrEF. *ESC Heart Fail.* 2026;13:xvag056. doi:[10.1093/eschf/xvag056](https://doi.org/10.1093/eschf/xvag056)

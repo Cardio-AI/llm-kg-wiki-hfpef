@@ -1,10 +1,9 @@
 ---
-type: source
-title: 'Personalized App-Based Coaching for Improving Physical Activity in Heart Failure
-  With Preserved Ejection Fraction: Primary Results of the MyoMobile Randomized Trial'
+title: 'App-Based Coaching Improves Physical Activity in Patients With HFpEF: Results
+  of the MyoMobile Trial'
 citekey: zeid2026myomobile
 year: 2026
-authors: "Zeid S, Prochaska JH, Schuch A, Tr\xF6bs SO, et al."
+authors: "Zeid S, Buch G, S\xF6hne J, Velmeden D, Tr\xF6bs SO, et al."
 journal: JACC Heart Failure
 tags:
 - trial
@@ -15,7 +14,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
 - citekey: zeid2026myomobile
-  doi: 10.1016/j.jchf.2026.102845
+  doi: 10.1016/j.jchf.2025.102845
 page-type: source-summary-page
 ---
 # MyoMobile Primary Results: App-Based PA Coaching in HFpEF (Zeid 2026)
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > MyoMobile primary results (N=185 HFpEF; 6-month, 3-arm EE2 RCT): app-based personalised physical activity coaching significantly increased daily step count vs. standard care — the first positive digital health RCT in HFpEF — with secondary improvements in KCCQ and 6MWT.
 
 **Full citation:**
-Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized App-Based Coaching for Improving Physical Activity in Heart Failure With Preserved Ejection Fraction: Primary Results of the MyoMobile Randomized Trial. *JACC Heart Fail.* 2026;14(5):102845. doi:[10.1016/j.jchf.2026.102845](https://doi.org/10.1016/j.jchf.2026.102845)
+Zeid S, Buch G, Söhne J, Velmeden D, Tröbs SO, Dinh W, Simon P, Michal M, Prochaska JH, Wild PS. App-Based Coaching Improves Physical Activity in Patients With HFpEF: Results of the MyoMobile Trial. *JACC Heart Fail.* 2026;14(5):102845. doi:[10.1016/j.jchf.2025.102845](https://doi.org/10.1016/j.jchf.2025.102845)
 
 ---
 

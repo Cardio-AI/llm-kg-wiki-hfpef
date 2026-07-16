@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Acute Heart Failure in HFpEF Context
 summary: Acute decompensated HFpEF (ADHF) is characterized by rapidly elevated filling pressures and dyspnea with preserved LVEF; NLR on admission and NLR trajectory during hospitalization independently predict all-cause mortality beyond GWTG-HF risk score in HFpEF; treatment is predominantly IV diuretics; post-discharge care is critical as early rehospitalisation rates are high.
@@ -77,3 +76,9 @@ ADHF-HFpEF carries high 30-90 day rehospitalisation rates, similar to HFrEF. NLR
 - [[natriuretic-peptides]] — NPs elevated in acute HFpEF but attenuated in Black/obese patients
 - [[hfpef-treatment]] — chronic management to prevent recurrence
 - [[hemodynamic-monitoring]] — CardioMEMS enables pre-emptive intervention before acute decompensation
+- [[worsening-heart-failure]] — distinct, trial-methodology-focused companion concept: how "worsening HF" episodes (this page's acute decompensation events) are formally tiered, counted, and used as trial population/endpoint criteria across [[soloist-whf]], [[paraglide-hf]], [[finearts-hf]], [[deliver]], [[empulse]], and [[strong-hf]]
+
+## References
+- Boralkar KA, Kobayashi Y, Amsallem M, Arthur Ataam J, Moneghetti KJ, Cauwenberghs N, Horne BD, Knowlton KU, Maecker H, Kuznetsova T, Heidenreich PA, Haddad F. Value of Neutrophil to Lymphocyte Ratio and Its Trajectory in Patients Hospitalized With Acute Heart Failure and Preserved Ejection Fraction. *Am J Cardiol.* 2020;125(2):229–235. doi:[10.1016/j.amjcard.2019.10.020](https://doi.org/10.1016/j.amjcard.2019.10.020)
+- Tamaki S, Nagai Y, Shutta R, Masuda D, Yamashita S, Seo M, Yamada T, Nakagawa A, Yasumura Y, Nakagawa Y, Yano M, Hayashi T, Hikoso S, Nakatani D, Sotomi Y, Sakata Y; OCVC-Heart Failure Investigators. Combination of Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as a Novel Predictor of Cardiac Death in Patients With Acute Decompensated Heart Failure With Preserved Left Ventricular Ejection Fraction: A Multicenter Study. *J Am Heart Assoc.* 2023;12(8):e026326. doi:[10.1161/JAHA.122.026326](https://doi.org/10.1161/JAHA.122.026326)
+- von Haehling S, Doehner W, Evertz R, Garfias-Veitl T, Derad C, Diek M, Karakas M, Birkemeyer R, Fillippatos G, Lainscak M, Butler J, Ponikowski P, Böhm M, Friede T, Anker SD. Ferric carboxymaltose and exercise capacity in heart failure with preserved ejection fraction and iron deficiency: the FAIR-HFpEF trial. *Eur Heart J.* 2024;45(40):3789–3800. doi:[10.1093/eurheartj/ehae479](https://doi.org/10.1093/eurheartj/ehae479)

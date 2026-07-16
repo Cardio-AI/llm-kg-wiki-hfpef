@@ -1,5 +1,4 @@
 ---
-type: entity
 title: RELAX
 summary: "Double-blind RCT (N=216) of sildenafil (PDE5 inhibitor) vs. placebo in HFpEF\
   \ (LVEF \u226550%); published JAMA 2013; fully neutral on peak VO\u2082 and all\
@@ -83,9 +82,13 @@ Hypothesis 7 in Ho 2019: RELAX criteria defined one of 7 HFpEF enrollment defini
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
-- Entities: [[hfpef]], [[victoria]], [[socrates-preserved]], [[vitality-hfpef]]
+- Entities: [[hfpef]], [[victoria]], [[socrates-preserved]], [[vitality-hfpef]], [[minnesota-living-with-heart-failure-questionnaire]], [[neat-hfpef]], [[indie-hfpef]]
 - Sources: [[redfield2013relax]], [[armstrong2020vitality]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]]
 
 ## Contradictions
 
 SOCRATES-PRESERVED (vericiguat phase 2b) showed a signal for NT-proBNP reduction at higher doses, motivating VITALITY-HFpEF phase 3 which was then neutral. The SOCRATES signal may reflect dose-response relationship noise or NT-proBNP as a poor surrogate for clinical outcomes in this context. See [[contradictions]].
+
+## References
+- Redfield MM, Chen HH, Borlaug BA, et al.; NHLBI Heart Failure Clinical Research Network. Effect of Phosphodiesterase-5 Inhibition on Exercise Capacity and Clinical Status in Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2013;309(12):1268–1277. doi:[10.1001/jama.2013.2024](https://doi.org/10.1001/jama.2013.2024)
+- Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Existing HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039136](https://doi.org/10.1161/CIRCULATIONAHA.118.039136)

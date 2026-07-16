@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Spironolactone effect on cardiac structure and function in HFpEF: a pooled
   analysis of three randomized trials'
 citekey: ferreira2023spironolactone
@@ -14,7 +13,7 @@ tags:
 - aldo-dhf
 - topcat
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-07-15
 sources:
 - citekey: ferreira2023spironolactone
   doi: 10.1002/ejhf.2726
@@ -25,7 +24,7 @@ page-type: source-summary-page
 > Spironolactone reduced LAVi, LVMi, IVS thickness, E/e' ratio, and increased LVEF across HOMAGE, Aldo-DHF, and TOPCAT (N=984); consistent beneficial structural remodelling provides mechanistic support for MRA use in HFpEF.
 
 **Full citation:**
-Ferreira JP, Zannad F, Petrie MC, et al.; on behalf of the HOMAGE, Aldo-DHF and TOPCAT Investigators. Echocardiographic outcomes with spironolactone in patients with heart failure and preserved ejection fraction: an individual patient data meta-analysis. *Eur J Heart Fail.* 2023;25(1):108–113. doi:[10.1002/ejhf.2726](https://doi.org/10.1002/ejhf.2726)
+Ferreira JP, Cleland JG, Girerd N, Bozec E, Rossignol P, Pellicori P, Cosmi F, Mariottoni B, Solomon SD, Pitt B, Pfeffer MA, Shah AM, Petutschnigg J, Pieske B, Edelmann F, Zannad F. Spironolactone effect on cardiac structure and function of patients with heart failure and preserved ejection fraction: a pooled analysis of three randomized trials. *Eur J Heart Fail.* 2023;25(1):108–113. doi:[10.1002/ejhf.2726](https://doi.org/10.1002/ejhf.2726)
 
 ---
 
@@ -43,6 +42,8 @@ Individual patient data (IPD) meta-analysis of three RCTs comparing spironolacto
 | Exposure duration | 9–12 months |
 | Primary hypothesis | Spironolactone reduces LAVi |
 | Analysis method | ANCOVA; outcome = change in echocardiographic parameter; covariate = baseline value; random-effects meta-analysis; interaction p-trend by trial |
+
+**Note:** "Primary hypothesis" above is this pooled IPD meta-analysis's own hypothesis (LAVi reduction), not HOMAGE's independently pre-specified trial-level primary endpoint. HOMAGE's own primary endpoint (per its 2021 primary-results paper, [[cleland2021homage]]) was a biomarker-interaction test — baseline serum galectin-3 vs. change in serum PIIINP — which was negative (P=0.947 for interaction); HOMAGE's own trial N was 527 randomized/506 analysed, of which a subsample (up to 452 depending on parameter) contributed to this pooled analysis. See [[homage-trial]] for full detail.
 
 ## Results
 
@@ -81,5 +82,5 @@ Individual patient data (IPD) meta-analysis of three RCTs comparing spironolacto
 
 ## Related Pages
 
-- Entities: [[spironolactone]], [[topcat]], [[aldo-dhf]], [[hfpef]], [[spirrit]]
+- Entities: [[spironolactone]], [[topcat]], [[aldo-dhf]], [[hfpef]], [[spirrit]], [[homage-trial]]
 - Sources: [[pitt2014topcat]], [[edelmann2013aldodhf]], [[turgeon2025finearts]], [[lund2024spirrit]]

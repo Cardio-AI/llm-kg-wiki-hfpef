@@ -161,7 +161,7 @@ When either score is intermediate, invasive exercise haemodynamic testing (gold 
 > Reddy YNV, Carter RE, Obokata M, Redfield MM, Borlaug BA. A Simple, Evidence-Based Approach to Help Guide Diagnosis of Heart Failure with Preserved Ejection Fraction. *Circulation.* 2018;138(9):861–870. doi:10.1161/CIRCULATIONAHA.118.034646
 
 **Ho2019HFpEFDefinitions**
-> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039451
+> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039136
 
 **upadhya2025echo**
 > Upadhya B, Rose GA, Stacey RB, et al. The role of echocardiography in the diagnosis and management of heart failure with preserved ejection fraction. *Heart Fail Rev.* 2025;30:899–922. doi:10.1007/s10741-025-10516-z

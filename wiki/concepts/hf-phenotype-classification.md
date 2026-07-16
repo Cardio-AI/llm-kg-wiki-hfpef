@@ -1,5 +1,4 @@
 ---
-type: concept
 title: HF Phenotype Classification by Ejection Fraction
 summary: "Heart failure classified into four EF-based phenotypes \u2014 HFrEF (\u2264\
   40%), HFmrEF (41\u201349%), HFpEF (\u226550%), HFimpEF (recovered from \u226440%\
@@ -120,7 +119,7 @@ Measure [[natriuretic-peptides]]
 - Is HFmrEF a genuinely distinct phenotype or always recovering HFrEF or declining HFpEF?
 
 ## Related Pages
-- Concepts: [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[guideline-comparison]]
+- Concepts: [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[guideline-comparison]], [[hfpef-mimics-differential-diagnosis]], [[cancer-therapy-cardiotoxicity-hfpef]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[echocardiography]], [[cardiac-mri]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[savarese2022globalburden]]
 

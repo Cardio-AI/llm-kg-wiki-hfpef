@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Ventilatory Limitation to Exercise in Obese HFpEF
 summary: In obese HFpEF patients (~60% class II–III obesity), dynamic hyperinflation, expiratory flow limitation (EFL; 74–87%), and obesity-related lung mechanics create a mechanical ventilatory ceiling that limits exercise independently of cardiac filling pressures; lowering PCWP with nitroglycerin does not improve exercise capacity because patients stop at the same ventilatory limitation point before and after cardiac unloading.
@@ -14,7 +13,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
   - citekey: Babb2026VentilatoryLimit
-    doi: 10.1016/j.resp.2025.104546
+    doi: 10.1016/j.resp.2026.104546
   - citekey: Leahy2025HeartLung
     doi: 10.1016/j.jchf.2025.102523
 ---
@@ -83,3 +82,8 @@ sources:
 - [[peripheral-mechanisms-hfpef]] — peripheral mechanisms are co-contributors to exercise limitation
 - [[sleep-disordered-breathing]] — OSA contributes to both DH and ventilatory inefficiency
 - [[obesity-hfpef]] — obesity is the primary driver of ventilatory limitation in HFpEF
+- [[dynamic-hyperinflation]] — dedicated page on the primary mechanistic contributor to the ventilatory ceiling
+
+## References
+- Babb TG, Balmain BN, Tomlinson AR, Hynan LS, Levine BD, MacNamara JP, Sarma S. Ventilatory limitation to exercise in patients with heart failure with preserved ejection fraction and obesity: no room to breathe. *Respir Physiol Neurobiol.* 2026;341:104546. doi:[10.1016/j.resp.2026.104546](https://doi.org/10.1016/j.resp.2026.104546)
+- Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr, Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S. Heart-lung interactions in heart failure with preserved ejection fraction: dynamic hyperinflation increases exercise pulmonary capillary wedge pressure. *JACC Heart Fail.* 2025;13:102523. doi:[10.1016/j.jchf.2025.102523](https://doi.org/10.1016/j.jchf.2025.102523)

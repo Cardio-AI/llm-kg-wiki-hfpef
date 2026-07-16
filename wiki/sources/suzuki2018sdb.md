@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Suzuki 2018 \u2014 Severe SDB Independently Predicts Arterial Stiffness in\
   \ HFpEF But Not HFrEF"
 citekey: Suzuki2018SDB
@@ -29,7 +28,7 @@ page-type: source-summary-page
 > In 221 HF patients (70 HFpEF + 151 HFrEF), severe SDB (AHI >30/h) independently predicted higher pulse wave velocity (PWV) in HFpEF (β=0.234; P=0.005) but not in HFrEF (P=0.068), suggesting a phenotype-specific interaction between SDB and vascular stiffening in HFpEF.
 
 **Full citation:**
-Suzuki N, Yumino D, Sata N, et al. Severe obstructive sleep apnea is a predictor of elevated arterial stiffness in patients with heart failure with preserved ejection fraction. *ESC Heart Fail.* 2018;5(2):284–291. doi:[10.1002/ehf2.12264](https://doi.org/10.1002/ehf2.12264)
+Suzuki S, Yoshihisa A, Sato Y, Watanabe S, Yokokawa T, Sato T, Oikawa M, Kobayashi A, Yamaki T, Kunii H, Nakazato K, Suzuki H, Saitoh S, Ishida T, Takeishi Y. Association between sleep-disordered breathing and arterial stiffness in heart failure patients with reduced or preserved ejection fraction. *ESC Heart Fail.* 2018;5(2):284–291. doi:[10.1002/ehf2.12273](https://doi.org/10.1002/ehf2.12273)
 **Authors:** Suzuki S et al. (Fukushima Medical University, Japan)  
 **Year:** 2018 · **Journal:** ESC Heart Fail 2018;5:284–291  
 **Study type:** Prospective cross-sectional; single centre (Fukushima Medical University Hospital)  

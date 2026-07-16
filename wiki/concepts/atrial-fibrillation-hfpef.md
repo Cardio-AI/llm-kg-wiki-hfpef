@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: phenotype-page
 title: Atrial Fibrillation-Dominant HFpEF Phenotype
 summary: The atrial fibrillation-dominant HFpEF phenotype (~10–30% of HFpEF; up to 50% including paroxysmal AF) features bidirectional AF-HFpEF interaction: AF impairs diastolic filling via loss of atrial kick and uncontrolled ventricular rate, while HFpEF-related LA remodelling creates the AF substrate; rhythm control (early pharmacological or catheter ablation) reduces mortality vs. rate control (OR 0.735; I²=0%; N=16,825; Al-Sadawi 2022 meta-analysis) and reduces CV endpoints (HR 0.74; EAST-AFNET4 HF subgroup).
@@ -144,3 +143,13 @@ ARNi (sacubitril/valsartan) reversed LA remodelling in PARAMOUNT (−4.6 vs. +0.
 - [[camkii]] — CaMKII oxidation pathway linking SDB/hypoxia to AF in obese HFpEF
 - [[sleep-disordered-breathing]] — OSA → CaMKII → AF substrate; SDB treatment as complementary AF strategy
 - [[hemodynamics]] — PCWP elevation in AF-mediated decompensation
+
+## References
+- Al-Sadawi M, Aleem S, Aslam F, Jacobs R, Stevens G, Almasry I, Singh A, Fan R, Rashba E. Rhythm versus rate control for atrial fibrillation in heart failure with preserved ejection fraction. *Heart Rhythm O2.* 2022;3(5):520–525. doi:[10.1016/j.hroo.2022.06.009](https://doi.org/10.1016/j.hroo.2022.06.009)
+- Rillig A, Magnussen C, Ozga AK, Suling A, Brandes A, Breithardt G, Camm AJ, Crijns HJGM, Eckardt L, Elvan A, Goette A, Gulizia M, Haegeli L, Heidbuchel H, Kuck KH, Ng A, Szumowski L, van Gelder I, Wegscheider K, Kirchhof P. Early Rhythm Control Therapy in Patients With Atrial Fibrillation and Heart Failure. *Circulation.* 2021;144(11):845–858. doi:[10.1161/CIRCULATIONAHA.121.056323](https://doi.org/10.1161/CIRCULATIONAHA.121.056323)
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Shah SJ, Katz DH, Selvaraj S, Burke MA, Yancy CW, Gheorghiade M, Bonow RO, Huang CC, Deo RC. Phenomapping for Novel Classification of Heart Failure With Preserved Ejection Fraction. *Circulation.* 2015;131(3):269–279. doi:[10.1161/CIRCULATIONAHA.114.010637](https://doi.org/10.1161/CIRCULATIONAHA.114.010637)
+- Pieske B, Tschöpe C, de Boer RA, et al.; Heart Failure Association (HFA) of the ESC. How to diagnose heart failure with preserved ejection fraction: the HFA-PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC). *Eur Heart J.* 2019;40(40):3297–3317. doi:[10.1093/eurheartj/ehz641](https://doi.org/10.1093/eurheartj/ehz641)
+- Wester M, Arzt M, Sinha F, Maier LS, Lebek S. Insights into the Interaction of Heart Failure with Preserved Ejection Fraction and Sleep-Disordered Breathing. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)
+- Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
+- Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; PARAMOUNT Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double-blind randomised controlled trial. *Lancet.* 2012;380(9851):1387–1395. doi:[10.1016/S0140-6736(12)61227-6](https://doi.org/10.1016/S0140-6736(12)61227-6)

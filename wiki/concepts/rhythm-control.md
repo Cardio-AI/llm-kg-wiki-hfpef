@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Rhythm Control in AF+HFpEF
 summary: Rhythm control (primarily catheter ablation) is associated with significantly better outcomes vs. rate control in HFpEF+AF; meta-analysis (N=16,825; OR 0.735; P<0.001; I²=0%) and EAST-AFNET4 HF substudy (HR 0.74; P=0.03) both show significant benefit; early rhythm control appears class-independent across HFrEF, HFmrEF, and HFpEF subtypes.
@@ -82,3 +81,8 @@ Rate control strategies (beta-blockers, digoxin, calcium channel blockers) reduc
 - [[sleep-disordered-breathing]] — SDB drives AF via CaMKII pathway; treating SDB may complement rhythm control
 - [[atrial-fibrillation-hfpef]] — HFpEF phenotype dominated by AF
 - [[hfpef-treatment]] — treatment overview
+
+## References
+- Al-Sadawi M, Aleem S, Aslam F, Jacobs R, Stevens G, Almasry I, Singh A, Fan R, Rashba E. Rhythm versus rate control for atrial fibrillation in heart failure with preserved ejection fraction. *Heart Rhythm O2.* 2022;3(5):520–525. doi:[10.1016/j.hroo.2022.06.009](https://doi.org/10.1016/j.hroo.2022.06.009)
+- Rillig A, Magnussen C, Ozga AK, Suling A, Brandes A, Breithardt G, Camm AJ, Crijns HJGM, Eckardt L, Elvan A, Goette A, Gulizia M, Haegeli L, Heidbuchel H, Kuck KH, Ng A, Szumowski L, van Gelder I, Wegscheider K, Kirchhof P. Early Rhythm Control Therapy in Patients With Atrial Fibrillation and Heart Failure. *Circulation.* 2021;144(11):845–858. doi:[10.1161/CIRCULATIONAHA.121.056323](https://doi.org/10.1161/CIRCULATIONAHA.121.056323)
+- Wester M, Arzt M, Sinha F, Maier LS, Lebek S. Insights into the Interaction of Heart Failure with Preserved Ejection Fraction and Sleep-Disordered Breathing. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)

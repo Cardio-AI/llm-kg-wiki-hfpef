@@ -1,5 +1,4 @@
 ---
-type: source
 title: "H\u2082FPEF Score: A Simple Diagnostic Score for HFpEF"
 citekey: Reddy2018H2FPEF
 year: 2018
@@ -79,7 +78,7 @@ Reddy YNV, Carter RE, Obokata M, Redfield MM, Borlaug BA. A Simple, Evidence-Bas
 - Aligns with: [[atrial-fibrillation]] — AF carries highest weight (3 pts) in H₂FPEF score
 
 ## Related Pages
-- Concepts: [[hfpef-diagnosis]], [[hfpef-diagnostic-definitions]], [[natriuretic-peptides]], [[diastolic-dysfunction]]
+- Concepts: [[hfpef-diagnosis]], [[hfpef-diagnostic-definitions]], [[natriuretic-peptides]], [[diastolic-dysfunction]], [[noncardiac-dyspnea]]
 - Entities: [[echocardiography]], [[cardiopulmonary-exercise-testing]], [[atrial-fibrillation]]
 - Sources: [[pieske2019hfapeff]], [[ho2019hfpefdefinitions]], [[mcdonagh2021esc]]
 

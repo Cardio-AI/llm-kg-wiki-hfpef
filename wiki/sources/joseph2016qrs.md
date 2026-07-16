@@ -1,11 +1,10 @@
 ---
-type: study
 title: "Joseph 2016 \u2014 QRS Duration as Predictor of Outcomes in HFpEF (TOPCAT\
   \ Post-Hoc)"
 citekey: Joseph2016QRS
 year: 2016
-authors: Joseph J, Claggett BC, Anand IS, Fleg JL, Pieske B, Pitt B, Pfeffer MA, Solomon
-  SD
+authors: Joseph J, Claggett BC, Anand IS, Fleg JL, Huynh T, Desai AS, Solomon SD, O'Meara
+  E, Mckinlay S, Pitt B, Pfeffer MA, Lewis EF
 journal: JACC Heart Fail
 study_type: post-hoc analysis (TOPCAT)
 evidence_level: moderate
@@ -17,10 +16,10 @@ tags:
 - hfpef
 - topcat
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-07-15
 sources:
 - citekey: Joseph2016QRS
-  doi: 10.1016/j.jchf.2016.01.016
+  doi: 10.1016/j.jchf.2016.02.013
 page-type: source-summary-page
 ---
 # Joseph 2016 — QRS Duration as Predictor of Outcomes in HFpEF (TOPCAT)
@@ -28,9 +27,9 @@ page-type: source-summary-page
 > In a post-hoc analysis of the TOPCAT trial (N=3,445 HFpEF), QRS duration ≥120 ms was present in 17.9% of patients and was independently associated with a 27% higher risk of the primary composite outcome and 38% higher risk of HF hospitalisation; **QRS duration shows a continuous risk relationship with a threshold near 100 ms**.
 
 **Full citation:**
-Joseph SM, Novak E, Arnold SV, Jones PG, Khattak H, Platts AE, Dávila-Román VG, Mann DL, Spertus JA; TOPCAT Investigators. Comparable performance of the Kansas City Cardiomyopathy Questionnaire in patients with heart failure with preserved and reduced ejection fraction. *JACC Heart Fail.* 2016;4(6):477–486. doi:[10.1016/j.jchf.2016.01.016](https://doi.org/10.1016/j.jchf.2016.01.016)
-**Authors:** Joseph J, Claggett BC, Anand IS, Fleg JL, Pieske B, Pitt B, Pfeffer MA, Solomon SD  
-**Year:** 2016 · **Journal:** JACC Heart Fail 2016;4:477–486  
+Joseph J, Claggett BC, Anand IS, Fleg JL, Huynh T, Desai AS, Solomon SD, O'Meara E, Mckinlay S, Pitt B, Pfeffer MA, Lewis EF. QRS Duration Is a Predictor of Adverse Outcomes in Heart Failure With Preserved Ejection Fraction. *JACC Heart Fail.* 2016;4(6):477–486. doi:[10.1016/j.jchf.2016.02.013](https://doi.org/10.1016/j.jchf.2016.02.013)
+**Authors:** Joseph J, Claggett BC, Anand IS, Fleg JL, Huynh T, Desai AS, Solomon SD, O'Meara E, Mckinlay S, Pitt B, Pfeffer MA, Lewis EF  
+**Year:** 2016 · **Journal:** JACC Heart Fail 2016;4(6):477–486  
 **Study type:** Post-hoc analysis of TOPCAT (NCT00094302)  
 **N:** 3,445 HFpEF patients from TOPCAT · **NCT:** NCT00094302  
 **Population:** HFpEF (LVEF ≥45%); NYHA II–IV; sinus rhythm, AF, or paced; mean age ~68y; hypertension, diabetes common  

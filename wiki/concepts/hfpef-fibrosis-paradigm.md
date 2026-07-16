@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: HFpEF Fibrosis Paradigm
 summary: The fibrosis-centric HFpEF paradigm holds that myocardial fibrosis (both focal and diffuse) is a primary structural driver of diastolic stiffness, and that microvascular dysfunction and fibrosis are independent, uncorrelated mechanisms that co-exist in HFpEF; DIAMOND-HFpEF demonstrated 70% MVD prevalence with impaired MPR independently predicting outcomes, and ECV (diffuse fibrosis) had zero correlation with MPR (r=−0.06; P=0.638).
@@ -81,3 +80,8 @@ Both mechanisms may need to be targeted simultaneously for meaningful benefit �
 - [[cardiac-mri]] — imaging modality for both fibrosis and CMD assessment
 - [[inflammation-hfpef]] — upstream driver of both fibrosis and CMD
 - [[hfpef-phenotypes]] — fibrotic vs. vascular HFpEF phenotypes
+- [[diamond-hfpef]] — key evidentiary source for this paradigm
+
+## References
+- Arnold JR, Kanagala P, Budgeon CA, Jerosch-Herold M, Gulsin GS, Singh A, Khan JN, Chan DCS, Squire IB, Ng LL, McCann GP. Prevalence and Prognostic Significance of Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.11.022](https://doi.org/10.1016/j.jcmg.2021.11.022)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)

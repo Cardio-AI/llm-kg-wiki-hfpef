@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Prescribing trends of SGLT2 inhibitors among HFrEF and HFpEF patients with\
   \ and without T2DM, 2013\u20132021"
 citekey: gonzalez2024sglt2trends
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > By 2021, only 1 in 5 HFpEF patients with T2DM and 1 in 85 without T2DM were on an SGLT2i in US commercial/Medicare claims — a major implementation gap even after landmark trial publications and guideline updates.
 
 **Full citation:**
-González A, et al. Trends in the utilisation of sodium-glucose cotransporter-2 inhibitors in patients with heart failure with reduced or preserved ejection fraction in the United States. *BMC Cardiovasc Disord.* 2024;24:285. doi:[10.1186/s12872-024-03961-5](https://doi.org/10.1186/s12872-024-03961-5)
+Gonzalez J, Dave CV. Prescribing trends of SGLT2 inhibitors among HFrEF and HFpEF patients with and without T2DM, 2013–2021. *BMC Cardiovasc Disord.* 2024;24:285. doi:[10.1186/s12872-024-03961-5](https://doi.org/10.1186/s12872-024-03961-5)
 
 ---
 

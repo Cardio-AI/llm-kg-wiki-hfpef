@@ -1,5 +1,4 @@
 ---
-type: entity
 title: DECIPHER-HFpEF
 summary: German diagnostic validation study (n=185, 7 centers) comparing CMR parameters
   against invasive pressure-volume loops as gold standard in HFpEF; also collects
@@ -159,6 +158,9 @@ DECIPHER-HFpEF is the primary source validating non-invasive (CMR) tools against
 ---
 
 ## Related Pages
-- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[hf-phenotype-classification]]
+- Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[hf-phenotype-classification]], [[titin]]
 - Entities: [[cardiac-mri]], [[echocardiography]], [[cardiopulmonary-exercise-testing]], [[torch]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]]
+
+## References
+No peer-reviewed publication cited — this study's primary source is its ClinicalTrials.gov registry entry (no results paper ingested yet): NCT03251183 — https://clinicaltrials.gov/study/NCT03251183

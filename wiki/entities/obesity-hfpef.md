@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Obesity in HFpEF
 summary: "Obesity (BMI \u226530) affects 30\u201340% of HFpEF patients and defines\
   \ a distinct cardiometabolic phenotype; excess pericardial fat, expanded plasma\
@@ -112,7 +111,7 @@ Treatment wheel position: semaglutide / tirzepatide as phenotype-specific add-on
 
 ## Related Pages
 
-- Concepts: [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[coronary-microvascular-dysfunction]], [[pericardial-restraint]], [[obese-metabolic-hfpef]]
+- Concepts: [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[coronary-microvascular-dysfunction]], [[pericardial-restraint]], [[obese-metabolic-hfpef]], [[hfpef-aba-score]]
 - Entities: [[step-hfpef]], [[summit]], [[sglt2-inhibitors]], [[hfpef]], [[atrial-fibrillation]]
 - Sources: [[kosiborod2023stephfpef]], [[anker2023hfpefphenotype]], [[borlaug2023statement]], [[kramer2025summit-cmr]], [[packer2025summit]], [[lee2024lifestyle]], [[paulus2013novelparadigm]], [[kitzman2016secret]]
 
@@ -123,3 +122,12 @@ Treatment wheel position: semaglutide / tirzepatide as phenotype-specific add-on
 **Obesity paradox:** Some observational studies report lower mortality in obese vs. non-obese HFpEF — possibly reflecting selection bias (obese patients diagnosed earlier due to more symptomatic disease), reverse causation (weight loss in advanced HFpEF as marker of poor prognosis), or genuinely different disease biology. RCT data (STEP-HFpEF, SUMMIT) show weight loss improves symptoms and events, supporting weight loss as beneficial. See [[contradictions]].
 
 **Lean mass loss:** GLP-1RA (semaglutide) reduces lean muscle mass as well as fat. In HFpEF patients with sarcopenic obesity, muscle loss may worsen skeletal muscle component of exercise intolerance despite symptom improvement. SUMMIT combined exercise + tirzepatide — whether the exercise arm preserves lean mass is an open question. See [[contradictions]].
+
+## References
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)
+- Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
+- Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Liisberg K, Perna E, Sharma K, Ezekowitz JA, Fu M, Melenovský V, Ito H, Lelonek M, Kosiborod MN. Semaglutide and NT-proBNP in Obesity-Related HFpEF: Insights From the STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)
+- Packer M, Zile MR, Kramer CM, et al.; SUMMIT Trial Study Group. Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2025;392(5):427–437. doi:[10.1056/NEJMoa2410027](https://doi.org/10.1056/NEJMoa2410027)
+- Pieske B, Tschöpe C, de Boer RA, et al.; Heart Failure Association (HFA) of the ESC. How to diagnose heart failure with preserved ejection fraction: the HFA-PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC). *Eur Heart J.* 2019;40(40):3297–3317. doi:[10.1093/eurheartj/ehz641](https://doi.org/10.1093/eurheartj/ehz641)

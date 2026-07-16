@@ -1,5 +1,4 @@
 ---
-type: study
 title: "RELAX \u2014 Phosphodiesterase-5 Inhibition to Improve Clinical Status and\
   \ Exercise Capacity in Diastolic Heart Failure"
 citekey: Redfield2013RELAX
@@ -125,8 +124,8 @@ cGMP increase confirms drug reached its molecular target; absence of functional 
 
 ## Related Pages
 
-- Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[exercise-intolerance]]
-- Entities: [[relax]], [[hfpef]]
+- Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[exercise-intolerance]], [[titin]], [[chronotropic-incompetence]]
+- Entities: [[relax]], [[hfpef]], [[minnesota-living-with-heart-failure-questionnaire]]
 - Sources: [[redfield2015neat]], [[armstrong2020vitality]], [[pieske2017socrates]], [[alnaamani2015pac]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Echocardiography
 summary: Transthoracic ultrasound-based cardiac imaging; the primary modality for
   LVEF measurement, diastolic function assessment, and HFpEF diagnosis; no single
@@ -64,7 +63,7 @@ Key markers from ESC 2021 Table 9:
 | Parameter | HFpEF threshold |
 |---|---|
 | E/e' ratio | >9 (sens 78%, spec 59%); >13 (sens 46%, spec 86%) |
-| LA volume index | >34 mL/m² (SR), >40 mL/m² ([[atrial-fibrillation|AF]]) |
+| LA volume index | >34 mL/m² (SR), >40 mL/m² ([[atrial-fibrillation\|AF]]) |
 | LV mass index | ≥95 g/m² (F), ≥115 g/m² (M) |
 | TR velocity | >2.8 m/s |
 | LV GLS (stress echo) | <16% (sens 62%, spec 56%) |

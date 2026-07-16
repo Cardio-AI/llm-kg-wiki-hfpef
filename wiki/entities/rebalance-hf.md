@@ -1,7 +1,7 @@
 ---
-type: entity
 title: REBALANCE-HF
 citekey: rebalance-hf
+entity_type: trial
 tags:
 - trial
 - device
@@ -47,3 +47,6 @@ The splanchnic venous bed contains ~30–40% of circulating blood volume under s
 - Sympathetic mechanism: [[manabe2023sympathetic]]
 - Device trial comparators: [[champion]], [[reduce-lap-hf-ii]], [[lindenfeld2021guidehf]]
 - Exercise intolerance mechanism: [[exercise-intolerance]]
+
+## References
+- Fudim M, Borlaug BA, Mohan RC, Price MJ, Fail P, Goyal P, Hummel SL, Zirakashvili T, Shaburishvili T, Patel RB, Reddy VY, Nielsen CD, Chetcuti SJ, Sukul D, Gulati R, Kim L, Benzuly K, Mitter SS, Klein L, Uriel N, Augostini RS, Blair JC, Rocha-Singh K, Burkhoff D, Patel MR, Somo SI, Litwin SE, Shah SJ. Endovascular Ablation of the Greater Splanchnic Nerve in Heart Failure With Preserved Ejection Fraction: The REBALANCE-HF Randomized Clinical Trial. *JAMA Cardiol.* 2024;9(12):1143–1153. doi:[10.1001/jamacardio.2024.2612](https://doi.org/10.1001/jamacardio.2024.2612)

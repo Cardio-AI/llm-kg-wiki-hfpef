@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'PARAGON-HF: Sacubitril/Valsartan vs. Valsartan in HFpEF'
 citekey: Solomon2019PARAGON
 year: 2019

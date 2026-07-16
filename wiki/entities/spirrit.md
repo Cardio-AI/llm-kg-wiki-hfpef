@@ -1,5 +1,4 @@
 ---
-type: entity
 title: SPIRRIT-HFpEF
 summary: Ongoing registry-based RCT (RRCT) of spironolactone/eplerenone vs. usual
   care in HFpEF/HFmrEF; NCT02901184; ~2,200 enrolled mid-2024 via SwedeHF + US TIN;
@@ -75,3 +74,6 @@ Design paper published (Lund et al., *Eur J Heart Fail* 2024;26:2453–2463). Re
 ## Contradictions
 
 TOPCAT (neutral overall, positive Americas subgroup) + SPIRRIT (spironolactone usual care) + FINEARTS-HF (finerenone positive) — if SPIRRIT is also negative while FINEARTS-HF is positive, this would suggest the benefit is finerenone-specific. See [[contradictions]].
+
+## References
+- Lund LH, Faxén J, Hage C, et al.; on behalf of the SPIRRIT-HFpEF Investigators. Spironolactone in heart failure with preserved ejection fraction: rationale and design of the SPIRRIT-HFpEF trial. *Eur J Heart Fail.* 2024;26(11):2453–2463. doi:[10.1002/ejhf.3453](https://doi.org/10.1002/ejhf.3453)

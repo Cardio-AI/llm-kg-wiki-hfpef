@@ -1,5 +1,4 @@
 ---
-type: study
 title: "EMPULSE \u2014 Empagliflozin in Patients Hospitalized for Acute Heart Failure"
 citekey: Voors2022EMPULSE
 year: 2022
@@ -183,7 +182,7 @@ Notable: serious adverse events were numerically lower with empagliflozin (32.3%
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]]
-- Entities: [[empulse]], [[sglt2-inhibitors]], [[strong-hf]], [[hfpef]]
+- Entities: [[empulse]], [[sglt2-inhibitors]], [[strong-hf]], [[hfpef]], [[kansas-city-cardiomyopathy-questionnaire]]
 - Sources: [[mcdonagh2023escupdate]], [[anker2021emperor]], [[solomon2022deliver]], [[mebazaa2022stronghf]]
 
 ## Contradictions

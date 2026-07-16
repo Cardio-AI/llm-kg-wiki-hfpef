@@ -1,5 +1,4 @@
 ---
-type: study
 title: "PEP-CHF \u2014 Perindopril in Elderly People With Chronic Heart Failure"
 citekey: Cleland2006PEPCHF
 year: 2006

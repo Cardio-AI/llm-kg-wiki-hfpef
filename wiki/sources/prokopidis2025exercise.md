@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Exercise Training Effects in HFpEF versus HFrEF: Systematic Review and Meta-Analysis
   (Prokopidis 2025)'
 citekey: Prokopidis2025Exercise
@@ -28,7 +27,7 @@ page-type: source-summary-page
 > Systematic review and meta-analysis (46 studies; inception to October 2024) comparing exercise training effects in HFpEF vs HFrEF: HFpEF had higher VO₂peak (+0.78 mL/kg/min; P=0.02) and cardiac output (+1.15 L/min), but lower 6MWD (−18.09 m; P=0.03) than HFrEF; after comorbidity adjustment, VO₂peak and 6MWD differences became non-significant; age was a significant moderator.
 
 **Full citation:**
-Prokopidis K, Isanejad M, Akpan A, et al. Comparison of exercise training effects between heart failure phenotypes: a systematic review and meta-analysis of peak VO₂ and six-minute walk distance. *Eur Heart J Open.* 2025;5(2):oeaf055. doi:[10.1093/ehjopen/oeaf055](https://doi.org/10.1093/ehjopen/oeaf055)
+Prokopidis K, Irlik K, Ispoglou T, Ferentinos P, Mitropoulos A, Schlögl M, Isanejad M, Kegler K, Nabrdalik K, Lip GYH. Exercise capacity in heart failure: a systematic review and meta-analysis of HFrEF and HFpEF disparities in VO₂peak and 6-minute walking distance. *Eur Heart J Open.* 2025;5:oeaf055. doi:[10.1093/ehjopen/oeaf055](https://doi.org/10.1093/ehjopen/oeaf055)
 
 ---
 

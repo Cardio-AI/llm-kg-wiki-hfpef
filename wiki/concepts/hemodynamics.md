@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Haemodynamics in HFpEF
 summary: HFpEF haemodynamics are characterised by elevated filling pressures (elevated PCWP ≥15 mmHg rest, ≥25 mmHg exercise), preserved cardiac output at rest, and impaired haemodynamic reserve with exercise; exercise unmasks diverging haemodynamic impairment not visible at rest; exercise right-heart catheterisation is the gold standard for diagnosis; in obese HFpEF, dynamic hyperinflation confounds measured PCWP.
@@ -85,3 +84,8 @@ The fundamental haemodynamic problem in HFpEF is inability to augment CO adequat
 - [[arterial-stiffness]] — vascular contribution to haemodynamic impairment
 - [[heart-lung-interactions]] — ventilatory contribution to measured PCWP in obese HFpEF
 - [[hemodynamic-monitoring]] — therapeutic application of haemodynamic measurement
+
+## References
+- Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2017;70(2):136–148. doi:[10.1016/j.jacc.2017.05.029](https://doi.org/10.1016/j.jacc.2017.05.029)
+- Horiuchi Y, Villacorta H, Maisel AS. Natriuretic Peptide-guided Therapy for Heart Failure. *Heart Int.* 2022;16(2):112–116. doi:[10.17925/HI.2022.16.2.112](https://doi.org/10.17925/HI.2022.16.2.112)
+- Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr, Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S. Heart-lung interactions in heart failure with preserved ejection fraction: dynamic hyperinflation increases exercise pulmonary capillary wedge pressure. *JACC Heart Fail.* 2025;13:102523. doi:[10.1016/j.jchf.2025.102523](https://doi.org/10.1016/j.jchf.2025.102523)

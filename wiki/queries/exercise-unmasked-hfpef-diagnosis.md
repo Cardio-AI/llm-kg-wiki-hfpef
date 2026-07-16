@@ -202,7 +202,7 @@ Re-score HFA-PEFF / H₂FPEF
 > Sachdev V, Sharma K, Keteyian SJ, et al. Exercise Training in Heart Failure With Preserved Ejection Fraction: A Scientific Statement From the American Heart Association. *Circulation.* 2023;148(19):1531–1544. doi:10.1161/CIR.0000000000001171
 
 **Ho2019HFpEFDefinitions**
-> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039451
+> Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Distinct HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:10.1161/CIRCULATIONAHA.118.039136
 
 ---
 

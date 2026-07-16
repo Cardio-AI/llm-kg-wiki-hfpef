@@ -1,5 +1,4 @@
 ---
-type: study
 title: Deep Learning-Based Electrocardiogram for Screening Heart Failure With Preserved
   Ejection Fraction
 citekey: Gao2025ECGDL
@@ -26,7 +25,7 @@ page-type: source-summary-page
 > A CNN-LSTM deep learning model applied to standard 12-lead ECGs achieves 78% accuracy in training (Cohort A) and 71.8% accuracy (71.7% sensitivity, 71.9% specificity) in prospective validation (Cohort B) for identifying HFpEF risk using invasive LVEDP >12 mmHg as reference standard, without relying on BNP or echocardiographic E/e'. Precordial leads perform better than limb leads.
 
 **Full citation:**
-Gao X, Zhang Y, Li Y, Wang J, Chen M, Liu H, Zhao W. Deep Learning-Based Electrocardiogram for Screening Heart Failure With Preserved Ejection Fraction. *ESC Heart Fail.* 2025;12:631–639. doi:[10.1002/ehf2.15120](https://doi.org/10.1002/ehf2.15120)
+Gao Z, Yang Y, Yang Z, Zhang X, Liu C. Electrocardiograph analysis for risk assessment of heart failure with preserved ejection fraction: A deep learning model. *ESC Heart Fail.* 2025;12:631–639. doi:[10.1002/ehf2.15120](https://doi.org/10.1002/ehf2.15120)
 **Affiliations:** Department of Cardiology, First Hospital of Hebei Medical University, Shijiazhuang; Cangzhou Central Hospital and Cangzhou Medical College, China  
 **Year:** 2025 (published online October 27, 2024) · **Journal:** ESC Heart Failure 2025;12:631–639 · **DOI:** 10.1002/ehf2.15120  
 **Study type:** Observational model development (Cohort A) + prospective external validation (Cohort B)  

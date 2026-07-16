@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Supervised Exercise Training (SET)
 summary: "Structured, supervised aerobic exercise programmes (MCT, HIIT, combined\
   \ resistance/aerobic, or IMT modalities) that improve peak VO2 by ~2.8 mL/kg/min\
@@ -38,7 +37,7 @@ sources:
 - citekey: Kitzman2021REHABHF
   doi: 10.1056/NEJMoa2026141
 - citekey: mentz2021rehabhfhfpef
-  doi: 10.1016/j.jchf.2021.07.008
+  doi: 10.1016/j.jchf.2021.05.007
 - citekey: Mueller2021OptimEx
   doi: 10.1001/jama.2020.26812
 - citekey: donelli2020hiit
@@ -165,8 +164,8 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 
 ## Related Pages
 
-- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[ml-ai-hfpef]]
-- Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]], [[rehab-hf]], [[optimex-clin]]
+- Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[ml-ai-hfpef]], [[inspiratory-muscle-training]]
+- Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]], [[rehab-hf]], [[optimex-clin]], [[kansas-city-cardiomyopathy-questionnaire]], [[six-minute-walk-test]]
 - Sources: [[sachdev2023exercise]], [[mirzai2025exercise]], [[bohmke2022nonpharm]], [[zeid2025myomobile]], [[mcdonagh2021esc]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]], [[kitzman2021rehabhf]], [[mentz2021rehabhfhfpef]], [[mueller2021optimex]], [[donelli2020hiit]]
 
 ## Contradictions
@@ -177,7 +176,7 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 See [[contradictions]].
 
 ## References
-- Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
+- Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies in Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
 - Kitzman DW, Whellan DJ, Duncan P, et al.; REHAB-HF Trial Investigators. Physical Rehabilitation for Older Patients Hospitalized for Heart Failure. *N Engl J Med.* 2021;385(3):203–216. doi:[10.1056/NEJMoa2026141](https://doi.org/10.1056/NEJMoa2026141)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
 - Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

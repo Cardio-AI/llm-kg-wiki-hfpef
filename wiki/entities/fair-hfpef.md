@@ -1,5 +1,4 @@
 ---
-type: entity
 title: FAIR-HFpEF
 summary: "RCT (N=40; stopped early) of IV ferric carboxymaltose (FCM) vs. placebo\
   \ in HFpEF (LVEF \u226545%) with iron deficiency; NCT03074591; published Eur Heart\
@@ -79,9 +78,15 @@ Population: median age 80y, 62% women, LVEF 55%, NT-proBNP 490–1129 pg/mL (imb
 ## Related Pages
 
 - Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
-- Entities: [[hfpef]], [[sglt2-inhibitors]]
+- Entities: [[hfpef]], [[sglt2-inhibitors]], [[six-minute-walk-test]]
 - Sources: [[vonhaehling2024fair]], [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[sachdev2023exercise]]
 
 ## Contradictions
 
 None registered yet.
+
+## References
+- Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL Jr, Yancy CW. 2023 ACC expert consensus decision pathway on management of heart failure with preserved ejection fraction: a report of the American College of Cardiology Solution Set Oversight Committee. *J Am Coll Cardiol.* 2023;81(18):1835–1878. doi:[10.1016/j.jacc.2023.03.393](https://doi.org/10.1016/j.jacc.2023.03.393)
+- von Haehling S, Doehner W, Evertz R, Garfias-Veitl T, Derad C, Diek M, Karakas M, Birkemeyer R, Fillippatos G, Lainscak M, Butler J, Ponikowski P, Böhm M, Friede T, Anker SD. Ferric carboxymaltose and exercise capacity in heart failure with preserved ejection fraction and iron deficiency: the FAIR-HFpEF trial. *Eur Heart J.* 2024;45(40):3789–3800. doi:[10.1093/eurheartj/ehae479](https://doi.org/10.1093/eurheartj/ehae479)

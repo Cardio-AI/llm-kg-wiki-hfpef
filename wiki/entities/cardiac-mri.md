@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Cardiac MRI (CMR)
 summary: Cardiovascular magnetic resonance imaging; the gold standard for LVEF measurement
   and myocardial tissue characterisation; higher accuracy than echocardiography for
@@ -19,7 +18,7 @@ sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
 - citekey: ipek2024cmr
-  doi: 10.1093/ehjci/jea224
+  doi: 10.1093/ehjci/jeae224
 - citekey: lange2024cmr
   doi: 10.1007/s10554-024-03145-4
 page-type: entity-page
@@ -106,7 +105,7 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 
 ## Related Pages
 - Concepts: [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[coronary-microvascular-dysfunction]]
-- Entities: [[hfpef]], [[hfref]], [[hfmref]], [[echocardiography]]
+- Entities: [[hfpef]], [[hfref]], [[hfmref]], [[echocardiography]], [[technetium-pyrophosphate-scintigraphy]]
 - Sources: [[mcdonagh2021esc]], [[ipek2024cmr]], [[lange2024cmr]], [[fayyaz2025pathophys]]
 
 ## Contradictions
@@ -115,6 +114,6 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 See [[contradictions]].
 
 ## References
-- Ipek R, Holland J, Cramer M, Rider O. CMR to characterize myocardial structure and function in heart failure with preserved left ventricular ejection fraction. *Eur Heart J Cardiovasc Imaging.* 2024;25(11):1491–1504. doi:[10.1093/ehjci/jea224](https://doi.org/10.1093/ehjci/jea224)
-- Lange T, Backhaus SJ, Schulz A, Hashem D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A. CMR-based cardiac phenotyping in different forms of heart failure. *Int J Cardiovasc Imaging.* 2024;40(8):1585–1596. doi:[10.1007/s10554-024-03145-4](https://doi.org/10.1007/s10554-024-03145-4)
+- Ipek R, Holland J, Cramer M, Rider O. CMR to characterize myocardial structure and function in heart failure with preserved left ventricular ejection fraction. *Eur Heart J Cardiovasc Imaging.* 2024;25(11):1491–1504. doi:[10.1093/ehjci/jeae224](https://doi.org/10.1093/ehjci/jeae224)
+- Lange T, Backhaus SJ, Schulz A, Hashemi D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A. CMR-based cardiac phenotyping in different forms of heart failure. *Int J Cardiovasc Imaging.* 2024;40(8):1585–1596. doi:[10.1007/s10554-024-03145-4](https://doi.org/10.1007/s10554-024-03145-4)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: HFpEF Inflammatory-Metabolic Paradigm
 summary: The inflammatory-metabolic paradigm of HFpEF extends the Paulus 2013 model by positing that comorbidities (obesity, diabetes, hypertension) drive both systemic low-grade inflammation AND metabolic dysfunction simultaneously; systemic inflammatory markers (NLR, CRP, IL-6) predict all-cause mortality (HR 1.43), CV mortality (HR 2.04), and rehospitalisation (HR 2.83) in HFpEF; the inflammatory endotype (~30% of HFpEF) has distinct biomarker signatures and may require targeted therapy.
@@ -98,3 +97,8 @@ Inflammation-metabolic targeting in HFpEF:
 - [[epicardial-adipose-tissue]] — metabolic-inflammatory mediator in HFpEF
 - [[coronary-microvascular-dysfunction]] — Paulus paradigm links inflammation to CMD
 - [[nitric-oxide-pathway]] — inflammation-driven NO deficit is central mechanism
+
+## References
+- Fu Z, Liu P, Gao X, Shi S, Li Y, Zhang B, Wu H, Song Q. Association of systemic inflammatory markers with clinical adverse prognosis and outcomes in HFpEF: a systematic review and meta-analysis of cohort studies. *Front Cardiovasc Med.* 2024;11:1461073. doi:[10.3389/fcvm.2024.1461073](https://doi.org/10.3389/fcvm.2024.1461073)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)

@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Inflammation in HFpEF
 summary: Chronic low-grade systemic inflammation is a hallmark of HFpEF pathophysiology, characterized by elevated pro-inflammatory markers (IL-6, TNF-α, CRP) and neutrophil-lymphocyte ratio; drives myocardial stiffness, endothelial dysfunction, and cardiomyocyte oxidative stress; NLR trajectory predicts mortality independently of clinical risk scores; both comorbidities (obesity, diabetes, hypertension) and HFpEF itself perpetuate inflammation.
@@ -131,3 +130,9 @@ HFpEF is characterized by **chronic activation of innate and adaptive immunity**
 - Can serial NLR or IL-6 monitoring improve risk stratification or guide therapy titration?
 - Are there HFpEF subphenotypes with differential inflammatory signatures requiring different treatment approaches?
 - Does exercise-induced reduction in inflammation mediate benefit of cardiac rehabilitation in HFpEF?
+
+## References
+- Boralkar KA, Kobayashi Y, Amsallem M, Arthur Ataam J, Moneghetti KJ, Cauwenberghs N, Horne BD, Knowlton KU, Maecker H, Kuznetsova T, Heidenreich PA, Haddad F. Value of Neutrophil to Lymphocyte Ratio and Its Trajectory in Patients Hospitalized With Acute Heart Failure and Preserved Ejection Fraction. *Am J Cardiol.* 2020;125(2):229–235. doi:[10.1016/j.amjcard.2019.10.020](https://doi.org/10.1016/j.amjcard.2019.10.020)
+- Shah SJ, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, Beussink-Nelson L, Ljung Faxén U, Lagerström Fermer M, Broberg MA, Gan LM, Lund LH. Prevalence and correlates of coronary microvascular dysfunction in heart failure with preserved ejection fraction: PROMIS-HFpEF. *Eur Heart J.* 2018;39(37):3439–3450. doi:[10.1093/eurheartj/ehy531](https://doi.org/10.1093/eurheartj/ehy531)
+- Tamaki S, Nagai Y, Shutta R, Masuda D, Yamashita S, Seo M, Yamada T, Nakagawa A, Yasumura Y, Nakagawa Y, Yano M, Hayashi T, Hikoso S, Nakatani D, Sotomi Y, Sakata Y; OCVC-Heart Failure Investigators. Combination of Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as a Novel Predictor of Cardiac Death in Patients With Acute Decompensated Heart Failure With Preserved Left Ventricular Ejection Fraction: A Multicenter Study. *J Am Heart Assoc.* 2023;12(8):e026326. doi:[10.1161/JAHA.122.026326](https://doi.org/10.1161/JAHA.122.026326)
+- Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)

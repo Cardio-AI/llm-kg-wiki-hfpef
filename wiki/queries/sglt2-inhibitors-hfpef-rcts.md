@@ -73,7 +73,7 @@ Moderate heterogeneity (I²=62%); no publication bias (Egger). Mortality neutral
 ## Contradictions
 
 - DETERMINE-Preserved (KCCQ-TSS P=0.079, neutral) vs. DELIVER (KCCQ win ratio P=0.009, positive): same drug, same population, different follow-up duration (16 weeks vs. 2.3 years) and endpoint design. See [[contradictions]] #16.
-- CV mortality not significantly reduced in any individual HFpEF trial despite directionally favorable HRs (0.88–0.91). Contrasts with mortality benefit in HFrEF (DAPA-HF, EMPEROR-Reduced). See [[contradictions]] #9.
+- CV mortality not significantly reduced in any individual HFpEF trial despite directionally favorable HRs (0.88–0.91). Contrasts with mortality benefit in HFrEF (DAPA-HF, EMPEROR-Reduced). See [[contradictions]] #36.
 - EMPEROR-Preserved signal of attenuated benefit at LVEF ≥65% not replicated in DELIVER (HR 0.78 in LVEF ≥60% subgroup). See [[contradictions]].
 
 ---
@@ -81,7 +81,7 @@ Moderate heterogeneity (I²=62%); no publication bias (Egger). Mortality neutral
 ## References
 
 **Anker2021EMPEROR**
-> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107522
+> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107038
 
 **Solomon2022DELIVER**
 > Solomon SD, McMurray JJV, Claggett B, et al. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2022;387:1089–1098. doi:10.1056/NEJMoa2206286

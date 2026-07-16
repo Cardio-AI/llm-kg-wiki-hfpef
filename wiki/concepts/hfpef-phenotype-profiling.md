@@ -1,5 +1,4 @@
 ---
-type: concept
 title: HFpEF Phenotype Profiling
 summary: "Two-layer treatment model for HFpEF \u2014 SGLT2i universal foundation for\
   \ all patients, with additional phenotype-guided therapy based on 18 comorbidity\
@@ -159,7 +158,7 @@ Anker 2023 and [[kittleson2023acc]] reach the same core conclusions independentl
 ---
 
 ## Related Pages
-- Concepts: [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[ml-ai-hfpef]]
+- Concepts: [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[ml-ai-hfpef]], [[chronotropic-incompetence]], [[hfpef-mimics-differential-diagnosis]], [[cancer-therapy-cardiotoxicity-hfpef]]
 - Entities: [[hfpef]], [[sglt2-inhibitors]], [[spironolactone]], [[sacubitril-valsartan]], [[atrial-fibrillation]], [[supervised-exercise-training]]
 - Sources: [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[borlaug2023statement]], [[manabe2023sympathetic]]
 

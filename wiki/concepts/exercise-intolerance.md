@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Exercise Intolerance in HFpEF
 summary: "The dominant symptom of HFpEF; caused by four interacting mechanisms \u2014\
   \ skeletal muscle myopathy (primary, >50% of VO2 reduction), cardiac limitation\
@@ -18,17 +17,17 @@ sources:
 - citekey: Sachdev2023Exercise
   doi: 10.1161/CIR.0000000000001122
 - citekey: Ho2019HFpEFDefinitions
-  doi: 10.1161/CIRCULATIONAHA.118.039451
+  doi: 10.1161/CIRCULATIONAHA.118.039136
 - citekey: Pfeffer2019HFpEF
   doi: 10.1161/CIRCRESAHA.119.313572
 - citekey: Bohmke2022Nonpharm
   doi: 10.1016/j.ccl.2022.06.003
 - citekey: borlaug2010exercise
-  doi: 10.1161/CIRCHEARTFAILURE.109.919740
+  doi: 10.1161/CIRCHEARTFAILURE.109.930701
 - citekey: manabe2023sympathetic
   doi: 10.3389/fcvm.2023.1148324
 - citekey: landsteiner2025hemodynamics
-  doi: 10.1161/CIRCRESAHA.125.326048
+  doi: 10.1161/CIRCRESAHA.125.326504
 - citekey: borlaug2023statement
   doi: 10.1016/j.jacc.2023.01.049
 - citekey: edelmann2025exdhf
@@ -38,7 +37,7 @@ sources:
 - citekey: obaya2024aerobic
   doi: 10.1002/pri.2044
 - citekey: Borlaug2024INABLE
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1016/j.mayocp.2023.08.031
 - citekey: Brubaker2023SECRET2
   doi: 10.1161/CIRCHEARTFAILURE.122.010161
 - citekey: Alonso2022HEARTcamp
@@ -165,7 +164,7 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 
 ## Related Pages
 
-- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]]
+- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[chronotropic-incompetence]], [[dynamic-hyperinflation]], [[noncardiac-dyspnea]], [[inspiratory-muscle-training]]
 - Entities: [[hfpef]], [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]]
 - Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]], [[bohmke2022nonpharm]], [[mirzai2025exercise]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[manabe2023sympathetic]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]]
 
@@ -174,16 +173,16 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 - Nitrate trials (NEAT-HFpEF, INDIE-HFpEF) were designed on the assumption that vascular/NO-mediated impairment was a primary exercise limiter — both were neutral. Consistent with skeletal muscle being the dominant mechanism (vascular is secondary). See [[contradictions]].
 
 ## References
-- Alonso WW, Kupzyk K, Mukherjee R, et al. Exercise Adherence and Quality of Life in Patients with Heart Failure with Preserved Ejection Fraction: Secondary Analysis of the HEART Camp Randomized Trial. *J Card Fail.* 2022;28(3):431–442. doi:[10.1016/j.cardfail.2021.10.005](https://doi.org/10.1016/j.cardfail.2021.10.005)
-- Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies for Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
-- Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.919740](https://doi.org/10.1161/CIRCHEARTFAILURE.109.919740) [DOI unverified]
+- Alonso WW, Kupzyk K, Norman JF, Lundgren SW, Fisher A, Lindsey ML, Keteyian SJ, Pozehl BJ. The HEART Camp Exercise Intervention Improves Exercise Adherence, Physical Function, and Patient-Reported Outcomes in Adults With Preserved Ejection Fraction Heart Failure. *J Card Fail.* 2022;28(3):431–442. doi:[10.1016/j.cardfail.2021.09.003](https://doi.org/10.1016/j.cardfail.2021.09.003)
+- Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies in Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
+- Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.930701](https://doi.org/10.1161/CIRCHEARTFAILURE.109.930701) [DOI unverified]
 - Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049) [DOI unverified]
-- Borlaug BA, Koepp KE, Melenovsky V, et al. Inorganic Nitrite Added to Exercise Training in Heart Failure With Preserved Ejection Fraction: The INABLE-Training Randomized Trial. *Mayo Clin Proc.* 2024;99(2):206–217. DOI: not yet verified [needs source]
-- Brubaker PH, Kitzman DW, et al. Resistance Training Added to Caloric Restriction and Aerobic Exercise Training in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: The SECRET-II Randomized Trial. *Circ Heart Fail.* 2023;16(9):e010161. doi:[10.1161/CIRCHEARTFAILURE.122.010161](https://doi.org/10.1161/CIRCHEARTFAILURE.122.010161)
-- Edelmann F, et al. Exercise training in patients with heart failure and preserved ejection fraction: the Ex-DHF randomised clinical trial. *Nat Med.* 2025;31:306–314. doi:[10.1038/s41591-024-03342-7](https://doi.org/10.1038/s41591-024-03342-7)
-- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326048](https://doi.org/10.1161/CIRCRESAHA.125.326048) [DOI unverified]
+- Borlaug BA, Koepp KE, Melenovsky V, et al. Inorganic Nitrite Added to Exercise Training in Heart Failure With Preserved Ejection Fraction: The INABLE-Training Randomized Trial. *Mayo Clin Proc.* 2024;99(2):206–217. doi:10.1016/j.mayocp.2023.08.031
+- Brubaker PH, Nicklas BJ, Houston DK, Hundley WG, Chen H, Molina AJA, Lyles WM, Nelson B, Upadhya B, Newland R, Kitzman DW. A Randomized, Controlled Trial of Resistance Training Added to Caloric Restriction Plus Aerobic Exercise Training in Obese Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2023;16(9):e010161. doi:[10.1161/CIRCHEARTFAILURE.122.010161](https://doi.org/10.1161/CIRCHEARTFAILURE.122.010161)
+- Edelmann F, et al. Combined endurance and resistance exercise training in heart failure with preserved ejection fraction: a randomized controlled trial. *Nat Med.* 2025;31:306–314. doi:[10.1038/s41591-024-03342-7](https://doi.org/10.1038/s41591-024-03342-7)
+- Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326504](https://doi.org/10.1161/CIRCRESAHA.125.326504) [DOI unverified]
 - Manabe K, D'Souza AW, Washio T, Takeda R, Hissen SL, Akins JD, Fu Q. Sympathetic and Hemodynamic Responses to Exercise in Heart Failure With Preserved Ejection Fraction. *Front Cardiovasc Med.* 2023;10:1148324. doi:[10.3389/fcvm.2023.1148324](https://doi.org/10.3389/fcvm.2023.1148324)
-- Obaya A, et al. Effects of Aerobic Training Modality on Peak VO₂ and Ejection Fraction in Heart Failure with Preserved Ejection Fraction. *Physiother Res Int.* 2024. doi:[10.1002/pri.2044](https://doi.org/10.1002/pri.2044)
+- Obaya HE, Abd El-Hakim AAEM, Fares HM, Saad MKE, Abo Elyazed TI. Effect of different types of aerobic training on peak VO2 and ejection fraction for diastolic heart failure patients; a comparative randomized control trial. *Physiother Res Int.* 2024;e2044. doi:[10.1002/pri.2044](https://doi.org/10.1002/pri.2044)
 - Pfeffer MA, Shah AM, Borlaug BA. Heart failure with preserved ejection fraction in perspective. *Circ Res.* 2019;124(11):1598–1617. doi:[10.1161/CIRCRESAHA.119.313572](https://doi.org/10.1161/CIRCRESAHA.119.313572)
 - Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)
-- Sharif M, et al. Resistance Training Effects on Locomotor Muscle Composition and Exercise Capacity in Heart Failure with Preserved Ejection Fraction. *J Card Fail.* 2024;30(2):410–414. doi:[10.1016/j.cardfail.2023.10.475](https://doi.org/10.1016/j.cardfail.2023.10.475)
+- Sharif SM, Smith JR, Bruhn EJ, Shultz AM, Olson TP. Impact of Structured Resistance Training on Locomotor Muscle Composition in Patients with HFpEF. *J Card Fail.* 2024;30(2):410–414. doi:[10.1016/j.cardfail.2023.10.475](https://doi.org/10.1016/j.cardfail.2023.10.475)

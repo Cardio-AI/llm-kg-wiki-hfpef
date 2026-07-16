@@ -1,5 +1,4 @@
 ---
-type: concept
 title: "HFpEF Guideline Comparison \u2014 ESC / AHA / NICE / International"
 summary: Systematic comparison of major HF guidelines on HFpEF definition, EF classification,
   staging, diagnostics, and pharmacotherapy; ESC 2023 resolved main ESC vs. AHA divergence

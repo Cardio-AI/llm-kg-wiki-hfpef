@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Leahy 2025 \u2014 Heart-Lung Interactions in HFpEF: Dynamic Hyperinflation\
   \ and Exercise PCWP"
 citekey: Leahy2025HeartLung
@@ -91,7 +90,7 @@ This study introduces a non-cardiac mechanism for elevated exercise PCWP in obes
 
 ## Related Pages
 
-- Concepts: [[exercise-intolerance]], [[heart-lung-interactions]], [[ventilatory-limitation]]
+- Concepts: [[exercise-intolerance]], [[heart-lung-interactions]], [[ventilatory-limitation]], [[dynamic-hyperinflation]]
 - Entities: [[hfpef]]
 - Sources: [[babb2026ventilatorylimit]], [[zamani2023pericardialfat]], [[haykowsky2011exercise]]
 

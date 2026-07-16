@@ -1,5 +1,4 @@
 ---
-type: entity
 page-type: entity-page
 title: Haemodynamic Monitoring in HFpEF
 summary: Wireless PA pressure monitoring (CardioMEMS) is the only device-based haemodynamic monitoring approach with proven hospitalisation reduction in HFpEF-inclusive populations; CHAMPION (primary N=550; 28% HFH reduction) and GUIDE-HF (N=1,000; pre-COVID benefit HR 0.81; 47% HFpEF) provide evidence across EF subtypes; NP-guided therapy has no benefit and possible harm in HFpEF.
@@ -15,7 +14,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
   - citekey: abraham2011champion
-    doi: 10.1016/S0140-6736(10)61800-1
+    doi: 10.1016/S0140-6736(11)60101-3
   - citekey: Lindenfeld2021GUIDEHF
     doi: 10.1016/S0140-6736(21)01754-2
   - citekey: Horiuchi2022NPGuided
@@ -83,3 +82,8 @@ CardioMEMS approved for HFpEF based on accumulated CHAMPION + GUIDE-HF data
 - [[champion]] — primary trial demonstrating benefit
 - [[natriuretic-peptides]] — NP-guided therapy alternative that fails in HFpEF
 - [[hfpef-treatment]] — treatment overview
+
+## References
+- Abraham WT, Adamson PB, Bourge RC, Aaron MF, Costanzo MR, Stevenson LW, Strickland W, Neelagaru S, Raval N, Krueger S, Weiner S, Shavelle D, Jeffries B, Yadav JS; CHAMPION Trial Study Group. Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial. *Lancet.* 2011;377(9766):658–666. doi:[10.1016/S0140-6736(11)60101-3](https://doi.org/10.1016/S0140-6736(11)60101-3)
+- Lindenfeld J, Zile MR, Desai AS, et al.; GUIDE-HF Investigators. Haemodynamic-guided management of heart failure (GUIDE-HF): a randomised controlled trial. *Lancet.* 2021;398(10304):991–1001. doi:[10.1016/S0140-6736(21)01754-2](https://doi.org/10.1016/S0140-6736(21)01754-2)
+- Horiuchi Y, Villacorta H, Maisel AS. Natriuretic Peptide-guided Therapy for Heart Failure. *Heart Int.* 2022;16(2):112–116. doi:[10.17925/HI.2022.16.2.112](https://doi.org/10.17925/HI.2022.16.2.112)

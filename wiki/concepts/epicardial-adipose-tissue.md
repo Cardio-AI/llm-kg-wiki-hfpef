@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Epicardial Adipose Tissue in HFpEF
 summary: EAT (fat between visceral pericardium and myocardium) contributes to HFpEF via two mechanisms — pericardial restraint (physical LV compression elevating filling pressures) and paracrine dysfunction (proinflammatory adipokines directly diffuse to adjacent myocardium); EAT volume strongly correlates with LV eccentricity index (r=0.88) independently of BMI; GLP-1 RA provide the greatest EAT reduction (~2× that of SGLT2 inhibitors).
@@ -90,3 +89,7 @@ In obesity, EAT transitions from protective to pathological adipokine profile:
 - [[inflammation-hfpef]] — EAT-derived inflammatory adipokines drive systemic and local inflammation
 - [[heart-lung-interactions]] — EAT/pericardial restraint is additive to dynamic hyperinflation in elevating filling pressures
 - [[myocardial-fibrosis]] — EAT-derived paracrine signals promote myocardial fibrosis
+
+## References
+- Timóteo AT, Albuquerque FB, Teixeira BL. Pericardium, epicardial adipose tissue, and heart failure with preserved ejection fraction: Pathophysiology, quantification and treatment target. *Int J Cardiol.* 2024;412:132303. doi:[10.1016/j.ijcard.2024.132303](https://doi.org/10.1016/j.ijcard.2024.132303)
+- Zamani SK, Sarma S, MacNamara JP, Hynan LS, Haykowsky MJ, Hearon CM Jr, Wakeham D, Brazile T, Levine BD, Zaha VG, Nelson MD. Excess Pericardial Fat Is Related to Adverse Cardio-Mechanical Interaction in Heart Failure With Preserved Ejection Fraction. *Circulation.* 2023;148(17):1410–1412. doi:[10.1161/CIRCULATIONAHA.123.065909](https://doi.org/10.1161/CIRCULATIONAHA.123.065909)

@@ -1,5 +1,4 @@
 ---
-type: entity
 title: Atrial Fibrillation (AF)
 summary: The most common sustained cardiac arrhythmia; both a cause and consequence
   of HFpEF; associated with elevated LA pressure, atrial fibrosis, and worse outcomes;
@@ -98,4 +97,4 @@ See [[contradictions]].
 ## References
 - Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
-- Reddy YNV, Borlaug BA. Unrecognized Heart Failure With Preserved Ejection Fraction in Atrial Fibrillation. *JACC Heart Fail.* 2024;12(6):990–998. doi:[10.1016/j.jchf.2024.04.010](https://doi.org/10.1016/j.jchf.2024.04.010)
+- Reddy YNV, Noseworthy P, Borlaug BA, Albert NM. Screening for Unrecognized HFpEF in Atrial Fibrillation and for Unrecognized Atrial Fibrillation in HFpEF. *JACC Heart Fail.* 2024;12(6):990–998. doi:[10.1016/j.jchf.2024.04.010](https://doi.org/10.1016/j.jchf.2024.04.010)

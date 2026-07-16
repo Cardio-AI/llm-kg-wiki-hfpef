@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement'
 citekey: borlaug2023statement
 year: 2023
@@ -125,7 +124,7 @@ This is the single most comprehensive synthesis of HFpEF knowledge through 2023.
 
 ## Related Pages
 
-- Concepts: [[hfpef-diagnosis]], [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[pericardial-restraint]]
+- Concepts: [[hfpef-diagnosis]], [[hfpef-phenotype-profiling]], [[exercise-intolerance]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[pericardial-restraint]], [[noncardiac-dyspnea]]
 - Entities: [[obesity-hfpef]], [[hypertension-hfpef]], [[hfpef]], [[sglt2-inhibitors]], [[atrial-fibrillation]], [[spironolactone]], [[sacubitril-valsartan]]
 - Sources: [[anker2021emperor]], [[solomon2022deliver]], [[solomon2019paragon]], [[pitt2014topcat]], [[kittleson2023acc]], [[anker2023hfpefphenotype]]
 

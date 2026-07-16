@@ -89,7 +89,7 @@ No direct contradiction found regarding SGLT2i benefit in obese HFpEF. The numer
 ## References
 
 **Anker2021EMPEROR**
-> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107522
+> Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. *N Engl J Med.* 2021;385:1451–1461. doi:10.1056/NEJMoa2107038
 
 **Solomon2022DELIVER**
 > Solomon SD, McMurray JJV, Claggett B, et al. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2022;387:1089–1098. doi:10.1056/NEJMoa2206286

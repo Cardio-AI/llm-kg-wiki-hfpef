@@ -1,5 +1,4 @@
 ---
-type: study
 title: "ATTR-ACT \u2014 Tafamidis in Patients with Transthyretin Amyloid Cardiomyopathy"
 citekey: Maurer2018ATTRACT
 year: 2018

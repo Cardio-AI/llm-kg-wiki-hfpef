@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: CaMKII in HFpEF
 summary: Ca²⁺/calmodulin-dependent protein kinase II (CaMKII) overactivation is a shared molecular mechanism between sleep-disordered breathing and HFpEF; intermittent hypoxia/reoxygenation from OSA → ROS → CaMKII oxidation → dysregulated Na⁺/Ca²⁺ homeostasis → impaired diastolic SR Ca²⁺ reuptake + late Na⁺ current activation → afterdepolarisations → atrial arrhythmias and worsened diastolic dysfunction.
@@ -81,3 +80,7 @@ CaMKII-dependent atrial arrhythmogenesis:
 - [[atrial-fibrillation]] — CaMKII-driven arrhythmogenesis creates AF substrate
 - [[myocardial-fibrosis]] — CaMKII-MMP2 pathway contributes to fibrosis
 - [[nitric-oxide-pathway]] — parallel pathway; both involve ROS-mediated cardiomyocyte dysfunction
+
+## References
+- Wester M, Arzt M, Sinha F, Maier LS, Lebek S. Insights into the Interaction of Heart Failure with Preserved Ejection Fraction and Sleep-Disordered Breathing. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)
+- Rillig A, Magnussen C, Ozga AK, Suling A, Brandes A, Breithardt G, Camm AJ, Crijns HJGM, Eckardt L, Elvan A, Goette A, Gulizia M, Haegeli L, Heidbuchel H, Kuck KH, Ng A, Szumowski L, van Gelder I, Wegscheider K, Kirchhof P. Early Rhythm Control Therapy in Patients With Atrial Fibrillation and Heart Failure. *Circulation.* 2021;144(11):845–858. doi:[10.1161/CIRCULATIONAHA.121.056323](https://doi.org/10.1161/CIRCULATIONAHA.121.056323)

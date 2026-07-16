@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Global burden of heart failure \u2014 a comprehensive and updated review of\
   \ epidemiology"
 citekey: Savarese2022GlobalBurden
@@ -210,7 +209,7 @@ Primary contribution: comprehensive global epidemiological data quantifying the 
 ---
 
 ## Related Pages
-- Concepts: [[hf-phenotype-classification]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]]
+- Concepts: [[hf-phenotype-classification]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[cancer-therapy-cardiotoxicity-hfpef]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[atrial-fibrillation]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2023hfpefphenotype]], [[pocock2013maggic]]
 

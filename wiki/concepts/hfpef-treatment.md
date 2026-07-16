@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: HFpEF Treatment Overview
 summary: HFpEF treatment targets symptoms and hospitalisation; SGLT2 inhibitors are the only pharmacological therapy with Class 2a (ACC/AHA 2022) or Class 1 (ESC 2023) recommendation across all LVEF ≥50% patients; statins reduce mortality in non-ischaemic HFpEF (HR 0.74); GLP-1 RA improve exercise capacity in obese HFpEF; haemodynamic monitoring reduces hospitalisation; NP-guided therapy is ineffective and potentially harmful; major treatment gap persists for mortality reduction.
@@ -16,7 +15,7 @@ sources:
   - citekey: Heidenreich2022AHA
     doi: 10.1161/CIR.0000000000001063
   - citekey: Kittleson2024AccAha
-    doi: 10.1016/j.jacc.2024.06.001
+    doi: 10.1016/j.jacc.2024.05.014
   - citekey: OrtegaHernandez2024Statins
     doi: 10.3390/jcm13195844
 ---
@@ -101,3 +100,8 @@ Despite 20+ large RCTs, **no therapy has shown mortality benefit in HFpEF as a p
 - [[rhythm-control]] — AF management in HFpEF
 - [[acc-aha-hf-guidelines]] — guideline framework
 - [[hfpef-treatment-gap]] — detailed analysis of the treatment evidence gap
+
+## References
+- Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
+- Kittleson MM, Breathett K, Ziaeian B, Aguilar D, Blumer V, Bozkurt B, Diekemper RL, Dorsch MP, Heidenreich PA, Jurgens CY, Khazanie P, Koromia GA, Van Spall HGC; AHA/ACC Joint Committee on Performance Measures. 2024 Update to the 2020 ACC/AHA Clinical Performance and Quality Measures for Adults With Heart Failure. *J Am Coll Cardiol.* 2024;84(12):1123–1143. doi:[10.1016/j.jacc.2024.05.014](https://doi.org/10.1016/j.jacc.2024.05.014)
+- Ortega-Hernández S, González-Sosa S, Conde-Martel A, Trullàs JC, Llàcer P, Pérez-Silvestre J, Arévalo-Lorido JC, Casado J, Formiga F, Manzano L, Lorenzo-Villalba N, Montero-Pérez-Barquero M; RICA Investigators. Prognostic impact of statins in heart failure with preserved ejection fraction: data from the Spanish RICA registry. *J Clin Med.* 2024;13(19):5844. doi:[10.3390/jcm13195844](https://doi.org/10.3390/jcm13195844)

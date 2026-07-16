@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'CHARM-Preserved: Candesartan in HF with Preserved Ejection Fraction'
 citekey: Yusuf2003CHARM
 year: 2003

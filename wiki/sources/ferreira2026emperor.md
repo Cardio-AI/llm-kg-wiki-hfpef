@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'Serum Magnesium and Empagliflozin in HFpEF: Secondary Analysis of EMPEROR-Preserved'
 citekey: Ferreira2026Emperor
 year: 2026
@@ -26,7 +25,7 @@ page-type: source-summary-page
 > Secondary analysis of EMPEROR-Preserved showing that lower serum magnesium predicts worse HFpEF outcomes, empagliflozin raises serum Mg levels, and — paradoxically — patients with higher baseline Mg derive more empagliflozin benefit on the primary composite, suggesting Mg-related metabolic biology as a potential mechanistic pathway.
 
 **Full citation:**
-Ferreira JP, Butler J, Zannad F, et al. Serum magnesium and empagliflozin effects in patients with heart failure with preserved ejection fraction: findings from EMPEROR-Preserved. *JACC Heart Fail.* 2026. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
+Ferreira JP, Packer M, Butler J, Vasques-Nóvoa F, Marques P, Pocock S, Filippatos G, Zannad F, Anker SD. Serum Magnesium, Outcomes, and the Effect of Empagliflozin in Heart Failure With Mildly Reduced and Preserved Ejection Fraction: Findings From EMPEROR-Preserved. *JACC Heart Fail.* 2026;14(2):102889. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
 **Study type:** Secondary analysis (pre-specified) · **N:** 5,988 (EMPEROR-Preserved total) · **Population:** HFpEF/HFmrEF (LVEF >40%), NYHA II–IV, elevated NPs  
 **Follow-up:** ~26 months · **Intervention:** Empagliflozin 10 mg/day vs. placebo  
 **Primary outcome (EMPEROR-Preserved):** CV death + HF hospitalization
@@ -143,7 +142,7 @@ This is itself a secondary analysis of EMPEROR-Preserved (NCT03057951).
 | Anker2021EMPEROR | Primary outcomes of EMPEROR-Preserved | [[anker2021emperor]] |
 
 ## Related Pages
-- Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]]
+- Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[magnesium-hfpef]]
 - Entities: [[hfpef]], [[hfmref]], [[sglt2-inhibitors]]
 - Sources: [[anker2021emperor]], [[heidenreich2022aha]], [[mcdonagh2021esc]]
 

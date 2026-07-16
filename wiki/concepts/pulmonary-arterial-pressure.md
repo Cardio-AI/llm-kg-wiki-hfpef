@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: concept-page
 title: Pulmonary Arterial Pressure in HFpEF
 summary: Elevated pulmonary arterial pressure is both a consequence and perpetuator of HFpEF; elevated PCWP (post-capillary PH) transmits backward through the pulmonary circulation; ~20–30% develop combined pre/post-capillary PH (CpcPH; elevated PVR) which is associated with RV dysfunction and worst prognosis; PA diastolic pressure monitoring (CardioMEMS) uses the signal to guide pre-emptive therapy.
@@ -15,7 +14,7 @@ sources:
   - citekey: Lindenfeld2021GUIDEHF
     doi: 10.1016/S0140-6736(21)01754-2
   - citekey: abraham2011champion
-    doi: 10.1016/S0140-6736(10)61800-1
+    doi: 10.1016/S0140-6736(11)60101-3
 ---
 
 # Pulmonary Arterial Pressure in HFpEF
@@ -73,3 +72,9 @@ PA pressures in HFpEF are characteristically **disproportionately elevated durin
 - [[hemodynamic-monitoring]] — PA pressure monitoring as a therapeutic tool
 - [[hemodynamics]] — broader haemodynamic framework
 - [[heart-lung-interactions]] — elevated intrathoracic pressure confounds PA pressure measurement in obese HFpEF
+
+## References
+- Lindenfeld J, Zile MR, Desai AS, et al.; GUIDE-HF Investigators. Haemodynamic-guided management of heart failure (GUIDE-HF): a randomised controlled trial. *Lancet.* 2021;398(10304):991–1001. doi:[10.1016/S0140-6736(21)01754-2](https://doi.org/10.1016/S0140-6736(21)01754-2)
+- Abraham WT, Adamson PB, Bourge RC, Aaron MF, Costanzo MR, Stevenson LW, Strickland W, Neelagaru S, Raval N, Krueger S, Weiner S, Shavelle D, Jeffries B, Yadav JS; CHAMPION Trial Study Group. Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial. *Lancet.* 2011;377(9766):658–666. doi:[10.1016/S0140-6736(11)60101-3](https://doi.org/10.1016/S0140-6736(11)60101-3)
+- Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2017;70(2):136–148. doi:[10.1016/j.jacc.2017.05.029](https://doi.org/10.1016/j.jacc.2017.05.029)
+- Leahy MG, Wakeham DJ, MacNamara JP, Brazile T, Abulimiti A, Hearon CM Jr, Samels M, Tomlinson AR, Balmain BN, Babb TG, Levine BD, Sarma S. Heart-lung interactions in heart failure with preserved ejection fraction: dynamic hyperinflation increases exercise pulmonary capillary wedge pressure. *JACC Heart Fail.* 2025;13:102523. doi:[10.1016/j.jchf.2025.102523](https://doi.org/10.1016/j.jchf.2025.102523)

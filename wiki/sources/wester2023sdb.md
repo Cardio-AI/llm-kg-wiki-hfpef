@@ -1,5 +1,4 @@
 ---
-type: source
 title: "Wester 2023 \u2014 HFpEF and Sleep-Disordered Breathing: Mechanistic Review"
 citekey: Wester2023SDB
 year: 2023
@@ -28,7 +27,7 @@ page-type: source-summary-page
 > SDB affects up to 58–80% of HFpEF patients, shares pathomechanisms with HFpEF (intermittent hypoxia/reoxygenation → CaMKII overactivation → diastolic dysfunction/arrhythmia), and is especially prevalent in the "obese HFpEF phenotype," which may particularly benefit from PAP therapy and GLP-1 agonists.
 
 **Full citation:**
-Wester M, Arzt M, Maier LS, Wagner S. Sleep-disordered breathing as a treatable cause of heart failure with preserved ejection fraction. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)
+Wester M, Arzt M, Sinha F, Maier LS, Lebek S. Insights into the Interaction of Heart Failure with Preserved Ejection Fraction and Sleep-Disordered Breathing. *Biomedicines.* 2023;11(11):3038. doi:[10.3390/biomedicines11113038](https://doi.org/10.3390/biomedicines11113038)
 **Authors:** Wester M, Arzt M, Sinha F, Maier LS, Lebek S  
 **Year:** 2023 · **Journal:** Biomedicines 2023;11:3038 · **DOI:** 10.3390/biomedicines11113038  
 **Affiliation:** University Hospital Regensburg, Germany; UT Southwestern Medical Center, Dallas, TX  
@@ -81,7 +80,7 @@ Most comprehensive mechanistic review of SDB-HFpEF interaction. Introduces the C
 ## Related Pages
 
 - Concepts: [[sleep-disordered-breathing]], [[hfpef-phenotypes]], [[camkii]]
-- Entities: [[hfpef]]
+- Entities: [[hfpef]], [[semaglutide-hfpef]]
 - Sources: [[cowie2017sdb]], [[suzuki2018sdb]], [[packer2025summit]]
 
 ## Contradictions

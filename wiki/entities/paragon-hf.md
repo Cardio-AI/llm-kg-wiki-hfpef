@@ -1,5 +1,4 @@
 ---
-type: entity
 title: PARAGON-HF
 summary: "RCT of sacubitril/valsartan vs. valsartan in HFpEF (LVEF \u226545%); missed\
   \ its primary composite endpoint overall but showed a significant EF-by-treatment\
@@ -58,7 +57,7 @@ PARAGON-HF is the most compelling near-positive signal for a disease-modifying t
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[natriuretic-peptides]]
-- Entities: [[hfpef]], [[hfmref]], [[sacubitril-valsartan]], [[topcat]], [[charm-preserved]], [[i-preserve]]
+- Entities: [[hfpef]], [[hfmref]], [[sacubitril-valsartan]], [[topcat]], [[charm-preserved]], [[i-preserve]], [[paramount-trial]]
 - Sources: [[mcdonagh2021esc]], [[solomon2019paragon]]
 
 ## Contradictions

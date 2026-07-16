@@ -1,5 +1,4 @@
 ---
-type: entity
 title: MyoVasc
 summary: "Prospective observational cohort (N=3,289 HF patients + controls, age 35\u2013\
   84) at Johannes Gutenberg University Mainz (DZHK Rhine-Main); 10-year follow-up;\
@@ -63,3 +62,7 @@ The AF and metabolic comorbidity burden in this registry cohort is broadly repre
 - Concepts: [[exercise-intolerance]], [[ml-ai-hfpef]], [[hfpef-phenotype-profiling]]
 - Entities: [[myomobile]], [[hfpef]], [[supervised-exercise-training]]
 - Sources: [[zeid2025myomobile]], [[anker2023hfpefphenotype]]
+
+## References
+- Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized app-based coaching for improving physical activity in heart failure with preserved ejection fraction patients compared with standard care: rationale and design of the MyoMobile Study. *Eur Heart J Digit Health.* 2025;6:298–309. doi:[10.1093/ehjdh/ztae096](https://doi.org/10.1093/ehjdh/ztae096)
+- Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)

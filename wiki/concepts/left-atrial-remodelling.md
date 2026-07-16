@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Left Atrial Remodelling in HFpEF
 summary: Left atrial (LA) structural and functional remodelling is a hallmark of HFpEF progression; elevated LA pressure drives LA dilation and dysfunction, contributing to atrial fibrillation substrate, increased BNP production, and worsened exercise intolerance; sacubitril/valsartan (ARNi) reversed LA remodelling in PARAMOUNT (LA volume −4.6 vs. +0.37 mL; P=0.003), providing the structural rationale for PARAGON-HF.
@@ -77,3 +76,6 @@ PARAMOUNT trial (N=301, HFpEF, LVEF ≥45%, sacubitril/valsartan vs. valsartan):
 - [[cardiac-remodelling]] — LA remodelling is a specific component of broader HFpEF remodelling
 - [[natriuretic-peptides]] — LA pressure elevation drives BNP/NT-proBNP production
 - [[sacubitril-valsartan]] — ARNi with evidence of LA reverse remodelling in HFpEF
+
+## References
+- Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; PARAMOUNT Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double-blind randomised controlled trial. *Lancet.* 2012;380(9851):1387–1395. doi:[10.1016/S0140-6736(12)61227-6](https://doi.org/10.1016/S0140-6736(12)61227-6)

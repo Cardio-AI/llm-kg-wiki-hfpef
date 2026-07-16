@@ -1,5 +1,4 @@
 ---
-type: entity
 title: SGLT2 Inhibitors
 summary: Sodium-glucose co-transporter 2 inhibitors (dapagliflozin, empagliflozin);
   Class I, Level A for all HFrEF (ESC 2021); Class I, Level A for HFpEF and HFmrEF
@@ -121,7 +120,7 @@ The former discordance between ESC 2021 and AHA 2022 was explained by publicatio
 **Safety:** Minor increase in genital fungal infections. Early reversible eGFR decline on initiation — should not prompt discontinuation. (source: McDonagh2021ESC)
 
 ## Related Pages
-- Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[guideline-comparison]]
+- Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[guideline-comparison]], [[magnesium-hfpef]]
 - Entities: [[hfref]], [[hfpef]], [[hfmref]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[ferreira2026emperor]], [[minisy2025sglt2]], [[albulushi2025sglt2fibrosis]], [[gonzalez2024sglt2trends]], [[requenaibanez2022sglt2]]
 
@@ -133,8 +132,8 @@ See [[contradictions]].
 
 ## References
 - Albulushi A, Askari KM, Al-Abedi AM, Al-Kulaibi MA, Hasan MS, Hosseini Z, Al-Rahman MT, Tanoh DB, Hasan AS, Al-Helli Y, Basouni A. Impact of SGLT2 inhibitors on myocardial fibrosis in diabetic HFpEF: a longitudinal study. *Eur J Med Res.* 2025;30:592. doi:[10.1186/s40001-025-02834-7](https://doi.org/10.1186/s40001-025-02834-7)
-- Ferreira JP, Butler J, Zannad F, et al. Serum magnesium and empagliflozin effects in patients with heart failure with preserved ejection fraction: findings from EMPEROR-Preserved. *JACC Heart Fail.* 2026. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
-- González A, et al. Trends in the utilisation of sodium-glucose cotransporter-2 inhibitors in patients with heart failure with reduced or preserved ejection fraction in the United States. *BMC Cardiovasc Disord.* 2024;24:285. doi:[10.1186/s12872-024-03961-5](https://doi.org/10.1186/s12872-024-03961-5)
+- Ferreira JP, Packer M, Butler J, Vasques-Nóvoa F, Marques P, Pocock S, Filippatos G, Zannad F, Anker SD. Serum Magnesium, Outcomes, and the Effect of Empagliflozin in Heart Failure With Mildly Reduced and Preserved Ejection Fraction: Findings From EMPEROR-Preserved. *JACC Heart Fail.* 2026;14(2):102889. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
+- Gonzalez J, Dave CV. Prescribing trends of SGLT2 inhibitors among HFrEF and HFpEF patients with and without T2DM, 2013–2021. *BMC Cardiovasc Disord.* 2024;24:285. doi:[10.1186/s12872-024-03961-5](https://doi.org/10.1186/s12872-024-03961-5)
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2023 Focused Update of the 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure. *Eur Heart J.* 2023;44(37):3627–3639. doi:[10.1093/eurheartj/ehad195](https://doi.org/10.1093/eurheartj/ehad195)

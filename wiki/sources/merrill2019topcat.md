@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Sex Differences in Outcomes and Responses to Spironolactone in Heart Failure
   with Preserved Ejection Fraction: A Secondary Analysis of TOPCAT'
 citekey: merrill2019topcat
@@ -15,7 +14,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
 - citekey: merrill2019topcat
-  doi: 10.1016/j.jchf.2018.11.004
+  doi: 10.1016/j.jchf.2019.01.003
 page-type: source-summary-page
 ---
 # TOPCAT Sex Differences Secondary Analysis (Merrill 2019)
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > In TOPCAT (N=3,445), women with HFpEF had higher LVEF (~63% vs. ~58%), smaller LV volumes, more hypertension, and less CAD than men; the spironolactone treatment effect on the primary composite endpoint did not differ significantly by sex (P-interaction=0.26), indicating that MRA response is not sex-stratified in HFpEF.
 
 **Full citation:**
-Merrill M, Sweitzer NK, Lindenfeld J, Kao DP. Sex Differences in Outcomes and Responses to Spironolactone in Heart Failure With Preserved Ejection Fraction: A Secondary Analysis of TOPCAT Trial. *JACC Heart Fail.* 2019;7(3):228–238. doi:[10.1016/j.jchf.2018.11.004](https://doi.org/10.1016/j.jchf.2018.11.004)
+Merrill M, Sweitzer NK, Lindenfeld J, Kao DP. Sex Differences in Outcomes and Responses to Spironolactone in Heart Failure With Preserved Ejection Fraction: A Secondary Analysis of TOPCAT Trial. *JACC Heart Fail.* 2019;7(3):228–238. doi:[10.1016/j.jchf.2019.01.003](https://doi.org/10.1016/j.jchf.2019.01.003)
 
 ---
 

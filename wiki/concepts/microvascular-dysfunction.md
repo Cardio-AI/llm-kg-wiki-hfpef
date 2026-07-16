@@ -1,5 +1,4 @@
 ---
-type: concept
 page-type: mechanism-page
 title: Microvascular Dysfunction in HFpEF
 summary: Coronary microvascular dysfunction (CMD) affects ~70% of HFpEF patients (MPR <2.0 on CMR adenosine stress); impaired MPR independently predicts death/HF hospitalisation; anterior/lateral QRS fragmentation (fQRS) correlates with myocardial perfusion defects and coronary slow flow, providing an ECG surrogate for CMD in HFpEF; CMD and diffuse fibrosis (ECV) are uncorrelated, independent prognostic mechanisms.
@@ -88,3 +87,8 @@ From [[coronary-microvascular-dysfunction]] page:
 - [[hfpef-fibrosis-paradigm]] — CMD and fibrosis as parallel prognostic axes
 - [[ecg-biomarkers-hfpef]] — fQRS as ECG surrogate for CMD
 - [[cardiac-mri]] — CMR adenosine stress perfusion for CMD assessment
+- [[diamond-hfpef]] — source trial for CMD prevalence and prognostic data
+
+## References
+- Arnold JR, Kanagala P, Budgeon CA, Jerosch-Herold M, Gulsin GS, Singh A, Khan JN, Chan DCS, Squire IB, Ng LL, McCann GP. Prevalence and Prognostic Significance of Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.11.022](https://doi.org/10.1016/j.jcmg.2021.11.022)
+- Sung KT, Chang SH, Chi PC, Chien SC, Lo CI, Lin CF, Huang WH, Yun CH, Tsai CT, Su CH, Hou CJY, Yeh HI, Tsao CH, Kuo JY, Hung CL. QRS Fragmentation in Preserved Ejection Fraction Heart Failure: Functional Insights, Pathological Correlates, and Prognosis. *J Am Heart Assoc.* 2023;12(3):e028105. doi:[10.1161/JAHA.122.028105](https://doi.org/10.1161/JAHA.122.028105)

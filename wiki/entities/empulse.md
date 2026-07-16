@@ -1,5 +1,4 @@
 ---
-type: entity
 title: EMPULSE
 summary: RCT (N=530) of in-hospital empagliflozin initiation in acute HF across LVEF
   spectrum; win ratio 1.36 (P=0.0054); established safety and efficacy of SGLT2i initiation
@@ -63,7 +62,7 @@ Primary win ratio: 1.36 (95% CI 1.09–1.68; P=0.0054) — empagliflozin superio
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]]
-- Entities: [[sglt2-inhibitors]], [[strong-hf]], [[hfpef]], [[hfref]]
+- Entities: [[sglt2-inhibitors]], [[strong-hf]], [[hfpef]], [[hfref]], [[kansas-city-cardiomyopathy-questionnaire]]
 - Sources: [[voors2022empulse]], [[mcdonagh2023escupdate]], [[anker2021emperor]], [[solomon2022deliver]]
 
 ## Contradictions

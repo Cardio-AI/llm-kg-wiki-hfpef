@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Semaglutide and NT-proBNP in Obesity-Related HFpEF: Insights From the STEP-HFpEF
   Program'
 citekey: petrie2024stephfpef
@@ -24,7 +23,7 @@ page-type: source-summary-page
 > Semaglutide reduced NT-proBNP by 18% vs. placebo (ETR 0.82; P=0.0002) in obesity-related HFpEF; reduction was weight-loss-independent, suggesting direct HF disease-modifying effects; patients with higher baseline NT-proBNP derived greater symptomatic benefit.
 
 **Full citation:**
-Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Perna E, Sharma K, Lelonek M, Kosiborod MN; STEP-HFpEF Trial Committees and Investigators. Semaglutide and NT-proBNP in obesity-related heart failure with preserved ejection fraction: insights from the STEP-HFpEF program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)
+Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Liisberg K, Perna E, Sharma K, Ezekowitz JA, Fu M, Melenovský V, Ito H, Lelonek M, Kosiborod MN. Semaglutide and NT-proBNP in Obesity-Related HFpEF: Insights From the STEP-HFpEF Program. *J Am Coll Cardiol.* 2024;84(1):27–40. doi:[10.1016/j.jacc.2024.04.022](https://doi.org/10.1016/j.jacc.2024.04.022)
 
 ---
 
@@ -91,6 +90,6 @@ The weight-loss paradox (greater weight loss → less NP reduction in sema group
 
 ## Related Pages
 
-- Entities: [[step-hfpef]], [[hfpef]], [[sglt2-inhibitors]], [[summit]]
+- Entities: [[step-hfpef]], [[hfpef]], [[sglt2-inhibitors]], [[summit]], [[semaglutide-hfpef]]
 - Sources: [[kosiborod2023stephfpef]], [[kosiborod2024stephfpefdm]], [[verma2024inflammation]]
 - Concepts: [[biomarkers-hfpef]], [[natriuretic-peptides]]

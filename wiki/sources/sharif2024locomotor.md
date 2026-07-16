@@ -1,5 +1,4 @@
 ---
-type: source
 title: Resistance Training Effects on Locomotor Muscle Composition and Exercise Capacity
   in Heart Failure with Preserved Ejection Fraction
 citekey: sharif2024locomotor
@@ -22,7 +21,7 @@ page-type: source-summary-page
 > Pilot RCT (n=22, 12.5 weeks): resistance training reduced leg fat percentage (32.6→31.6%), increased lower limb lean mass index, improved VO₂peak (17.1→19.4 mL/kg/min), and nearly doubled leg press strength (92→129 kg) without adverse events — proof-of-concept that peripheral muscle adaptation drives exercise benefit in HFpEF.
 
 **Full citation:**
-Sharif M, et al. Resistance Training Effects on Locomotor Muscle Composition and Exercise Capacity in Heart Failure with Preserved Ejection Fraction. *J Card Fail.* 2024;30(2):410–414. doi:[10.1016/j.cardfail.2023.10.475](https://doi.org/10.1016/j.cardfail.2023.10.475)
+Sharif SM, Smith JR, Bruhn EJ, Shultz AM, Olson TP. Impact of Structured Resistance Training on Locomotor Muscle Composition in Patients with HFpEF. *J Card Fail.* 2024;30(2):410–414. doi:[10.1016/j.cardfail.2023.10.475](https://doi.org/10.1016/j.cardfail.2023.10.475)
 
 ---
 

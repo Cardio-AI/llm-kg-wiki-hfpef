@@ -1,5 +1,4 @@
 ---
-type: entity
 title: SPIRIT-HF
 summary: "Ongoing RCT of spironolactone vs. placebo in HFpEF; NCT04727073; one of\
   \ two trials (alongside SPIRRIT NCT02901184) seeking to definitively resolve the\
@@ -12,7 +11,7 @@ tags:
 - mra
 - treatment
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-07-16
 sources:
 - file: null
   citekey:
@@ -57,11 +56,13 @@ If negative, it would suggest the FINEARTS-HF benefit is finerenone-specific and
 
 ## Evidence
 
-Results pending. [Source: not yet published as of 2026-05-12.]
+Results pending peer-reviewed publication. [Source: not yet published as of 2026-05-12.]
+
+> **Unconfirmed, non-citable report (flagged, not incorporated as fact):** results reportedly presented at ACC 2026 showing no benefit of spironolactone in HFpEF, including no benefit when pooled with the TOPCAT Americas cohort. This is a verbal/secondhand report, not a document — no abstract, preprint, or paper has been ingested. Per the no-fabrication rule, this is NOT reflected in the Role in HFpEF / Contradictions sections above until a citable source (conference abstract, preprint, or publication) exists. Revisit on next ingest pass.
 
 ## Status
 
-**Ongoing as of Anker 2023 and Mahmood 2024 references.** No published results confirmed in ingested sources.
+**Ongoing as of Anker 2023 and Mahmood 2024 references.** No published results confirmed in ingested sources. See flagged unconfirmed report above.
 
 ## Related Pages
 
@@ -72,3 +73,7 @@ Results pending. [Source: not yet published as of 2026-05-12.]
 ## Contradictions
 
 TOPCAT overall neutral vs. TOPCAT Americas subgroup positive vs. FINEARTS-HF positive (finerenone) — the MRA contradiction is the most extensively debated in the wiki. See [[contradictions]].
+
+## References
+- Pitt B, Pfeffer MA, Assmann SF, et al.; TOPCAT Investigators. Spironolactone for Heart Failure with Preserved Ejection Fraction. *N Engl J Med.* 2014;370(15):1383–1392. doi:[10.1056/NEJMoa1313731](https://doi.org/10.1056/NEJMoa1313731)
+- Solomon SD, McMurray JJV, Vaduganathan M, Claggett B, Jhund PS, Desai AS, Henderson AD, Lam CSP, Pitt B, Senni M, Shah SJ, Voors AA, Zannad F, et al.; FINEARTS-HF Committees and Investigators. Finerenone in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2024;391(16):1475–1485. doi:[10.1056/NEJMoa2407107](https://doi.org/10.1056/NEJMoa2407107)

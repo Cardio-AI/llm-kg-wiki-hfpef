@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'INABLE-Training: Inorganic Nitrite Added to Exercise Training in HFpEF'
 citekey: Borlaug2024INABLE
 year: 2024
@@ -17,7 +16,7 @@ created: 2026-05-18
 last_updated: 2026-05-18
 sources:
 - citekey: Borlaug2024INABLE
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1016/j.mayocp.2023.08.031
 page-type: source-summary-page
 ---
 # INABLE-Training
@@ -25,7 +24,7 @@ page-type: source-summary-page
 > Double-blind RCT (N=73) of inorganic sodium nitrite (40 mg TID) vs. placebo added to 12 weeks of supervised exercise training in HFpEF (NCT02713126); exercise training itself significantly improved peak VO₂, KCCQ-OSS, and 6MWD; nitrite added no benefit on any endpoint (ΔVO₂peak −0.13 mL/kg/min; P=0.77), extending the consistent pattern of NO/cGMP pathway failure in HFpEF.
 
 **Full citation:**
-Borlaug BA, Koepp KE, Melenovsky V, et al. Inorganic Nitrite Added to Exercise Training in Heart Failure With Preserved Ejection Fraction: The INABLE-Training Randomized Trial. *Mayo Clin Proc.* 2024;99(2):206–217. DOI: not yet verified [needs source]
+Borlaug BA, Koepp KE, Melenovsky V, et al. Inorganic Nitrite Added to Exercise Training in Heart Failure With Preserved Ejection Fraction: The INABLE-Training Randomized Trial. *Mayo Clin Proc.* 2024;99(2):206–217. doi:10.1016/j.mayocp.2023.08.031
 
 ---
 

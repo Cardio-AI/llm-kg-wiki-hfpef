@@ -1,5 +1,4 @@
 ---
-type: study
 title: 'DAPA-HF: Dapagliflozin in HFrEF'
 citekey: McMurray2019DAPAHF
 year: 2019
@@ -209,7 +208,7 @@ DAPA-HF is an HFrEF trial foundational to this wiki for four reasons:
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[sglt2-inhibitors]]
-- Entities: [[hfref]], [[hfpef]]
+- Entities: [[hfref]], [[hfpef]], [[kansas-city-cardiomyopathy-questionnaire]]
 - Sources: [[solomon2022deliver]], [[anker2021emperor]], [[packer2020emperor]], [[solomon2019paragon]], [[mcdonagh2021esc]], [[heidenreich2022aha]]
 
 ## Contradictions

@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Reddy 2017 \u2014 Arterial Stiffening With Exercise in HFpEF; Inorganic Nitrite\
   \ Reversal"
 citekey: Reddy2017ArtStiff

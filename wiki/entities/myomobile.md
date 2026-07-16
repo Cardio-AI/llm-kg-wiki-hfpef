@@ -1,5 +1,4 @@
 ---
-type: entity
 page-type: entity-page
 title: MyoMobile
 summary: 3-arm EE2 RCT (N=185 HFpEF) of app-based PA coaching vs. step tracking alone vs. standard care; NCT04940312; DZHK Rhine-Main (PI: Philipp Wild); 6-month intervention; step count primary endpoint; PRIMARY RESULTS PUBLISHED (JACC Heart Fail 2026;14(5):102845 [[zeid2026myomobile]]); app-based coaching significantly increased daily step count vs. control with secondary KCCQ and 6MWT improvement; first positive digital health RCT in HFpEF.
@@ -75,3 +74,8 @@ Design paper: [[zeid2025myomobile]] (Eur Heart J Digit Health 2025;6:298–309).
 ## Contradictions
 
 None registered. Complements [[docherty2025determine]] (DETERMINE accelerometry substudy) on whether step count captures functional status — Docherty 2025 found weak cross-correlation between accelerometry and KCCQ/6MWD, suggesting step count and functional status measure distinct dimensions. If MyoMobile improves step count without KCCQ improvement, this dissociation will require mechanistic explanation. See [[contradictions]].
+
+## References
+- Zeid S, Prochaska JH, Schuch A, Tröbs SO, Schulz A, Münzel T, Pies T, Dinh W, Michal M, Simon P, Wild PS. Personalized app-based coaching for improving physical activity in heart failure with preserved ejection fraction patients compared with standard care: rationale and design of the MyoMobile Study. *Eur Heart J Digit Health.* 2025;6:298–309. doi:[10.1093/ehjdh/ztae096](https://doi.org/10.1093/ehjdh/ztae096)
+- Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)
+- Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies in Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)

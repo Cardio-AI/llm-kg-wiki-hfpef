@@ -1,7 +1,6 @@
 ---
-type: source
-title: 'Rationale and design of the PARAGLIDE-HF trial: Prospective comparison of
-  ARNI with ARB Given following stabilization In DEcompensated HFpEF'
+title: 'Rationale, Design and Baseline Characteristics of the PARAGLIDE-HF Trial: Sacubitril/Valsartan
+  vs Valsartan in HFmrEF and HFpEF With a Worsening Heart Failure Event'
 citekey: mentz2023paraglide
 year: 2023
 authors: Mentz RJ, Ward JH, Hernandez AF, et al.
@@ -13,7 +12,7 @@ created: 2026-05-15
 last_updated: 2026-05-15
 sources:
 - citekey: mentz2023paraglide
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1016/j.cardfail.2023.02.001
 page-type: source-summary-page
 ---
 # PARAGLIDE-HF: Rationale and Design
@@ -21,7 +20,7 @@ page-type: source-summary-page
 > Design paper for PARAGLIDE-HF (NCT03988634): n=467 with LVEF >40% and recent worsening HF event randomised to sacubitril/valsartan vs valsartan; 52% women, 22% Black patients, median LVEF 55%, median NT-proBNP 2009 pg/mL; primary endpoint: time-averaged NT-proBNP reduction at weeks 4 and 8.
 
 **Full citation:**
-Mentz RJ, Ward JH, Hernandez AF, et al. Rationale and Design of the PARAGLIDE-HF Trial: Prospective Comparison of ARNI with ARB Given following Stabilization in Decompensated HFpEF. *J Card Fail.* 2023;29(6):922–930. DOI: not yet verified [needs source]
+Mentz RJ, Ward JH, Hernandez AF, Lepage S, Morrow DA, Sarwat S, Sharma K, Solomon SD, Starling RC, Velazquez EJ, Williamson K, Zieroth S, Braunwald E. Rationale, Design and Baseline Characteristics of the PARAGLIDE-HF Trial: Sacubitril/Valsartan vs Valsartan in HFmrEF and HFpEF With a Worsening Heart Failure Event. *J Card Fail.* 2023;29(6):922–930. doi:10.1016/j.cardfail.2023.02.001
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Sex Differences in Heart Failure With Preserved Ejection Fraction Pathophysiology:
   A Detailed Invasive Hemodynamic and Echocardiographic Analysis'
 citekey: beale2019sex
@@ -23,7 +22,7 @@ page-type: source-summary-page
 > Women with HFpEF have markedly greater exercise-related PCWP elevation, lower systemic and pulmonary vascular compliance, and worse peripheral oxygen kinetics than men, revealing a more severe and distinct haemodynamic phenotype.
 
 **Full citation:**
-Beale AL, Nanayakkara S, Segan L, Chan WY, Kiley M, Mariani JA, Lam CSP, Kaye DM. Sex Differences in Heart Failure With Preserved Ejection Fraction Pathophysiology: A Detailed Invasive Hemodynamic and Echocardiographic Analysis. *JACC Heart Fail.* 2019;7(3):239–249. doi:[10.1016/j.jchf.2019.01.004](https://doi.org/10.1016/j.jchf.2019.01.004)
+Beale AL, Nanayakkara S, Segan L, Mariani JA, Maeder MT, van Empel V, Vizi D, Evans S, Lam CSP, Kaye DM. Sex Differences in Heart Failure With Preserved Ejection Fraction Pathophysiology: A Detailed Invasive Hemodynamic and Echocardiographic Analysis. *JACC Heart Fail.* 2019;7(3):239–249. doi:[10.1016/j.jchf.2019.01.004](https://doi.org/10.1016/j.jchf.2019.01.004)
 
 ---
 

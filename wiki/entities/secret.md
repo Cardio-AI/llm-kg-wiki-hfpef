@@ -1,5 +1,4 @@
 ---
-type: entity
 title: SECRET
 summary: "2\xD72 factorial RCT of caloric restriction vs. aerobic exercise in N=100\
   \ obese older HFpEF patients (LVEF \u226550%, BMI \u226530, age \u226560y) over\
@@ -75,5 +74,8 @@ The QoL dissociation (VO₂ improved but MLHF NS) was later replicated in multip
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]
-- Entities: [[hfpef]], [[step-hfpef]], [[summit]]
+- Entities: [[hfpef]], [[step-hfpef]], [[summit]], [[six-minute-walk-test]]
 - Sources: [[kitzman2016secret]], [[sachdev2023exercise]], [[mirzai2025exercise]]
+
+## References
+- Kitzman DW, Brubaker P, Morgan T, Haykowsky M, Hundley G, Kraus WE, Eggebeen J, Nicklas BJ. Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen Consumption and Quality of Life in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. *JAMA.* 2016;315(1):36–46. doi:[10.1001/jama.2015.17346](https://doi.org/10.1001/jama.2015.17346)

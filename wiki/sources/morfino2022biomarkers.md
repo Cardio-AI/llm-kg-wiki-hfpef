@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'Biomarkers of HFpEF: Natriuretic Peptides, High-Sensitivity Troponins and
   Beyond'
 citekey: morfino2022biomarkers
@@ -25,7 +24,7 @@ page-type: source-summary-page
 > Comprehensive narrative review of HFpEF biomarkers across six pathophysiological pathways; Galectin-3 AUC 0.927 for diagnosis; GDF-15+Gal-3+sST2 panel best for prognosis in acute HFpEF; hs-TnT stronger predictor in men than women.
 
 **Full citation:**
-Morfino P, Aimo A, Castiglione V, Arzilli C, Passino C, Emdin M. Biomarkers of heart failure with preserved ejection fraction. *J Cardiovasc Dev Dis.* 2022;9(8):256. doi:[10.3390/jcdd9080256](https://doi.org/10.3390/jcdd9080256)
+Morfino P, Aimo A, Castiglione V, Vergaro G, Emdin M, Clerico A. Biomarkers of HFpEF: Natriuretic Peptides, High-Sensitivity Troponins and Beyond. *J Cardiovasc Dev Dis.* 2022;9(8):256. doi:[10.3390/jcdd9080256](https://doi.org/10.3390/jcdd9080256)
 
 ---
 

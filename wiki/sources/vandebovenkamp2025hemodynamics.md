@@ -1,5 +1,4 @@
 ---
-type: source
 title: Long-term Hemodynamic Responses and Reverse Remodeling after Pharmacotherapy
   in HFpEF versus HFrEF (van de Bovenkamp 2025)
 citekey: vanDeBovenkamp2025Hemodynamics

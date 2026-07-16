@@ -1,5 +1,4 @@
 ---
-type: study
 title: Dietary Protein Supplementation with and without Exercise in Obese Elderly
   HFpEF (Azhar 2020)
 citekey: Azhar2020Protein
@@ -27,7 +26,7 @@ page-type: source-summary-page
 > Open-label pilot RCT (N=16 analysed, 3 arms) in obese elderly HFpEF showing that whey protein supplementation alone did not improve physical performance and increased body fat, while protein supplementation combined with multimodal exercise (2×/week hydrotherapy + 1×/week gym) significantly improved 6MWD (+36.6 m), walk speed, quadriceps strength, and haemodynamic parameters over 12 weeks.
 
 **Full citation:**
-Azhar G, Wei JY, Schumaker GL, et al. Improving cardiac function and exercise tolerance in elderly patients with heart failure and preserved ejection fraction through dietary protein and exercise: a randomized pilot study. *Gerontol Geriatr Med.* 2020;6:1–9. doi:[10.1177/2333721420982808](https://doi.org/10.1177/2333721420982808)
+Azhar G, Raza S, Pangle A, Coleman K, Dawson A, Schrader A, Wolfe RR, Wei JY. Potential Beneficial Effects of Dietary Protein Supplementation and Exercise on Functional Capacity in a Pilot Study of Individuals with Heart Failure with Preserved Ejection Fraction. *Gerontol Geriatr Med.* 2020;6:1–9. doi:[10.1177/2333721420982808](https://doi.org/10.1177/2333721420982808)
 **Study type:** Open-label pilot 3-arm RCT · **N:** 23 randomised, 16 analysed (C n=6, PS n=5, PS+E n=5) · **Population:** Obese elderly HFpEF (LVEF >50%, grade 1–2 diastolic dysfunction), BMI 28–45, age 55–85, mean age 70 · **Follow-up:** 12 weeks  
 **Intervention:** Control (C): usual care; Protein Supplement (PS): whey protein to achieve 1.2 g/kg/day total intake; Protein+Exercise (PS+E): same protein + 2×/week hydrotherapy + 1×/week gym
 

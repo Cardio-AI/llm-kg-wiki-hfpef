@@ -1,5 +1,4 @@
 ---
-type: study
 title: "VICTORIA \u2014 Vericiguat in HFrEF"
 citekey: Armstrong2020VICTORIA
 year: 2020

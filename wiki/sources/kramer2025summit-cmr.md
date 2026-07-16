@@ -1,5 +1,4 @@
 ---
-type: study
 title: "Tirzepatide Reduces LV Mass and Paracardiac Adipose Tissue in Obesity-Related\
   \ Heart Failure \u2014 SUMMIT CMR Substudy"
 citekey: Kramer2025SUMMITCMR

@@ -1,5 +1,4 @@
 ---
-type: entity
 title: SOTA-P-CARDIA
 summary: Phase 3 RCT of sotagliflozin (combined SGLT2+SGLT1 inhibitor) vs. placebo
   in HFpEF without T2DM; NCT05562063; tests whether dual SGLT2/1 inhibition provides
@@ -71,3 +70,6 @@ Results pending. [Source: not yet published as of 2026-05-12.]
 ## Contradictions
 
 None registered yet.
+
+## References
+- Mahmood A, Dhall E, Primus CP, Gallagher A, Zakeri R, Mohammed SF, Chahal AA, Ricci F, Aung N, Khanji MY. Heart failure with preserved ejection fraction management: a systematic review of clinical practice guidelines and recommendations. *Eur Heart J Qual Care Clin Outcomes.* 2024;10(6):571–589. doi:[10.1093/ehjqcco/qcae053](https://doi.org/10.1093/ehjqcco/qcae053)

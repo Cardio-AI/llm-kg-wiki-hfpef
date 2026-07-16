@@ -1,5 +1,4 @@
 ---
-type: concept
 title: Pulmonary Hypertension in HFpEF
 summary: "PH is present in ~50\u201380% of HFpEF patients (PASP >35 mmHg); ESC classifies\
   \ as Group 2 PH (LHD); two haemodynamic subtypes \u2014 IpcPH (isolated post-capillary;\
@@ -102,5 +101,5 @@ PAC reflects pulmonary vascular stiffness — captures early vasculopathy before
 - PDE5i/nitrate class failure in HFpEF (RELAX, NEAT-HFpEF) — yet NO/cGMP pathway is implicated in pulmonary vasculopathy. The agents may not reach sufficient pulmonary vascular concentrations or the vasculopathy in HFpEF-PH is a stiffness rather than vasoconstriction problem. See [[hfpef-treatment-gap]].
 
 ## References
-- Al-Naamani N, Preston IR, Paulus JK, Hill NS, Roberts KE. Pulmonary Arterial Capacitance Is a Better Predictor of Mortality Than Pulmonary Vascular Resistance and Resting Hemodynamics in Patients With Pulmonary Hypertension due to Left Heart Failure. *JACC Heart Fail.* 2015;3(6):467–474. doi:[10.1016/j.jchf.2015.01.013](https://doi.org/10.1016/j.jchf.2015.01.013)
+- Al-Naamani N, Preston IR, Paulus JK, Hill NS, Roberts KE. Pulmonary Arterial Capacitance Is an Important Predictor of Mortality in Heart Failure With a Preserved Ejection Fraction. *JACC Heart Fail.* 2015;3(6):467–474. doi:[10.1016/j.jchf.2015.01.013](https://doi.org/10.1016/j.jchf.2015.01.013)
 - Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)

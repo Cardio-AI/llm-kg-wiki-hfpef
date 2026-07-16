@@ -1,5 +1,4 @@
 ---
-type: source
 title: Microvascular Dysfunction in HFpEF (D'Amario 2019)
 citekey: damario2019cmd
 year: 2019
@@ -160,7 +159,7 @@ Deep dive into CMD as a unifying pathophysiological paradigm. Primary contributi
 
 ## Related Pages
 - Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[hfpef-phenotype-profiling]]
-- Entities: [[hfpef]], [[atrial-fibrillation]], [[sglt2-inhibitors]], [[spironolactone]]
+- Entities: [[hfpef]], [[atrial-fibrillation]], [[sglt2-inhibitors]], [[spironolactone]], [[statins]], [[ranolazine]]
 - Sources: [[pfeffer2019hfpef]], [[anker2023hfpefphenotype]], [[sachdev2023exercise]]
 
 ---

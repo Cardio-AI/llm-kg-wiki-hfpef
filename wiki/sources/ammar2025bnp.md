@@ -1,5 +1,4 @@
 ---
-type: source
 title: 'BNP and NT-proBNP as Prognostic Biomarkers in HFpEF: Systematic Review and
   Meta-Analysis (Ammar 2025)'
 citekey: Ammar2025BNP
