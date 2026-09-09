@@ -44,6 +44,9 @@ config-page
 - [[reddy2024afhfpef]] — Reddy 2024: AF-HFpEF bidirectional relationship; 83% occult HFpEF in symptomatic AF by exercise RHC; ~82% occult AF in HFpEF at 1 year; exercise RHC the only reliable HFpEF diagnostic in AF
 - [[beale2018sex]] — Beale 2018 (JACC HF): sex-specific HFpEF physiology; women higher LVEF, smaller LV volumes, greater interstitial fibrosis; sex-biology context for PARAGON-HF and PARAGLIDE-HF
 - [[beale2019sex]] — Beale 2019 (JACC HF): sex differences in HFpEF outcomes and physiology; women's higher LVEF biology underpins sex subgroup signals in ARNI trials
+- [[duca2018genderdiff]] — Duca 2018 (Sci Rep): N=260 invasive hemodynamics/CMR cohort; men die more of cardiac causes (16.5% vs 6.1%), women die more of non-cardiac causes (10.5% vs 2.5%) — "men die of HFpEF, women die with HFpEF"
+- [[lau2022arterialstiffness]] — Lau 2022 (J Card Fail): N=190 invasive CPET cohort; women have ~6mmHg higher augmentation pressure, >10% higher augmentation index than men; arterial stiffness associates with abnormal exercise diastolic reserve more strongly in women
+- [[coppi2025genderdiff]] — Coppi 2025 (J Cardiovasc Dev Dis) review: SERCA2a/estrogen-receptor mechanism detail; sex-specific echo/CMR diagnostic reference ranges (LA strain, GLS, ECV); SGLT2i/GLP-1RA sex-subgroup trial data (non-significant trend favouring women)
 - [[bozkurt2020sex]] — Bozkurt 2020 (JACC): sex and gender differences across the HF spectrum; women higher LVEF explains ARNI sex-treatment interaction
 - [[lange2024cmr]] — Lange 2024 (Int J Cardiovasc Imaging): cross-sectional CMR n=54 HF (22 HFpEF, 17 HFmrEF, 15 HFrEF) + 19 controls; HFpEF vs controls: LA reservoir strain 28.9 vs 35.9% (P=0.008), LV GLS −15.0 vs −19.2% (P=0.001), native T1 1012 vs 988 ms (P=0.003); LACI elevated (P=0.004)
 - [[akerman2025ai]] — Akerman 2025 (Nat Commun): EchoGo HF v2 (Ultromics) external validation in 240 cases + 256 controls; AUROC 0.797 vs H₂FPEF 0.788 (P=0.001); 9.1% AI intermediate vs 61.7% H₂FPEF; AI-positive HR 2.56 for composite outcome; high sensitivity vs high specificity diagnostic trade-off
@@ -329,6 +332,7 @@ config-page
 - [[myocardial-fibrosis]] — Diffuse interstitial fibrosis; sST2 HR 2.76 (I²=0%); ECV independent from CMD (r=−0.06); hfpef-fibrosis-paradigm
 - [[epicardial-adipose-tissue]] — EAT pathophysiology; pericardial restraint + paracrine inflammation; r=0.88 with LV eccentricity
 - [[arterial-stiffness]] — Exercise-divergent arterial stiffness; Ea/TACI uncoupling; inorganic nitrite reversal
+- [[sex-differences-hfpef]] — Female HFpEF predominance via 7 mechanisms (structure, vascular aging, menopause, comorbidity, obstetric history, immune biology, exercise hemodynamics); sex-differential arterial stiffness (Lau 2022); men die of HFpEF (RHF/SCD) vs. women die with HFpEF (Duca 2018)
 - [[nitric-oxide-pathway]] — eNOS → cGMP-PKG → titin phosphorylation; systemic inflammation → NO deficit
 - [[camkii]] — CaMKII oxidation by ROS (SDB/hypoxia) → Ca²⁺ dysregulation → AF substrate
 - [[peripheral-mechanisms-hfpef]] — A-VO₂ difference reserve β=0.66; peripheral skeletal muscle primary exercise limitation

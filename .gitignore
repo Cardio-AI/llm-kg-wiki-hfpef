@@ -4,3 +4,24 @@ raw/
 
 # Zotero API credentials
 _config/zotero.md
+
+# Local tool cache (codebase indexing) — not wiki content
+.understand-anything/
+
+# Obsidian vault config — personal editor state
+.obsidian/
+
+# Append-only operations log — internal working record, not publish content
+wiki/log.md
+
+# Compiled outputs (html-generation task) — regenerate on demand, don't commit
+html/
+graph/
+
+# Staging area for unprocessed notes — transient, not publish content
+inbox/
+
+# Git bundles and repo backups — may contain pre-scrub history with copyrighted PDFs; never commit
+*.bundle
+*-backup-*/
+*.bak

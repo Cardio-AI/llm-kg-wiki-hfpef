@@ -164,7 +164,7 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 
 ## Related Pages
 
-- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[chronotropic-incompetence]], [[dynamic-hyperinflation]], [[noncardiac-dyspnea]], [[inspiratory-muscle-training]]
+- Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[chronotropic-incompetence]], [[dynamic-hyperinflation]], [[noncardiac-dyspnea]], [[inspiratory-muscle-training]], [[sex-differences-hfpef]]
 - Entities: [[hfpef]], [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]]
 - Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]], [[bohmke2022nonpharm]], [[mirzai2025exercise]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[manabe2023sympathetic]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]]
 

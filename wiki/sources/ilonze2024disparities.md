@@ -19,7 +19,7 @@ created: 2026-05-18
 last_updated: 2026-05-18
 sources:
 - citekey: Ilonze2024Disparities
-  doi: 10.1007/s12170-024-00748-7
+  doi: 10.1007/s12170-024-00755-4
 page-type: source-summary-page
 ---
 # Ilonze 2024 — Racial and Ethnic Disparities in HFpEF

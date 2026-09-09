@@ -16,6 +16,8 @@ sources:
     doi: 10.1016/j.jacc.2017.05.029
   - citekey: Suzuki2018SDB
     doi: 10.1002/ehf2.12264
+  - citekey: lau2022arterialstiffness
+    doi: 10.1016/j.cardfail.2021.10.019
 ---
 
 # Arterial Stiffness in HFpEF
@@ -72,6 +74,10 @@ Inorganic sodium nitrite (a NO precursor) at exercise (20W) vs. placebo in N=52 
 
 Confirms NO pathway as a targetable mechanism (source: [[reddy2017artstiff]])
 
+## Sex Differences
+
+Resting arterial stiffness is significantly higher in women with HFpEF than men, despite similar blood pressures — augmentation pressure ~6 mmHg higher (19.1 vs. 13.7 mmHg, P=0.003) and augmentation index >10% higher (28.9% vs. 21.7%, P=0.0002), both remaining significant after multivariable adjustment for age, BMI, hypertension, diabetes, smoking, and prior MI. Ischemic predisposition (subendocardial viability ratio) is also worse in women. Arterial stiffness (but not arterial *load* — SVRi, Eai) is associated with abnormal exercise diastolic reserve (ΔPCWP/ΔCO >2.0 mmHg/L/min) more strongly in women (augmentation pressure: OR 3.16, P=0.008) than men (OR 2.07, P=0.15) (source: [[lau2022arterialstiffness]]). For the full sex-differences mechanistic picture (vascular aging alongside cardiac structure, menopause, comorbidities, and outcomes), see the canonical [[sex-differences-hfpef]] page — this page stays focused on arterial-stiffness parameters and exercise physiology shared across sexes.
+
 ## Clinical Implications
 
 - Arterial stiffness is a treatment target in HFpEF — BP control, particularly with agents improving NO bioavailability, may reduce exertional arterial stiffening
@@ -86,7 +92,9 @@ Confirms NO pathway as a targetable mechanism (source: [[reddy2017artstiff]])
 - [[sleep-disordered-breathing]] — SDB is a modifiable driver of arterial stiffening in HFpEF
 - [[exercise-intolerance]] — arterial stiffening contributes to impaired exercise hemodynamics
 - [[hemodynamics]] — exercise arterial stiffening is a key hemodynamic mechanism
+- [[sex-differences-hfpef]] — canonical page for sex-differential arterial stiffness and the broader sex-differences mechanistic picture
 
 ## References
 - Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2017;70(2):136–148. doi:[10.1016/j.jacc.2017.05.029](https://doi.org/10.1016/j.jacc.2017.05.029)
 - Suzuki S, Yoshihisa A, Sato Y, Watanabe S, Yokokawa T, Sato T, Oikawa M, Kobayashi A, Yamaki T, Kunii H, Nakazato K, Suzuki H, Saitoh S, Ishida T, Takeishi Y. Association between sleep-disordered breathing and arterial stiffness in heart failure patients with reduced or preserved ejection fraction. *ESC Heart Fail.* 2018;5(2):284–291. doi:[10.1002/ehf2.12273](https://doi.org/10.1002/ehf2.12273)
+- Lau ES, Panah LG, Zern EK, Liu EE, Farrell R, Schoenike MW, Namasivayam M, Churchill TW, Curreri L, Malhotra R, Nayor M, Lewis GD, Ho JE. Arterial Stiffness and Vascular Load in HFpEF: Differences Among Women and Men. *J Card Fail.* 2022;28(2):202–211. doi:[10.1016/j.cardfail.2021.10.019](https://doi.org/10.1016/j.cardfail.2021.10.019)

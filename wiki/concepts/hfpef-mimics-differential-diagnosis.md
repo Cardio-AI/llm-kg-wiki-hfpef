@@ -21,7 +21,7 @@ sources:
   - citekey: borlaug2023statement
     doi: 10.1016/j.jacc.2023.01.049
   - citekey: Ilonze2024Disparities
-    doi: 10.1007/s12170-024-00748-7
+    doi: 10.1007/s12170-024-00755-4
   - citekey: McDonagh2021ESC
     doi: 10.1093/eurheartj/ehab368
 page-type: concept-page

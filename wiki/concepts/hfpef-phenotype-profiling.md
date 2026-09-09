@@ -81,7 +81,7 @@ Diuretics are added for decongestion when fluid retention is present.
 
 **Age:** Two distinct age-phenotypes. Younger (<65): male predominance, obesity/DM, higher CV death risk. Older (>65): white women, AF/CKD/hypertension, more non-CV mortality.
 
-**Sex:** Women predisposed via concentric remodelling, lower diastolic compliance, mitochondrial differences. PARAGON-HF sex-treatment interaction (women HR 0.73, men HR 1.03) supports sex-stratified ARNI therapy — consistent with [[kittleson2023acc]] recommendation.
+**Sex:** one of the strongest phenotyping dimensions in HFpEF — women constitute 40–70% of cohorts depending on population, driven by sex-specific cardiac structure, vascular aging, menopausal estrogen withdrawal, amplified comorbidity risk, and exercise hemodynamics. PARAGON-HF sex-treatment interaction (women HR 0.73, men HR 1.03) supports sex-stratified ARNI therapy — consistent with [[kittleson2023acc]] recommendation. See [[sex-differences-hfpef]] for the full mechanistic picture and sex-specific outcome/mortality data.
 
 **LVEF 50–55% (Borderline subgroup):** Distinct from normal LVEF (male 52–72%, female 54–74%). Worse outcomes. Beneficial treatment responses across TOPCAT (spironolactone), PARAGON-HF (sacubitril/valsartan ≤median LVEF 57%), and EMPEROR-Preserved (empagliflozin ≥50% to <64%). Not a simple HFmrEF equivalent.
 
@@ -158,7 +158,7 @@ Anker 2023 and [[kittleson2023acc]] reach the same core conclusions independentl
 ---
 
 ## Related Pages
-- Concepts: [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[ml-ai-hfpef]], [[chronotropic-incompetence]], [[hfpef-mimics-differential-diagnosis]], [[cancer-therapy-cardiotoxicity-hfpef]]
+- Concepts: [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[ml-ai-hfpef]], [[chronotropic-incompetence]], [[hfpef-mimics-differential-diagnosis]], [[cancer-therapy-cardiotoxicity-hfpef]], [[sex-differences-hfpef]]
 - Entities: [[hfpef]], [[sglt2-inhibitors]], [[spironolactone]], [[sacubitril-valsartan]], [[atrial-fibrillation]], [[supervised-exercise-training]]
 - Sources: [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[borlaug2023statement]], [[manabe2023sympathetic]]
 

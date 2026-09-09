@@ -34,7 +34,10 @@ Run this before drafting anything.
 
 **Style:** Concise, precise, scientific. No padding, no hedging beyond warranted uncertainty.
 **Structure:** Prose for short answers; headers, bullet points, and tables where the content has multiple dimensions or comparisons.
-**Citations:** Inline `[[citekey]]` for every factual claim. Full APA references listed under `## References` at the end, drawn from `wiki/citations.md`.
+**Sentence construction:** no em-dash-appended clauses (" — like this") tacking extra information onto a sentence. Use a new sentence, a comma, or a semicolon instead. The Bottom Line especially must be one grammatically complete, unambiguous sentence; reread it before finalizing, since if it needs an em-dash or a run-on to fit, it's really two sentences.
+**Citations:** Inline `[[citekey]]` for every factual claim, **including every bullet/list item, not just paragraph prose**. Citations do not count toward a tier's word budget; never drop or water down a citation to save words, state the claim as fully and correctly as needed and cite it properly. If a claim can't be sourced, mark `[needs source]` or drop the claim, not the citation.
+**No internal-bookkeeping leakage:** don't surface wiki-internal cross-reference plumbing in the answer (contradiction entry numbers, "logged as," log-file pointers). Pointers to a genuinely useful canonical/detail page ("Full detail, tables, and all citations: [[page]]") are encouraged and unaffected by this rule; the test is whether the pointer helps the reader find more information (keep) or just exposes internal wiki bookkeeping (cut).
+**Reference Overview (all four tiers, including TL;DR):** every answer ends with a compact block listing each citekey actually used, as a full APA reference pulled from `wiki/citations.md` → Full Formatted References (same lookup/conversion already used for citation-lookup requests — do not reformat from memory). This block does not count toward the tier's word budget.
 
 ## Answer Modes
 
@@ -42,7 +45,7 @@ Produce four possible tiers. **Standard is the default and is always produced** 
 
 | Mode | Length | Contents | When |
 |---|---|---|---|
-| TL;DR | 20–80 words | Direct answer only — no bottom-line line (it *is* the bottom line). If the question's scope exceeds what fits in this tier, append: `WARNING! Scope not fully covered, see Standard/Extensive Answer.` | On request |
+| TL;DR | 20–80 words | Direct answer only — no bottom-line line (it *is* the bottom line). If the question's scope exceeds what fits in this tier, append: `WARNING! Scope not fully covered, see Standard/Extensive Answer.` Still ends with the Reference Overview block (not counted toward the word budget). | On request |
 | Short | ~80–150 words | Direct answer + one-line **Bottom line:** + evidence tag | On request |
 | **Standard** | 50–400 words, scaled to evidence load/difficulty — not a fixed target | Direct answer, literal to question scope + **Bottom line:** + evidence tag | **Default, always produced** |
 | Extended | Unbounded | `## Extended Discussion` — mechanism, secondary trials, nuance, edge cases; relaxed scope filter (see Step 0). In-scope framing preserved; material outside the question's literal scope gets a `[[link]]` pointer instead of being folded in | Appended after Standard, offered not forced |

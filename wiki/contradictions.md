@@ -16,6 +16,7 @@
 | **Device trials**                       | #23 (REDUCE LAP-HF II: overall neutral vs. PVR subgroup positive, echocardiographic vs. clinical dissociation — merged with former #31), #37 (REDUCE LAP-HF II expanded WHF definition)                          |
 | **Endpoint validity**                   | #14 (6MWD dissociation from KCCQ), #23 (echo surrogates vs. clinical outcome), #24 (E/e' as surrogate), #37 (WHF definition power vs. mortality-specificity trade-off)                                           |
 | **Phenotype-specific**                  | #4 (NP in obesity), #10 (Mg interaction HFrEF vs HFpEF), #26 (ATTRwt vs ATTRm)                                                                                                                                   |
+| **Sex differences**                     | #32 (sex interaction: PARAGON-HF vs PARAGLIDE-HF), #38 (worse physiology vs. better cardiac-specific survival in women)                                                                                          |
 
 ---
 
@@ -260,6 +261,13 @@
 - **Broadening increases power:** In a post hoc analysis of REDUCE LAP-HF II, expanding the "worsening heart failure" (WHF) definition from hospitalisation-only (level 1) to include urgent outpatient (level 2) and nonurgent outpatient diuretic-escalation (level 3) events increased 24-month incidence from 17.4% to 25.9% (P=0.0003) and converted a nonsignificant atrial-shunt treatment effect in the responder subgroup into a significant one (recurrent-events rate ratio 0.56, 95% CI 0.33–0.96, P=0.009 for interaction) (source: [[chaudhary2025worseninghf]])
 - **Broadening dilutes mortality specificity:** Level 1 (hospitalisation) alone predicted 24-month all-cause mortality at least as strongly as the expanded "any WHF" composite (HR 3.54 [1.83–6.87] vs. HR 2.60 [1.35–5.01]) — adding level 2/3 events did not sharpen, and numerically attenuated, the mortality hazard ratio, because the large majority of deaths occurred in patients who had experienced a level 1 (hospitalisation) event (source: [[chaudhary2025worseninghf]])
 - **Implication:** A positive trial result on a broadened WHF composite endpoint (as also seen in DAPA-HF and [[deliver]], both of which added outpatient oral-diuretic intensification to their primary composites) increases statistical power to detect a true treatment effect, but does not by itself imply a proportionate effect on the hospitalisation/mortality-relevant subset of that composite. Trials whose population or endpoint is WHF-defined ([[soloist-whf]], [[paraglide-hf]], [[finearts-hf]]) should be read with this dissociation in mind. See [[worsening-heart-failure]], [[chaudhary2025worseninghf]].
+
+---
+
+### 38. Sex Differences: Worse Physiology vs. Better Cardiac-Specific Survival in Women
+- **Women have a measurably worse hemodynamic/vascular/exercise phenotype:** higher resting arterial stiffness (augmentation pressure +6 mmHg, augmentation index +10%, both P<0.0001) and worse arterial load than men (source: [[lau2022arterialstiffness]]); greater exercise filling-pressure rise per workload, smaller stroke-volume reserve, worse peripheral oxygen kinetics (PCWP/W 0.8 vs. 0.6, P=0.014; ΔSVI 8.1 vs. 19.7 mL, P=0.007) (source: [[beale2019sex]])
+- **Yet women have better cardiac-specific survival:** in a 260-patient invasively-characterised cohort, men had significantly higher cardiac death (16.5% vs. 6.1%, P=0.008) and died predominantly of right heart failure/sudden cardiac death, while women had higher non-cardiac death (10.5% vs. 2.5%, P=0.030), predominantly from infection — "men rather develop a right heart phenotype and die from HFpEF, whereas women are more likely to die with HFpEF" (source: [[duca2018genderdiff]])
+- **Implication:** the direction of this outcome asymmetry is opposite to what the physiological-severity data alone would predict. Possible explanations — genuine sex-specific protection against cardiac-death mechanisms, a competing-risk artefact (women survive long enough to die of something else), or cohort/referral differences (Duca's cohort strictly excluded CAD and cardiac amyloidosis, both male-predominant HFpEF mimics) — remain unresolved. Also consistent with the broader pattern that women report lower quality of life despite better survival (source: [[coppi2025genderdiff]]). See [[sex-differences-hfpef]].
 
 ---
 
