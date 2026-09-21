@@ -7,7 +7,6 @@ inspired by Andrej Karpathy's "LLM Wiki" paradigm <a target="_blank" href="https
 This repository encodes HFpEF as an interconnected system of concepts rather than a linear narrative, enabling precise navigation across pathophysiology, clinical phenotypes, and evolving guideline logic.
 
 ![Visual overview](documentation/Visual_overview.png)
-
 ### Motivation
 
 LLMs enable flexible question answering and can summarize and connect large amounts of information. 
