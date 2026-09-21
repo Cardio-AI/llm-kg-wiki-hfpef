@@ -11,7 +11,7 @@ tags:
 - comorbidity
 - mechanism
 created: 2026-05-06
-last_updated: 2026-05-14
+last_updated: 2026-09-21
 sources:
 - citekey: Anker2023HFpEFPhenotype
   doi: 10.1002/ejhf.2894
@@ -21,6 +21,8 @@ sources:
   doi: 10.1016/j.jacc.2023.01.049
 - citekey: manabe2023sympathetic
   doi: 10.3389/fcvm.2023.1148324
+- citekey: Landsteiner2026Multiorgan
+  doi: 10.1161/CIRCULATIONAHA.125.077579
 page-type: phenotype-page
 ---
 # HFpEF Phenotype Profiling
@@ -115,6 +117,10 @@ These phenogroups overlap substantially — a single patient may fall into 3–4
 
 Excessive sympathetic activation during dynamic exercise — paradoxical MSNA increase during cycling — is an underrecognised phenotypic axis. Distinct from HFrEF pattern (both show MSNA increase during dynamic exercise, but HFpEF response appears greater; during static exercise HFpEF MSNA resembles controls). Excessive MSNA → elevated SVR → reduced skeletal muscle blood flow → VO₂ limitation. May explain the HFpEF-specific response to candesartan (reduced peak SBP and improved exercise duration) not seen in hypertensive controls. (source: manabe2023sympathetic)
 
+### Multiorgan Exercise-Deficit Phenotyping (Landsteiner 2026)
+
+A distinct, mechanistically-grounded phenotyping axis derived from invasive CPET rather than resting comorbidity status: 7 exercise physiological deficits (cardiac filling pressure, stroke volume, heart-rate augmentation, pulmonary vascular resistance, breathing reserve, metabolic cost of exercise initiation, peripheral O₂ extraction) co-occur heterogeneously across HFpEF patients (N=820) — most patients show concurrent abnormalities across ≥2 organ systems, not a single dominant deficit. Total deficit count is strongly prognostic (≥5 deficits: HR 3.90 for CV hospitalisation/mortality vs. 0 deficits) independent of which specific deficits are present. Deficit-specific circulating metabolite signatures validated in an independent community cohort (MESA, N=6,345, ~18.6y follow-up) predicted incident HF years to decades before clinical onset, and a genome-wide TWAS linked the deficit metabolome to genes involved in inflammation, fibrosis, mitochondrial function, and vascular reactivity. This framework complements rather than replaces the comorbidity-wheel (Anker 2023) and pathophysiological-phenogroup (Borlaug 2023) models — it adds an exercise-physiology-first axis with direct genomic/metabolomic mechanistic grounding and long-term community-cohort prognostic validation. (source: [[landsteiner2026multiorgan]])
+
 ### Secondary HFpEF (Mimics)
 Four main categories requiring specific management rather than standard HFpEF treatment: restrictive cardiomyopathy (ATTR, AL amyloidosis, Fabry), hypertrophic cardiomyopathy, constrictive pericarditis, valvular heart disease. Secondary HFpEF requires extended diagnostic workup (CMR, Tc-PYP, biopsy, genetic testing). See [[hfpef-diagnosis]] and [[kittleson2023acc]] Table 1.
 
@@ -160,7 +166,7 @@ Anker 2023 and [[kittleson2023acc]] reach the same core conclusions independentl
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-diagnosis]], [[exercise-intolerance]], [[diastolic-dysfunction]], [[ml-ai-hfpef]], [[chronotropic-incompetence]], [[hfpef-mimics-differential-diagnosis]], [[cancer-therapy-cardiotoxicity-hfpef]], [[sex-differences-hfpef]]
 - Entities: [[hfpef]], [[sglt2-inhibitors]], [[spironolactone]], [[sacubitril-valsartan]], [[atrial-fibrillation]], [[supervised-exercise-training]]
-- Sources: [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[borlaug2023statement]], [[manabe2023sympathetic]]
+- Sources: [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[borlaug2023statement]], [[manabe2023sympathetic]], [[landsteiner2026multiorgan]]
 
 ## Contradictions
 - Beta-blockers: harmful in chronotropic incompetence subgroup; beneficial in hypertension + ischaemic disease subgroups. Same drug with opposite effects across HFpEF phenotypes — phenotype identification is prerequisite for prescribing.
@@ -169,6 +175,7 @@ Anker 2023 and [[kittleson2023acc]] reach the same core conclusions independentl
 See [[contradictions]].
 
 ## References
+- Landsteiner I, Stolze LK, Peterson TE, et al. Multiorgan Physiological Deficits During Exercise Identify Clinical and Molecular Predisposition to Heart Failure With Preserved Ejection Fraction. *Circulation.* 2026;153(13):1362–1384. doi:[10.1161/CIRCULATIONAHA.125.077579](https://doi.org/10.1161/CIRCULATIONAHA.125.077579)
 - Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
 - Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049) [DOI unverified]
 - Manabe K, D'Souza AW, Washio T, Takeda R, Hissen SL, Akins JD, Fu Q. Sympathetic and Hemodynamic Responses to Exercise in Heart Failure With Preserved Ejection Fraction. *Front Cardiovasc Med.* 2023;10:1148324. doi:[10.3389/fcvm.2023.1148324](https://doi.org/10.3389/fcvm.2023.1148324)

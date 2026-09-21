@@ -10,10 +10,12 @@ tags:
   - a-vo2-difference
   - mechanism
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
   - citekey: Haykowsky2011Exercise
     doi: 10.1016/j.jacc.2011.02.055
+  - citekey: Landsteiner2026Multiorgan
+    doi: 10.1161/CIRCULATIONAHA.125.077579
 ---
 
 # Peripheral Mechanisms of Exercise Intolerance in HFpEF
@@ -76,6 +78,10 @@ HFpEF shows a different SV reserve mechanism during exercise:
 - At submaximal workloads, CO is similar — but this compensation is **finite and inadequate at peak**
 (source: [[haykowsky2011exercise]])
 
+## Large-Cohort Confirmation: Landsteiner 2026 Multiorgan Deficit Framework
+
+The largest invasive CPET HFpEF cohort assembled to date (N=820, MGH-ExS) confirms decreased peripheral O₂ extraction (Cavo₂ <80% predicted) as one of 7 defined exercise physiological deficits, present in **44% of HFpEF patients** — comparable in prevalence to the central haemodynamic deficit (elevated exercise filling pressure, 43%) and blunted heart-rate augmentation (48%). Peripheral O₂ extraction impairment was not simply proportional to central filling-pressure elevation, supporting it as a largely independent contributor rather than a downstream consequence of cardiac limitation. A higher total deficit count (across all 7 organ systems, including the peripheral deficit) strongly predicted adverse outcomes: ≥5 deficits carried HR 3.90 (95% CI 1.74–8.75) for the composite CV hospitalisation/mortality outcome vs. 0 deficits. Metabolite signatures of the peripheral O₂-extraction deficit implicated inflammation, insulin resistance, and glycolysis pathways — mechanistically consistent with the skeletal-muscle-dysfunction and microvascular-delivery mechanisms described above. (source: [[landsteiner2026multiorgan]])
+
 ## Therapeutic Implications
 
 - **Supervised exercise training:** Targets peripheral mechanisms directly — improves skeletal muscle oxidative capacity, increases capillary density, reduces sympathetic tone → improves A-VO₂ Diff reserve (source: [[sachdev2023exercise]])
@@ -92,6 +98,7 @@ HFpEF shows a different SV reserve mechanism during exercise:
 - [[chronotropic-incompetence]] — blunted HR response limits CO augmentation and peripheral perfusion
 
 ## References
+- Landsteiner I, Stolze LK, Peterson TE, et al. Multiorgan Physiological Deficits During Exercise Identify Clinical and Molecular Predisposition to Heart Failure With Preserved Ejection Fraction. *Circulation.* 2026;153(13):1362–1384. doi:[10.1161/CIRCULATIONAHA.125.077579](https://doi.org/10.1161/CIRCULATIONAHA.125.077579)
 - Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of Exercise Intolerance in Elderly Heart Failure Patients With Preserved Ejection Fraction. *J Am Coll Cardiol.* 2011;58(3):265–274. doi:[10.1016/j.jacc.2011.02.055](https://doi.org/10.1016/j.jacc.2011.02.055)
 - Beale AL, Warren JL, Roberts N, Meyer P, Townsend NP, Kaye DM. Iron deficiency in heart failure with preserved ejection fraction: a systematic review and meta-analysis. *Open Heart.* 2019;6(2):e001012. doi:[10.1136/openhrt-2019-001012](https://doi.org/10.1136/openhrt-2019-001012)
 - Sachdev V, Sharma K, Keteyian SJ, et al. Supervised Exercise Training for Chronic Heart Failure With Preserved Ejection Fraction: A Scientific Statement from the American Heart Association. *Circulation.* 2023;147(10):e699–e715. doi:[10.1161/CIR.0000000000001122](https://doi.org/10.1161/CIR.0000000000001122)

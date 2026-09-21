@@ -11,7 +11,7 @@ tags:
 - hfref
 - hfpef
 created: 2026-04-30
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
@@ -21,6 +21,10 @@ sources:
   doi: 10.1002/ejhf.2894
 - citekey: ferreira2023spironolactone
   doi: 10.1002/ejhf.2726
+- citekey: Ferreira2025SOGALDIPEF
+  doi: 10.1016/j.jacc.2025.05.033
+- citekey: Khidihir2026Finerenone
+  doi: 10.1007/s11883-026-01451-x
 page-type: entity-page
 ---
 # Spironolactone
@@ -71,6 +75,12 @@ Spironolactone was the leading pharmacological candidate for HFpEF given its ant
 - First IPD-level evidence that spironolactone improves cardiac structure and filling pressures in patients without HFrEF; supports the mechanistic rationale for SPIRRIT-HFpEF and SPIRIT-HF
 (source: ferreira2023spironolactone)
 
+## Combination with SGLT2i — SOGALDI-PEF
+
+The first dedicated RCT testing spironolactone added to an SGLT2i (rather than as monotherapy) in HFpEF/HFmrEF: [[sogaldi-pef]] (N=108, 2-centre Portuguese crossover trial) found dapagliflozin+spironolactone reduced NT-proBNP 11% more than dapagliflozin alone (P=0.035), with the expected MRA-class trade-off of greater eGFR decline and more hyperkalemia (K >5.5 mmol/L: 4.8% vs. 0.9%). The NT-proBNP benefit was seen in patients in sinus/paced rhythm but not in those with atrial fibrillation (P-interaction=0.084, underpowered). No significant combination-vs-monotherapy difference in LVEF, LV mass, or KCCQ. (source: [[ferreira2025sogaldipef]])
+
+**Retrospective comparison with finerenone:** A propensity-matched retrospective cohort (251 patients/group) found spironolactone associated with numerically higher all-cause mortality than finerenone (8.0% vs. 4.4%; HR 0.48 favouring finerenone, 95% CI 0.23–1.00) but similar acute HF events and hyperkalemia/AKI rates — hypothesis-generating only. (source: [[khidihir2026finerenone]])
+
 ## Status
 
 | Guideline | HFrEF | HFpEF |
@@ -89,7 +99,7 @@ Spironolactone was the leading pharmacological candidate for HFpEF given its ant
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[guideline-comparison]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[topcat]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2023hfpefphenotype]], [[pitt2014topcat]], [[desai2011topcat]], [[ferreira2023spironolactone]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2023hfpefphenotype]], [[pitt2014topcat]], [[desai2011topcat]], [[ferreira2023spironolactone]], [[ferreira2025sogaldipef]], [[khidihir2026finerenone]]
 
 ## Contradictions
 - TOPCAT overall vs. Americas subgroup results are directly contradictory. Regional data quality in Eastern European cohort is disputed. This is one of the most significant unresolved controversies in HFpEF pharmacotherapy.
@@ -97,6 +107,8 @@ Spironolactone was the leading pharmacological candidate for HFpEF given its ant
 See [[contradictions]].
 
 ## References
+- Ferreira JP, Vasques-Nóvoa F, Saraiva F, et al.; SOGALDI-PEF Investigators. Sodium-Glucose Cotransporter 2 Inhibitor With and Without an Aldosterone Antagonist for Heart Failure With Preserved Ejection Fraction: The SOGALDI-PEF Trial. *JACC Heart Fail.* 2025;86(5):320–333. doi:[10.1016/j.jacc.2025.05.033](https://doi.org/10.1016/j.jacc.2025.05.033)
+- Khidihir A, Kalra DK. Finerenone in Heart Failure With Preserved Ejection Fraction: Expanding the Role of Non-steroidal Mineralocorticoid Receptor Antagonists. *Curr Atheroscler Rep.* 2026;28:79. doi:[10.1007/s11883-026-01451-x](https://doi.org/10.1007/s11883-026-01451-x)
 - Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
 - Ferreira JP, Cleland JG, Girerd N, Bozec E, Rossignol P, Pellicori P, Cosmi F, Mariottoni B, Solomon SD, Pitt B, Pfeffer MA, Shah AM, Petutschnigg J, Pieske B, Edelmann F, Zannad F. Spironolactone effect on cardiac structure and function of patients with heart failure and preserved ejection fraction: a pooled analysis of three randomized trials. *Eur J Heart Fail.* 2023;25(1):108–113. doi:[10.1002/ejhf.2726](https://doi.org/10.1002/ejhf.2726)
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)

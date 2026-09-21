@@ -11,7 +11,7 @@ tags:
 - physiology
 - hemodynamics
 created: 2026-04-30
-last_updated: 2026-04-30
+last_updated: 2026-09-21
 sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
@@ -21,6 +21,10 @@ sources:
   doi: 10.3389/fphys.2019.01347
 - citekey: Pfeffer2019HFpEF
   doi: 10.1161/CIRCRESAHA.119.313572
+- citekey: Backhaus2021HFpEFStress
+  doi: 10.1161/CIRCULATIONAHA.120.051542
+- citekey: Rommel2016STIFFMAP
+  doi: 10.1016/j.jacc.2016.02.018
 page-type: mechanism-page
 ---
 # Diastolic Dysfunction
@@ -97,6 +101,14 @@ No single marker is sufficient. Diagnostic confidence scales with the number of 
 
 Use limited to research settings due to invasiveness. (source: McDonagh2021ESC)
 
+### Fibrosis-Dominant vs. Relaxation-Dominant HFpEF Subphenotypes (Rommel 2016)
+
+Direct invasive validation (conductance-catheter pressure-volume loops, N=36) shows CMR-derived extracellular volume fraction (ECV, a diffuse-fibrosis marker) independently predicts the load-independent LV stiffness constant β (r=0.75, P<0.01) — but splits HFpEF into two distinct mechanistic subgroups: a **high-ECV/high-stiffness (fibrosis-dominant)** group, and a **low-ECV group with prolonged active-relaxation time-constant (τ) and an exaggerated hypertensive response to afterload (relaxation-dominant)**, not attributable to fibrosis. This provides invasive-haemodynamic evidence that "diastolic dysfunction" in HFpEF is mechanistically heterogeneous even at the single-patient level — fibrosis (structural stiffness) and impaired active relaxation (functional) are separable, differentially-weighted contributors. (source: [[rommel2016stiffmap]])
+
+### Real-Time Exercise CMR: LA Mechanics Outperform LV Parameters (Backhaus 2021)
+
+In a diagnostic-accuracy trial referenced against invasive RHC (N=68), real-time exercise-stress CMR showed that **left atrial** functional parameters (long-axis strain, emptying fraction) discriminate HFpEF far better than LV volumetric or strain parameters — LA long-axis strain reached AUC 0.93 during exercise, versus AUC 0.51–0.60 for conventional LV volumetric CMR. LA emptying fraction failed to augment with exercise in HFpEF (unlike in noncardiac dyspnea controls, who showed a compensatory increase) — direct evidence that impaired LA functional reserve, not just LV relaxation, is a defining exercise-stress abnormality. No difference in native T1/ECV (diffuse fibrosis) was found between HFpEF and noncardiac dyspnea in this cohort — a finding in tension with [[rommel2016stiffmap]]'s fibrosis-based subphenotyping, possibly reflecting differing cohort/control definitions. See [[left-atrial-remodelling]] for the full LA mechanics picture. (source: [[backhaus2021hfpefstress]])
+
 ## Open Questions
 - Which specific molecular mechanisms of increased titin stiffness and myocardial fibrosis are the most tractable therapeutic targets?
 - Can non-invasive markers (E/e', LA volume index) reliably replace invasive PCWP measurement in diagnosis?
@@ -107,7 +119,7 @@ Use limited to research settings due to invasiveness. (source: McDonagh2021ESC)
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[guideline-comparison]], [[titin]], [[sex-differences-hfpef]]
 - Entities: [[hfpef]], [[hfmref]], [[hfref]], [[atrial-fibrillation]], [[echocardiography]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[pfeffer2019hfpef]], [[damario2019cmd]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[pfeffer2019hfpef]], [[damario2019cmd]], [[backhaus2021hfpefstress]], [[rommel2016stiffmap]]
 
 ## Contradictions
 - E/e' >9 has sensitivity 78% but specificity only 59%; it is a weak stand-alone criterion for elevated filling pressures. Diagnostic accuracy improves substantially when combined with other markers. (source: McDonagh2021ESC)
@@ -115,5 +127,7 @@ Use limited to research settings due to invasiveness. (source: McDonagh2021ESC)
 See [[contradictions]].
 
 ## References
+- Backhaus SJ, Lange T, George EF, et al. Exercise Stress Real-Time Cardiac Magnetic Resonance Imaging for Noninvasive Characterization of Heart Failure With Preserved Ejection Fraction: The HFpEF-Stress Trial. *Circulation.* 2021;143(15):1484–1498. doi:[10.1161/CIRCULATIONAHA.120.051542](https://doi.org/10.1161/CIRCULATIONAHA.120.051542)
+- Rommel KP, von Roeder M, Latuscynski K, et al. Extracellular Volume Fraction for Characterization of Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2016;67(15):1815–1825. doi:[10.1016/j.jacc.2016.02.018](https://doi.org/10.1016/j.jacc.2016.02.018)
 - D'Amario D, Migliaro S, Borovac JA, Restivo A, Vergallo R, Galli M, Leone AM, Montone RA, Niccoli G, Aspromonte N, Crea F. Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *Front Physiol.* 2019;10:1347. doi:[10.3389/fphys.2019.01347](https://doi.org/10.3389/fphys.2019.01347)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

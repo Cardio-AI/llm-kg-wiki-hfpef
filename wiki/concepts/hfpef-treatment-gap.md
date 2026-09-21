@@ -11,7 +11,7 @@ tags:
 - clinical-trials
 - exercise
 created: 2026-04-30
-last_updated: 2026-05-04
+last_updated: 2026-09-21
 sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
@@ -29,6 +29,12 @@ sources:
   doi: 10.1161/CIRCRESAHA.119.313572
 - citekey: McDonagh2023ESCupdate
   doi: 10.1093/eurheartj/ehad195
+- citekey: Ferreira2025SOGALDIPEF
+  doi: 10.1016/j.jacc.2025.05.033
+- citekey: Stone2024RELIEVEHF
+  doi: 10.1161/CIRCULATIONAHA.124.070870
+- citekey: Khidihir2026Finerenone
+  doi: 10.1007/s11883-026-01451-x
 page-type: concept-page
 ---
 # HFpEF Treatment Gap
@@ -104,6 +110,14 @@ Ten pharmacological RCTs across RAAS, nitrate/cGMP, and exercise-capacity classe
 
 (source: McDonagh2021ESC; source: Heidenreich2022AHA)
 
+### SGLT2i + MRA Combination — First Dedicated RCT Evidence
+
+[[sogaldi-pef|SOGALDI-PEF]] (N=108, Portugal, crossover) is the first dedicated RCT directly comparing SGLT2i+MRA combination against SGLT2i alone in HFpEF/HFmrEF: dapagliflozin+spironolactone reduced NT-proBNP 11% more than dapagliflozin alone (P=0.035), at the cost of the expected MRA-class trade-off (greater eGFR decline, more hyperkalemia). No hard clinical outcomes were assessed — a biomarker/surrogate trial only. This provides the first prospective, randomised support (rather than purely mechanistic rationale) for the SGLT2i+MRA combination-therapy direction also being tested for finerenone-class agents in BALANCED-HF and EASi-HF (see [[khidihir2026finerenone]]). (source: [[ferreira2025sogaldipef]])
+
+### Device Therapy Caution — RELIEVE-HF
+
+Not all mechanical/device-based approaches to reducing left atrial pressure are safe in HFpEF. [[relieve-hf|RELIEVE-HF]] (N=508, interatrial shunt vs. sham, any LVEF) was safe and neutral overall, but the preserved-LVEF (>40%) stratum — the HFpEF-relevant group — had **significantly more** cardiovascular events with shunt treatment, including nearly triple the all-cause mortality (16.4% vs. 5.2%, HR 3.24, P=0.004), while the reduced-LVEF stratum trended toward benefit. This is the first HFpEF-relevant device trial in this wiki with a mortality-harm signal, and directly cautions against generalising benefit from other positive HFpEF device trials ([[reduce-lap-hf-ii]], [[rebalance-hf]], CHAMPION) to interatrial shunt devices as a class. See [[contradictions]] #39. (source: [[stone2024relievehf]])
+
 ### Haemodynamic Monitoring — CHAMPION Trial
 
 The CHAMPION trial (CardioMEMS implantable PA pressure sensor) showed that management guided by physician knowledge of central haemodynamics significantly reduced HF hospitalisations in NYHA III HF. This finding was confirmed in a subgroup restricted to HFpEF patients and in an analysis of Medicare beneficiaries. While not a pharmacological therapy, haemodynamic-guided management partially fills the gap for managing congestion when drug options are limited. (source: Pfeffer2019HFpEF)
@@ -132,8 +146,11 @@ The companion trial STEP-HFpEF DM (NCT04916470, Kosiborod 2024) showed similar s
 | SPIRIT-HF | Spironolactone | HFpEF (resolving TOPCAT question) | NCT04727073 |
 | CABA-HFpEF | Catheter ablation | HFpEF with AF | NCT05508256 |
 | FAIR-HFpEF | Ferric carboxymaltose | HFpEF with iron deficiency | NCT03074591 |
+| FINE-FOCUS | Finerenone (myocardial fibrosis imaging endpoint) | HF, LVEF ≥40% | NCT07583173 |
+| FINE-REMODEL | Finerenone (cardiac remodelling imaging) | Diabetic kidney disease + HF, LVEF ≥40% | NCT07442448 |
+| FINE-MECH | Finerenone (mechanistic imaging) | HF, LVEF ≥40% | NCT07270367 |
 
-(source: Anker2023HFpEFPhenotype)
+(source: Anker2023HFpEFPhenotype; source: [[khidihir2026finerenone]])
 
 ## Open Questions
 - Does SGLT2i benefit in HFpEF extend to CV mortality reduction (not just hospitalisations)?
@@ -148,7 +165,7 @@ The companion trial STEP-HFpEF DM (NCT04916470, Kosiborod 2024) showed similar s
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[exercise-intolerance]], [[guideline-comparison]], [[hfpef-phenotype-profiling]], [[cancer-therapy-cardiotoxicity-hfpef]]
 - Entities: [[hfpef]], [[hfmref]], [[atrial-fibrillation]], [[sacubitril-valsartan]], [[spironolactone]], [[sglt2-inhibitors]], [[paragon-hf]], [[topcat]], [[charm-preserved]], [[i-preserve]], [[supervised-exercise-training]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[sachdev2023exercise]], [[ferreira2026emperor]], [[mcmurray2024determine]], [[mirzai2025exercise]], [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[pfeffer2019hfpef]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[sachdev2023exercise]], [[ferreira2026emperor]], [[mcmurray2024determine]], [[mirzai2025exercise]], [[anker2023hfpefphenotype]], [[kittleson2023acc]], [[pfeffer2019hfpef]], [[ferreira2025sogaldipef]], [[stone2024relievehf]], [[khidihir2026finerenone]]
 
 ## Contradictions
 - FDA endorsement vs. ESC non-recommendation for sacubitril/valsartan in HFpEF: different evidentiary thresholds and timing.
@@ -156,10 +173,14 @@ The companion trial STEP-HFpEF DM (NCT04916470, Kosiborod 2024) showed similar s
 - SGLT2i: Class I in HFrEF; Class 2a for HFpEF (AHA 2022); Class I Level A for HFpEF/HFmrEF (ESC 2023) — ESC 2021's absence of recommendation was a publication-timing artefact, resolved by the 2023 focused update. See [[guideline-comparison]].
 - SET improves peak VO2 consistently but hard outcome data absent — functional benefit ≠ mortality benefit.
 - SGLT2i Class 2a for HFpEF is driven by HF hospitalization reduction, not CV mortality — a partial gap-closure at best.
+- Interatrial shunt device therapy (RELIEVE-HF): harmful (excess mortality) in preserved-LVEF HFpEF-relevant stratum vs. the wiki's other positive HFpEF device-trial evidence. See [[contradictions]] #39.
 
 See [[contradictions]].
 
 ## References
+- Ferreira JP, Vasques-Nóvoa F, Saraiva F, et al.; SOGALDI-PEF Investigators. Sodium-Glucose Cotransporter 2 Inhibitor With and Without an Aldosterone Antagonist for Heart Failure With Preserved Ejection Fraction: The SOGALDI-PEF Trial. *JACC Heart Fail.* 2025;86(5):320–333. doi:[10.1016/j.jacc.2025.05.033](https://doi.org/10.1016/j.jacc.2025.05.033)
+- Stone GW, Lindenfeld J, Rodés-Cabau J, et al.; RELIEVE-HF Investigators. Interatrial Shunt Treatment for Heart Failure: The Randomized RELIEVE-HF Trial. *Circulation.* 2024;150(24):1931–1943. doi:[10.1161/CIRCULATIONAHA.124.070870](https://doi.org/10.1161/CIRCULATIONAHA.124.070870)
+- Khidihir A, Kalra DK. Finerenone in Heart Failure With Preserved Ejection Fraction: Expanding the Role of Non-steroidal Mineralocorticoid Receptor Antagonists. *Curr Atheroscler Rep.* 2026;28:79. doi:[10.1007/s11883-026-01451-x](https://doi.org/10.1007/s11883-026-01451-x)
 - Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)
 - Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)

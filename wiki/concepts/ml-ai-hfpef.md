@@ -8,7 +8,7 @@ tags:
 - diagnosis
 - hfpef
 created: 2026-05-05
-last_updated: 2026-05-15
+last_updated: 2026-09-21
 sources:
 - citekey: Yi2025AI
   doi: 10.1016/j.jjcc.2025.08.018
@@ -18,6 +18,8 @@ sources:
   doi: 10.1038/s41467-025-58283-7
 - citekey: attia2019ecgaf
   doi: 10.1016/S0140-6736(19)31721-0
+- citekey: Landsteiner2026Multiorgan
+  doi: 10.1161/CIRCULATIONAHA.125.077579
 page-type: concept-page
 ---
 # Machine Learning and AI in HFpEF
@@ -108,6 +110,10 @@ A domain adjacent to AI/ML: personalised digital health interventions using wear
 
 **Accelerometry as digital mobility outcome:** Docherty 2025 (DETERMINE substudy) showed accelerometer-derived PA measures and 6MWD capture distinct dimensions of functional limitation in HFpEF — the same wearable-derived data used in MyoMobile. This reinforces step count and daily activity as clinically meaningful endpoints distinct from VO₂peak. (source: Docherty2025DETERMINE)
 
+### Metabolomics + Genomics (Multimetabolite Signatures and TWAS)
+
+A distinct computational-biology approach not captured by the four domains above: Landsteiner et al. 2026 applied LASSO regression to 425 plasma metabolites to construct multimetabolite signatures of 7 invasive-CPET-defined exercise physiological deficits in HFpEF (N=820), then validated these signatures' prognostic value for incident HF in an independent community cohort (MESA, N=6,345, ~18.6y follow-up) — up to ~20% continuous net reclassification improvement over traditional risk factors. A subsequent transcriptome-wide association study (TWAS), using the largest HF GWAS to date (~2 million individuals), mapped the deficit-associated metabolome to genes with cross-tissue effects on HF risk (e.g. *ILRUN*, *NFATC2IP*, *HSD17B12*, *NOS3*). This represents the first application of genomics/metabolomics-derived (rather than imaging/ECG/EHR-derived) signatures to HFpEF risk prediction in this wiki. (source: [[landsteiner2026multiorgan]])
+
 ## History
 
 - **2015** — Shah et al. first applied hierarchical clustering to HFpEF (N=397); 3 phenotypes with HR 4.2 for hospitalization in highest-risk cluster; established feasibility of ML phenotyping (source: [[yi2025ai]])
@@ -145,12 +151,13 @@ Evidence quality for individual claims:
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[exercise-intolerance]]
 - Entities: [[hfpef]], [[spironolactone]], [[sglt2-inhibitors]], [[echocardiography]]
-- Sources: [[yi2025ai]], [[zeid2025myomobile]], [[docherty2025determine]], [[pitt2014topcat]], [[pocock2013maggic]], [[akerman2025ai]], [[attia2019ecgaf]], [[gao2025ecgdl]]
+- Sources: [[yi2025ai]], [[zeid2025myomobile]], [[docherty2025determine]], [[pitt2014topcat]], [[pocock2013maggic]], [[akerman2025ai]], [[attia2019ecgaf]], [[gao2025ecgdl]], [[landsteiner2026multiorgan]]
 
 ## Contradictions
 - ML spironolactone responders (Kresoja 2023; Desai 2024) conflict with TOPCAT overall null (HR 0.89 P=0.14 in Pitt 2014). ML post-hoc analysis of the same trial data showing significant benefit in a subgroup is subject to overfitting — neither Kresoja nor Desai has been prospectively validated. However, consistency between two independent analyses using different algorithms (ML-based analysis vs. individualized treatment effect) strengthens the signal. See [[contradictions]].
 
 ## References
+- Landsteiner I, Stolze LK, Peterson TE, et al. Multiorgan Physiological Deficits During Exercise Identify Clinical and Molecular Predisposition to Heart Failure With Preserved Ejection Fraction. *Circulation.* 2026;153(13):1362–1384. doi:[10.1161/CIRCULATIONAHA.125.077579](https://doi.org/10.1161/CIRCULATIONAHA.125.077579)
 - Akerman AP, Al-Roub N, Angell-James C, Cassidy MA, Thompson R, Bosque L, Rainer K, Hawkes W, Piotrowska H, Leeson P, Woodward G, Pellikka PA, Upton R, Strom JB. External validation of artificial intelligence for detection of heart failure with preserved ejection fraction. *Nat Commun.* 2025;16:2915. doi:[10.1038/s41467-025-58283-7](https://doi.org/10.1038/s41467-025-58283-7)
 - Attia ZI, Noseworthy PA, Lopez-Jimenez F, Asirvatham SJ, Deshmukh AJ, Gersh BJ, Carter RE, Yao X, Rabinstein AA, Erickson BJ, Kapa S, Friedman PA. An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction. *Lancet.* 2019;394(10201):861–867. doi:[10.1016/S0140-6736(19)31721-0](https://doi.org/10.1016/S0140-6736(19)31721-0)
 - Docherty KF, Buendia Lopez R, Folkvaljon F, et al. Wearable Accelerometer-Derived Measures of Physical Activity in Heart Failure: Insights From the DETERMINE trials. *J Card Fail.* 2025;31(4):689–703. doi:[10.1016/j.cardfail.2024.10.439](https://doi.org/10.1016/j.cardfail.2024.10.439)

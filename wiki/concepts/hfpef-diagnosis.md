@@ -12,7 +12,7 @@ tags:
 - natriuretic-peptides
 - diastolic-dysfunction
 created: 2026-04-30
-last_updated: 2026-05-14
+last_updated: 2026-09-21
 sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
@@ -32,6 +32,8 @@ sources:
   doi: 10.1161/CIRCRESAHA.125.326504
 - citekey: borlaug2023statement
   doi: 10.1016/j.jacc.2023.01.049
+- citekey: Backhaus2021HFpEFStress
+  doi: 10.1161/CIRCULATIONAHA.120.051542
 page-type: concept-page
 ---
 # HFpEF Diagnosis
@@ -124,6 +126,7 @@ Both algorithms converge on invasive haemodynamic testing as the gold standard f
 - **Exercise PASP ≥45 mmHg (noninvasive surrogate):** In patients with exertional dyspnea and normal resting hemodynamics, exercise PASP ≥45 mmHg identified HFpEF with 96% sensitivity and 95% specificity (AUC 0.99). This metric is assessable non-invasively by Doppler echocardiography during exercise. Contrast with all other noninvasive criteria tested in the same cohort (BNP, E/e', ESC algorithm: all AUC <0.70). (source: borlaug2010exercise)
 - **Exercise-unmasked HFpEF (hemodynamically confirmed HFpEF, HC-HFpEF):** A contemporary retrospective cohort (n=872, MGH/Harvard) defined HC-HFpEF as resting PCWP ≥15 mmHg OR exercise PCWP/CO slope >2 mmHg/L/min. Exercise hemodynamics unmasked HFpEF in 23–28% of patients not captured by resting measurements alone. This exercise-only subgroup carried independent adverse prognosis (HR 1.42, 95% CI 1.08–1.86 for combined all-cause mortality + CV events vs. normal rest + exercise hemodynamics). (source: landsteiner2025hemodynamics)
 - **Right heart catheterization (Class IIb):** May be considered in selected patients to confirm HFpEF diagnosis. (source: McDonagh2021ESC)
+- **Real-time exercise-stress CMR as a noninvasive RHC alternative:** A single-centre diagnostic-accuracy trial (N=68, RHC-referenced) found exercise left atrial long-axis strain by real-time free-breathing CMR reached AUC 0.93 for HFpEF discrimination — outperforming NT-proBNP (AUC 0.83), E/e' (AUC 0.61 at exercise), and both H₂FPEF (AUC 0.72) and HFA-PEFF (AUC 0.77–0.78). Requires manual strain post-processing and is not yet automated for routine clinical scalability. See [[cardiac-mri]] and [[hfpef-stress-trial]]. (source: [[backhaus2021hfpefstress]])
 
 ## Diagnostic Definition Heterogeneity
 
@@ -153,7 +156,7 @@ HFpEF_phys (invasive PCWP elevation) independently predicts CV events (HR 1.62, 
 ## Related Pages
 - Concepts: [[hf-phenotype-classification]], [[diastolic-dysfunction]], [[natriuretic-peptides]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[exercise-intolerance]], [[guideline-comparison]], [[noncardiac-dyspnea]]
 - Entities: [[hfpef]], [[hfmref]], [[echocardiography]], [[cardiac-mri]], [[atrial-fibrillation]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[ho2019hfpefdefinitions]], [[pieske2019hfapeff]], [[reddy2018h2fpef]], [[pfeffer2019hfpef]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[ho2019hfpefdefinitions]], [[pieske2019hfapeff]], [[reddy2018h2fpef]], [[pfeffer2019hfpef]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[backhaus2021hfpefstress]]
 
 ## Contradictions
 - HFA-PEFF and H₂FPEF show variable diagnostic performance across cohorts; neither has been validated as universally superior. (source: McDonagh2021ESC)
@@ -164,6 +167,7 @@ HFpEF_phys (invasive PCWP elevation) independently predicts CV events (HR 1.62, 
 See [[contradictions]].
 
 ## References
+- Backhaus SJ, Lange T, George EF, et al. Exercise Stress Real-Time Cardiac Magnetic Resonance Imaging for Noninvasive Characterization of Heart Failure With Preserved Ejection Fraction: The HFpEF-Stress Trial. *Circulation.* 2021;143(15):1484–1498. doi:[10.1161/CIRCULATIONAHA.120.051542](https://doi.org/10.1161/CIRCULATIONAHA.120.051542)
 - Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.930701](https://doi.org/10.1161/CIRCHEARTFAILURE.109.930701) [DOI unverified]
 - Borlaug BA, Sharma K, Shah SJ, Ho JE. Heart Failure With Preserved Ejection Fraction: JACC Scientific Statement. *J Am Coll Cardiol.* 2023;81(18):1810–1834. doi:[10.1016/j.jacc.2023.01.049](https://doi.org/10.1016/j.jacc.2023.01.049) [DOI unverified]
 - Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. *Circulation.* 2022;145(18):e895–e1032. doi:[10.1161/CIR.0000000000001063](https://doi.org/10.1161/CIR.0000000000001063)

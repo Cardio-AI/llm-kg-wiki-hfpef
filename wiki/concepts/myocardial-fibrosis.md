@@ -11,12 +11,14 @@ tags:
   - prognosis
   - biomarker
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
   - citekey: Shi2022SST2
     doi: 10.3389/fcvm.2022.937291
   - citekey: Arnold2022DIAMOND
     doi: 10.1016/j.jcmg.2021.10.002
+  - citekey: Rommel2016STIFFMAP
+    doi: 10.1016/j.jacc.2016.02.018
 ---
 
 # Myocardial Fibrosis in HFpEF
@@ -65,6 +67,10 @@ Critically, diffuse myocardial fibrosis (ECV) and microvascular dysfunction (MPR
 - Both independently predict death/HF hospitalisation
 - They are **distinct and co-existing prognostic mechanisms**, not components of a single pathway (source: [[arnold2022diamond]])
 
+## ECV Directly Predicts Invasive LV Stiffness (Rommel 2016 / STIFFMAP)
+
+Invasive pressure-volume-loop validation (N=36, HFpEF vs. controls) shows ECV independently predicts the load-independent LV stiffness constant β (β-standardized=0.75, P<0.01) — the strongest of all noninvasive predictors tested (ahead of E/e' and LA volume index). ECV elevated in HFpEF vs. controls (32.9% vs. 28.9%, P<0.01). Splitting HFpEF by median ECV identified two mechanistically distinct subphenotypes: a high-ECV/high-stiffness (fibrosis-dominant) group, and a low-ECV group characterised instead by prolonged active-relaxation time-constant (τ) and exaggerated hypertensive response to afterload — demonstrating that diastolic stiffness in HFpEF is not always fibrosis-driven. Focal fibrosis (LGE) was present in only 4/24 HFpEF patients, reinforcing diffuse (not focal) fibrosis as the dominant structural abnormality where present. (source: [[rommel2016stiffmap]])
+
 ## CMR Assessment
 
 - **T1 mapping (native):** Elevated native T1 → increased interstitial space; most reproducible measure of diffuse fibrosis
@@ -93,8 +99,10 @@ Critically, diffuse myocardial fibrosis (ECV) and microvascular dysfunction (MPR
 - [[cardiac-mri]] — imaging modality for fibrosis quantification
 - [[hfpef-fibrosis-paradigm]] — broader fibrosis-centric view of HFpEF
 - [[diamond-hfpef]] — source trial establishing fibrosis/CMD independence
+- [[stiffmap]] — source trial establishing ECV's direct invasive validation against LV stiffness
 
 ## References
+- Rommel KP, von Roeder M, Latuscynski K, et al. Extracellular Volume Fraction for Characterization of Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2016;67(15):1815–1825. doi:[10.1016/j.jacc.2016.02.018](https://doi.org/10.1016/j.jacc.2016.02.018)
 - Shi Y, Liu J, Liu C, Shuang X, Yang C, Qiao W, Dong G. Diagnostic and prognostic value of serum soluble suppression of tumorigenicity-2 in heart failure with preserved ejection fraction: A systematic review and meta-analysis. *Front Cardiovasc Med.* 2022;9:937291. doi:[10.3389/fcvm.2022.937291](https://doi.org/10.3389/fcvm.2022.937291)
 - Arnold JR, Kanagala P, Budgeon CA, Jerosch-Herold M, Gulsin GS, Singh A, Khan JN, Chan DCS, Squire IB, Ng LL, McCann GP. Prevalence and Prognostic Significance of Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.11.022](https://doi.org/10.1016/j.jcmg.2021.11.022)
 - Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; PARAMOUNT Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double-blind randomised controlled trial. *Lancet.* 2012;380(9851):1387–1395. doi:[10.1016/S0140-6736(12)61227-6](https://doi.org/10.1016/S0140-6736(12)61227-6)

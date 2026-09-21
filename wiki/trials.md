@@ -7,7 +7,7 @@ tags:
   - registry
   - meta
 created: 2026-05-04
-last_updated: 2026-05-13 (session 13)
+last_updated: 2026-09-21
 ---
 # Clinical Trials Overview
 
@@ -42,6 +42,7 @@ last_updated: 2026-05-13 (session 13)
 | PARAGLIDE-HF | Prospective Comparison of ARNI with ARB Given following stabilization In DEcompensated HFpEF | Sacubitril/valsartan vs. valsartan | HFpEF/HFmrEF, LVEF >40%, recent WHF event | NCT03988634 | 2019 | 2022 | [[paraglide-hf]] · [[mentz2023paraglide]] · [[fudim2024paraglide]] · [[rambarat2025paraglide]] · [[nouhravesh2025paraglide]] |
 | HuMAIN-HFpEF | HU6 (Controlled Metabolic Accelerator) in Patients with Obese HFpEF | HU6 (mitochondrial uncoupler small molecule) vs. placebo; dose escalation | HFpEF, LVEF ≥50%, BMI ≥30, age >30 | NCT05284617 | 2022 | 2024 | [[pandey2025humain]] |
 | SOLOIST-WHF | Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 Diabetes Post Worsening Heart Failure | Sotagliflozin (SGLT1+2 inhibitor) vs. placebo | T2DM + recent worsening HF, all EF (HFpEF subgroup included but underpowered) | NCT03521934 | 2018 | Terminated early (business decision, Feb 2020); N=1,222 enrolled | [[soloist-whf]] |
+| SOGALDI-PEF | Sodium-Glucose Cotransporter 2 Inhibitor With and Without an Aldosterone Antagonist for HFpEF | Dapagliflozin alone vs. dapagliflozin + spironolactone (2-centre crossover) | HFmrEF/HFpEF, LVEF >40%, age ≥50 | NCT05676684 | 2022 | Published 2025 (JACC Heart Fail) | [[sogaldi-pef]] · [[ferreira2025sogaldipef]] |
 
 ### Phase 2 / Mechanistic Trials
 
@@ -99,6 +100,7 @@ last_updated: 2026-05-13 (session 13)
 | Pericardial Modification | Minimally Invasive Pericardial Modification | Pericardial modification procedure vs. sham | HFpEF with pericardial constraint | NCT03923673 | 2019 | Unknown | [[pfeffer2019hfpef]] |
 | SERVE-HF | Treatment of Sleep-Disordered Breathing with Predominant Central Sleep Apnea by Adaptive Servo Ventilation in Patients With Heart Failure | Adaptive servo-ventilation (ASV) vs. control | HFrEF, LVEF ≤45%, predominantly CSA | NCT00733343 | 2008 | Published 2015 (N Engl J Med, Cowie et al., doi:10.1056/NEJMoa1506459); ASV increased all-cause (HR 1.13) and CV mortality (HR 1.34); N=1,325 | [[cowie2017sdb]] · [[serve-hf]] |
 | RESPONDER-HF | Responder-HF (successor to REDUCE LAP-HF II) | Interatrial shunt device (Corvia) — responder-selected | HFpEF/HFmrEF meeting post-hoc "responder" criteria (low PVR, no CRM device) | NCT05233358 | — | Ongoing | [[patel2024reducelaphf]] · [[responder-hf]] |
+| RELIEVE-HF | REducing Lung congestIon Symptoms Using the V-wavE Shunt in adVancEd Heart Failure | V-Wave Ventura interatrial shunt device vs. sham | HF any LVEF, randomised strata reduced (≤40%) vs. preserved (>40%) | NCT03499236 | 2018 | Published 2024 (Circulation); safe but neutral overall — benefit in reduced-EF, harm (incl. HR 3.24 mortality) in preserved-EF | [[relieve-hf]] · [[stone2024relievehf]] |
 
 ---
 
@@ -145,6 +147,8 @@ last_updated: 2026-05-13 (session 13)
 | Borlaug 2015 IV Nitrite | Acute Effects of Inorganic Nitrite on Cardiovascular Hemodynamics in Heart Failure With Preserved Ejection Fraction | Phase 2 crossover RCT; IV NaNO₂ 50 mcg/kg/min vs saline; invasive RHC at rest and 20W supine exercise; N=28 | HFpEF (LVEF ≥50%, PCWP >15 resting or ≥25 at exercise) | NCT01932606 | 2013 | Completed; published Borlaug 2015 JACC | — |
 | AIR001-HFpEF | Inhaled Sodium Nitrite on Heart Failure With Preserved Ejection Fraction | Phase 2 crossover RCT; AIR001 (NaNO₂) 90 mg nebulized vs saline placebo; invasive RHC at rest and 20W supine exercise; N=26 | HFpEF (LVEF ≥50%, PCWP >15 resting or ≥25 at exercise) | NCT02262078 | 2014 | Completed; published Borlaug 2016 Circ Res | — |
 | DIAMOND-HFpEF | Developing Imaging And plasMa biOmarkers iN Describing Heart Failure With Preserved Ejection Fraction | CMR (T1-mapping/ECV) + invasive coronary physiology (MPR) cross-sectional study | HFpEF, N=101 + 43 controls | NCT03050593 | — | Published 2022 | [[arnold2022diamond]] · [[diamond-hfpef]] |
+| HFpEF-Stress | CMR Exercise Stress Testing in HFpEF (real-time free-breathing CMR at rest/exercise vs. invasive RHC) | Diagnostic-accuracy cross-sectional study | HFpEF vs. noncardiac dyspnea, N=75 (68 analysed) | NCT03260621 | 2017 | Published 2021 (Circulation) | [[hfpef-stress-trial]] · [[backhaus2021hfpefstress]] |
+| STIFFMAP | CMR T1-mapping/ECV vs. invasive pressure-volume loops in HFpEF | Diagnostic-accuracy cross-sectional study | HFpEF vs. controls, N=36 (24 HFpEF/12 control) | NCT02459626 | 2014 | Published 2016 (JACC) | [[stiffmap]] · [[rommel2016stiffmap]] |
 
 ---
 

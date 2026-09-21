@@ -15,7 +15,7 @@ tags:
 - treatment
 - outcomes
 created: 2026-05-12
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
 - citekey: Solomon2024FINEARTS
   doi: 10.1056/NEJMoa2407107
@@ -23,6 +23,8 @@ sources:
   doi: 10.1016/j.cardfail.2024.09.011
 - citekey: sauer2026pharmacological
   doi: 10.1093/eschf/xvag056
+- citekey: Khidihir2026Finerenone
+  doi: 10.1007/s11883-026-01451-x
 page-type: entity-page
 ---
 # FINEARTS-HF
@@ -84,7 +86,7 @@ No formal guideline update yet incorporating FINEARTS-HF results (post-dates ESC
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[worsening-heart-failure]]
 - Entities: [[topcat]], [[aldo-dhf]], [[hfpef]], [[hfmref]], [[kansas-city-cardiomyopathy-questionnaire]]
-- Sources: [[solomon2024finearts]], [[pitt2014topcat]], [[edelmann2013aldodhf]], [[anker2023hfpefphenotype]], [[chaudhary2025worseninghf]]
+- Sources: [[solomon2024finearts]], [[pitt2014topcat]], [[edelmann2013aldodhf]], [[anker2023hfpefphenotype]], [[chaudhary2025worseninghf]], [[khidihir2026finerenone]]
 
 **Endpoint note:** FINEARTS-HF's primary endpoint — "total worsening HF (WHF) events + CV death" — is a total (first-plus-recurrent) events composite structurally analogous to the WHF-counting framework analysed methodologically by Chaudhary et al. 2025 (post hoc REDUCE LAP-HF II analysis); see [[worsening-heart-failure]] for the general WHF-definition concept and the finding that non-hospitalisation WHF events, while they increase event counts/trial power, add little independent mortality-prediction value.
 
@@ -107,6 +109,10 @@ Pooled FINEARTS-HF + TOPCAT meta-analysis: HR 0.87 (95% CI 0.79–0.95) for CV d
 
 (source: [[turgeon2025finearts]])
 
+**Additional FINEARTS-HF evidence (Khidihir & Kalra 2026 review):** Baseline cohort (N=6,001): mean age 72y, 45.5% women, mean LVEF 53±8%, 60% prior HF hospitalisation, 84% HF event within 3 months, 40.6% T2DM, 14% baseline SGLT2i use. **Atrial fibrillation:** FINE-HEART pooled analysis across finerenone trials showed a 17% reduction in new-onset AF/flutter (HR 0.83, 95% CI 0.71–0.97; NNT 126 over 4 years), consistent across CKD/T2DM/HFmrEF-HFpEF subgroups; a similar directional trend was seen in FINEARTS-HF itself, and benefit was preserved in patients with pre-existing AF. **SGLT2i co-administration:** concurrent SGLT2i use (~16% of FINEARTS-HF participants) did not increase hyperkalemia risk, consistent with SGLT2i's renal-potassium-excretion-enhancing effect — supporting the pharmacological rationale for finerenone+SGLT2i combination therapy. (source: [[khidihir2026finerenone]])
+
+**Retrospective comparison with spironolactone:** No completed prospective head-to-head RCT exists. A propensity-matched global federated-network retrospective cohort (251 patients/group, mean age 73y, 47% women) found numerically similar acute HF events (finerenone 6.0% vs. spironolactone 4.4%; HR 1.26, 95% CI 0.58–2.74) and lower all-cause mortality with finerenone (4.4% vs. 8.0%; HR 0.48, 95% CI 0.23–1.00), with comparable MACE, AKI, and hyperkalemia rates — hypothesis-generating only given the retrospective design and modest sample size. (source: [[khidihir2026finerenone]])
+
 **Emerging MRA alternatives (Sauer 2026):**
 - **Balcinrenone** (MR modulator): BALANCED-HF Phase 3 (~N=4800) ongoing with dapagliflozin — see [[balcinrenone]]
 - **Vicadrostat** (ASI, CYP11B2 inhibitor): EASi-HF Phase 3 (~N=6000) ongoing with empagliflozin — see [[vicadrostat]]
@@ -118,6 +124,7 @@ Pooled FINEARTS-HF + TOPCAT meta-analysis: HR 0.87 (95% CI 0.79–0.95) for CV d
 TOPCAT (neutral overall HR 0.89 P=0.14) vs. FINEARTS-HF (positive RR 0.84 P=0.007): different drugs (spironolactone vs. finerenone), geographic contamination resolved, eGFR threshold pre-specified. Turgeon 2025 Bayesian re-analysis substantially resolves this tension — posterior probability of any spironolactone benefit = 100% when FINEARTS-HF used as prior. Whether benefit is drug-specific or class-level is now strongly favoured as class-level. See [[contradictions]] #21.
 
 ## References
+- Khidihir A, Kalra DK. Finerenone in Heart Failure With Preserved Ejection Fraction: Expanding the Role of Non-steroidal Mineralocorticoid Receptor Antagonists. *Curr Atheroscler Rep.* 2026;28:79. doi:[10.1007/s11883-026-01451-x](https://doi.org/10.1007/s11883-026-01451-x)
 - Turgeon RD, Beavers CJ. Restoration of steroidal mineralocorticoid receptor antagonist therapy in HFpEF: FINEARTS-HF data as a Bayesian prior. *J Card Fail.* 2025;31(3):603–605. doi:[10.1016/j.cardfail.2024.09.011](https://doi.org/10.1016/j.cardfail.2024.09.011)
 - Sauer AJ, ter Maaten JM, Savarese G. Established and emerging pharmacologic options and unmet needs in HFpEF and HFmrEF. *ESC Heart Fail.* 2026;13:xvag056. doi:[10.1093/eschf/xvag056](https://doi.org/10.1093/eschf/xvag056)
 - Solomon SD, McMurray JJV, Vaduganathan M, Claggett B, Jhund PS, Desai AS, Henderson AD, Lam CSP, Pitt B, Senni M, Shah SJ, Voors AA, Zannad F, et al.; FINEARTS-HF Committees and Investigators. Finerenone in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. *N Engl J Med.* 2024;391(16):1475–1485. doi:[10.1056/NEJMoa2407107](https://doi.org/10.1056/NEJMoa2407107)

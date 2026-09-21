@@ -28,6 +28,8 @@ page-type: entity-page
 REBALANCE-HF tested endovascular catheter-based greater splanchnic nerve ablation (SAVM) vs. sham procedure in HFpEF patients with confirmed elevated exercise PCWP. N=80 patients (LVEF ≥50%, NYHA II–III). Sponsor: Axon Therapies. PI: Marat Fudim (Duke) and Barry Borlaug (Mayo Clinic).
 
 **Primary result:** Exercise PCWP −5.4 mmHg vs. sham (P=0.003) at 6 months.
+
+**Note — device therapy is not uniformly beneficial in HFpEF:** contrast with [[relieve-hf]] (interatrial shunt device), which showed *harm* (tripled all-cause mortality) in preserved-LVEF patients despite this and other HFpEF device trials being positive. See [[contradictions]] #39.
 **Published:** JAMA Cardiol 2024;9(12):1143–1153 ([[fudim2024rebalance]]).
 
 ## Mechanism

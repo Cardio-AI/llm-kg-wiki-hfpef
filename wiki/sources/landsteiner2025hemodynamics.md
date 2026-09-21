@@ -15,7 +15,7 @@ tags:
 - definition
 - clinical-trials
 created: 2026-05-14
-last_updated: 2026-05-14
+last_updated: 2026-09-21
 sources:
 - citekey: landsteiner2025hemodynamics
   doi: 10.1161/CIRCRESAHA.125.326504
@@ -81,6 +81,7 @@ Referral-based cohort — may not generalise to community HFpEF populations. Upr
 
 ## Connections
 
+- Cited by: [[landsteiner2026multiorgan]] — same research group's substantially larger (N=820 discovery + N=6,345 MESA validation) follow-up study, expanding this paper's exercise-hemodynamics framework into a full multiorgan physiological-deficit model with genomics/metabolomics
 - Updates: [[hfpef-diagnostic-definitions]] — quantifies the 23–28% exercise-unmasked gap; introduces the 4-profile hemodynamic taxonomy; quantifies trial exclusion of HC-HFpEF
 - Updates: [[hfpef-diagnosis]] — HC-HFpEF concept (PCWP/CO slope >2 as upright exercise threshold); exercise hemodynamics are prognostically important even with normal rest
 - Updates: [[cardiopulmonary-exercise-testing]] — PCWP/CO slope metric; upright vs. supine exercise distinction

@@ -12,7 +12,7 @@ tags:
 - diagnosis
 - hfpef
 created: 2026-04-30
-last_updated: 2026-05-15
+last_updated: 2026-09-21
 sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
@@ -20,6 +20,10 @@ sources:
   doi: 10.1093/ehjci/jeae224
 - citekey: lange2024cmr
   doi: 10.1007/s10554-024-03145-4
+- citekey: Backhaus2021HFpEFStress
+  doi: 10.1161/CIRCULATIONAHA.120.051542
+- citekey: Rommel2016STIFFMAP
+  doi: 10.1016/j.jacc.2016.02.018
 page-type: entity-page
 ---
 # Cardiac MRI
@@ -96,6 +100,10 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 
 (source: lange2024cmr)
 
+**Real-time exercise-stress CMR (Backhaus 2021, N=68):** Free-breathing real-time acquisition during actual bicycle exercise (30 frames/s, no breath-hold) — distinct from prior CMR-exercise protocols that scanned only after exercise cessation. Exercise LA long-axis strain reached AUC 0.93 for HFpEF discrimination against invasive RHC, outperforming NT-proBNP, E/e', and clinical scores; conventional LV volumetric CMR performed poorly (AUC 0.51–0.60). See [[hfpef-stress-trial]] and [[left-atrial-remodelling]]. (source: [[backhaus2021hfpefstress]])
+
+**ECV vs. invasive LV stiffness (Rommel 2016 / STIFFMAP, N=36):** Direct pressure-volume-loop validation of T1-mapping/ECV — ECV independently predicted the load-independent LV stiffness constant β (r=0.75) and separated HFpEF into fibrosis-dominant vs. relaxation-dominant subphenotypes. See [[stiffmap]] and [[myocardial-fibrosis]]. (source: [[rommel2016stiffmap]])
+
 ## Status
 
 **ESC 2021:** Recommended when echocardiography is suboptimal or when specific tissue diagnosis is required. Not recommended as routine first-line imaging in HFpEF. (source: McDonagh2021ESC)
@@ -105,7 +113,7 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 ## Related Pages
 - Concepts: [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[hf-phenotype-classification]], [[coronary-microvascular-dysfunction]]
 - Entities: [[hfpef]], [[hfref]], [[hfmref]], [[echocardiography]], [[technetium-pyrophosphate-scintigraphy]]
-- Sources: [[mcdonagh2021esc]], [[ipek2024cmr]], [[lange2024cmr]], [[fayyaz2025pathophys]]
+- Sources: [[mcdonagh2021esc]], [[ipek2024cmr]], [[lange2024cmr]], [[fayyaz2025pathophys]], [[backhaus2021hfpefstress]], [[rommel2016stiffmap]]
 
 ## Contradictions
 - CMR is the reference standard for LVEF, but echocardiography remains the clinical standard due to availability — this creates systematic LVEF measurement differences between research and clinical settings; CMR availability in the elderly HFpEF population is further reduced by pacemaker/ICD contraindications. (source: [[mcdonagh2021esc]]; [[ipek2024cmr]])
@@ -113,6 +121,8 @@ CMR is recommended by ESC 2021 when [[echocardiography]] is suboptimal and for a
 See [[contradictions]].
 
 ## References
+- Backhaus SJ, Lange T, George EF, et al. Exercise Stress Real-Time Cardiac Magnetic Resonance Imaging for Noninvasive Characterization of Heart Failure With Preserved Ejection Fraction: The HFpEF-Stress Trial. *Circulation.* 2021;143(15):1484–1498. doi:[10.1161/CIRCULATIONAHA.120.051542](https://doi.org/10.1161/CIRCULATIONAHA.120.051542)
+- Rommel KP, von Roeder M, Latuscynski K, et al. Extracellular Volume Fraction for Characterization of Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2016;67(15):1815–1825. doi:[10.1016/j.jacc.2016.02.018](https://doi.org/10.1016/j.jacc.2016.02.018)
 - Ipek R, Holland J, Cramer M, Rider O. CMR to characterize myocardial structure and function in heart failure with preserved left ventricular ejection fraction. *Eur Heart J Cardiovasc Imaging.* 2024;25(11):1491–1504. doi:[10.1093/ehjci/jeae224](https://doi.org/10.1093/ehjci/jeae224)
 - Lange T, Backhaus SJ, Schulz A, Hashemi D, Evertz R, Kowallick JT, Hasenfuß G, Kelle S, Schuster A. CMR-based cardiac phenotyping in different forms of heart failure. *Int J Cardiovasc Imaging.* 2024;40(8):1585–1596. doi:[10.1007/s10554-024-03145-4](https://doi.org/10.1007/s10554-024-03145-4)
 - McDonagh TA, Metra M, Adamo M, et al.; ESC Scientific Document Group. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. *Eur Heart J.* 2021;42(36):3599–3726. doi:[10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368)

@@ -76,8 +76,10 @@ A second, independent line of evidence (Doi et al. 2026, source: [[doi2026reduce
 ## Related Pages
 
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[hfpef-phenotype-profiling]], [[worsening-heart-failure]]
-- Entities: [[hfpef]], [[hfmref]], [[responder-hf]]
-- Sources: [[patel2024reducelaphf]], [[litwin2024reducelaphf]], [[doi2026reducelaphf]], [[pfeffer2019hfpef]], [[chaudhary2025worseninghf]]
+- Entities: [[hfpef]], [[hfmref]], [[responder-hf]], [[relieve-hf]]
+- Sources: [[patel2024reducelaphf]], [[litwin2024reducelaphf]], [[doi2026reducelaphf]], [[pfeffer2019hfpef]], [[chaudhary2025worseninghf]], [[stone2024relievehf]]
+
+**Note:** [[relieve-hf|RELIEVE-HF]] (a different device — V-Wave, not Corvia) is the other completed large blinded interatrial-shunt trial; unlike this trial's invasively-enriched (elevated exercise PCWP required) enrolment, RELIEVE-HF enrolled any-LVEF patients without haemodynamic enrichment and found *harm* (tripled mortality) in its preserved-LVEF stratum. See [[contradictions]] #39.
 
 ## Secondary Analysis: Expanded Worsening-HF Definition (Chaudhary 2025)
 A third independent post hoc secondary analysis of this same MITT cohort (n=621) tests an expanded, hierarchical definition of "worsening heart failure" (hospitalisation / urgent outpatient / nonurgent outpatient diuretic escalation) against the standard hospitalisation-only definition, using the same PVR<1.74 WU/no-CRM-device responder split as [[patel2024reducelaphf]] and [[litwin2024reducelaphf]]. Broadening the WHF definition increased the total event rate (17.4%→25.9%) and turned a nonsignificant responder-subgroup treatment effect into a significant one, while non-hospitalisation WHF events added little independent mortality-prediction value. See [[worsening-heart-failure]] and [[chaudhary2025worseninghf]].

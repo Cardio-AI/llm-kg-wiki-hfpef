@@ -42,6 +42,8 @@ sources:
   doi: 10.1161/CIRCHEARTFAILURE.122.010161
 - citekey: Alonso2022HEARTcamp
   doi: 10.1016/j.cardfail.2021.10.005
+- citekey: Landsteiner2026Multiorgan
+  doi: 10.1161/CIRCULATIONAHA.125.077579
 page-type: mechanism-page
 ---
 # Exercise Intolerance in HFpEF
@@ -132,11 +134,16 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 - **2022** — HEART Camp HFpEF subgroup (Alonso, J Card Fail 2022; NCT01658670; N=59 HFpEF): 18-month behavioral coaching vs. enhanced usual care; adherence 42% vs. 14% at 12 months (P=0.025), 56% vs. 0% at 18 months (P<0.001); 6MWT +63 m vs. +13 m (P=0.048); all KCCQ domains improved significantly. HFrEF subgroup showed no benefit — identifies adherence as the dominant implementation gap for exercise benefit in HFpEF specifically. (source: Alonso2022HEARTcamp)
 - **2025** — Ex-DHF (Nat Med 2025, n=322, Edelmann): largest 12-month combined endurance+resistance training RCT in HFpEF; primary Packer composite NOT MET (tau-b=−0.073; P=0.17); VO₂ +1.3 mL/kg/min (P=0.003); NYHA class improved OR 5.89 (P<0.001); adherence ~53% — demonstrates VO₂ and functional improvement despite missing the composite primary endpoint; adherence remains a critical trial design constraint (source: edelmann2025exdhf)
 
+## Multiorgan Deficit Framework (Landsteiner 2026)
+
+The largest invasive CPET HFpEF cohort assembled to date (N=820) formalises exercise intolerance as arising from 7 co-occurring, only partially-correlated organ-specific deficits rather than a single dominant cardiac or peripheral cause: elevated exercise filling pressure (43% prevalence), decreased stroke volume (16%), blunted heart-rate augmentation (48%), increased pulmonary vascular resistance (38%), decreased breathing reserve (25%), increased metabolic cost of exercise initiation (45%), and decreased peripheral O₂ extraction (44%). Most patients show concurrent deficits across ≥2 organ systems. A higher total deficit count strongly predicts adverse outcomes independent of which specific deficits are present (≥5 deficits: HR 3.90, 95% CI 1.74–8.75, for composite CV hospitalisation/mortality vs. 0 deficits; per-deficit HR 1.28). Deficit-specific plasma metabolite signatures, validated in an independent 18.6-year community cohort (MESA, N=6,345), predicted incident HF years before clinical onset and were mapped via TWAS to genes in inflammation, fibrosis, mitochondrial function, and vascular reactivity pathways. This large-cohort, genomically-grounded framework is consistent with, and substantially extends, the four-component model above. See [[peripheral-mechanisms-hfpef]], [[cardiopulmonary-exercise-testing]], [[hfpef-phenotype-profiling]]. (source: [[landsteiner2026multiorgan]])
+
 ## Evidence
 
 | Mechanism | Quantification | Source |
 |---|---|---|
 | A-VO2 difference contribution | >50% of VO2 deficit | source: Sachdev2023Exercise |
+| Total deficit-count outcome gradient | ≥5 of 7 exercise deficits: HR 3.90 (95% CI 1.74–8.75) for CV hospitalisation/mortality vs. 0 deficits | source: landsteiner2026multiorgan |
 | Chronotropic incompetence prevalence | ~50% of HFpEF patients | source: Sachdev2023Exercise |
 | Exertional PCWP ≥25 mmHg prevalence | >50% of HFpEF patients | source: Ho2019HFpEFDefinitions; source: Sachdev2023Exercise |
 | Exercise PCWP at peak | 32±6 mmHg (HFpEF) vs. 13±5 mmHg (controls); hemodynamic gap at 20W / 1.5 min | source: borlaug2010exercise |
@@ -166,13 +173,14 @@ Earlier conceptual models centred [[diastolic-dysfunction]] (cardiac filling pre
 
 - Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[hfpef-diagnostic-definitions]], [[chronotropic-incompetence]], [[dynamic-hyperinflation]], [[noncardiac-dyspnea]], [[inspiratory-muscle-training]], [[sex-differences-hfpef]]
 - Entities: [[hfpef]], [[supervised-exercise-training]], [[cardiopulmonary-exercise-testing]]
-- Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]], [[bohmke2022nonpharm]], [[mirzai2025exercise]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[manabe2023sympathetic]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]]
+- Sources: [[sachdev2023exercise]], [[ho2019hfpefdefinitions]], [[redfield2015neat]], [[zamani2015indie]], [[pfeffer2019hfpef]], [[bohmke2022nonpharm]], [[mirzai2025exercise]], [[borlaug2010exercise]], [[borlaug2023statement]], [[landsteiner2025hemodynamics]], [[manabe2023sympathetic]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]], [[landsteiner2026multiorgan]]
 
 ## Contradictions
 
 - Nitrate trials (NEAT-HFpEF, INDIE-HFpEF) were designed on the assumption that vascular/NO-mediated impairment was a primary exercise limiter — both were neutral. Consistent with skeletal muscle being the dominant mechanism (vascular is secondary). See [[contradictions]].
 
 ## References
+- Landsteiner I, Stolze LK, Peterson TE, et al. Multiorgan Physiological Deficits During Exercise Identify Clinical and Molecular Predisposition to Heart Failure With Preserved Ejection Fraction. *Circulation.* 2026;153(13):1362–1384. doi:[10.1161/CIRCULATIONAHA.125.077579](https://doi.org/10.1161/CIRCULATIONAHA.125.077579)
 - Alonso WW, Kupzyk K, Norman JF, Lundgren SW, Fisher A, Lindsey ML, Keteyian SJ, Pozehl BJ. The HEART Camp Exercise Intervention Improves Exercise Adherence, Physical Function, and Patient-Reported Outcomes in Adults With Preserved Ejection Fraction Heart Failure. *J Card Fail.* 2022;28(3):431–442. doi:[10.1016/j.cardfail.2021.09.003](https://doi.org/10.1016/j.cardfail.2021.09.003)
 - Bohmke NJ, Billingsley HE, Kirkman DL, Carbone S. Nonpharmacological Strategies in Heart Failure With Preserved Ejection Fraction. *Cardiol Clin.* 2022;40(4):491–506. doi:[10.1016/j.ccl.2022.06.003](https://doi.org/10.1016/j.ccl.2022.06.003)
 - Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.930701](https://doi.org/10.1161/CIRCHEARTFAILURE.109.930701) [DOI unverified]

@@ -13,7 +13,7 @@ tags:
 - physiology
 - exercise
 created: 2026-04-30
-last_updated: 2026-05-14
+last_updated: 2026-09-21
 sources:
 - citekey: Ho2019HFpEFDefinitions
   doi: 10.1161/CIRCULATIONAHA.118.039136
@@ -25,6 +25,8 @@ sources:
   doi: 10.1161/CIRCHEARTFAILURE.109.930701
 - citekey: landsteiner2025hemodynamics
   doi: 10.1161/CIRCRESAHA.125.326504
+- citekey: Landsteiner2026Multiorgan
+  doi: 10.1161/CIRCULATIONAHA.125.077579
 page-type: entity-page
 ---
 # Cardiopulmonary Exercise Testing (CPET)
@@ -103,6 +105,8 @@ Invasive CPET quantifies relative contributions to [[exercise-intolerance]]:
 
 (source: Sachdev2023Exercise)
 
+**Largest iCPET HFpEF cohort to date (Landsteiner 2026, N=820):** Defined 7 distinct organ-specific exercise physiological deficits (cardiac filling pressure, stroke volume, heart-rate augmentation, pulmonary vascular resistance, breathing reserve, metabolic cost of exercise initiation, peripheral O₂ extraction) using invasive CPET, most of which co-occur across ≥2 organ systems per patient. Prevalence: elevated exercise filling pressure 43%, blunted HR augmentation 48%, increased PVR 38%, decreased peripheral O₂ extraction 44%, increased metabolic cost of exercise 45%, decreased breathing reserve 25%, decreased stroke volume 16%. Total deficit count strongly predicts adverse outcomes (≥5 deficits: HR 3.90, 95% CI 1.74–8.75, for composite CV hospitalisation/mortality). Deficit-specific plasma metabolite signatures (via LASSO regression) validated in an independent community cohort (MESA, N=6,345, ~18.6y follow-up) predicted incident HF, adding up to ~20% continuous net reclassification improvement over traditional risk factors. (source: [[landsteiner2026multiorgan]])
+
 ### As Prognostic Tool
 
 HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 1.62 (p=0.01) regardless of guideline classification. Peak VO2 is a continuous prognostic predictor. (source: Ho2019HFpEFDefinitions)
@@ -135,13 +139,14 @@ HFpEF_phys (elevated PCWP by invasive CPET) independently predicts CV events HR 
 
 - Concepts: [[exercise-intolerance]], [[hfpef-diagnostic-definitions]], [[hfpef-diagnosis]], [[diastolic-dysfunction]]
 - Entities: [[hfpef]], [[echocardiography]], [[supervised-exercise-training]], [[six-minute-walk-test]]
-- Sources: [[ho2019hfpefdefinitions]], [[sachdev2023exercise]], [[mcdonagh2021esc]], [[borlaug2010exercise]], [[landsteiner2025hemodynamics]], [[borlaug2023statement]]
+- Sources: [[ho2019hfpefdefinitions]], [[sachdev2023exercise]], [[mcdonagh2021esc]], [[borlaug2010exercise]], [[landsteiner2025hemodynamics]], [[borlaug2023statement]], [[landsteiner2026multiorgan]]
 
 ## Contradictions
 
 - Non-invasive markers have only moderate accuracy for HFpEF_phys (E/e' >9: sensitivity 78%, specificity 59%; NT-proBNP ≥125: sensitivity 48%) — invasive confirmation cannot be replaced by any single non-invasive criterion. See [[contradictions]].
 
 ## References
+- Landsteiner I, Stolze LK, Peterson TE, et al. Multiorgan Physiological Deficits During Exercise Identify Clinical and Molecular Predisposition to Heart Failure With Preserved Ejection Fraction. *Circulation.* 2026;153(13):1362–1384. doi:[10.1161/CIRCULATIONAHA.125.077579](https://doi.org/10.1161/CIRCULATIONAHA.125.077579)
 - Borlaug BA, Nishimura RA, Sorajja P, Lam CSP, Redfield MM. Exercise Hemodynamics Enhance Diagnosis of Early Heart Failure With Preserved Ejection Fraction. *Circ Heart Fail.* 2010;3(5):588–595. doi:[10.1161/CIRCHEARTFAILURE.109.930701](https://doi.org/10.1161/CIRCHEARTFAILURE.109.930701) [DOI unverified]
 - Ho JE, Zern EK, Wooster L, et al. Differential Clinical Profiles, Exercise Responses, and Outcomes Associated With Existing HFpEF Definitions. *Circulation.* 2019;140(5):353–365. doi:[10.1161/CIRCULATIONAHA.118.039136](https://doi.org/10.1161/CIRCULATIONAHA.118.039136)
 - Landsteiner I, Ikoma T, Ramesh A, Campain J, Cohen LP, Hardin CC, Malhotra R, Lewis GD. Implications of HFpEF Definitions Unveiled by Rest and Exercise Hemodynamics. *Circ Res.* 2025;137(4):357–359. doi:[10.1161/CIRCRESAHA.125.326504](https://doi.org/10.1161/CIRCRESAHA.125.326504) [DOI unverified]

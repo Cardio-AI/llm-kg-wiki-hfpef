@@ -25,6 +25,8 @@ sources:
 
 > PA pressure monitoring with CardioMEMS reduces hospitalisation in HFpEF-inclusive populations through pre-emptive medication adjustment; NP-guided therapy — effective in HFrEF — is ineffective and potentially harmful in HFpEF due to lower NP signal and risk of over-diuresis.
 
+**Note — device therapy is not uniformly beneficial in HFpEF:** contrast with [[relieve-hf]] (interatrial shunt device), which showed *harm* (tripled all-cause mortality) in the preserved-LVEF stratum despite this and other HFpEF device trials being positive. See [[contradictions]] #39.
+
 ## Aliases
 | Alias | Type | Notes |
 |---|---|---|

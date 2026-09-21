@@ -11,7 +11,7 @@ tags:
 - hfref
 - hfpef
 created: 2026-04-30
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
@@ -27,6 +27,8 @@ sources:
   doi: 10.1186/s40001-025-02834-7
 - citekey: gonzalez2024sglt2trends
   doi: 10.1186/s12872-024-03961-5
+- citekey: Ferreira2025SOGALDIPEF
+  doi: 10.1016/j.jacc.2025.05.033
 page-type: entity-page
 ---
 # SGLT2 Inhibitors
@@ -93,6 +95,10 @@ The former discordance between ESC 2021 and AHA 2022 was explained by publicatio
 - First prospective serial CMR evidence for SGLT2i-mediated myocardial fibrosis regression in HFpEF; supports ECV as surrogate endpoint for antifibrotic trials
 (source: albulushi2025sglt2fibrosis)
 
+## Combination With MRA — SOGALDI-PEF
+
+The first dedicated RCT testing SGLT2i+MRA combination against SGLT2i monotherapy in HFpEF/HFmrEF: [[sogaldi-pef|SOGALDI-PEF]] (N=108, Portugal, crossover) found dapagliflozin+spironolactone reduced NT-proBNP 11% more than dapagliflozin alone (P=0.035), with a corresponding greater blood-pressure reduction, at the cost of a larger eGFR decline and more hyperkalemia — the expected added-MRA trade-off. No hard clinical outcomes assessed (biomarker/surrogate trial). (source: [[ferreira2025sogaldipef]])
+
 ## Implementation Gap
 
 **Real-world prescribing trends ([[gonzalez2024sglt2trends]]):**
@@ -122,7 +128,7 @@ The former discordance between ESC 2021 and AHA 2022 was explained by publicatio
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[hf-phenotype-classification]], [[guideline-comparison]], [[magnesium-hfpef]]
 - Entities: [[hfref]], [[hfpef]], [[hfmref]]
-- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[ferreira2026emperor]], [[minisy2025sglt2]], [[albulushi2025sglt2fibrosis]], [[gonzalez2024sglt2trends]], [[requenaibanez2022sglt2]]
+- Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]], [[anker2021emperor]], [[solomon2022deliver]], [[ferreira2026emperor]], [[minisy2025sglt2]], [[albulushi2025sglt2fibrosis]], [[gonzalez2024sglt2trends]], [[requenaibanez2022sglt2]], [[ferreira2025sogaldipef]]
 
 ## Contradictions
 - **ESC 2021 (no recommendation) vs. AHA 2022 (Class 2a)** for HFpEF: same underlying evidence (EMPEROR-Preserved, DELIVER), different publication timing. See [[guideline-comparison]].
@@ -131,6 +137,7 @@ The former discordance between ESC 2021 and AHA 2022 was explained by publicatio
 See [[contradictions]].
 
 ## References
+- Ferreira JP, Vasques-Nóvoa F, Saraiva F, et al.; SOGALDI-PEF Investigators. Sodium-Glucose Cotransporter 2 Inhibitor With and Without an Aldosterone Antagonist for Heart Failure With Preserved Ejection Fraction: The SOGALDI-PEF Trial. *JACC Heart Fail.* 2025;86(5):320–333. doi:[10.1016/j.jacc.2025.05.033](https://doi.org/10.1016/j.jacc.2025.05.033)
 - Albulushi A, Askari KM, Al-Abedi AM, Al-Kulaibi MA, Hasan MS, Hosseini Z, Al-Rahman MT, Tanoh DB, Hasan AS, Al-Helli Y, Basouni A. Impact of SGLT2 inhibitors on myocardial fibrosis in diabetic HFpEF: a longitudinal study. *Eur J Med Res.* 2025;30:592. doi:[10.1186/s40001-025-02834-7](https://doi.org/10.1186/s40001-025-02834-7)
 - Ferreira JP, Packer M, Butler J, Vasques-Nóvoa F, Marques P, Pocock S, Filippatos G, Zannad F, Anker SD. Serum Magnesium, Outcomes, and the Effect of Empagliflozin in Heart Failure With Mildly Reduced and Preserved Ejection Fraction: Findings From EMPEROR-Preserved. *JACC Heart Fail.* 2026;14(2):102889. doi:[10.1016/j.jchf.2025.102889](https://doi.org/10.1016/j.jchf.2025.102889)
 - Gonzalez J, Dave CV. Prescribing trends of SGLT2 inhibitors among HFrEF and HFpEF patients with and without T2DM, 2013–2021. *BMC Cardiovasc Disord.* 2024;24:285. doi:[10.1186/s12872-024-03961-5](https://doi.org/10.1186/s12872-024-03961-5)

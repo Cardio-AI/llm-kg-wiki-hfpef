@@ -7,7 +7,7 @@ tags:
   - pending
   - meta
 created: 2026-05-04
-last_updated: 2026-09-21
+last_updated: 2026-09-21 (session 2)
 ---
 # Clinical Trials — Pending Addition
 
@@ -33,7 +33,7 @@ last_updated: 2026-09-21
 | ~~INABLE-Training~~           | ~~INGESTED~~ — INABLE-Training is inorganic sodium nitrite (40 mg TID) + exercise vs. placebo + exercise (NOT ivabradine); NCT02713126; Borlaug 2024, Mayo Clin Proc 2024;99(2):206–217; entity in [[trials]] and source [[borlaug2024inable]]; removed from pending | —                                  | NCT02713126 | Removed from pending — entry description was incorrect                                                                                                                                            |
 | KNO3CK OUT HFpEF              | Inorganic nitrate vs. placebo in HFpEF                                                                                                                                                                                                                               | LVEF ≥50%                          | [verify]    | Tests NO/cGMP pathway; same mechanistic target as NEAT-HFpEF, INDIE                                                                                                                               |
 | RESPONDER (renal denervation) | Renal denervation in HFpEF                                                                                                                                                                                                                                           | LVEF ≥50%, hypertension            | [verify]    | Sympathetic mechanism target — **name collision warning**: distinct from `[[responder-hf]]` (Corvia atrial-shunt successor to REDUCE LAP-HF II, NCT05233358), already an entity page in this wiki |
-| RELIEVE-HF                    | Interatrial shunt device                                                                                                                                                                                                                                             | HFpEF/HFmrEF                       | NCT04583527 | Successor to REDUCE LAP-HF II; PVR-stratified enrollment                                                                                                                                          |
+| ~~RELIEVE-HF~~                | ~~INGESTED~~ — **the NCT04583527 / "successor to REDUCE LAP-HF II" description above was wrong.** Actual RELIEVE-HF = V-Wave Ltd interatrial shunt, NCT03499236, N=508; safe but neutral overall, harmful in preserved-LVEF stratum (HR 3.24 mortality); entity [[relieve-hf]] and source [[stone2024relievehf]] created; moved to [[trials]] | — | NCT03499236 | Removed from pending — entry NCT/description were incorrect |
 | FROST-HF                      | Splanchnic nerve modulation (REBALANCE-HF 2.0)                                                                                                                                                                                                                       | HFpEF                              | [verify]    | Blinded phase of splanchnic ablation                                                                                                                                                              |
 | RELAXIN-LA                    | Serelaxin (relaxin-2) targeting LA stiffness                                                                                                                                                                                                                         | HFpEF with LA myopathy             | [verify]    | LA myopathy phenotype                                                                                                                                                                             |
 | ENDEAVOR                      | Exercise training + pharmacotherapy combination                                                                                                                                                                                                                      | HFpEF                              | [verify]    | Combination phenotype                                                                                                                                                                             |
@@ -51,8 +51,8 @@ last_updated: 2026-09-21
 
 | Trial | Full Title / Intervention | Population | NCT | Notes |
 |---|---|---|---|---|
-| BALANCED-HF | Balcinrenone (selective MR modulator) + dapagliflozin vs. dapagliflozin alone in HF with recent HF event and reduced eGFR | HF with recent HF event, eGFR 20–60 mL/min/1.73m², elevated NT-proBNP | [verify] | Phase 3; ~N=4,800; balcinrenone = [[balcinrenone]]; combination MR modulator + SGLT2i paradigm; primary endpoint: composite CV death, HF hospitalisation, urgent HF visit |
-| EASi-HF | Vicadrostat (aldosterone synthase inhibitor / CYP11B2 inhibitor) + empagliflozin vs. placebo + empagliflozin in HFpEF/HFmrEF | HFpEF and HFmrEF (EF ≥40%), elevated NT-proBNP, current diuretic or recent HF hospitalisation | [verify] | Phase 3; ~N=6,000; vicadrostat = [[vicadrostat]]; combination ASI + SGLT2i paradigm; tests upstream aldosterone suppression vs. MRA class |
+| BALANCED-HF | Balcinrenone/dapagliflozin (BalanceD-HF) vs. dapagliflozin alone in HF with impaired kidney function | HF with recent HF event, impaired kidney function, elevated NT-proBNP | NCT06307652 (confirmed 2026-09-21) | Phase 3, recruiting (~700 sites, ~40 countries); N=3,850 (updates the ~4,800 estimate); AstraZeneca; balcinrenone = [[balcinrenone]]; 3-arm (2 doses + dapagliflozin alone); primary endpoint: CV death + HF events |
+| EASi-HF | EASi-HF Preserved: vicadrostat (BI 690517, aldosterone synthase inhibitor) + empagliflozin vs. placebo + empagliflozin | HFpEF/HFmrEF, LVEF ≥40%, NYHA II–IV | NCT06424288 (confirmed 2026-09-21) | Phase 3, recruiting; N=6,000 (confirmed); Boehringer Ingelheim; vicadrostat = [[vicadrostat]]; combination ASI + SGLT2i paradigm |
 
 > **Note:** NCT numbers marked [verify] require verification against clinicaltrials.gov. Several of these trials may have updated status or have been published by 2026. Add PDFs to `raw/` and promote to `trials.md` on ingest.
 
@@ -62,8 +62,8 @@ last_updated: 2026-09-21
 
 | Trial | Full Title / Intervention | Population | NCT | Notes |
 |---|---|---|---|---|
-| SOGALDI-PEF | Spironolactone in combination with dapagliflozin in HFpEF | HFpEF, LVEF ≥40% or ≥50%; details per design paper Table 1 | NCT05676684 | Phase 3; combination MRA+SGLT2i paradigm; cited in SPIRRIT design paper as concurrent trial |
-| REDEFINE-HF | Redefining treatment targets in HFpEF (details per design paper) | HFpEF; LVEF ≥40%; elevated NT-proBNP | NCT06008197 | Phase 3; referenced alongside SPIRRIT and CONFIRMATION-HF in Lund 2024 Table 1; ~N=5,200 per Sauer 2026 |
+| ~~SOGALDI-PEF~~ | ~~INGESTED~~ — completed, N=108, results published JACC Heart Fail 2025 (Ferreira et al.); entity [[sogaldi-pef]] and source [[ferreira2025sogaldipef]] created; moved to [[trials]] | — | NCT05676684 | Removed from pending |
+| REDEFINE-HF | Randomized Trial to Determine the Efficacy and Safety of Finerenone on Morbidity and Mortality Among HF Patients With LVEF ≥40% Hospitalized for ADHF | HFpEF/HFmrEF, LVEF ≥40%, hospitalized for acute decompensated HF | NCT06008197 (confirmed 2026-09-21) | Phase 3, recruiting; N=5,200 (confirmed); sponsor Colorado Prevention Center, PI Marc Bonaca; referenced alongside SPIRRIT and CONFIRMATION-HF in Lund 2024 Table 1 |
 | CONFIRMATION-HF | Combination pharmacotherapy in HFpEF | HFpEF; LVEF ≥45% | NCT06024746 | Phase 3; ~N=1,500 per Sauer 2026; referenced in Lund 2024 Table 1 |
 
 ---
@@ -74,8 +74,8 @@ Cross-checked all 25 studies in the spreadsheet against the wiki: 10 already ful
 
 | Trial | Full Title / Intervention | Population | NCT | Notes |
 |---|---|---|---|---|
-| HFpEF-stress-DZHK17 | Invasive hemodynamic stress study | HFpEF, LVEF ≥50%; N=75 (68 analysed); completed 08.2017–09.2019 | NCT03260621 | **Tier 1 — ingest now.** Results paper already identified: Circulation 2021, doi:10.1161/CIRCULATIONAHA.120.051542 |
-| STIFFMAP | Arterial/myocardial stiffness, HFpEF vs. control | HFpEF vs. control, LVEF ≥50%; N=36 (24 HFpEF/12 control); completed 09.2014–12.2018 | NCT02459626 | **Tier 2 — high, locate paper.** Completed since 2018, no paper linked in source spreadsheet; needs a literature search |
+| ~~HFpEF-stress-DZHK17~~ | ~~INGESTED~~ — entity [[hfpef-stress-trial]] and source [[backhaus2021hfpefstress]] created; moved to [[trials]] | — | NCT03260621 | Removed from pending |
+| ~~STIFFMAP~~ | ~~INGESTED~~ — entity [[stiffmap]] and source [[rommel2016stiffmap]] created; moved to [[trials]] | — | NCT02459626 | Removed from pending |
 | HFpEF-PHT (STIFFMAP substudy) | Pulmonary hypertension substudy of STIFFMAP | HFpEF+PH, LVEF ≥50%; N=45 (24/12/9); completed 10.2018–12.2021 | NCT05055180 | **Tier 2 — high, locate paper.** Substudy of STIFFMAP; same relevance/ingest logic |
 | MAPPED | Observational HFpEF vs. control study | HFpEF vs. control, LVEF ≥50%; N=60 (40/20); completed 03.2019–12.2024 | NCT06316661 | **Tier 2 — high, locate paper.** Only recently completed (12.2024); publication may not exist yet |
 | DiabetesOmic | Omics study (details unspecified in library) | Unspecified — no population/EF/N recorded | none listed | **Tier 3 — medium, verify relevance.** Linked paper: ScienceDirect, pii S2001037025001710 — read first to determine HFpEF-relevance and correct entity type before creating a page |
@@ -85,10 +85,20 @@ Cross-checked all 25 studies in the spreadsheet against the wiki: 10 already ful
 | UK Biobank | Representative population cohort | General population, age 40–69; N=500,000; 2006–2036 | none | **Tier 4 — medium, background/epi source.** Same logic; very large N makes it a strong candidate once an HFpEF-specific derived paper is found |
 | NAKO | Representative population cohort (German national cohort) | General population, age 20–69; N=200,000; 2014–2024+ | none | **Tier 4 — medium, background/epi source.** Same logic |
 | TRAIN-HFpEF-PH | Exercise training RCT in HFpEF+PH | HFpEF+PH, LVEF ≥50%; N=90 (target); **not yet recruiting** (2023–2026 per registration) | NCT05464238 | **Tier 5 — low, watch-list.** No data yet |
-| EXCALIBUR-HFpEF | Exercise training interventional trial | HFpEF, LVEF >40%, age >45; N=150 (target); recruiting from 04.2025 | none yet ("will follow") | **Tier 5 — low, watch-list.** Just started recruiting; no NCT registered yet either |
+| EXCALIBUR-HFpEF | A Multi-Arm, Multi-Center Study Investigating Effects of Exercise Training on Cardiovascular Health in HFpEF | HFpEF, LVEF >40%, age ≥45; N=200 target (**corrects** the N=150 in the source spreadsheet); actual start 2026-01-27 | DRKS00039892 (confirmed 2026-09-21, was "none yet") | **Tier 5 — low, watch-list.** Heidelberg/Mainz, 2-arm open-label RCT (standard care vs. + 12-week app-based exercise coaching); primary endpoints: daily step count and peak VO₂ change; sponsor Universitätsklinikum Heidelberg; no data yet |
 | Preserve-Synch-DZHK30 | Pacemaker-induced cardiomyopathy study | Pacemaker-induced cardiomyopathy, LVEF ≥40%; N=200; just started 09.2025 | DRKS00037542 | **Tier 5 — low, watch-list.** Just started; no data yet; borderline HFmrEF/HFpEF EF range but niche etiology |
 | TRICI-HF-DZHK24 | Drug interventional trial, HF with tricuspid regurgitation | **HFrEF**, not HFpEF; N=360; ongoing 03.2022–07.2026 | NCT04634266 | **Tier 6 — low, off-topic population.** Paper already published (PubMed 40785632) but population is HFrEF — out of primary wiki scope; relevant only as an HFrEF comparator if a page later needs one |
 | CMR-ICD-DZHK23 | Interventional study, non-ischaemic dilatative cardiomyopathy | Non-ischaemic DCM, LVEF ≥35% (not HFpEF); N=760; ongoing 01.2021–11.2027 | NCT04558723 | **Tier 6 — low, off-topic population.** EF range and etiology are outside HFpEF scope |
+
+---
+
+### Added 2026-09-21 (session — from Khidihir & Kalra 2026 Curr Atheroscler Rep finerenone review, source: [[khidihir2026finerenone]])
+
+| Trial | Full Title / Intervention | Population | NCT | Notes |
+|---|---|---|---|---|
+| FINE-FOCUS | Finerenone effect on myocardial fibrosis and cardiac structure/function, with ¹⁸F-FAPI-PET/CT fibrosis substudy | Symptomatic HF, LVEF ≥40% | NCT07583173 | Multicentre, randomised, double-blind, placebo-controlled; mechanistic imaging trial |
+| FINE-REMODEL | Finerenone effect on cardiac remodelling imaging endpoints in diabetic kidney disease + HF | Diabetic kidney disease + HF, LVEF ≥40% | NCT07442448 | Mechanistic imaging trial; 6-month endpoint per review |
+| FINE-MECH | Finerenone mechanistic imaging trial (complementary to FINE-FOCUS/FINE-REMODEL) | Not fully specified in source review | NCT07270367 | Design detail not otherwise specified in [[khidihir2026finerenone]]; verify on ingest |
 
 ---
 
