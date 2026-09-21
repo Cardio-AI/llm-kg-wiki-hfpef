@@ -80,7 +80,7 @@ Single centre; modest sample size (n=68 analysed) limits subgroup power. RHC and
 
 ## Secondary Analyses & Data Reuse
 
-Papers using data from the HFpEF-Stress cohort (per the trial's own ClinicalTrials.gov publication list — not yet individually ingested):
+Papers using data from the HFpEF-Stress cohort (per the trial's own ClinicalTrials.gov publication list — not yet individually ingested; tracked in `wiki/sources-missing.md`):
 
 | Citekey | Focus | Wiki page |
 |---------|-------|-----------|

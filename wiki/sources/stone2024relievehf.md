@@ -74,6 +74,8 @@ The LVEF-stratified analyses, though pre-specified, were not independently power
 
 ## Secondary Analyses & Data Reuse
 
+Tracked in `wiki/sources-missing.md` (not yet individually ingested):
+
 | Citekey | Focus | Wiki page |
 |---------|-------|-----------|
 | [needs ingest] Zile 2026, JACC Cardiovasc Imaging | Mechanistic basis for the differential HFrEF-vs-HFpEF shunt effect | — |

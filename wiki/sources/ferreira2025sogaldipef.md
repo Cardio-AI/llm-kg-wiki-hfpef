@@ -79,6 +79,8 @@ Crossover design (not parallel-group) — cannot fully separate order/period eff
 
 ## Secondary Analyses & Data Reuse
 
+Tracked in `wiki/sources-missing.md` (not yet individually ingested):
+
 | Citekey | Focus | Wiki page |
 |---------|-------|-----------|
 | [needs ingest] Ferreira 2026, JACC Heart Fail | Renin/aldosterone and treatment response — secondary analysis of SOGALDI-PEF | — |

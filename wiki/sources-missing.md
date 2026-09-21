@@ -7,7 +7,7 @@ tags:
   - pending
   - sources
 created: 2026-07-14
-last_updated: 2026-07-15
+last_updated: 2026-09-21
 ---
 # Missing Source Pages
 
@@ -40,6 +40,14 @@ last_updated: 2026-07-15
 | Ex-DHF pilot (Edelmann 2011, N=64) / PARIS-1 (Kitzman 2010, N=49) | mirzai2025exercise.md | Early exercise-training pilot RCTs, distinct from `edelmann2013aldodhf`/`edelmann2025exdhf` | Low — superseded by larger follow-up trials already ingested |
 | BEACON study (NTLA-2001, CRISPR base-editing) | masri2026attrcm.md | Phase 1/2 gene-editing approach for ATTR-CM, distinct from the 3 approved-drug candidates in the review file | Medium — emerging modality, promising early data |
 | NEURO-TTR (inotersen) / CARDION trials (eplontersen) | masri2026attrcm.md | Earlier/alternative RNA-targeting ATTR-CM approaches | Low-medium |
+| Backhaus 2025, Sci Rep 15:4090 (doi:10.1038/s41598-025-87032-5) | backhaus2021hfpefstress.md | HFpEF-Stress cohort follow-up: serial CMR shows diastolic-dysfunction progression relates to impaired RV deformation | Medium — same cohort, mechanistic extension |
+| Schulz 2024, Radiol Cardiothorac Imaging 6(4):e230344 (doi:10.1148/ryct.230344) | backhaus2021hfpefstress.md | HFpEF-Stress cohort: CMR-derived aortic stiffness associated with early HFpEF stages/progression | Medium — same cohort |
+| Backhaus 2024, Circ Cardiovasc Imaging 17(7):e016424 (doi:10.1161/CIRCIMAGING.123.016424) | backhaus2021hfpefstress.md | HFpEF-Stress cohort: LA roof enlargement as a distinct HFpEF feature | Medium — same cohort; directly relevant to [[left-atrial-remodelling]] |
+| Backhaus 2024, Int J Cardiol 404:131949 (doi:10.1016/j.ijcard.2024.131949) | backhaus2021hfpefstress.md | HFpEF-Stress cohort: prognostic/diagnostic implications of impaired rest and exercise-stress LA compliance | Medium — same cohort; extends the ingested primary paper's LA-mechanics findings |
+| Backhaus 2024, J Cardiovasc Magn Reson 26(1):101032 (doi:10.1016/j.jocmr.2024.101032) | backhaus2021hfpefstress.md | HFpEF-Stress cohort: rest/exercise-stress estimated PCWP by free-breathing real-time CMR | Medium — same cohort; directly extends the ingested paper's noninvasive-PCWP-estimation angle |
+| Zile 2026, JACC Cardiovasc Imaging 19(1):1–15 (doi:10.1016/j.jcmg.2025.08.005) | stone2024relievehf.md | RELIEVE-HF mechanistic follow-up: basis for the differential HFrEF-vs-HFpEF interatrial shunt treatment effect | High — would directly explain the HFpEF-harm signal flagged in [[contradictions]] #39 |
+| Stone 2026, Circ Heart Fail (online ahead of print, doi:10.1161/CIRCHEARTFAILURE.125.014100) | stone2024relievehf.md | RELIEVE-HF: individual-patient outcome modelling after interatrial shunt treatment | Medium — same trial, secondary modelling analysis |
+| Ferreira 2026, JACC Heart Fail (online ahead of print, doi:10.1016/j.jchf.2026.103111) | ferreira2025sogaldipef.md | SOGALDI-PEF secondary analysis: renin/aldosterone and treatment response to dapagliflozin, spironolactone, and combination | Medium-high — same trial, would clarify the mechanistic driver of the primary NT-proBNP result |
 
 ## Flagged for verification, not action
 - **MAYOR-HFpEF** (mentioned in `hfpef-phenotypes.md`, "Anker 2023: Biomarker + Clinical Phenotyping, N=300+") — this cohort name doesn't recur anywhere else, and `Anker2023HFpEFPhenotype` is otherwise described elsewhere as a consensus/scientific-statement document, not a primary cohort study. Possible naming error in the citing page — worth checking against the original source before treating as a real gap.

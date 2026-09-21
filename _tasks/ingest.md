@@ -14,7 +14,12 @@ Outputs: `wiki/sources/`, plus updates to `wiki/concepts/`, `wiki/entities/`, an
 6. Link densely with `[[wiki-links]]`
 7. When updating an existing page, migrate it to the current template structure if it still uses the old `## Content` format (a page with a single generic `## Content` heading instead of the template's named sections is the old format).
 8. `## History` on concept pages requires ≥2 sources to be meaningful; if only one source exists, write what's known and mark `[expand as sources added]`
-9. Update: `wiki/index.md`, `wiki/log.md`, `wiki/overview.md`, `wiki/contradictions.md`, `wiki/timeline.md`
+9. Update the full registry set — every ingest touches all of these, not a subset:
+   - `wiki/index.md`, `wiki/log.md`, `wiki/overview.md`, `wiki/contradictions.md` (new tensions only), `wiki/timeline.md`
+   - `wiki/citations.md` — new citekey row in the Ingested Sources table + its Full Formatted Reference entry
+   - `wiki/tags-overview.md` — if the source's tags introduce any tag not already in this file, or change any existing tag's page count, update the relevant row(s)/add new row(s); this is the step most often forgotten — check it every time, not just when it feels like "a lot of new tags"
+   - `wiki/trials.md` / `wiki/trials-pending.md` — if the source is a named clinical trial: either add a full row to `trials.md` (entity + source pages exist) or, if the trial is only named in passing (not itself being ingested), add/update its `trials-pending.md` entry
+   - `wiki/sources-missing.md` — scan the source's own reference list (Source Interlinking Rule, CLAUDE.md) for on-topic papers that already have a wiki page (link bidirectionally via `Cites:`/`Cited by:` under `## Connections`) and for on-topic papers that don't (add a row here, not just an inline `[needs ingest]` note on the new page — this file is the single tracking location)
 
 **Never fabricate.** This applies to ingest as much as any other task (see CLAUDE.md's global no-fabrication rule) — do not fill in a specific fact (an NCT number, a numeric result, a population detail) from background/training knowledge just because the source document doesn't state it. Mark `[needs source]` and leave it for the user to supply instead.
 

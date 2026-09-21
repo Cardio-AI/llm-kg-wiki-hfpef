@@ -5,11 +5,11 @@ summary: Canonical tag list across all entity/concept/source pages, with page co
 tags:
   - meta
 created: 2026-09-17
-last_updated: 2026-09-21
+last_updated: 2026-09-21 (session 2)
 ---
 # Tag Taxonomy Overview
 
-> 287 distinct tags in active use across 298 tagged pages (80 entities, 55 concepts, 163 sources), as of the 2026-09-21 tag-hygiene pass. This page is a navigation index, not a canonical page — see [[index]] for the main wiki index. **2026-09-21 update:** merged 5 near-duplicate/typo tags onto their canonical form (`acute-heart-failure`→`acute-hf`, `biomarkers`→`biomarker`, `phenotypes`→`phenotype`, `peripheral`→`peripheral-mechanisms`, `sympathetic`→`sympathetic-nervous-system`) and renamed `hfpef-aba`→`hfpef-aba-score` for filename consistency; see `wiki/log.md` for the full list.
+> 291 distinct tags in active use across 308 tagged pages (84 entities, 55 concepts, 169 sources), as of the 2026-09-21 ingest session. This page is a navigation index, not a canonical page — see [[index]] for the main wiki index. **2026-09-21 (session 2) update:** 6-paper ingest ([[backhaus2021hfpefstress]], [[rommel2016stiffmap]], [[landsteiner2026multiorgan]], [[khidihir2026finerenone]], [[stone2024relievehf]], [[ferreira2025sogaldipef]] + 4 new entities) added 4 new tags (`combination-therapy`, `contraindication`, `genomics`, `portugal`) and bumped counts on ~25 existing tags; see `wiki/log.md` for the full list. **2026-09-21 (session 1) update:** merged 5 near-duplicate/typo tags onto their canonical form (`acute-heart-failure`→`acute-hf`, `biomarkers`→`biomarker`, `phenotypes`→`phenotype`, `peripheral`→`peripheral-mechanisms`, `sympathetic`→`sympathetic-nervous-system`) and renamed `hfpef-aba`→`hfpef-aba-score` for filename consistency.
 
 ---
 
@@ -19,18 +19,18 @@ Too broad to use as a navigation filter — these match most of the wiki. Shown 
 
 | Tag | Pages |
 |---|---|
-| `hfpef` | 231 |
-| `trial` | 119 |
-| `treatment` | 111 |
-| `diagnosis` | 46 |
+| `hfpef` | 241 |
+| `trial` | 127 |
+| `treatment` | 112 |
+| `diagnosis` | 48 |
 | `mechanism` | 45 |
-| `exercise` | 38 |
+| `exercise` | 40 |
 | `biomarker` | 32 |
 | `obesity` | 29 |
-| `hfref` | 28 |
-| `prognosis` | 28 |
-| `sglt2-inhibitors` | 24 |
-| `exercise-intolerance` | 23 |
+| `hfref` | 30 |
+| `prognosis` | 29 |
+| `sglt2-inhibitors` | 26 |
+| `exercise-intolerance` | 24 |
 
 ---
 
@@ -40,23 +40,23 @@ The working taxonomy — useful as a filter. Duplicate/synonym spelling variants
 
 | Tag | Count | Pages |
 |---|---|---|
-| `guideline` | 17 | [[acc-aha-hf-guidelines]], [[acetazolamide]], [[strong-hf]], [[tolvaptan]], [[guideline-comparison]], [[hfpef-treatment]], [[anker2023hfpefphenotype]], [[gonzalez2024sglt2trends]], [[heidenreich2022aha]], [[kittleson2023acc]], [[kittleson2024accaha]], [[mahmood2024guidelines]], [[mcdonagh2021esc]], [[mcdonagh2023escupdate]], [[mebazaa2022stronghf]], [[pieske2019hfapeff]], [[sauer2026pharmacological]] |
-| `review` | 17 | [[bohmke2022nonpharm]], [[borlaug2023statement]], [[coppi2025genderdiff]], [[cowie2017sdb]], [[damario2019cmd]], [[horiuchi2022npguided]], [[ilonze2024disparities]], [[lam2011hfpef]], [[masri2026attrcm]], [[mirzai2025exercise]], [[pfeffer2019hfpef]], [[sauer2026pharmacological]], [[timoteo2024eat]], [[upadhya2025echo]], [[wester2023sdb]], [[yi2025ai]], [[candidate-pages-review]] |
-| `mra` | 16 | [[aldo-dhf]], [[balcinrenone]], [[finearts-hf]], [[homage-trial]], [[spirit-hf]], [[spironolactone]], [[spirrit]], [[topcat]], [[cleland2021homage]], [[desai2011topcat]], [[edelmann2013aldodhf]], [[ferreira2023spironolactone]], [[lund2024spirrit]], [[pitt2014topcat]], [[solomon2024finearts]], [[turgeon2025finearts]] |
+| `guideline` | 18 | [[acc-aha-hf-guidelines]], [[acetazolamide]], [[strong-hf]], [[tolvaptan]], [[guideline-comparison]], [[hfpef-treatment]], [[anker2023hfpefphenotype]], [[gonzalez2024sglt2trends]], [[heidenreich2022aha]], [[kittleson2023acc]], [[kittleson2024accaha]], [[mahmood2024guidelines]], [[mcdonagh2021esc]], [[mcdonagh2023escupdate]], [[mebazaa2022stronghf]], [[pieske2019hfapeff]], [[sauer2026pharmacological]], [[khidihir2026finerenone]] |
+| `review` | 18 | [[bohmke2022nonpharm]], [[borlaug2023statement]], [[coppi2025genderdiff]], [[cowie2017sdb]], [[damario2019cmd]], [[horiuchi2022npguided]], [[ilonze2024disparities]], [[lam2011hfpef]], [[masri2026attrcm]], [[mirzai2025exercise]], [[pfeffer2019hfpef]], [[sauer2026pharmacological]], [[timoteo2024eat]], [[upadhya2025echo]], [[wester2023sdb]], [[yi2025ai]], [[candidate-pages-review]], [[khidihir2026finerenone]] |
+| `mra` | 19 | [[aldo-dhf]], [[balcinrenone]], [[finearts-hf]], [[homage-trial]], [[spirit-hf]], [[spironolactone]], [[spirrit]], [[topcat]], [[cleland2021homage]], [[desai2011topcat]], [[edelmann2013aldodhf]], [[ferreira2023spironolactone]], [[lund2024spirrit]], [[pitt2014topcat]], [[solomon2024finearts]], [[turgeon2025finearts]], [[sogaldi-pef]], [[ferreira2025sogaldipef]], [[khidihir2026finerenone]] |
 | `nitric-oxide-pathway` | 16 | [[relax]], [[sgc-stimulators]], [[socrates-preserved]], [[victoria]], [[vitality-hfpef]], [[nitric-oxide-pathway]], [[armstrong2020victoria]], [[armstrong2020vitality]], [[borlaug2024inable]], [[paulus2013novelparadigm]], [[pieske2017socrates]], [[reddy2017artstiff]], [[redfield2013relax]], [[redfield2015neat]], [[udelson2020capacity]], [[zamani2015indie]] |
-| `hfmref` | 15 | [[balcinrenone]], [[finearts-hf]], [[hfmref]], [[vicadrostat]], [[doi2026reducelaphf]], [[heidenreich2022aha]], [[litwin2024reducelaphf]], [[mcdonagh2021esc]], [[mcdonagh2023escupdate]], [[rillig2021eastafnet4]], [[sauer2026pharmacological]], [[savarese2022globalburden]], [[solomon2022deliver]], [[solomon2024finearts]], [[turgeon2025finearts]] |
+| `hfmref` | 18 | [[balcinrenone]], [[finearts-hf]], [[hfmref]], [[vicadrostat]], [[doi2026reducelaphf]], [[heidenreich2022aha]], [[litwin2024reducelaphf]], [[mcdonagh2021esc]], [[mcdonagh2023escupdate]], [[rillig2021eastafnet4]], [[sauer2026pharmacological]], [[savarese2022globalburden]], [[solomon2022deliver]], [[solomon2024finearts]], [[turgeon2025finearts]], [[sogaldi-pef]], [[ferreira2025sogaldipef]], [[khidihir2026finerenone]] |
 | `phenotype` | 16 | [[hfmref]], [[hfpef]], [[hfref]], [[atrial-fibrillation-hfpef]], [[cancer-therapy-cardiotoxicity-hfpef]], [[chronotropic-incompetence]], [[hfpef-mimics-differential-diagnosis]], [[hfpef-phenotype-profiling]], [[hfpef-phenotypes]], [[hypertensive-fibrotic-hfpef]], [[obese-metabolic-hfpef]], [[anker2023hfpefphenotype]], [[borlaug2023statement]], [[doi2026reducelaphf]], [[requenaibanez2022sglt2]], [[pandey2021deepnnecho]] |
-| `device` | 14 | [[champion]], [[hemodynamic-monitoring]], [[rebalance-hf]], [[reduce-lap-hf-ii]], [[responder-hf]], [[hfpef-treatment]], [[abraham2011champion]], [[abraham2016champion]], [[adamson2014champion]], [[chaudhary2025worseninghf]], [[doi2026reducelaphf]], [[fudim2024rebalance]], [[litwin2024reducelaphf]], [[patel2024reducelaphf]] |
+| `device` | 16 | [[champion]], [[hemodynamic-monitoring]], [[rebalance-hf]], [[reduce-lap-hf-ii]], [[responder-hf]], [[hfpef-treatment]], [[abraham2011champion]], [[abraham2016champion]], [[adamson2014champion]], [[chaudhary2025worseninghf]], [[doi2026reducelaphf]], [[fudim2024rebalance]], [[litwin2024reducelaphf]], [[patel2024reducelaphf]], [[relieve-hf]], [[stone2024relievehf]] |
 | `imaging` | 13 | [[cardiac-mri]], [[cardiopulmonary-exercise-testing]], [[decipher-hfpef]], [[echocardiography]], [[ecg-biomarkers-hfpef]], [[arnold2022diamond]], [[ipek2024cmr]], [[jin2022la]], [[kramer2025summit-cmr]], [[lange2024cmr]], [[patel2024reducelaphf]], [[shah2018promis]], [[upadhya2025echo]] |
 | `inflammation` | 13 | [[pursuit-hfpef]], [[coronary-microvascular-dysfunction]], [[hfpef-inflammatory-metabolic-paradigm]], [[inflammation-hfpef]], [[boralkar2019nlr]], [[carbone2024inflammation]], [[fu2024inflammation]], [[paulus2013novelparadigm]], [[shi2022sst2]], [[tamaki2023nlrplr]], [[vantassell2017dhart2]], [[vantassell2018dhart2]], [[zhuzhou2021leukocyte]] |
-| `hemodynamics` | 13 | [[arterial-stiffness]], [[diastolic-dysfunction]], [[hemodynamics]], [[pulmonary-arterial-pressure]], [[pulmonary-hypertension-hfpef]], [[alnaamani2015pac]], [[borlaug2010exercise]], [[duca2018genderdiff]], [[landsteiner2025hemodynamics]], [[lau2022arterialstiffness]], [[manabe2023sympathetic]], [[reddy2017artstiff]], [[vandebovenkamp2025hemodynamics]] |
+| `hemodynamics` | 15 | [[arterial-stiffness]], [[diastolic-dysfunction]], [[hemodynamics]], [[pulmonary-arterial-pressure]], [[pulmonary-hypertension-hfpef]], [[alnaamani2015pac]], [[borlaug2010exercise]], [[duca2018genderdiff]], [[landsteiner2025hemodynamics]], [[lau2022arterialstiffness]], [[manabe2023sympathetic]], [[reddy2017artstiff]], [[vandebovenkamp2025hemodynamics]], [[backhaus2021hfpefstress]], [[landsteiner2026multiorgan]] |
 | `systematic-review` | 13 | [[ammar2025bnp]], [[beale2019iron]], [[fu2024inflammation]], [[jin2022la]], [[kaddoura2024betablocker]], [[lee2024lifestyle]], [[lin2023cmd]], [[mahmood2024guidelines]], [[masri2026attrcm]], [[minisy2025sglt2]], [[prokopidis2025exercise]], [[shi2022sst2]], [[vandebovenkamp2025hemodynamics]] |
 | `glp1ra` | 12 | [[semaglutide-hfpef]], [[step-hfpef]], [[summit]], [[tirzepatide-hfpef]], [[obese-metabolic-hfpef]], [[achten2025screening]], [[kosiborod2023stephfpef]], [[kosiborod2024stephfpefdm]], [[kramer2025summit-cmr]], [[packer2025summit-ckd]], [[packer2025summit]], [[petrie2024stephfpef]] |
 | `meta-analysis` | 12 | [[alsadawi2022rhythmcontrol]], [[ammar2025bnp]], [[beale2019iron]], [[fu2024inflammation]], [[jin2022la]], [[kaddoura2024betablocker]], [[lee2024lifestyle]], [[lin2023cmd]], [[minisy2025sglt2]], [[pocock2013maggic]], [[prokopidis2025exercise]], [[vandebovenkamp2025hemodynamics]] |
-| `spironolactone` | 11 | [[aldo-dhf]], [[homage-trial]], [[spironolactone]], [[topcat]], [[cleland2021homage]], [[desai2011topcat]], [[edelmann2013aldodhf]], [[ferreira2023spironolactone]], [[lund2024spirrit]], [[pitt2014topcat]], [[turgeon2025finearts]] |
-| `cardiac-mri` | 11 | [[cardiac-mri]], [[decipher-hfpef]], [[diamond-hfpef]], [[hfpef-fibrosis-paradigm]], [[microvascular-dysfunction]], [[myocardial-fibrosis]], [[albulushi2025sglt2fibrosis]], [[arnold2022diamond]], [[duca2018genderdiff]], [[kramer2025summit-cmr]], [[zamani2023pericardialfat]] |
-| `diastolic-dysfunction` | 10 | [[aldo-dhf]], [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[hypertensive-fibrotic-hfpef]], [[titin]], [[coppi2025genderdiff]], [[edelmann2013aldodhf]], [[lau2022arterialstiffness]], [[pandey2021deepnnecho]], [[upadhya2025echo]] |
-| `natriuretic-peptides` | 10 | [[hfpef-diagnosis]], [[hfpef-disparities]], [[natriuretic-peptides]], [[achten2025screening]], [[hage2026ntprobnp]], [[horiuchi2022npguided]], [[ilonze2024disparities]], [[kasahara2018chart2]], [[morfino2022biomarkers]], [[pieske2019hfapeff]] |
+| `spironolactone` | 13 | [[aldo-dhf]], [[homage-trial]], [[spironolactone]], [[topcat]], [[cleland2021homage]], [[desai2011topcat]], [[edelmann2013aldodhf]], [[ferreira2023spironolactone]], [[lund2024spirrit]], [[pitt2014topcat]], [[turgeon2025finearts]], [[sogaldi-pef]], [[ferreira2025sogaldipef]] |
+| `cardiac-mri` | 15 | [[cardiac-mri]], [[decipher-hfpef]], [[diamond-hfpef]], [[hfpef-fibrosis-paradigm]], [[microvascular-dysfunction]], [[myocardial-fibrosis]], [[albulushi2025sglt2fibrosis]], [[arnold2022diamond]], [[duca2018genderdiff]], [[kramer2025summit-cmr]], [[zamani2023pericardialfat]], [[hfpef-stress-trial]], [[stiffmap]], [[backhaus2021hfpefstress]], [[rommel2016stiffmap]] |
+| `diastolic-dysfunction` | 12 | [[aldo-dhf]], [[diastolic-dysfunction]], [[hfpef-diagnosis]], [[hypertensive-fibrotic-hfpef]], [[titin]], [[coppi2025genderdiff]], [[edelmann2013aldodhf]], [[lau2022arterialstiffness]], [[pandey2021deepnnecho]], [[upadhya2025echo]], [[stiffmap]], [[rommel2016stiffmap]] |
+| `natriuretic-peptides` | 11 | [[hfpef-diagnosis]], [[hfpef-disparities]], [[natriuretic-peptides]], [[achten2025screening]], [[hage2026ntprobnp]], [[horiuchi2022npguided]], [[ilonze2024disparities]], [[kasahara2018chart2]], [[morfino2022biomarkers]], [[pieske2019hfapeff]], [[ferreira2025sogaldipef]] |
 | `atrial-fibrillation` | 9 | [[atrial-fibrillation]], [[atrial-fibrillation-hfpef]], [[left-atrial-remodelling]], [[rhythm-control]], [[alsadawi2022rhythmcontrol]], [[attia2019ecgaf]], [[jin2022la]], [[reddy2024afhfpef]], [[rillig2021eastafnet4]] |
 | `echocardiography` | 9 | [[echocardiography]], [[hfpef-diagnosis]], [[achten2025screening]], [[ferreira2023spironolactone]], [[jin2022la]], [[pandey2021deepnnecho]], [[pieske2019hfapeff]], [[reddy2018h2fpef]], [[upadhya2025echo]] |
 | `functional-capacity` | 9 | [[optimex-clin]], [[rehab-hf]], [[azhar2020protein]], [[berk2025patisiran]], [[donelli2020hiit]], [[giannitsi2019sixmwt]], [[kitzman2021rehabhf]], [[mentz2021rehabhfhfpef]], [[mueller2021optimex]] |
@@ -69,7 +69,7 @@ The working taxonomy — useful as a filter. Duplicate/synonym spelling variants
 | `outcome-measure` | 7 | [[kansas-city-cardiomyopathy-questionnaire]], [[minnesota-living-with-heart-failure-questionnaire]], [[short-physical-performance-battery]], [[six-minute-walk-test]], [[bilbao2016mlhf]], [[giannitsi2019sixmwt]], [[spertus2020kccq]] |
 | `registry` | 7 | [[myovasc]], [[pursuit-hfpef]], [[torch]], [[kasahara2018chart2]], [[ortegahernandez2024statins]], [[seyler2017torch]], [[trials]] |
 | `rehabilitation` | 7 | [[rehab-hf]], [[supervised-exercise-training]], [[inspiratory-muscle-training]], [[alonso2022heartcamp]], [[bohmke2022nonpharm]], [[kitzman2021rehabhf]], [[mentz2021rehabhfhfpef]] |
-| `mortality` | 7 | [[ammar2025bnp]], [[chaudhary2025worseninghf]], [[duca2018genderdiff]], [[kaddoura2024betablocker]], [[minisy2025sglt2]], [[ortegahernandez2024statins]], [[savarese2022globalburden]] |
+| `mortality` | 9 | [[ammar2025bnp]], [[chaudhary2025worseninghf]], [[duca2018genderdiff]], [[kaddoura2024betablocker]], [[minisy2025sglt2]], [[ortegahernandez2024statins]], [[savarese2022globalburden]], [[relieve-hf]], [[stone2024relievehf]] |
 | `open-question` | 7 | [[beale2018sex]], [[bozkurt2020sex]], [[edelmann2025exdhf]], [[fayyaz2025pathophys]], [[pandey2025humain]], [[pfeffer2022topcat]], [[reddy2024afhfpef]] |
 | `attr-cm` | 6 | [[attr-act]], [[attr-cm]], [[technetium-pyrophosphate-scintigraphy]], [[berk2025patisiran]], [[masri2026attrcm]], [[maurer2018attract]] |
 | `iron-deficiency` | 6 | [[fair-hfpef]], [[iron-deficiency]], [[beale2019iron]], [[mcdonagh2023escupdate]], [[ponikowski2020affirm]], [[vonhaehling2024fair]] |
@@ -81,7 +81,7 @@ The working taxonomy — useful as a filter. Duplicate/synonym spelling variants
 | `nt-probnp` | 6 | [[natriuretic-peptides]], [[ammar2025bnp]], [[hage2026ntprobnp]], [[horiuchi2022npguided]], [[petrie2024stephfpef]], [[solomon2012paramount]] |
 | `sex-differences` | 6 | [[sex-differences-hfpef]], [[coppi2025genderdiff]], [[duca2018genderdiff]], [[lau2022arterialstiffness]], [[merrill2019topcat]], [[rambarat2025paraglide]] |
 | `meta` | 6 | [[candidate-pages-review]], [[sources-missing]], [[sources-pending-from-meta-analyses]], [[tags-overview]], [[trials-pending]], [[trials]] |
-| `cardiopulmonary-exercise-testing` | 5 | [[cardiopulmonary-exercise-testing]], [[borlaug2010exercise]], [[giannitsi2019sixmwt]], [[haykowsky2011exercise]], [[ho2019hfpefdefinitions]] |
+| `cardiopulmonary-exercise-testing` | 6 | [[cardiopulmonary-exercise-testing]], [[borlaug2010exercise]], [[giannitsi2019sixmwt]], [[haykowsky2011exercise]], [[ho2019hfpefdefinitions]], [[landsteiner2026multiorgan]] |
 | `fibrosis` | 5 | [[diamond-hfpef]], [[hfpef-fibrosis-paradigm]], [[hypertensive-fibrotic-hfpef]], [[arnold2022diamond]], [[cleland2021homage]] |
 | `dynamic-hyperinflation` | 5 | [[dynamic-hyperinflation]], [[heart-lung-interactions]], [[ventilatory-limitation]], [[babb2026ventilatorylimit]], [[leahy2025heartlung]] |
 | `ecg` | 5 | [[ecg-biomarkers-hfpef]], [[microvascular-dysfunction]], [[gao2025ecgdl]], [[joseph2016qrs]], [[sung2023fqrs]] |
@@ -99,8 +99,8 @@ The working taxonomy — useful as a filter. Duplicate/synonym spelling variants
 | `cardiomyopathy` | 3 | [[attr-cm]], [[torch]], [[seyler2017torch]] |
 | `physiology` | 3 | [[cardiopulmonary-exercise-testing]], [[diastolic-dysfunction]], [[exercise-intolerance]] |
 | `hemodynamic-monitoring` | 3 | [[champion]], [[hemodynamic-monitoring]], [[lindenfeld2021guidehf]] |
-| `germany` | 3 | [[decipher-hfpef]], [[torch]], [[seyler2017torch]] |
-| `finerenone` | 3 | [[finearts-hf]], [[solomon2024finearts]], [[turgeon2025finearts]] |
+| `germany` | 7 | [[decipher-hfpef]], [[torch]], [[seyler2017torch]], [[hfpef-stress-trial]], [[stiffmap]], [[backhaus2021hfpefstress]], [[rommel2016stiffmap]] |
+| `finerenone` | 4 | [[finearts-hf]], [[solomon2024finearts]], [[turgeon2025finearts]], [[khidihir2026finerenone]] |
 | `outcomes` | 3 | [[finearts-hf]], [[chaudhary2025worseninghf]], [[solomon2024finearts]] |
 | `digital-health` | 3 | [[myomobile]], [[zeid2025myomobile]], [[zeid2026myomobile]] |
 | `hiit` | 3 | [[optimex-clin]], [[donelli2020hiit]], [[mueller2021optimex]] |
@@ -142,7 +142,7 @@ The working taxonomy — useful as a filter. Duplicate/synonym spelling variants
 | `mhealth` | 2 | [[myomobile]], [[zeid2025myomobile]] |
 | `exercise-training` | 2 | [[secret]], [[kitzman2016secret]] |
 | `redirect` | 2 | [[tirzepatide-hfpef]], [[treatment-hfpef]] |
-| `dzhk` | 2 | [[torch]], [[zeid2025myomobile]] |
+| `dzhk` | 4 | [[torch]], [[zeid2025myomobile]], [[hfpef-stress-trial]], [[backhaus2021hfpefstress]] |
 | `molecular-phenotyping` | 2 | [[torch]], [[seyler2017torch]] |
 | `vericiguat` | 2 | [[vitality-hfpef]], [[armstrong2020vitality]] |
 | `pulse-wave-velocity` | 2 | [[arterial-stiffness]], [[suzuki2018sdb]] |
@@ -156,10 +156,10 @@ The working taxonomy — useful as a filter. Duplicate/synonym spelling variants
 | `sdoh` | 2 | [[hfpef-disparities]], [[ilonze2024disparities]] |
 | `metabolic` | 2 | [[hfpef-inflammatory-metabolic-paradigm]], [[obese-metabolic-hfpef]] |
 | `differential-diagnosis` | 2 | [[hfpef-mimics-differential-diagnosis]], [[noncardiac-dyspnea]] |
-| `left-atrium` | 2 | [[left-atrial-remodelling]], [[jin2022la]] |
-| `myocardial-fibrosis` | 2 | [[myocardial-fibrosis]], [[albulushi2025sglt2fibrosis]] |
-| `ecv` | 2 | [[myocardial-fibrosis]], [[albulushi2025sglt2fibrosis]] |
-| `peripheral-mechanisms` | 3 | [[peripheral-mechanisms-hfpef]], [[haykowsky2011exercise]], [[manabe2023sympathetic]] |
+| `left-atrium` | 4 | [[left-atrial-remodelling]], [[jin2022la]], [[hfpef-stress-trial]], [[backhaus2021hfpefstress]] |
+| `myocardial-fibrosis` | 4 | [[myocardial-fibrosis]], [[albulushi2025sglt2fibrosis]], [[stiffmap]], [[rommel2016stiffmap]] |
+| `ecv` | 3 | [[myocardial-fibrosis]], [[albulushi2025sglt2fibrosis]], [[rommel2016stiffmap]] |
+| `peripheral-mechanisms` | 4 | [[peripheral-mechanisms-hfpef]], [[haykowsky2011exercise]], [[manabe2023sympathetic]], [[landsteiner2026multiorgan]] |
 | `sympathetic-nervous-system` | 2 | [[fudim2024rebalance]], [[manabe2023sympathetic]] |
 | `skeletal-muscle` | 2 | [[peripheral-mechanisms-hfpef]], [[brubaker2023secret2]] |
 | `pulmonary-hypertension` | 2 | [[pulmonary-arterial-pressure]], [[alnaamani2015pac]] |
@@ -183,27 +183,29 @@ The working taxonomy — useful as a filter. Duplicate/synonym spelling variants
 | `nitrate` | 2 | [[redfield2015neat]], [[zamani2015indie]] |
 | `phenotyping` | 2 | [[shah2015phenomapping]], [[yi2025ai]] |
 | `sources` | 2 | [[sources-missing]], [[sources-pending-from-meta-analyses]] |
+| `cardiometabolic` | 2 | [[obesity-hfpef]], [[khidihir2026finerenone]] |
+| `combination-therapy` | 2 | [[sogaldi-pef]], [[ferreira2025sogaldipef]] |
 
 ---
 
 ## Page-specific tags (used on exactly 1 page)
 
-132 tags appear on only one page each — mostly a specific drug, trial-design term, or narrow mechanism unique to that page's content. Not enumerated per-page (grouped here for token efficiency); look inside the relevant page's own frontmatter for its full tag list.
+134 tags appear on only one page each — mostly a specific drug, trial-design term, or narrow mechanism unique to that page's content. Not enumerated per-page (grouped here for token efficiency); look inside the relevant page's own frontmatter for its full tag list.
 
 `6mwd`, `a-vo2-difference`, `af`, `aldo-dhf`, `aldosterone`, `algorithm`, `antifibrotic`, `apollo-b`, `atrial-remodelling`, `autonomic-dysfunction`  
-`bayesian`, `biobank`, `blood-pressure`, `calcium-signaling`, `candesartan`, `cardiometabolic`, `cardiomyocyte-stiffness`, `cardiotoxicity`, `cfr`, `chronotropic-incompetence`  
-`ckd`, `clinical-trials-methodology`, `cluster-analysis`, `consensus`, `coronary`, `coronary-artery-disease`, `costs`, `cytokines`, `diabetes`, `digoxin`  
+`bayesian`, `biobank`, `blood-pressure`, `calcium-signaling`, `candesartan`, `cardiomyocyte-stiffness`, `cardiotoxicity`, `cfr`, `chronotropic-incompetence`, `ckd`  
+`clinical-trials-methodology`, `cluster-analysis`, `consensus`, `contraindication`, `coronary`, `coronary-artery-disease`, `costs`, `cytokines`, `diabetes`, `digoxin`  
 `disease-duration`, `east-afnet4`, `editorial`, `endothelial-dysfunction`, `endpoint-definition`, `ethnic-disparities`, `evidence-gap`, `exercise-hemodynamics`, `exercise-pcwp`, `exercise-testing`  
-`expiratory-flow-limitation`, `factor-analysis`, `fair-hfpef`, `fda-qualification`, `frank-starling`, `galectin-3`, `gdf-15`, `gender-differences`, `glp1-agonists`, `guide-hf`  
-`hfpef-aba-score`, `hfpef-phenotypes`, `hhf`, `hospitalization`, `hs-tnt`, `immune-activation`, `incidence`, `intervention`, `invasive-hemodynamics`, `ipd-meta-analysis`  
-`irbesartan`, `ischaemic-heart-disease`, `iv-iron`, `la-strain`, `left-atrial-remodelling`, `leukocyte`, `lifestyle`, `lv-eccentricity`, `lv-geometry`, `machine-learning`  
-`magnesium`, `mcid`, `menopause`, `microvascular-dysfunction`, `mlhfq`, `nitrite`, `nitroglycerin`, `non-pharmacological`, `np-guided-therapy`, `null-result`  
-`nutrition`, `observational`, `oncology`, `paragon-hf`, `patient-reported-outcomes`, `patisiran`, `performance-measures`, `pericardial-fat`, `pericardium`, `physical-performance`  
-`pilot-study`, `plr`, `praliciguat`, `precision-medicine`, `prescribing-trends`, `psychometrics`, `pulmonary`, `pulmonary-artery-catheterisation`, `pulmonary-mechanics`, `pulmonary-vascular-resistance`  
-`qrs`, `qrs-duration`, `qrs-fragmentation`, `quality-measures`, `rate-control`, `real-world`, `registry-based-rct`, `resistance-training`, `responder-phenotype`, `reverse-remodeling`  
-`risk-score`, `rrct`, `safety`, `sarcomere`, `scientific-statement`, `scoring`, `secondary-analysis`, `semaglutide`, `serve-hf`, `spain`  
-`spirrit`, `splanchnic`, `staging`, `step-hfpef`, `stroke-volume`, `supervised-exercise-training`, `swedhf`, `symptoms`, `treatment-gap`, `troponin`  
-`wearables`, `weight-loss`
+`expiratory-flow-limitation`, `factor-analysis`, `fair-hfpef`, `fda-qualification`, `frank-starling`, `galectin-3`, `gdf-15`, `gender-differences`, `genomics`, `glp1-agonists`  
+`guide-hf`, `hfpef-aba-score`, `hfpef-phenotypes`, `hhf`, `hospitalization`, `hs-tnt`, `immune-activation`, `incidence`, `intervention`, `invasive-hemodynamics`  
+`ipd-meta-analysis`, `irbesartan`, `ischaemic-heart-disease`, `iv-iron`, `la-strain`, `left-atrial-remodelling`, `leukocyte`, `lifestyle`, `lv-eccentricity`, `lv-geometry`  
+`machine-learning`, `magnesium`, `mcid`, `menopause`, `microvascular-dysfunction`, `mlhfq`, `nitrite`, `nitroglycerin`, `non-pharmacological`, `np-guided-therapy`  
+`null-result`, `nutrition`, `observational`, `oncology`, `paragon-hf`, `patient-reported-outcomes`, `patisiran`, `performance-measures`, `pericardial-fat`, `pericardium`  
+`physical-performance`, `pilot-study`, `plr`, `portugal`, `praliciguat`, `precision-medicine`, `prescribing-trends`, `psychometrics`, `pulmonary`, `pulmonary-artery-catheterisation`  
+`pulmonary-mechanics`, `pulmonary-vascular-resistance`, `qrs`, `qrs-duration`, `qrs-fragmentation`, `quality-measures`, `rate-control`, `real-world`, `registry-based-rct`, `resistance-training`  
+`responder-phenotype`, `reverse-remodeling`, `risk-score`, `rrct`, `safety`, `sarcomere`, `scientific-statement`, `scoring`, `secondary-analysis`, `semaglutide`  
+`serve-hf`, `spain`, `spirrit`, `splanchnic`, `staging`, `step-hfpef`, `stroke-volume`, `supervised-exercise-training`, `swedhf`, `symptoms`  
+`treatment-gap`, `troponin`, `wearables`, `weight-loss`
 
 ---
 
