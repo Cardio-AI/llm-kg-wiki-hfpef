@@ -49,6 +49,8 @@ Key numbers with confidence intervals and p-values where relevant.
 Pre-specified and post-hoc. Note generalizability concerns specific to HFpEF.
 
 ## Connections
+- Cites: [[citekey]] — how (papers already in this wiki that this source discusses/draws on)
+- Cited by: [[citekey]] — how (backfilled when a later ingest cites this page; do not fill manually except during the interlinking retrofit)
 - Updates: [[concept-or-entity]] — how
 - Supports: [[concept-or-entity]] — how
 - Contradicts: [[concept-or-entity]] — reason; see also `wiki/contradictions.md`

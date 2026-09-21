@@ -6,7 +6,8 @@
 
 | Theme                                   | Entries                                                                                                                                                                                                          |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Diagnostic definitions & thresholds** | #1 (LVEF cut-off), #6 (7-definition heterogeneity), #11 (ESC vs AHA operational), #17 (E/e' threshold), #18 (LAVI threshold), #19 (NP threshold), #28 (trial NP exclusion), #29 (supine vs upright hemodynamics) |
+| **Diagnostic definitions & thresholds** | #1 (LVEF cut-off), #6 (7-definition heterogeneity), #11 (ESC vs AHA operational), #12 (HFA-PEFF vs H₂FPEF variable weights), #17 (E/e' threshold), #18 (LAVI threshold), #19 (NP threshold), #28 (trial NP exclusion), #29 (supine vs upright hemodynamics), #34 (AI sensitivity vs. HFA-PEFF/H₂FPEF specificity trade-off) |
+| **HFmrEF-specific evidence** | #5 (uncertain treatment evidence base) |
 | **SGLT2i evidence**                     | #13 (symptom HFrEF vs HFpEF), #16 (DELIVER vs DETERMINE symptoms), #36 (antifibrotic CMR vs neutral mortality). *#9 (ESC vs AHA class) — resolved, archived below.* |
 | **MRA evidence series**                 | #2 (TOPCAT regional → see #21), #21 (TOPCAT vs FINEARTS-HF vs Aldo-DHF), #24 (Aldo-DHF structural vs functional)                                                                                                 |
 | **NO/cGMP pathway failures**            | #20 (vericiguat), #25 (RELAX → see #33), #33 (tissue evidence vs clinical failure synthesis)                                                                                                                     |

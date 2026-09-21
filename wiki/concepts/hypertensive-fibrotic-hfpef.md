@@ -14,8 +14,8 @@ last_updated: 2026-05-19
 sources:
   - citekey: Anker2023HFpEFPhenotype
     doi: 10.1002/ejhf.2894
-  - citekey: Shah2014Phenomapping
-    doi: null  # needs source — see wiki/citations-doi-review.md
+  - citekey: Shah2015Phenomapping
+    doi: 10.1161/CIRCULATIONAHA.114.010637
 ---
 
 # Hypertensive-Fibrotic HFpEF Phenotype

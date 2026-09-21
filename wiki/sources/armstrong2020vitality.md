@@ -9,9 +9,8 @@ evidence_level: high
 tags:
 - trial
 - hfpef
-- cgmp
 - vericiguat
-- no-pathway
+- nitric-oxide-pathway
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
@@ -140,11 +139,16 @@ Armstrong PW, Lam CSP, Anstrom KJ, et al.; VITALITY-HFpEF Study Group. Effect of
 - 21-country geographic distribution: 71% European centres — may not represent global HFpEF burden
 
 ## Connections
+- Cited by: [[borlaug2023statement]], [[maier2013ralidhf]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Supports: [[vitality-hfpef]] (entity page) — primary source for VITALITY-HFpEF trial results
 - NO/cGMP pathway: together with [[udelson2020capacity]] (praliciguat, same JAMA issue) closes sGC stimulator class for HFpEF
 - SOCRATES-PRESERVED → VITALITY-HFpEF: phase 2a signal not confirmed despite enhanced design; classic biomarker signal not translating to clinical benefit
 - Contrast VICTORIA: vericiguat positive in HFrEF (HR 0.90, NEJM 2020) but neutral in HFpEF — EF-dependent cGMP biology
 - NO pathway failure series: [[redfield2015neat]] (isosorbide mononitrate) + [[zamani2015indie]] (inorganic nitrate/beetroot) + RELAX (sildenafil/PDE5i) + CAPACITY-HFpEF + VITALITY-HFpEF — 5 trials, all neutral/negative
+- Cites: [[redfield2013relax]] — RELAX (sildenafil/PDE5i) named in the NO/cGMP pathway failure series above
+- Cites: [[armstrong2020victoria]] — contrast: vericiguat positive in HFrEF (VICTORIA, HR 0.90) but neutral in HFpEF (VITALITY) — EF-dependent cGMP biology
+- Cites: [[pieske2017socrates]] — SOCRATES-PRESERVED phase 2a signal not confirmed by VITALITY-HFpEF's enhanced phase 3 design
+- Cites: [[solomon2022deliver]] — DELIVER's similar post-decompensation enrolment criteria showed positive KCCQ, contrasted with VITALITY's placebo-inflated null result
 - Concept: [[hfpef-treatment-gap]]
 - Related entity: [[hfpef]]
 

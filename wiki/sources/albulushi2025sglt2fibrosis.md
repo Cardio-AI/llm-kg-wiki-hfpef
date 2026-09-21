@@ -2,6 +2,9 @@
 title: 'Impact of SGLT2 inhibitors on myocardial fibrosis in diabetic HFpEF: a longitudinal
   study'
 citekey: albulushi2025sglt2fibrosis
+year: 2025
+authors: "Albulushi A, Askari KM, Al-Abedi AM, Al-Kulaibi MA, Hasan MS, Hosseini Z, Al-Rahman MT, Tanoh DB, Hasan AS, Al-Helli Y, Basouni A"
+journal: Eur J Med Res
 tags:
 - hfpef
 - treatment

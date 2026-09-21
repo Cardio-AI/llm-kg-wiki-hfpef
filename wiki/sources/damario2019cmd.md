@@ -10,7 +10,7 @@ tags:
 - review
 - pathophysiology
 - microvascular-dysfunction
-- cmd
+- coronary-microvascular-dysfunction
 - cellular-mechanisms
 created: 2026-05-06
 last_updated: 2026-05-19
@@ -154,6 +154,11 @@ Deep dive into CMD as a unifying pathophysiological paradigm. Primary contributi
 - Supports: [[hfpef-treatment-gap]] — statins (observational signal, no RCT); anti-IL-1; ranolazine; anti-fibrotic
 - Supports: [[exercise-intolerance]] — peripheral microvascular mechanism; heavy-intensity priming exercise
 - Complements: [[pfeffer2019hfpef]] — overlapping cGMP/PKG + titin content; D'Amario adds EndoMT and CMD measurement tools
+- Cites: [[shah2018promis]] — PROMIS-HFpEF cited for 91% CMD prevalence data
+- Cites: [[vonhaehling2024fair]] — FAIR-HFpEF named as the (then-ongoing) definitive IV-iron trial in HFpEF
+- Cites: [[maier2013ralidhf]] — RALI-DHF cited as ranolazine proof-of-concept (↓LVEDP, ↓PCWP)
+- Cites: [[redfield2013relax]] — RELAX trial neutrality discussed re: PDE-5 inhibitor heterogeneity
+- Cites: [[redfield2015neat]] — NEAT-HFpEF neutrality attributed partly to hypotension-limited effort tolerance
 
 ---
 

@@ -65,6 +65,8 @@ The DZHK **TranslatiOnal Registry for CardiomyopatHies (TORCH)** was established
 | ARVC/D | ~10% |
 | LVNC | ~8% |
 | Acute myocarditis / inflammatory CMP | ~7% |
+
+[needs source] — table above has no citation.
 | Cardiac amyloidosis (AL, TTR) | ~4% |
 
 ---

@@ -2,6 +2,9 @@
 title: 'Integrating High-Sensitivity Troponin T and Sacubitril/Valsartan Treatment
   in HFpEF: The PARAGON-HF Trial'
 citekey: gori2021paragon
+year: 2021
+authors: "Gori M, Senni M, Claggett B, Liu J, Maggioni AP, Zile M, Prescott MF, Van Veldhuisen DJ, Zannad F, Pieske B, Lam CSP, Rouleau J, Jhund P, Packer M, Pfeffer MA, Lefkowitz M, Shi V, McMurray JJV, Solomon SD"
+journal: JACC Heart Fail
 tags:
 - hfpef
 - biomarker

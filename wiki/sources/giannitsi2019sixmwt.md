@@ -1,9 +1,12 @@
 ---
 title: '6-minute walking test: a useful tool in the management of heart failure patients'
 citekey: giannitsi2019sixmwt
+year: 2019
+authors: "Giannitsi S, Bougiakli M, Bechlioulis A, Kotsia A, Michalis LK, Naka KK"
+journal: Ther Adv Cardiovasc Dis
 tags:
 - heart-failure
-- 6mwt
+- six-minute-walk-test
 - exercise-testing
 - functional-capacity
 - cardiopulmonary-exercise-testing

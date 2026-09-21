@@ -145,6 +145,7 @@ Double-blind placebo-controlled RCT. Randomization stratified by T2DM status, LV
 - External validity: 622 international sites — translation across health systems variable
 
 ## Connections
+- Cited by: [[ahmed2006dig]], [[kittleson2024accaha]], [[kitzman2016secret]], [[mahmood2024guidelines]], [[yusuf2003charm]], [[zeid2025myomobile]], [[spertus2020kccq]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[sglt2-inhibitors]] — first major positive HFpEF outcomes trial; establishes class effect with DELIVER
 - Updates: [[hfpef-treatment-gap]] — breaks the unbroken neutral-trial catalogue; first Class-I-level evidence candidate for HFpEF

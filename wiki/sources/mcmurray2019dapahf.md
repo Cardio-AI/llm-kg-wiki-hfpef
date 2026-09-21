@@ -190,6 +190,8 @@ DAPA-HF is an HFrEF trial foundational to this wiki for four reasons:
 4. **Hematocrit +2.41%:** Erythropoiesis stimulation or haemoconcentration — mechanistic candidate for exercise capacity improvement downstream in HFpEF. DELIVER/EMPEROR-Preserved share this signal.
 
 ## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[gonzalez2024sglt2trends]], [[minisy2025sglt2]], [[spertus2020kccq]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Establishes: [[sglt2-inhibitors]] as HFrEF standard; fourth pillar alongside RAASi, beta-blockers, MRA
 - Motivates: [[solomon2022deliver]] (DELIVER, HFpEF/HFmrEF); [[anker2021emperor]] (EMPEROR-Preserved)
@@ -197,6 +199,8 @@ DAPA-HF is an HFrEF trial foundational to this wiki for four reasons:
 - Renal pattern reproduced: [[solomon2022deliver]]
 - KCCQ methodology: win ratio also used in DELIVER; LS means comparison in PARAGON-HF [[solomon2019paragon]]
 - Guideline context: [[mcdonagh2021esc]] Class I; [[heidenreich2022aha]] Class I for HFrEF
+- Cites: [[massie2008ipreserve]] — I-PRESERVE's longer median follow-up (49.5 months) contrasted with DAPA-HF's (18.2 months)
+- Cites: [[mcmurray2014paradigm]] — PARADIGM-HF's follow-up duration (27 months) contrasted with DAPA-HF's
 
 ## Secondary Analyses & Data Reuse
 

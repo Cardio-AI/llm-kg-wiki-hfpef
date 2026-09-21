@@ -14,7 +14,7 @@ tags:
 - hemodynamics
 - hfpef
 - mechanism
-- nitric-oxide
+- nitric-oxide-pathway
 created: 2026-05-18
 last_updated: 2026-05-18
 sources:

@@ -9,12 +9,12 @@ tags:
 - trial
 - treatment
 - sacubitril-valsartan
-- worsening-hf
+- worsening-heart-failure
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:
 - citekey: mentz2023paraglide
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1016/j.cardfail.2023.02.001
 page-type: entity-page
 ---
 # PARAGLIDE-HF
@@ -53,13 +53,13 @@ page-type: entity-page
 
 ## Primary Results
 
-**Overall:** Sac/Val ratio of change = **0.85 (95% CI 0.73–0.999)** — statistically significant overall NT-proBNP reduction (McMurray JACC 2023)
+**Overall:** Sac/Val ratio of change = **0.85 (95% CI 0.73–0.999)** — statistically significant overall NT-proBNP reduction. Primary results paper (McMurray et al., JACC 2023) not yet ingested into this wiki — see `wiki/sources-missing.md`. [needs source]
 
 **LVEF subgroup (pre-specified):**
 - LVEF ≤60%: stronger NT-proBNP reduction (driven this subgroup)
 - LVEF >60%: minimal to no benefit; higher symptomatic hypotension risk
 
-**Secondary hierarchical endpoint:** favoured Sac/Val but did not reach statistical significance
+**Secondary hierarchical endpoint:** favoured Sac/Val but did not reach statistical significance [needs source]
 
 ---
 

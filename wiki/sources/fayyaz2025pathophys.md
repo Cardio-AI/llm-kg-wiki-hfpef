@@ -97,6 +97,8 @@ This positions precision phenotyping (see [[hfpef-phenotype-profiling]], [[akerm
 - Supports: [[spironolactone]] — anti-fibrotic mechanism (ECM remodelling, aldosterone antagonism)
 - Challenges: [[verma2024inflammation]] — tissue heterogeneity in inflammation consistent with CRP-independent semaglutide benefit
 - Adjacent: [[ipek2024cmr]], [[lange2024cmr]] — CMR measures (ECV, T1) reflect tissue fibrosis described here
+- Cites: [[pitt2014topcat]], [[yusuf2003charm]], [[massie2008ipreserve]], [[solomon2019paragon]], [[redfield2013relax]], [[redfield2015neat]] — named as trials each targeting a single mechanism in a heterogeneous syndrome, framing why pharmacological monotherapy has failed
+- Cites: [[pieske2017socrates]] — SOCRATES-PRESERVED (vericiguat) cited as showing minimal clinical benefit despite cGMP-PKG mechanistic rationale
 
 ## Related Pages
 - Concepts: [[hfpef-phenotype-profiling]], [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[ml-ai-hfpef]]

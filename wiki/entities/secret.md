@@ -67,7 +67,7 @@ page-type: entity-page
 
 SECRET established that in obese HFpEF: (1) caloric restriction (diet) is as effective as aerobic exercise for improving VO₂; (2) combining both is additive; (3) VO₂ improvement is driven by skeletal muscle changes, not just cardiovascular adaptation. This supports the peripheral/skeletal muscle mechanism of exercise intolerance in HFpEF (see [[exercise-intolerance]]).
 
-The QoL dissociation (VO₂ improved but MLHF NS) was later replicated in multiple trials and is now recognised as an MLHF instrument limitation in HFpEF. KCCQ is now preferred. Diet KCCQ benefit prefigures the STEP-HFpEF (semaglutide/weight loss) KCCQ result.
+The QoL dissociation (VO₂ improved but MLHF NS) was later replicated in multiple trials and is now recognised as an MLHF instrument limitation in HFpEF. [needs source] KCCQ is now preferred. Diet KCCQ benefit prefigures the STEP-HFpEF (semaglutide/weight loss) KCCQ result.
 
 **Successor trial:** SECRET-II (NCT02636439) extends the protocol with longer follow-up and larger N.
 

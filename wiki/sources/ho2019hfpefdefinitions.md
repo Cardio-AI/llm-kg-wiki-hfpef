@@ -10,7 +10,7 @@ evidence_level: moderate
 tags:
 - hfpef
 - diagnosis
-- cpet
+- cardiopulmonary-exercise-testing
 - definition
 - prognosis
 - observational
@@ -74,6 +74,7 @@ HFpEF_phys (invasive PCWP) HR for CV events: 1.62 (P=0.01), independent of guide
 - Updates: [[hfpef-diagnosis]] — adds sensitivity/specificity data for echo structural markers and NT-proBNP
 - Supports: [[cardiopulmonary-exercise-testing]] — establishes invasive CPET as reference standard
 - Contradicts: [[hfpef-diagnosis]] (indirect) — shows that echo structural markers alone have only moderate accuracy; existing non-invasive criteria are imperfect proxies
+- Cites: [[massie2008ipreserve]], [[pitt2014topcat]], [[redfield2013relax]] — trial-criteria definitions (I-PRESERVE, TOPCAT, RELAX) applied post-hoc among the 7 compared HFpEF definitions
 
 ## Secondary Analyses & Data Reuse
 

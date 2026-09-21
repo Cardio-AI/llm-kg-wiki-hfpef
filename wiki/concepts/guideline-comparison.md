@@ -230,8 +230,8 @@ The Kittleson 2023 ACC ECDP ([[kittleson2023acc]]) is not a stand-alone guidelin
 
 ### Sex-specific treatment algorithm rationale
 - Women have smaller LV chambers → apparent higher LVEF; LVEF 50–55% may be functionally abnormal in women
-- PARAGON-HF: women HR 0.73 (0.59–0.90) vs. men HR 1.03 (0.84–1.25) — sex-treatment interaction
-- TOPCAT: women show similar spironolactone benefit across LVEF strata
+- PARAGON-HF: women HR 0.73 (0.59–0.90) vs. men HR 1.03 (0.84–1.25) — sex-treatment interaction (source: [[solomon2019paragon]])
+- TOPCAT: women show similar spironolactone benefit across LVEF strata [needs source]
 - Basis for ACC 2023 recommendation: ARNI and MRA for women at all EF; men primarily at LVEF <55–60%
 
 ### Diagnostic priorities: H₂FPEF vs. HFA-PEFF

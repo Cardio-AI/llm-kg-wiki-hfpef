@@ -84,6 +84,7 @@ This is the largest single-registry analysis of statin use in HFpEF with IHD sub
 - Supports: [[timoteo2024eat]] — statins reduce EAT + anti-inflammatory effects as mechanism
 - Connects to: [[fu2024inflammation]] — inflammatory mechanism in HFpEF; statins reduce inflammatory markers (CRP, IL-6)
 - Note: Aldosterone antagonists (HR 1.34) and digoxin (HR 1.34) independently associated with worse outcomes — possible confounding by indication; sicker patients more likely prescribed these agents
+- Cites: [[pitt2014topcat]] — TOPCAT post-hoc analysis cited: statins beneficial only in HFpEF without IHD, consistent with this study's finding
 
 ## Related Pages
 

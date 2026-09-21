@@ -66,10 +66,12 @@ All patients implanted with CardioMEMS PA sensor; randomised to haemodynamic-gui
 GUIDE-HF provides the broadest EF-inclusive evidence for CardioMEMS PA pressure monitoring. The COVID-19 pandemic made interpretation complex — the pre-COVID signal suggests benefit consistent with CHAMPION trial. The HFpEF subgroup (N=469) was adequately sized to show a directional trend but not statistical significance. Complements [[horiuchi2022npguided]] (NP-guided therapy generally neutral in HFpEF). The CardioMEMS device was approved for HFpEF by the FDA based on accumulated data.
 
 ## Connections
+- Cited by: [[kittleson2023acc]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[hemodynamic-monitoring]] — CardioMEMS PA pressure guidance directionally beneficial in HFpEF; COVID disruption complicates interpretation
 - Connects to: [[horiuchi2022npguided]] — NP-guided therapy in HFpEF also neutral or potentially harmful; remote haemodynamic monitoring may be more effective than NP-guided dose titration
 - Note: CHAMPION trial (Abraham 2011; LVEF <40%) demonstrated significant benefit in HFrEF; GUIDE-HF extends to all EF groups
+- Cites: [[abraham2011champion]] — CHAMPION cited as the prior significant-benefit precedent in HFrEF that GUIDE-HF extends
 
 ## Related Pages
 

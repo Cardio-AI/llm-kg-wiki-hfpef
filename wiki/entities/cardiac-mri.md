@@ -8,7 +8,6 @@ summary: Cardiovascular magnetic resonance imaging; the gold standard for LVEF m
 entity_type: imaging-tool
 tags:
 - cardiac-mri
-- cmr
 - imaging
 - diagnosis
 - hfpef

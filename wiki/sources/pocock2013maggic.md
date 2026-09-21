@@ -142,12 +142,15 @@ MAGGIC is the largest prognostic meta-analysis in chronic HF and provides key me
 4. **Validated prognostic tool:** MAGGIC integer score (heartfailurerisk.org) covers the full EF spectrum. Score 20 → 25% 3-year mortality; score 30 → 52%. Referenced in both ESC 2021 and AHA 2022 guidelines for risk stratification.
 
 ## Connections
+- Cited by: [[pandey2021deepnnecho]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[shah2015phenomapping]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Predicts neutral RAAS trials: [[yusuf2003charm]], [[massie2008ipreserve]], [[solomon2019paragon]] — all show HR 0.87–0.95 NS, consistent with observational RR 0.938
 - Concept: [[hfpef-treatment-gap]] — ACEi/ARB null in EF ≥40 observational data explains RAAS trial failures; EF plateau supports HFpEF as distinct therapeutic target
 - Concept: [[hfpef-diagnosis]] — EF threshold 40% for mortality gradient; HFmrEF (40–49%) lies in transitional zone
 - Entity: [[hfpef]] — Age/diabetes/NYHA dominant predictors; 3-year mortality 10–70% across score range
 - Guidelines: [[mcdonagh2021esc]], [[heidenreich2022aha]] — both cite MAGGIC for HF risk stratification
+- Cites: [[solomon2022deliver]] — DELIVER's LVEF ≥60% treatment-benefit persistence contrasted with MAGGIC's flat EF-mortality gradient above 40%
 
 ## Secondary Analyses & Data Reuse
 

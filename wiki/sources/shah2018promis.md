@@ -8,7 +8,6 @@ journal: Eur Heart J
 study_type: observational-prospective
 evidence_level: moderate
 tags:
-- cmd
 - coronary-microvascular-dysfunction
 - hfpef
 - diagnosis

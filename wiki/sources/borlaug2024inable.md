@@ -9,7 +9,7 @@ tags:
 - trial
 - exercise
 - nitrite
-- no-cgmp
+- nitric-oxide-pathway
 - exercise-intolerance
 - treatment
 created: 2026-05-18
@@ -102,6 +102,7 @@ INABLE-Training is the most direct test of combined NO augmentation + exercise i
 - Extends: [[supervised-exercise-training]] — adds INABLE-Training to the exercise RCT evidence base
 - Contradicts: NO/cGMP pathway hypothesis as exercise augmentation — consistent with [[redfield2015neat]], [[zamani2015indie]], [[redfield2013relax]], [[armstrong2020vitality]], [[pieske2017socrates]]
 - Updates: [[contradictions]] — nitrite failure despite confirmed NO augmentation; see NO/cGMP pathway section
+- Cites: [[kitzman2016secret]] — SECRET named as an earlier HFpEF exercise trial contrasted against INABLE-Training's more severely symptomatic, older, rural population
 
 ---
 

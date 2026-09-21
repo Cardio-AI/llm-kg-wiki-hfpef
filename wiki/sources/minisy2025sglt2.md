@@ -2,6 +2,9 @@
 title: 'The role of SGLT2 inhibitors in HFpEF: a systematic review and meta-analysis
   of randomized controlled trials'
 citekey: minisy2025sglt2
+year: 2025
+authors: "Minisy MM, Abdelaziz A"
+journal: BMC Cardiovasc Disord
 tags:
 - hfpef
 - treatment
@@ -89,3 +92,7 @@ PRISMA 2020-compliant systematic review and meta-analysis of all RCTs testing SG
 
 - Entities: [[sglt2-inhibitors]], [[hfpef]]
 - Sources: [[anker2021emperor]], [[solomon2022deliver]], [[requenaibanez2022sglt2]], [[gonzalez2024sglt2trends]], [[albulushi2025sglt2fibrosis]]
+
+## Connections
+- Cites: [[mcmurray2024determine]], [[voors2022empulse]] — DETERMINE-Preserved and EMPULSE named among the 9 pooled RCTs
+- Cites: [[mcmurray2019dapahf]], [[packer2020emperor]] — DAPA-HF and EMPEROR-Reduced named as HFrEF-spectrum SGLT2i comparator trials

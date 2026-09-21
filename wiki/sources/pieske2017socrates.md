@@ -12,8 +12,8 @@ tags:
 - trial
 - hfpef
 - treatment
-- no-cgmp
-- phase2
+- nitric-oxide-pathway
+- phase-2
 created: 2026-05-12
 last_updated: 2026-05-13
 sources:
@@ -101,6 +101,7 @@ Phase 2b KCCQ signal did not replicate in phase 3.
 - Phase 3 dose selection (10 mg and 15 mg) based on limited exploratory signal
 
 ## Connections
+- Cited by: [[fayyaz2025pathophys]], [[spertus2020kccq]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[socrates-preserved]] (entity page) — primary source
 - Contradicts: [[armstrong2020vitality]] — exploratory phase 2b KCCQ signal (P=0.016) not confirmed in phase 3 (P=0.47 and P=0.80); primary example of surrogate-to-outcome failure

@@ -60,6 +60,7 @@ Single-centre (Medical University of Vienna) prospective registry, December 2010
 Single-centre design (constant work-up protocol, but limits generalisability). Relatively small cohort (45 deaths total) limits event-based statistical power compared to multicentre trial registries. Duration of HF prior to enrolment not systematically assessed. Left- and right-heart catheterisation were not performed systematically in all patients, though CMR was used to characterise the full cohort.
 
 ## Connections
+- Cites: [[lau2022arterialstiffness]] — Contradictions section groups this with Beale 2019 as part of the "worse hemodynamic/vascular phenotype in women" pattern this study's mortality finding sits alongside
 - Updates: [[sex-differences-hfpef]] — adds sex-specific mortality/mode-of-death data (cardiac vs. non-cardiac death) not previously in the wiki
 - Supports: [[hfpef-mimics-differential-diagnosis]] — active CAD/amyloidosis exclusion as a driver of divergent mortality findings vs. I-PRESERVE
 - Relevant: [[hfpef-phenotype-profiling]] — sex as a phenotyping dimension

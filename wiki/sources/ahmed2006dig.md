@@ -157,6 +157,7 @@ DIG-Preserved is historically significant as the **first completed RCT** in dias
 - Concept: [[hfpef-treatment-gap]] — first completed RCT in preserved-EF HF; neutral result on primary
 - Entity: [[hfpef]]
 - Guideline context: [[mcdonagh2021esc]], [[heidenreich2022aha]] — both give digoxin no recommendation for HFpEF specifically
+- Cites: [[anker2021emperor]], [[solomon2022deliver]] — AF-inclusion rates in modern trials (~37% each) contrasted with DIG-Preserved's sinus-rhythm restriction
 
 ## Secondary Analyses & Data Reuse
 

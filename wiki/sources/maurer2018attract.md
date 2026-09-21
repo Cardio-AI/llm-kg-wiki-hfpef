@@ -127,3 +127,6 @@ Double-blind placebo-controlled RCT. ATTR-CM diagnosed by bone scintigraphy (DPD
 ## Contradictions
 
 Tafamidis significantly reduces mortality in ATTR-CM (HR 0.70, P<0.001 for ATTRwt subgroup) while all other HFpEF trials targeting non-specific pathways have been negative. This underscores the heterogeneity of HFpEF and the need for aetiology-specific therapy. The overall HFpEF literature (TOPCAT, PARAGON-HF, RELAX, NEAT-HFpEF, etc.) is a catalogue of neutral results; ATTR-ACT is the exception — but only because it enrolled a biologically homogeneous subphenotype. Noted in `wiki/contradictions.md`.
+
+## Connections
+- Cites: [[pitt2014topcat]], [[solomon2019paragon]], [[redfield2013relax]], [[redfield2015neat]] — named as the "catalogue of neutral results" ATTR-ACT's aetiology-specific success is contrasted against

@@ -49,7 +49,7 @@ sources:
 
 ## Mechanism
 
-Daily PA diastolic pressure monitoring detects subclinical haemodynamic congestion (PAD >18 mmHg) **1–2 weeks before symptom onset**. Pre-emptive outpatient medication adjustment (primarily diuretic up-titration, vasodilator adjustment) prevents decompensation escalation to hospitalization. This treats the elevated filling pressure phenotype directly — a mechanism-appropriate strategy for HFpEF.
+Daily PA diastolic pressure monitoring detects subclinical haemodynamic congestion (PAD >18 mmHg) **1–2 weeks before symptom onset**. Pre-emptive outpatient medication adjustment (primarily diuretic up-titration, vasodilator adjustment) prevents decompensation escalation to hospitalization. This treats the elevated filling pressure phenotype directly — a mechanism-appropriate strategy for HFpEF. [needs source]
 
 ## HFpEF Subgroup Analysis
 
@@ -69,7 +69,7 @@ Daily PA diastolic pressure monitoring detects subclinical haemodynamic congesti
 
 - First device-based trial to prove hospitalization reduction across EF subtypes
 - Established wireless PA pressure monitoring as evidence-based treatment option
-- Led to FDA approval and clinical adoption of CardioMEMS device
+- Led to FDA approval and clinical adoption of CardioMEMS device [needs source]
 - Demonstrated that HFpEF responds to haemodynamic-targeted intervention
 - Compared to: [[reduce-lap-hf-ii]] (mechanical device), [[rebalance-hf]] (newer-generation PA pressure monitoring)
 
@@ -90,3 +90,4 @@ CHAMPION addresses the HFpEF treatment bottleneck: while pharmacological options
 ## References
 - Abraham WT, Adamson PB, Bourge RC, Aaron MF, Costanzo MR, Stevenson LW, Strickland W, Neelagaru S, Raval N, Krueger S, Weiner S, Shavelle D, Jeffries B, Yadav JS; CHAMPION Trial Study Group. Wireless pulmonary artery haemodynamic monitoring in chronic heart failure: a randomised controlled trial. *Lancet.* 2011;377(9766):658–666. doi:[10.1016/S0140-6736(11)60101-3](https://doi.org/10.1016/S0140-6736(11)60101-3)
 - Adamson PB, Abraham WT, Bourge RC, Costanzo MR, Hasan A, Yadav C, Henderson J, Cowart P, Stevenson LW, Bauman JG. Wireless pulmonary artery pressure monitoring guides management to reduce decompensation in heart failure with preserved ejection fraction. *Circ Heart Fail.* 2014;7(6):935–944. doi:[10.1161/CIRCHEARTFAILURE.113.001229](https://doi.org/10.1161/CIRCHEARTFAILURE.113.001229)
+- Abraham WT, Stevenson LW, Bourge RC, Lindenfeld JA, Bauman JG, Adamson PB; CHAMPION Trial Study Group. Sustained efficacy of pulmonary artery pressure to guide adjustment of chronic heart failure therapy: complete follow-up results from the CHAMPION randomised trial. *Lancet.* 2016;387(10017):453–461. doi:[10.1016/S0140-6736(15)00723-0](https://doi.org/10.1016/S0140-6736(15)00723-0)

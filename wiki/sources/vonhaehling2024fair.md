@@ -84,6 +84,7 @@ von Haehling S, Doehner W, Evertz R, Garfias-Veitl T, Derad C, Diek M, Karakas M
 FAIR-HFpEF is the first and to date only RCT of IV iron in HFpEF with iron deficiency. The 6MWT benefit at week 24 is clinically meaningful (+49m) and consistent with effect sizes in HFrEF trials (FAIR-HF, CONFIRM-HF). However, the early stopping after just 40 patients makes all conclusions preliminary. The trial is severely underpowered for QoL and hard outcomes. The safety signal (fewer serious adverse events with FCM) is promising. This trial needs replication in a larger cohort. Directly complements [[beale2019iron]] (systematic review establishing ID prevalence in HFpEF) and [[ponikowski2020affirm]] (AFFIRM-AHF in HFrEF context).
 
 ## Connections
+- Cited by: [[mcdonagh2023escupdate]], [[damario2019cmd]], [[sauer2026pharmacological]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[fair-hfpef]] (entity page) — primary source for FAIR-HFpEF trial results
 - Updates: [[iron-deficiency]] — first RCT evidence for IV FCM benefit (6MWT) in HFpEF; preliminary due to small N

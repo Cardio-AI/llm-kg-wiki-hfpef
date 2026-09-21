@@ -29,7 +29,7 @@ sources:
 - citekey: obaya2024aerobic
   doi: 10.1002/pri.2044
 - citekey: Borlaug2024INABLE
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1016/j.mayocp.2023.08.031
 - citekey: Brubaker2023SECRET2
   doi: 10.1161/CIRCHEARTFAILURE.122.010161
 - citekey: Alonso2022HEARTcamp
@@ -159,7 +159,7 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 
 ### Access / Coverage
 
-- Cardiac rehabilitation (CR) historically limited to HFrEF in Medicare coverage; HFpEF coverage extended more recently
+- Cardiac rehabilitation (CR) historically limited to HFrEF in Medicare coverage; HFpEF coverage extended more recently [needs source]
 - Implementation barriers: access to supervised programmes, insurance coverage, patient motivation and comorbidity burden
 
 ## Related Pages

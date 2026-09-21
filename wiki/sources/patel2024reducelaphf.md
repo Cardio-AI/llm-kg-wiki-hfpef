@@ -66,6 +66,7 @@ REDUCE LAP-HF II overall trial was neutral for clinical events (HF hospitalisati
 The structural remodelling observed (reduced LVEDV, improved LV s') suggests normalisation of filling conditions without worsening systolic function — mechanistically plausible for a pressure-offloading strategy.
 
 ## Connections
+- Cited by: [[pfeffer2019hfpef]], [[borlaug2023statement]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Updates: [[decipher-hfpef]] — REDUCE LAP-HF II echo: LV unloading confirmed in responders; RV systolic function preserved
 - Relevant: [[exercise-intolerance]] — LA pressure offloading directly targets exertional PCWP elevation
 - Relevant: [[hfpef-phenotype-profiling]] — responder phenotype (low PVR, no CRM) as treatment-enriching biomarker

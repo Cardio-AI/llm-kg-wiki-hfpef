@@ -55,6 +55,7 @@ This editorial contextualises the most discussed sex-LVEF interaction in HFpEF p
 - Supports: [[hfpef-phenotype-profiling]] — sex as a phenotyping variable for treatment response
 - Connects: [[hfmref]] — HFmEF (LVEF 40–50%) as a zone of uncertain ARNi benefit
 - Relevant to: [[natriuretic-peptides]] — women's paradoxically lower NT-proBNP at higher LVEF
+- Cites: [[mcmurray2014paradigm]] — PARADIGM-HF is one of the two pooled trials this editorial comments on (co-analyzed with PARAGON-HF)
 
 ## Related Pages
 - Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]]

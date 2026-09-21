@@ -7,7 +7,6 @@ authors: Lin X, Wu G, Wang S, Huang J
 journal: Heart Fail Rev
 tags:
 - hfpef
-- cmd
 - coronary-microvascular-dysfunction
 - systematic-review
 - meta-analysis
@@ -77,6 +76,7 @@ Lin X, Wu G, Wang S, Huang J. The prevalence of coronary microvascular dysfuncti
 - Updates: [[hfpef]] — CMD highly prevalent; mechanistic target
 - Supports: CMD as a distinct HFpEF endotype ([[anker2023hfpefphenotype]])
 - Relevant to: [[damario2019cmd]] — individual CMD-HFpEF mechanistic review
+- Cites: [[shah2018promis]], [[arnold2022diamond]] — PROMIS-HFpEF (Shah 2018) and DIAMOND-HFpEF (Arnold 2022) are among the pooled CMD-prevalence studies
 
 ---
 

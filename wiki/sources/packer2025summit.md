@@ -188,6 +188,8 @@ LV mass reduction correlated with weight loss (r=0.34; P<0.02). Pericardial fat,
 ---
 
 ## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[kittleson2023acc]], [[mahmood2024guidelines]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Establishes primary evidence for: [[summit]]
 - Extends: [[step-hfpef]], [[kosiborod2023stephfpef]] — adds hard event endpoint to GLP-1RA evidence in obese HFpEF

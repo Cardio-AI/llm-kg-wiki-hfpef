@@ -127,6 +127,7 @@ The interaction P=0.12 means the Americas vs. non-Americas difference is nominal
 - Mean spironolactone dose only 25 mg — below the target of 45 mg; below the dose used in RALES (26.8 mg effective in HFrEF)
 
 ## Connections
+- Cited by: [[ho2019hfpefdefinitions]], [[ilonze2024disparities]], [[mahmood2024guidelines]], [[maurer2018attract]], [[ortegahernandez2024statins]], [[fayyaz2025pathophys]], [[lam2011hfpef]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[spironolactone]] — Americas directional benefit; HF hospitalisation component HR 0.83 (P=0.04)
 - Supports: [[hfpef-treatment-gap]] — overall neutral result; adds to pharmacological failure catalogue

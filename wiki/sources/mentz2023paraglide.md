@@ -50,6 +50,7 @@ PARAGLIDE-HF fills a critical gap left by PARAGON-HF: it targets the high-risk p
 ## Connections
 - Designs: [[paraglide-hf]] — rationale and design for PARAGLIDE-HF trial entity
 - Background: [[sacubitril-valsartan]] — ARNI mechanism; PARAGON-HF experience as motivation
+- Cites: [[solomon2019paragon]] — PARAGON-HF's LVEF ≤57%/women subgroup signal cited as the rationale motivating PARAGLIDE-HF
 - Related: [[fudim2024paraglide]], [[nouhravesh2025paraglide]], [[rambarat2025paraglide]] — secondary analyses
 - Relevant: [[natriuretic-peptides]] — NT-proBNP as primary endpoint; biomarker rationale
 

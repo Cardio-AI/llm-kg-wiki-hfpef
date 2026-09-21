@@ -8,7 +8,7 @@ entity_type: trial
 tags:
 - hfpef
 - trial
-- sglt2i
+- sglt2-inhibitors
 - treatment
 created: 2026-05-12
 last_updated: 2026-05-12

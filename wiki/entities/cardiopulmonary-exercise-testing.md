@@ -8,7 +8,7 @@ entity_type: diagnostic-tool
 tags:
 - hfpef
 - diagnosis
-- cpet
+- cardiopulmonary-exercise-testing
 - imaging
 - physiology
 - exercise

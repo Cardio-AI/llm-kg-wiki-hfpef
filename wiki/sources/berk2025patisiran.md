@@ -1,11 +1,14 @@
 ---
 title: 'Benefits of Patisiran on Functional Capacity in ATTR Cardiac Amyloidosis: Post Hoc Analysis of APOLLO-B'
 citekey: berk2025patisiran   # [zotero-unverified]
+year: 2025
+authors: "Berk JL, Lairez O, Schwartzmann P, Bender S, White MT, Jay PY, Danese D, Witteles R"
+journal: JACC Adv
 tags:
 - attr-cm
 - patisiran
 - apollo-b
-- 6mwt
+- six-minute-walk-test
 - kccq
 - functional-capacity
 - quality-of-life
@@ -75,6 +78,9 @@ This is an explicit, unambiguous statement from a paper co-authored by the APOLL
 - 6MWT MCID anchored to KCCQ-OS; other anchoring approaches could yield different estimates; both measures are continuous, so any categorical cutoffs are somewhat arbitrary
 - APOLLO-B's ≥150 m 6MWT screening inclusion criterion means the estimated MCID may not generalize to more severely limited patients excluded from the trial
 - Funded by Alnylam Pharmaceuticals; 3 authors are Alnylam employees/shareholders; medical writing support funded by Alnylam
+
+## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 ## Related Pages
 

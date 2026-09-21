@@ -44,7 +44,7 @@ page-type: entity-page
 
 AF affects ~50% of HFpEF patients and has a bidirectional relationship with HFpEF: elevated left atrial pressure drives AF, while AF reduces diastolic filling time and worsens filling pressures. The mechanistic rationale for ablation: restoring sinus rhythm reduces LA pressure and potentially reverses some of the atrial and ventricular remodelling. (source: [[atrial-fibrillation]])
 
-Background evidence: EAST-AFNET4 showed that early rhythm control (pharmacological or ablation) reduced CV outcomes in patients with AF and comorbidities — a substantial fraction had HF. However, EAST-AFNET4 was not HFpEF-specific and enrolled predominantly paroxysmal/early-onset AF. CABA-HFpEF will provide the HFpEF-specific ablation evidence.
+Background evidence: EAST-AFNET4 showed that early rhythm control (pharmacological or ablation) reduced CV outcomes in patients with AF and comorbidities — a substantial fraction had HF (source: [[rillig2021eastafnet4]]). However, EAST-AFNET4 was not HFpEF-specific and enrolled predominantly paroxysmal/early-onset AF. CABA-HFpEF will provide the HFpEF-specific ablation evidence.
 
 The DZHK institutional connection links CABA-HFpEF to the [[torch]] registry, [[zeid2025myomobile]], and the broader German HFpEF research infrastructure.
 

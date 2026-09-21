@@ -177,6 +177,12 @@ First systematic review to apply AGREE II methodology to HFpEF guidelines from 7
 - Updates: [[natriuretic-peptides]] — age-adjusted NP thresholds (NHFA/CSANZ); AF-adjusted variations across guidelines
 - Updates: [[hfpef-treatment-gap]] — evidence gaps section; GLP-1RA emerging data; STEP-HFpEF/STEP-HFpEF DM published
 - Supports: [[hfpef-diagnostic-definitions]] — further confirms that guideline definitions differ substantively at the diagnostic criterion level
+- Cites: [[pitt2014topcat]] — TOPCAT Americas/non-Americas divergence cited as the open MRA question SPIRIT-HF/SPIRRIT aim to resolve
+- Cites: [[anker2021emperor]], [[solomon2022deliver]] — EMPEROR-Preserved/DELIVER publication cited as the trigger for post-2021 guideline SGLT2i recommendations
+- Cites: [[solomon2024finearts]] — FINEARTS-HF flagged as expected to publish soon (as of Feb 2024)
+- Cites: [[kosiborod2023stephfpef]], [[kosiborod2024stephfpefdm]] — STEP-HFpEF and STEP-HFpEF DM cited as newly published
+- Cites: [[packer2025summit]] — SUMMIT noted as ongoing at time of publication
+- Cites: [[lund2024spirrit]] — SPIRRIT (NCT02901184) cited as ongoing to resolve the TOPCAT MRA question
 
 ---
 

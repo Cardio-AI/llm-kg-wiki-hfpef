@@ -6,7 +6,7 @@ entity_type: guideline
 tags:
   - hfpef
   - guideline
-  - accaha
+  - acc-aha
   - sglt2-inhibitors
   - treatment
 created: 2026-05-19
@@ -76,6 +76,8 @@ sources:
 | 2021 | ESC | First HFpEF-specific European content |
 | 2022 | ACC/AHA/HFSA | SGLT2i Class 2a — first pharmacotherapy above 2b |
 | 2023 | ESC update | SGLT2i Class 1 for HFpEF |
+
+Table summarises milestones individually cited above and in [[mcdonagh2021esc]] / [[mcdonagh2023escupdate]]. [needs source] for the 2013/2016 ACC/AHA rows specifically, not independently cited on this page.
 | 2024 | ACC/AHA PM update | First HFpEF performance measure (BP control) |
 
 ## Related Entities

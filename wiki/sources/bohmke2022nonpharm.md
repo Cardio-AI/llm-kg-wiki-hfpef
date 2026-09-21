@@ -94,6 +94,10 @@ IMT trains respiratory muscles specifically, reducing the fraction of cardiac ou
 - Supports: [[hfpef-treatment-gap]] — nonpharmacological gap: dietary interventions remain largely untested in HFpEF at RCT level
 - Supports: [[mirzai2025exercise]] — HIIT vs. MCT conclusion consistent; IMT adds to the modality landscape
 - Supports: [[sachdev2023exercise]] — Kitzman 2010 and HEART Camp are key trials in that meta-analysis
+- Cites: [[mueller2021optimex]] — OPTIMEX-CLIN (HIIT vs. MCT vs. control, N=180) cited as the largest head-to-head exercise-modality trial
+- Cites: [[kitzman2016secret]] — SECRET trial detail: caloric restriction as an independent, additive intervention to MCT
+- Cites: [[alonso2022heartcamp]] — HEART Camp (18-month supervised MCT, HFpEF subgroup n=59) cited as individual trial data
+- Cites: [[edelmann2025exdhf]] — Ex-DHF cited alongside Kitzman 2010/HEART Camp/OPTIMEX-CLIN/SECRET as key individual exercise-trial data
 
 ---
 

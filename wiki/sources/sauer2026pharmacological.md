@@ -92,6 +92,9 @@ Sauer AJ, ter Maaten JM, Savarese G. Established and emerging pharmacologic opti
 - Updates: [[finearts-hf]] — confirms US approval status, Class recommendations
 - Supports: [[hfpef-treatment-gap]] — combination therapy as unmet need
 - Creates: [[balcinrenone]], [[vicadrostat]]
+- Cites: [[solomon2019paragon]] — PARAGON-HF named in the three-trial combined SGLT2i+nsMRA analysis (with DELIVER, FINEARTS-HF)
+- Cites: [[solomon2022deliver]] — DELIVER named in the same three-trial combined analysis
+- Cites: [[vonhaehling2024fair]] — FAIR-HFpEF cited: 49m 6MWD improvement, suggestive but underpowered (N=39)
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[guideline-comparison]], [[hfpef-phenotype-profiling]]

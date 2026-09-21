@@ -1,3 +1,4 @@
+---
 question: Do SGLT2 inhibitors benefit obese patients with HFpEF?
 answer_summary: Yes — SGLT2i show consistent and numerically greater benefit in obese HFpEF (BMI ≥30). DELIVER subgroup HR 0.74 (0.63–0.88) vs. HR 0.89 (0.75–1.04) in BMI <30; no significant interaction. EMPEROR-Preserved showed consistent benefit in obese subgroup. Mechanistically relevant via visceral fat reduction, anti-inflammation, antifibrosis, and natriuresis. Guideline position: universal foundation therapy for all HFpEF regardless of BMI; GLP-1RA added on top for the obesity phenotype.
 sources_used:
@@ -17,7 +18,8 @@ derived_from:
   - wiki/concepts/obese-metabolic-hfpef.md
   - wiki/sources/anker2021emperor.md
   - wiki/sources/solomon2022deliver.md
-Pagetype: question
+answer_mode: Standard
+scope_note: SGLT2i efficacy specifically in the obese-HFpEF subgroup (BMI >=30), drawn from prespecified subgroup analyses of pivotal RCTs plus phenotype-guideline positioning; not a general SGLT2i-in-HFpEF efficacy question.
 ---
 
 ## Question

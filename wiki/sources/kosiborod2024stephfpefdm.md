@@ -144,6 +144,7 @@ HF hospitalisation signal nominally significant here (HR 0.40) but not powered; 
 - KCCQ and 6MWD are surrogate/functional outcomes; whether they predict CV events in HFpEF remains uncertain; SUMMIT (NCT04847557) with peak VO₂ primary will provide more objective evidence
 
 ## Connections
+- Cited by: [[mahmood2024guidelines]], [[spertus2020kccq]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[step-hfpef]] (entity page) — DM companion trial; together with STEP-HFpEF (non-DM) demonstrates consistent GLP-1RA benefit in obese HFpEF regardless of T2DM status
 - Connects to: [[kosiborod2023stephfpef]] — non-DM companion; same design, same co-primaries; results consistent

@@ -65,6 +65,8 @@ fQRS (splintering or notching of QRS, RSR' pattern without RBBB) reflects hetero
 
 Anterior/lateral territory predilection suggests the left anterior descending microvascular territory as most vulnerable in HFpEF.
 
+[needs source] — Mechanism section above has no citation.
+
 ## Distinction: QRS Duration vs. fQRS
 
 | Feature | Wide QRS (≥120 ms) | fQRS (anterior/lateral) |

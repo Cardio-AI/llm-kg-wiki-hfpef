@@ -57,6 +57,8 @@ Key knowledge gaps identified in this source: SGLT2i in HFpEF (EMPEROR-Preserved
 - Supports: [[hfpef-diagnosis]] — Table 9 markers, diagnostic pathway
 - Supports: [[diastolic-dysfunction]] — echocardiographic assessment criteria
 - Supports: [[natriuretic-peptides]] — diagnostic thresholds including AF-adjusted values
+- Cites: [[anker2021emperor]], [[solomon2022deliver]] — EMPEROR-Preserved/DELIVER named among entities the Related Pages already track for HFpEF
+- Cites: [[mcmurray2019dapahf]], [[packer2020emperor]] — DAPA-HF and EMPEROR-Reduced cited as the fourth-pillar HFrEF SGLT2i evidence base
 
 ## Related Pages
 - Concepts: [[hf-phenotype-classification]], [[hfpef-diagnosis]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]], [[natriuretic-peptides]]

@@ -2,6 +2,9 @@
 title: 'Biomarkers of HFpEF: Natriuretic Peptides, High-Sensitivity Troponins and
   Beyond'
 citekey: morfino2022biomarkers
+year: 2022
+authors: "Morfino P, Aimo A, Castiglione V, Vergaro G, Emdin M, Clerico A"
+journal: J Cardiovasc Dev Dis
 tags:
 - hfpef
 - biomarker

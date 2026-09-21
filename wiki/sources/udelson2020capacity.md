@@ -9,9 +9,8 @@ evidence_level: moderate
 tags:
 - trial
 - hfpef
-- cgmp
 - praliciguat
-- no-pathway
+- nitric-oxide-pathway
 created: 2026-04-30
 last_updated: 2026-05-05
 sources:
@@ -173,12 +172,16 @@ SBP change at week 12: −6.3 mmHg (praliciguat) vs. −1.1 mmHg (placebo). Body
 - Protocol amendment mid-trial (dropping 20mg/10mg arms) — reduces dose-response characterisation; original design had broader dose ranging
 
 ## Connections
+- Cited by: [[kosiborod2023stephfpef]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - NO/cGMP pathway closure: [[hfpef-treatment-gap]] — with simultaneous VITALITY-HFpEF, NEAT-HFpEF, RELAX, INDIE-HFpEF, closes this pathway for HFpEF
 - Companion trial: [[armstrong2020vitality]] — VITALITY-HFpEF (vericiguat, sGC stimulator) published same JAMA issue, same day, also neutral primary; two sGC stimulators, same conclusion
 - Mechanism contrast: VICTORIA (vericiguat in HFrEF) positive; VITALITY/CAPACITY-HFpEF negative — EF-dependent cGMP response
 - Related: [[redfield2015neat]] (isosorbide mononitrate), [[zamani2015indie]] (beetroot juice/inorganic nitrate) — all NO pathway, all neutral in HFpEF
 - Praliciguat mechanism: sGC stimulator (NO-independent), distinct from nitrates (NO donors); if NO substrate is not the bottleneck, sGC stimulation is non-contributory
 - Age subgroup interaction (harm in ≥70y) relevant to: [[hfpef]] epidemiology — majority HFpEF patients are ≥70y; drug may have been broadly harmful in this population
+- Cites: [[solomon2019paragon]], [[solomon2022deliver]], [[yusuf2003charm]] — PARAGON-HF/DELIVER/CHARM named as landmark HFpEF RCTs contrasted on loop-diuretic-use rate
+- Cites: [[redfield2013relax]] — RELAX (sildenafil/PDE5i) named in the NO-pathway trial series alongside NEAT-HFpEF/INDIE-HFpEF
+- Cites: [[armstrong2020victoria]] — VICTORIA (vericiguat in HFrEF, positive) contrasted with CAPACITY-HFpEF/VITALITY-HFpEF (negative) for EF-dependent cGMP response
 
 ## Secondary Analyses & Data Reuse
 

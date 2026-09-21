@@ -38,6 +38,8 @@ Key claims and conclusions.
 Why this matters. Which concepts or entities does it inform?
 
 ## Connections
+- Cites: [[citekey]] — how (papers already in this wiki that this source discusses/draws on)
+- Cited by: [[citekey]] — how (backfilled when a later ingest cites this page; do not fill manually except during the interlinking retrofit)
 - Updates: [[concept-or-entity]] — how
 - Supports: [[concept-or-entity]] — how
 - Contradicts: [[concept-or-entity]] — reason

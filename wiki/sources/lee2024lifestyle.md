@@ -81,11 +81,13 @@ Lee VYJ, Houston L, Perkovic A, Barraclough JY, Sweeting A, Yu J, Fletcher RA, A
 ---
 
 ## Connections
+- Cited by: [[yi2025ai]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[supervised-exercise-training]] — lifestyle meta-analysis confirms exercise-based interventions work in HFpEF
 - Updates: [[obesity-hfpef]] — systematic evidence base for lifestyle (diet+exercise) in obese HFpEF; 6MWD +43.6m, weight −5.3 kg
 - Supports: [[step-hfpef]], [[summit]] — weight loss improves HFpEF outcomes (pharmacological analogue)
 - Contains: [[azhar2020protein]] as one of 6 included studies
+- Cites: [[kitzman2016secret]] — SECRET trial (Kitzman 2016) among the included studies, showed the largest combined diet+exercise benefit
 
 ---
 

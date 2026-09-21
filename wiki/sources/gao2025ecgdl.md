@@ -107,6 +107,7 @@ Both BNP and E/e' were in normal/near-normal range and did not differ between gr
 - Patent application filed on DLM method (Chinese patent 2023110099031.9) — potential conflict of interest
 
 ## Connections
+- Cited by: [[yi2025ai]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[hfpef-diagnosis]] — ECG-based deep learning can capture haemodynamic information beyond BNP or standard echocardiographic parameters
 - Connects to: [[pandey2021deepnnecho]] — parallel ML approach (echo-based DeepNN vs. ECG-based CNN-LSTM); both target early HFpEF risk identification

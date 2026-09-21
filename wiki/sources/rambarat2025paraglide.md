@@ -66,6 +66,7 @@ PARAGLIDE-HF sex analysis shows sex-consistent Sac/Val benefit, contrasting with
 - Contrasts: [[bozkurt2020sex]] — PARAGON-HF sex interaction (women benefit >men) not replicated in WHF population
 - Relevant: [[beale2018sex]], [[beale2019sex]] — women's HFpEF hemodynamics explain SH susceptibility
 - Connects: [[fudim2024paraglide]] — LVEF >60% and lower SBP predict SH; women concentrated in this phenotype
+- Cites: [[solomon2019paragon]] — PARAGON-HF's sex-treatment interaction is the trial this paper's sex-consistent PARAGLIDE-HF finding contrasts with
 
 ## Related Pages
 - Concepts: [[hfpef-phenotype-profiling]], [[hfpef-treatment-gap]]

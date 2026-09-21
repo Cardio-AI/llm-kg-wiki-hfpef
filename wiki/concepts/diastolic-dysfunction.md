@@ -9,7 +9,7 @@ tags:
 - mechanism
 - hfpef
 - physiology
-- haemodynamics
+- hemodynamics
 created: 2026-04-30
 last_updated: 2026-04-30
 sources:

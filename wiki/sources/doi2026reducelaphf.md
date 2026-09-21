@@ -2,6 +2,9 @@
 title: 'Heart Failure Duration, Cardiac Remodeling, Dysfunction, and Hemodynamic
   Severity in HFpEF and HFmrEF: Insights From REDUCE LAP-HF II'
 citekey: doi2026reducelaphf
+year: 2026
+authors: "Doi S, Kazui S, Akashi N, Patel RB, Komtebedde J, Mylavarapu U, Swarup V, Winkler S, Backhaus SJ, Litwin SE, Mohan RC, Kawash R, Sverdlov AL, Chung ES, Kaye DM, Hoendermis E, Cikes M, Hayward CS, Hummel SL, Starling R, Gupta DK, Zirlik A, McKenzie S, Nair A, Rieth A, Cutlip DE, Solomon SD, van Veldhuisen DJ, Leon MB, Silvestry FE, Shah SJ, Borlaug BA"
+journal: JACC Heart Fail
 tags:
 - hfpef
 - hfmref
@@ -10,7 +13,7 @@ tags:
 - atrial-shunt
 - reduce-lap-hf-ii
 - disease-duration
-- cardiac-remodeling
+- cardiac-remodelling
 - prognosis
 - phenotype
 created: 2026-07-15

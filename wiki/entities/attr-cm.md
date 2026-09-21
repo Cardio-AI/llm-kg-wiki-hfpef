@@ -39,7 +39,7 @@ ATTR cardiomyopathy results from accumulation of TTR amyloid fibrils in myocardi
 
 **Wild-type (ATTRwt):** Age-related TTR tetramer instability; predominantly elderly males; often presents as HFpEF. Estimated prevalence: 13–19% of HFpEF in series using systematic screening. (source: Pfeffer2019HFpEF)
 
-**Variant (ATTRv):** Autosomal dominant TTR gene point mutation; earlier age of onset; may include cardiomyopathy + polyneuropathy; 100+ pathogenic mutations; Val122Ile common in African Americans.
+**Variant (ATTRv):** Autosomal dominant TTR gene point mutation; earlier age of onset; may include cardiomyopathy + polyneuropathy; 100+ pathogenic mutations; Val122Ile common in African Americans. [needs source]
 
 ## Role in HFpEF
 
@@ -49,6 +49,8 @@ ATTR-CM is an HFpEF mimic/subphenotype clinically indistinguishable from standar
 - Low-flow low-gradient AS pattern
 - Bilateral carpal tunnel syndrome / spinal stenosis
 - Intolerance of RAAS inhibitors (hypotension)
+
+[needs source] — red-flag list above has no citation.
 - Cardiac scintigraphy uptake on bone-scan (DPD/PYP)
 
 Diagnosis: serum/urine immunofixation electrophoresis (exclude AL) → bone scintigraphy (DPD/Tc-PYP) → genetic testing if positive. Cardiac biopsy definitive if equivocal.

@@ -103,6 +103,7 @@ Kitzman DW, Whellan DJ, Duncan P, et al.; REHAB-HF Trial Investigators. Physical
 ---
 
 ## Connections
+- Cited by: [[mirzai2025exercise]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[supervised-exercise-training]] — extends exercise benefit to acutely hospitalised, extremely frail HF population including HFpEF
 - Updates: [[exercise-intolerance]] — post-hospitalisation rehabilitation addresses frailty component of exercise limitation

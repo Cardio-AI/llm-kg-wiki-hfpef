@@ -13,7 +13,7 @@ tags:
 - pharmacotherapy
 - raas
 - beta-blocker
-- sglt2-inhibitor
+- sglt2-inhibitors
 - systematic-review
 - meta-analysis
 created: 2026-05-18
@@ -95,6 +95,8 @@ The paper's central thesis is based on pressure-volume loop physiology:
 - Updates: [[hfpef]] — explains pharmacotherapy failure through hemodynamic/remodeling lens
 - Supports: [[hfpef-treatment-gap]] — RAAS inhibitors and β-blockers do not produce reverse remodeling in HFpEF
 - Extends: [[kaddoura2024betablocker]] — mechanistic rationale for β-blocker neutrality in HFpEF
+- Cites: [[Edelmann2013ALDODHF]] — Aldo-DHF listed in the "Key Trials Included" table (spironolactone, HFpEF, 12 mo)
+- Cites: [[solomon2012paramount]], [[solomon2019paragon]] — PARAMOUNT data on ARNI reducing filling pressures/E-e' without reverse remodelling, cited to explain PARAGON-HF's marginal benefit
 
 ---
 

@@ -40,7 +40,7 @@ sources:
 - ~10% of HFpEF as primary "AF-dominant" cluster in Shah 2014 phenomapping (source: [[shah2015phenomapping]])
 - AF incidence continues to rise in HFpEF patients due to shared LA remodelling substrate (source: [[anker2023hfpefphenotype]])
 
-**Demographics:** Older patients; more men than obese phenotype; higher comorbidity burden (hypertension, CAD)
+**Demographics:** Older patients; more men than obese phenotype; higher comorbidity burden (hypertension, CAD) [needs source]
 
 ## Bidirectional AF-HFpEF Relationship
 

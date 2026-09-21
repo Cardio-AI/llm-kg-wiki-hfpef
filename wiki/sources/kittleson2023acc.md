@@ -258,6 +258,16 @@ Color coding: SGLT2i = green border/yellow (Class 2a but may become Class I); lo
 - Entity: [[sacubitril-valsartan]] — sex+EF stratified recommendation; PARAGON sex interaction
 - Entity: [[spironolactone]] — NP-stratified benefit; women benefit; TOPCAT canrenone explanation
 - Sources: [[solomon2022deliver]], [[anker2021emperor]], [[pitt2014topcat]], [[solomon2019paragon]]
+- Cites: [[voors2022empulse]] — EMPULSE cited for empagliflozin in hospitalised acute decompensated HF
+- Cites: [[mebazaa2022stronghf]] — STRONG-HF cited supporting safe/effective in-hospital GDMT initiation
+- Cites: [[edelmann2013aldodhf]] — ALDO-DHF cited: spironolactone improves diastolic function and exercise capacity
+- Cites: [[massie2008ipreserve]] — I-PRESERVE cited alongside PARAGON-HF for the ACEi/ARB safety-paradox comparison
+- Cites: [[edelmann2025exdhf]] — Ex-DHF (Edelmann, N=64 pilot) cited: endurance/resistance training improved peak VO₂ and E/e'
+- Cites: [[abraham2011champion]] — CHAMPION (N=119) cited: 50% HF hospitalisation reduction at 17.6 months
+- Cites: [[lindenfeld2021guidehf]] — GUIDE-HF cited: no overall reduction (COVID-confounded), ~20% pre-COVID reduction
+- Cites: [[packer2025summit]], [[kosiborod2023stephfpef]] — SUMMIT and STEP-HFpEF flagged as the definitive GLP-1RA evidence, both since published
+- Cites: [[redfield2015neat]] — NEAT-HFpEF cited as the basis for not recommending nitrates in HFpEF
+- Cites: [[cowie2017sdb]] — SERVE-HF cited: avoid ASV in HFrEF EF <45%
 - Trials at time of ECDP: SUMMIT (NCT04847557, tirzepatide [Eli Lilly]) and STEP-HFpEF (NCT04788511, semaglutide [Novo Nordisk]) — both referenced as ongoing; both now published (STEP-HFpEF 2023; SUMMIT NEJM 2025)
 
 ## Related Pages

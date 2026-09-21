@@ -60,6 +60,7 @@ Invasive radial arterial pressure tracings (SphygmoCor, generalized transfer fun
 Referral-based sample (clinically indicated invasive CPET) may be subject to referral bias. Observational — causality cannot be inferred. Height differences between men and women may partly explain arterial-stiffness differences (SEVR association with sex was attenuated after adjusting for height/weight instead of BMI). Single/dual-centre exercise-referral HFpEF phenotype may reflect earlier disease stage and may not generalise to HFpEF samples with resting congestion.
 
 ## Connections
+- Cited by: [[duca2018genderdiff]] — added automatically from the reciprocal Cites: relationship recorded on that page
 - Updates: [[arterial-stiffness]] — first sex-stratified data added to this canonical page (AP, AIx, AoPP, SEVR by sex)
 - Updates: [[sex-differences-hfpef]] — adds arterial-stiffness/vascular-load mechanism with exercise-diastolic-reserve interaction data
 - Supports: [[beale2019sex]] — consistent with and extends prior invasive hemodynamic sex-difference findings (same broader research group; Ho JE co-author on both)

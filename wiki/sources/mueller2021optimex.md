@@ -108,6 +108,8 @@ Mueller S, Winzer EB, Duvinage A, et al.; OptimEx-Clin Study Group. Effect of Hi
 ---
 
 ## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[bohmke2022nonpharm]], [[mirzai2025exercise]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[supervised-exercise-training]] — HIIT = MCT in HFpEF (largest head-to-head); gains not sustained at 12 months
 - Updates: [[exercise-intolerance]] — exercise improves VO₂ but not diastolic function; peripheral mechanism

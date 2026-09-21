@@ -76,6 +76,7 @@ The finding that hospitalisation-requiring (level 1) WHF carries essentially all
 - Endpoint-construct precedent for: [[finearts-hf]] (total WHF events + CV death primary endpoint), [[deliver]] and [[mcmurray2019dapahf]] (both cited directly as expanded-WHF-definition precedents in the Discussion)
 - Concept: introduces/anchors the new [[worsening-heart-failure]] concept page
 - Contrast: [[empulse]], [[strong-hf]] — both act in the acute/post-WHF transition window this paper's taxonomy formalises
+- Cites: [[armstrong2020victoria]] — VICTORIA CEC probable-event reanalysis cited as a parallel precedent for expanded WHF definitions increasing trial power without reversing treatment direction
 
 ## Related Pages
 - Concepts: [[worsening-heart-failure]], [[acute-hf]], [[hfpef-treatment-gap]]

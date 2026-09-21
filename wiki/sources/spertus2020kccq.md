@@ -66,6 +66,13 @@ This paper is the direct evidentiary source for filling two of the three explici
 - Supplies the mechanistic/structural backbone for every KCCQ subscale figure already tabulated on [[kansas-city-cardiomyopathy-questionnaire]] (CSS in EMPEROR-Preserved/STEP-HFpEF/STEP-HFpEF DM/SUMMIT; TSS in DAPA-HF/EMPULSE/FINEARTS-HF; PLS in SOCRATES-PRESERVED/VITALITY-HFpEF; OSS in STEP-HFpEF DM/CAPACITY-HFpEF).
 - Provides the anchor-based derivation underlying every "≥5-point responder" or MCID claim made across trial source pages in this wiki (e.g., Udelson2020CAPACITY, Voors2022EMPULSE, Armstrong2020VITALITY).
 
+## Connections
+- Cites: [[anker2021emperor]] — EMPEROR-Preserved named as a KCCQ-CSS-reporting trial
+- Cites: [[kosiborod2024stephfpefdm]] — STEP-HFpEF DM named as a KCCQ-CSS and OSS reporting trial
+- Cites: [[mcmurray2019dapahf]] — DAPA-HF named as a KCCQ-TSS reporting trial
+- Cites: [[solomon2024finearts]] — FINEARTS-HF named as a KCCQ-TSS reporting trial
+- Cites: [[pieske2017socrates]] — SOCRATES-PRESERVED named as a KCCQ-PLS reporting trial
+
 ## Related Pages
 
 - Entities: [[kansas-city-cardiomyopathy-questionnaire]], [[step-hfpef]], [[summit]], [[finearts-hf]], [[sglt2-inhibitors]]

@@ -144,6 +144,7 @@ Serious adverse event rate was similar between arms; excess in overall adverse e
 - Generalisability to healthcare systems with limited post-discharge follow-up capacity is uncertain; required average 4.8 specialist visits over 90 days
 
 ## Connections
+- Cited by: [[kittleson2023acc]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[strong-hf]] (entity page) — primary source
 - Supports: [[mcdonagh2023escupdate]] — direct evidence base for ESC 2023 Class I post-discharge GDMT intensification recommendation (new in 2023 update)

@@ -55,10 +55,12 @@ RALI-DHF provides mechanistic proof-of-concept for the late I_Na → Ca²⁺ ove
 The [[fayyaz2025pathophys]] tissue-level review confirms diastolic Ca²⁺ handling dysfunction (SERCA2a, NCX) as a confirmed HFpEF mechanism, providing post-hoc biological validation of the RALI-DHF rationale.
 
 ## Connections
+- Cited by: [[damario2019cmd]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Mechanism: supports Ca²⁺/late I_Na arm of [[diastolic-dysfunction]] and [[coronary-microvascular-dysfunction]]
 - Contrasts with negative NO/cGMP pathway: [[redfield2015neat]], [[zamani2015indie]], [[redfield2013relax]], [[borlaug2024inable]]
 - Tissue-level validation: [[fayyaz2025pathophys]] (Ca²⁺ dysregulation confirmed in HFpEF myocardium)
 - Trial registry: RALI-DHF added to [[trials]]
+- Cites: [[armstrong2020vitality]] — VITALITY-HFpEF named among the negative NO/cGMP pathway trials RALI-DHF's Ca²⁺ mechanism is distinct from
 
 ## Related Pages
 - Concepts: [[diastolic-dysfunction]], [[coronary-microvascular-dysfunction]], [[hfpef-treatment-gap]]

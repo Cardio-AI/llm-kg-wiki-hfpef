@@ -6,13 +6,55 @@ config-page
 - [[timeline]] — chronological evolution of HFpEF understanding
 - [[contradictions]] — tensions between sources and pages
 - [[citations]] — master citekey → full citation registry; read this when asked for a reference
-- [[citations-doi-review]] — 8 citekeys needing manual DOI verification (public-release cleanup, 2026-07-14)
+- [[citations-doi-review]] — DOI verification tracking log; 0 open as of 2026-09-17 lint pass (9 stale null-DOI entries found and synced from citations.md during that pass)
+- [[tags-overview]] — canonical tag list with page counts and links; jump here instead of scanning individual pages for a topic
 - [[trials]] — master clinical trials overview table (all trials in wiki: title, abbreviation, intervention, condition, NCT, dates)
 - [[trials-pending]] — trials referenced in sources but not yet added; review before deciding to ingest
 - [[sources-pending-from-meta-analyses]] — candidate primary studies from meta-analyses for future ingest; prioritised by evidence potential
 - [[sources-missing]] — standalone papers referenced in wiki prose with no source page yet; review before ingest (2026-07-14)
 - [[candidate-pages-review]] — concept/entity/mechanism pages surfaced by mining all sources/concepts/entities; awaiting approval before creation (2026-07-14)
 - [[queries/index]] — answered questions saved as canonical query pages
+
+---
+
+## Quick Lookup by Type
+
+Jump straight to the relevant subsection instead of scanning the full Sources/Entities/Concepts lists below.
+
+**Entities by `entity_type`** (80 pages, see `### Clinical Trial Entities` etc. below; entity subsections group loosely by this field):
+
+| entity_type | Count |
+|---|---|
+| trial | 45 |
+| drug | 12 |
+| score | 5 |
+| comorbidity | 3 |
+| imaging-tool | 3 |
+| phenotype | 3 |
+| registry | 3 |
+| guideline | 1 |
+| disease | 1 |
+| diagnostic-tool | 1 |
+| study | 1 |
+| treatment-approach | 1 |
+| intervention | 1 |
+
+**Concepts by theme** (56 pages, see `## Concepts` subheadings below):
+
+| Theme | Count |
+|---|---|
+| Core Pathophysiology & Mechanisms | 16 |
+| Phenotypes & Comorbidity-Specific HFpEF | 14 |
+| Diagnostic Framework & Classification | 7 |
+| Exercise Physiology & Intolerance | 7 |
+| Treatment & Care Delivery | 7 |
+| Biomarkers | 3 |
+| AI / Machine Learning | 1 |
+| Vascular | 1 |
+
+**Sources by category** — see `## Sources` subheadings below (Guidelines and Consensus Documents, Registry Papers, Observational Studies, Scientific Statements, Clinical Trial Papers, Review Articles, Systematic Reviews and Meta-Analyses, Secondary Analyses, Trial Design Papers).
+
+For topic/keyword lookup across all page types, see [[tags-overview]].
 
 ---
 
@@ -29,6 +71,7 @@ config-page
 - [[lam2011hfpef]] — Lam 2011 (Eur J Heart Fail 13:18–28): HFpEF epidemiology and natural history review; HFpEF ~50% of all HF; prevalence rising 1%/year; annual mortality ~20–29% (similar to HFrEF); clinical profile: older, female, hypertensive, obese; no proven treatment at time of publication; foundational "why this matters" evidence
 - [[savarese2022globalburden]] — Savarese 2022 (Cardiovasc Res): global HF epidemiology invited review; >64 million worldwide; HFpEF 16–47% by registry; 5-year mortality ~50–75%; HFpEF prevalence rising; 7-registry distribution table; costs up to €25,532/year
 - [[kittleson2024accaha]] — Kittleson 2024 (JACC): 2024 update to 2020 ACC/AHA HF Performance & Quality Measures; 3 new PMs: PM-2 first HFpEF-specific performance measure (BP control: SBP<130+DBP<80 mmHg), PM-3 SGLT2i for HFrEF; 6 new QMs including QM-1 (SGLT2i for HFmrEF/HFpEF), QM-2 (SDOH screening), QM-6 (amyloid screen); formalises SGLT2i and BP control as US performance standards
+- [[pieske2019hfapeff]] — Pieske 2019 (Eur Heart J): HFA-PEFF 4-step diagnostic algorithm (P–E–F1–F2); composite score ≥5=HFpEF; AF-adjusted NP thresholds; canonical ESC/HFA diagnostic reference
 
 ### Registry Papers
 - [[seyler2017torch]] — TORCH registry rationale (Seyler 2017): 19 DZHK German centres; non-ischemic CMP; 2,300 patients; deep molecular phenotyping; obligatory echo/ECG/labs; biobank; modules: clinical, genomics, inflammation, biomarker
@@ -70,9 +113,6 @@ config-page
 - [[sachdev2023exercise]] — Sachdev 2023 AHA Statement: SET meta-analysis (8 RCTs, n=503); VO2 +2.8 mL/kg/min; skeletal muscle as primary exercise intolerance mechanism
 - [[borlaug2023statement]] — Borlaug 2023 JACC Scientific Statement: comprehensive HFpEF state-of-the-field; 5-phenotype Venn model; epidemiology (1-in-10 lifetime risk); SGLT2i first-line; 24 knowledge gaps; disease progression spectrum (LA→PH→RV)
 - [[mirzai2025exercise]] — Mirzai 2025 (Heart Fail Rev): state-of-the-art review ~30 exercise RCTs 2004–2024; MICT best evidence; HIIT not superior to MICT; ~1/3 non-responders; no hard outcomes
-
-### Consensus/Guideline Papers
-- [[pieske2019hfapeff]] — Pieske 2019 (Eur Heart J): HFA-PEFF 4-step diagnostic algorithm (P–E–F1–F2); composite score ≥5=HFpEF; AF-adjusted NP thresholds; canonical ESC/HFA diagnostic reference
 
 ### Clinical Trial Papers
 - [[cleland2021homage]] — HOMAGE: spironolactone vs. usual care in Stage B pre-HF (N=527); primary endpoint (galectin-3 × PIIINP interaction) neutral (P=0.947); PIIINP mean diff −0.15 µg/L (P=0.323); secondary echo/BP/NT-proBNP signals favourable but exploratory
@@ -301,59 +341,75 @@ config-page
 ---
 
 ## Concepts
+
+### Diagnostic Framework & Classification
 - [[hf-phenotype-classification]] — EF-based four-way classification of HF (HFrEF/HFmrEF/HFpEF/HFimpEF); AHA 2022 adds HFimpEF; rationale, caveats
 - [[guideline-comparison]] — ESC 2021 vs. AHA 2022 on HFpEF: definition, EF taxonomy, staging, diagnostics, pharmacotherapy; key divergences explained
 - [[hfpef-diagnosis]] — Diagnostic criteria, Table 9 markers, HFA-PEFF/H₂FPEF algorithms, invasive confirmation
 - [[hfpef-diagnostic-definitions]] — Seven competing definitions enroll 12–90% of same cohort; sensitivity/specificity vs. invasive CPET reference; trial populations non-interchangeable
-- [[hfpef-treatment-gap]] — Central problem: no proven disease-modifying therapy across full HFpEF population; failed trials catalogue; SET fills functional gap
+- [[noncardiac-dyspnea]] — Differential-diagnosis contrast class for exercise-unmasked HFpEF; basis for H₂FPEF score derivation
+- [[hfpef-mimics-differential-diagnosis]] — HCM, cardiac sarcoidosis, constrictive pericarditis, Fabry disease, haemochromatosis, high-output HF as active-exclusion phenocopies
+- [[hfpef-aba-score]] — 3-variable (BMI/Age/AF) pre-echo screening score; outperforms NT-proBNP alone for risk stratification
+
+### Core Pathophysiology & Mechanisms
 - [[diastolic-dysfunction]] — Impaired LV relaxation/stiffness → elevated filling pressures; core HFpEF mechanism; echocardiographic and invasive assessment
-- [[natriuretic-peptides]] — BNP/NT-proBNP; diagnostic thresholds including AF-adjusted values; limitations in obesity; NT-proBNP glycosylation at Thr-71 causes Elecsys assay to underestimate true NP concentration in obese/diabetic HFpEF (Hage 2026 tNT-proBNP)
-- [[biomarkers-hfpef]] — Hub page; six categories (natriuretic peptides, inflammatory, fibrosis, leukocyte ratios, iron deficiency, metabolic/renal) plus structural/imaging-derived biomarkers; includes tNT-proBNP glycosylation problem; multi-biomarker panel evidence; open questions on obesity-adjusted thresholds
-- [[exercise-intolerance]] — Dominant HFpEF symptom; primary mechanism is skeletal muscle myopathy (>50% of VO2 deficit); cardiac, pulmonary, vascular contributions secondary
-- [[ml-ai-hfpef]] — AI/ML in HFpEF: 4 domains (diagnosis, phenotyping, risk prediction, management); spironolactone responder ML; ECG-AI as scalable screening
-- [[hfpef-phenotype-profiling]] — Two-layer treatment model: SGLT2i universal + phenotype-guided add-on; 18 comorbidity phenotypes with prevalences; Figure 2 treatment wheel; CMD, iron deficiency, cancer HFpEF; LVEF 50–55% subgroup
 - [[coronary-microvascular-dysfunction]] — CMD; Paulus–Tschöpe paradigm: systemic inflammation → coronary microvascular endothelial inflammation → ↓NO/cGMP → titin stiffness + fibrosis; "common soil" hypothesis; NO/cGMP therapy failures paradox
-- [[pulmonary-hypertension-hfpef]] — PH in HFpEF; present in ~50–80%; IpcPH (passive) vs. CpcPH (reactive with vasculopathy); PAC outperforms PVR for prognosis; no proven pharmacological therapy for CpcPH in HFpEF
 - [[pericardial-restraint]] — Mechanical cardiac constraint from pericardium + paracardiac adipose tissue; limits biventricular filling at exercise; central obesity-HFpEF mechanism; pericardial fat modifiable (SUMMIT CMR: tirzepatide −43 mL)
-- [[hfpef-phenotypes]] — HFpEF phenotype framework; Shah 2014 phenomapping (4 clusters); Anker 2023 biomarker phenotyping; precision medicine rationale; phenotype-directed therapy
-- [[obese-metabolic-hfpef]] — Obese-metabolic HFpEF phenotype (~30%); EAT, lipotoxicity, OSA; semaglutide KCCQ +7.8 pts/6MWD +20.3 m/weight −10.7% (STEP-HFpEF); SGLT2i universal
-- [[hypertensive-fibrotic-hfpef]] — Hypertensive-fibrotic HFpEF phenotype (~50%); concentric LV hypertrophy; sST2 HR 2.76; BP control (SBP<130), SGLT2i, MRA; best prognosis among HFpEF subtypes
-- [[atrial-fibrillation-hfpef]] — AF-dominant HFpEF phenotype (10–50%); loss of atrial kick; rhythm control OR 0.735/HR 0.74 vs. rate control; CABA-HFpEF ongoing
-- [[treatment-hfpef]] — Redirect stub → [[hfpef-treatment]]; resolves [[treatment-hfpef]] cross-references
-- [[hfpef-treatment]] — Treatment evidence synthesis; SGLT2i Class 2a/1; statins HR 0.74 non-ischaemic; GLP-1 RA; phenotype-directed therapy
 - [[inflammation-hfpef]] — Systemic inflammation in HFpEF; NLR/PLR trajectories; IL-6, TNF-α pathways; NLR trajectory HR 1.26; DHART2 anti-IL-1β pilot
 - [[hfpef-inflammatory-metabolic-paradigm]] — Extension of Paulus 2013 paradigm; HR 1.43 all-cause/HR 2.04 CV mortality/HR 2.83 rehospitalisation (I²=0%); inflammatory endotype (~30%)
-- [[iron-deficiency]] — Iron deficiency in HFpEF; 59% prevalence; FAIR-HFpEF 6MWT +49m; IV ferric carboxymaltose
-- [[sleep-disordered-breathing]] — SDB in HFpEF; 50–80% prevalence; CaMKII pathway; SERVE-HF contraindication (HFrEF context); OSA treatment
-- [[rhythm-control]] — Rhythm vs. rate control in AF+HFpEF; OR 0.735 (I²=0%) meta-analysis; EAST-AFNET4 HR 0.74
-- [[ventilatory-limitation]] — Ventilatory limitation in obese HFpEF; 62–85% dynamic hyperinflation; NTG doesn't improve exercise
-- [[heart-lung-interactions]] — Dynamic hyperinflation → ↑PCWP; ΔEELV vs. ΔPCWP correlation (r²=0.167)
-- [[ecg-biomarkers-hfpef]] — QRS ≥120 ms HR 1.27/1.38 (TOPCAT); fQRS HR 1.90 for HFH; ECG surrogates for CMD and remodelling
 - [[myocardial-fibrosis]] — Diffuse interstitial fibrosis; sST2 HR 2.76 (I²=0%); ECV independent from CMD (r=−0.06); hfpef-fibrosis-paradigm
 - [[epicardial-adipose-tissue]] — EAT pathophysiology; pericardial restraint + paracrine inflammation; r=0.88 with LV eccentricity
-- [[arterial-stiffness]] — Exercise-divergent arterial stiffness; Ea/TACI uncoupling; inorganic nitrite reversal
-- [[sex-differences-hfpef]] — Female HFpEF predominance via 7 mechanisms (structure, vascular aging, menopause, comorbidity, obstetric history, immune biology, exercise hemodynamics); sex-differential arterial stiffness (Lau 2022); men die of HFpEF (RHF/SCD) vs. women die with HFpEF (Duca 2018)
 - [[nitric-oxide-pathway]] — eNOS → cGMP-PKG → titin phosphorylation; systemic inflammation → NO deficit
 - [[camkii]] — CaMKII oxidation by ROS (SDB/hypoxia) → Ca²⁺ dysregulation → AF substrate
-- [[peripheral-mechanisms-hfpef]] — A-VO₂ difference reserve β=0.66; peripheral skeletal muscle primary exercise limitation
 - [[cardiac-output-reserve]] — Peak CO 6.3 vs 7.6 L/min; EDV vs ESV reserve patterns in HFpEF
-- [[hfpef-disparities]] — Racial/ethnic disparities; Black women 7.4/1,000 PY; low BNP trap; ATTR V122I 3.43%
 - [[hemodynamics]] — PCWP 18→32 mmHg rest→exercise; haemodynamic reserve impairment; NP-guided therapy failure
 - [[cardiac-remodelling]] — Concentric LV hypertrophy dominant; QRS as remodelling marker; reverse remodelling with ARNi/SGLT2i
 - [[left-atrial-remodelling]] — LA dilation and dysfunction; PARAMOUNT LA volume −4.6 vs +0.37 mL; AF substrate
 - [[microvascular-dysfunction]] — CMD 70% prevalence (DIAMOND-HFpEF); fQRS ECG surrogate; independent of fibrosis
 - [[hfpef-fibrosis-paradigm]] — CMD and fibrosis as parallel independent prognostic axes (r=−0.06)
+- [[titin]] — Sarcomeric stiffness mechanism; N2BA→N2B isoform shift + hypophosphorylation; dynamically modifiable target
+
+### Biomarkers
+- [[natriuretic-peptides]] — BNP/NT-proBNP; diagnostic thresholds including AF-adjusted values; limitations in obesity; NT-proBNP glycosylation at Thr-71 causes Elecsys assay to underestimate true NP concentration in obese/diabetic HFpEF (Hage 2026 tNT-proBNP)
+- [[biomarkers-hfpef]] — Hub page; six categories (natriuretic peptides, inflammatory, fibrosis, leukocyte ratios, iron deficiency, metabolic/renal) plus structural/imaging-derived biomarkers; includes tNT-proBNP glycosylation problem; multi-biomarker panel evidence; open questions on obesity-adjusted thresholds
+- [[ecg-biomarkers-hfpef]] — QRS ≥120 ms HR 1.27/1.38 (TOPCAT); fQRS HR 1.90 for HFH; ECG surrogates for CMD and remodelling
+
+### Exercise Physiology & Intolerance
+- [[exercise-intolerance]] — Dominant HFpEF symptom; primary mechanism is skeletal muscle myopathy (>50% of VO2 deficit); cardiac, pulmonary, vascular contributions secondary
+- [[ventilatory-limitation]] — Ventilatory limitation in obese HFpEF; 62–85% dynamic hyperinflation; NTG doesn't improve exercise
+- [[heart-lung-interactions]] — Dynamic hyperinflation → ↑PCWP; ΔEELV vs. ΔPCWP correlation (r²=0.167)
+- [[peripheral-mechanisms-hfpef]] — A-VO₂ difference reserve β=0.66; peripheral skeletal muscle primary exercise limitation
+- [[chronotropic-incompetence]] — ~30–50% prevalence exercise-limiting mechanism; beta-blocker withdrawal improves VO2; rate-adaptive pacing failed
+- [[dynamic-hyperinflation]] — ΔEELV ≥150 mL from rest; 62% at 20W, 85% at peak exercise; raises exercise PCWP
+- [[inspiratory-muscle-training]] — Respiratory-muscle-specific training; distinct from aerobic/resistance modalities; Palau 2014 VO2peak +2.9 mL/kg/min
+
+### Phenotypes & Comorbidity-Specific HFpEF
+- [[hfpef-phenotype-profiling]] — Two-layer treatment model: SGLT2i universal + phenotype-guided add-on; 18 comorbidity phenotypes with prevalences; Figure 2 treatment wheel; CMD, iron deficiency, cancer HFpEF; LVEF 50–55% subgroup
+- [[pulmonary-hypertension-hfpef]] — PH in HFpEF; present in ~50–80%; IpcPH (passive) vs. CpcPH (reactive with vasculopathy); PAC outperforms PVR for prognosis; no proven pharmacological therapy for CpcPH in HFpEF
+- [[hfpef-phenotypes]] — HFpEF phenotype framework; Shah 2014 phenomapping (4 clusters); Anker 2023 biomarker phenotyping; precision medicine rationale; phenotype-directed therapy
+- [[obese-metabolic-hfpef]] — Obese-metabolic HFpEF phenotype (~30%); EAT, lipotoxicity, OSA; semaglutide KCCQ +7.8 pts/6MWD +20.3 m/weight −10.7% (STEP-HFpEF); SGLT2i universal
+- [[hypertensive-fibrotic-hfpef]] — Hypertensive-fibrotic HFpEF phenotype (~50%); concentric LV hypertrophy; sST2 HR 2.76; BP control (SBP<130), SGLT2i, MRA; best prognosis among HFpEF subtypes
+- [[atrial-fibrillation-hfpef]] — AF-dominant HFpEF phenotype (10–50%); loss of atrial kick; rhythm control OR 0.735/HR 0.74 vs. rate control; CABA-HFpEF ongoing
+- [[iron-deficiency]] — Iron deficiency in HFpEF; 59% prevalence; FAIR-HFpEF 6MWT +49m; IV ferric carboxymaltose
+- [[sleep-disordered-breathing]] — SDB in HFpEF; 50–80% prevalence; CaMKII pathway; SERVE-HF contraindication (HFrEF context); OSA treatment
+- [[rhythm-control]] — Rhythm vs. rate control in AF+HFpEF; OR 0.735 (I²=0%) meta-analysis; EAST-AFNET4 HR 0.74
+- [[sex-differences-hfpef]] — Female HFpEF predominance via 7 mechanisms (structure, vascular aging, menopause, comorbidity, obstetric history, immune biology, exercise hemodynamics); sex-differential arterial stiffness (Lau 2022); men die of HFpEF (RHF/SCD) vs. women die with HFpEF (Duca 2018)
+- [[hfpef-disparities]] — Racial/ethnic disparities; Black women 7.4/1,000 PY; low BNP trap; ATTR V122I 3.43%
 - [[pulmonary-arterial-pressure]] — IpcPH vs CpcPH; PCWP 32 mmHg at 20W; PA pressure monitoring
+- [[magnesium-hfpef]] — Serum Mg quintile treatment-effect modifier in EMPEROR-Preserved; lower Mg associated with worse outcomes
+- [[cancer-therapy-cardiotoxicity-hfpef]] — Anthracycline/taxane/trastuzumab/radiotherapy-induced HFpEF; iatrogenic phenotype with quantified per-agent incidence
+
+### Treatment & Care Delivery
+- [[hfpef-treatment-gap]] — Central problem: no proven disease-modifying therapy across full HFpEF population; failed trials catalogue; SET fills functional gap
+- [[treatment-hfpef]] — Redirect stub → [[hfpef-treatment]]; resolves [[treatment-hfpef]] cross-references
+- [[hfpef-treatment]] — Treatment evidence synthesis; SGLT2i Class 2a/1; statins HR 0.74 non-ischaemic; GLP-1 RA; phenotype-directed therapy
 - [[hemodynamic-monitoring]] — CardioMEMS; CHAMPION 28% HFH reduction; GUIDE-HF pre-COVID HR 0.81
 - [[acc-aha-hf-guidelines]] — 2022 AHA/ACC guidelines; PM-2 BP control; QM-1 SGLT2i for HFpEF
 - [[acute-hf]] — ADHF in HFpEF; NLR trajectory HR 1.26; haemodynamic management
 - [[worsening-heart-failure]] — WHF as trial construct: 3-tier hierarchical definition (hospitalisation/urgent outpatient/nonurgent outpatient); broadening increases event rate/power but not mortality specificity; underlies SOLOIST-WHF/PARAGLIDE-HF population definitions and FINEARTS-HF/DELIVER endpoint constructs
-- [[titin]] — Sarcomeric stiffness mechanism; N2BA→N2B isoform shift + hypophosphorylation; dynamically modifiable target
-- [[chronotropic-incompetence]] — ~30–50% prevalence exercise-limiting mechanism; beta-blocker withdrawal improves VO2; rate-adaptive pacing failed
-- [[noncardiac-dyspnea]] — Differential-diagnosis contrast class for exercise-unmasked HFpEF; basis for H₂FPEF score derivation
-- [[dynamic-hyperinflation]] — ΔEELV ≥150 mL from rest; 62% at 20W, 85% at peak exercise; raises exercise PCWP
-- [[magnesium-hfpef]] — Serum Mg quintile treatment-effect modifier in EMPEROR-Preserved; lower Mg associated with worse outcomes
-- [[hfpef-mimics-differential-diagnosis]] — HCM, cardiac sarcoidosis, constrictive pericarditis, Fabry disease, haemochromatosis, high-output HF as active-exclusion phenocopies
-- [[hfpef-aba-score]] — 3-variable (BMI/Age/AF) pre-echo screening score; outperforms NT-proBNP alone for risk stratification
-- [[cancer-therapy-cardiotoxicity-hfpef]] — Anthracycline/taxane/trastuzumab/radiotherapy-induced HFpEF; iatrogenic phenotype with quantified per-agent incidence
-- [[inspiratory-muscle-training]] — Respiratory-muscle-specific training; distinct from aerobic/resistance modalities; Palau 2014 VO2peak +2.9 mL/kg/min
+
+### AI / Machine Learning
+- [[ml-ai-hfpef]] — AI/ML in HFpEF: 4 domains (diagnosis, phenotyping, risk prediction, management); spironolactone responder ML; ECG-AI as scalable screening
+
+### Vascular
+- [[arterial-stiffness]] — Exercise-divergent arterial stiffness; Ea/TACI uncoupling; inorganic nitrite reversal

@@ -2,6 +2,9 @@
 title: "Prescribing trends of SGLT2 inhibitors among HFrEF and HFpEF patients with\
   \ and without T2DM, 2013\u20132021"
 citekey: gonzalez2024sglt2trends
+year: 2024
+authors: "Gonzalez J, Dave CV"
+journal: BMC Cardiovasc Disord
 tags:
 - hfpef
 - sglt2-inhibitors
@@ -86,3 +89,6 @@ Serial cross-sectional study using US MarketScan commercial and Medicare claims 
 
 - Entities: [[sglt2-inhibitors]], [[hfpef]], [[hfref]]
 - Sources: [[anker2021emperor]], [[solomon2022deliver]], [[requenaibanez2022sglt2]], [[minisy2025sglt2]]
+
+## Connections
+- Cites: [[mcmurray2019dapahf]], [[packer2020emperor]] — DAPA-HF (2019) and EMPEROR-Reduced (2020) publications cited as driving the largest jumps in SGLT2i prescribing

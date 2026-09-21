@@ -129,12 +129,14 @@ Exercise + diet combined: peak VO₂ +2.5 mL/kg/min (additive, no interaction P=
 - BNP median 22 pg/mL — very low; borderline HFpEF severity by contemporary standards; would not meet EMPEROR-Preserved or FINEARTS-HF enrolment criteria
 
 ## Connections
+- Cited by: [[borlaug2024inable]], [[lee2024lifestyle]], [[pfeffer2019hfpef]], [[edelmann2025exdhf]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[exercise-intolerance]] — caloric restriction and exercise both effective; mechanism involves skeletal muscle composition (lean/fat ratio)
 - Updates: [[supervised-exercise-training]] — establishes diet as comparably effective to exercise for VO₂; additive benefit of combining both
 - Updates: [[hfpef-treatment-gap]] — diet (caloric restriction) is an effective non-pharmacological intervention in obese HFpEF
 - Supports: [[hfpef-phenotype-profiling]] — obese phenotype (phenogroup 2 in Shah2015) appears particularly responsive; STEP-HFpEF later confirms GLP-1RA benefit in this subphenotype
 - Precursor to: [[step-hfpef]] — semaglutide as pharmacological approach to the weight loss benefit demonstrated in SECRET
+- Cites: [[anker2021emperor]], [[solomon2024finearts]] — SECRET's low baseline BNP (22 pg/mL) noted as below EMPEROR-Preserved/FINEARTS-HF enrolment thresholds
 
 ## Secondary Analyses & Data Reuse
 

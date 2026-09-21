@@ -167,12 +167,15 @@ SBP lowered −3.8±18.0 mmHg systolic, −2.1±10.5 mmHg diastolic at 6 months.
 - Citekey note: `Massie2008IPreserve` — original citekey in stub was `Massie2008IPRESERVE`; standardised to match citations.md
 
 ## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[ho2019hfpefdefinitions]], [[kittleson2023acc]], [[mcmurray2019dapahf]], [[packer2020emperor]], [[paulus2013novelparadigm]], [[abraham2011champion]], [[fayyaz2025pathophys]], [[lam2011hfpef]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Definitively closes ARB/RAAS hypothesis for overall HFpEF: [[hfpef-treatment-gap]]
 - Pair with [[yusuf2003charm]] — CHARM-Preserved borderline (P=0.051) + I-PRESERVE null (P=0.35) together = no RAAS signal in HFpEF across two large RCTs, two ARBs
 - Motivates MRA arm: discussion explicitly cites TOPCAT (NCT00094302) as next RAAS approach — [[pitt2014topcat]]
 - Related entity: [[i-preserve]]
 - Comparison: [[solomon2019paragon]] — PARAGON-HF showed sex/LVEF subgroup signals (8 years later); I-PRESERVE showed zero heterogeneity across 8 subgroups; different drugs, different eras, different findings
 - Guideline context: [[mcdonagh2021esc]], [[heidenreich2022aha]] — both classify ARBs as no benefit in HFpEF based partly on I-PRESERVE
+- Cites: [[solomon2022deliver]] — DELIVER named alongside CHARM-Preserved/PARAGON-HF as a higher-NYHA-III comparator population
 
 ## Secondary Analyses & Data Reuse
 

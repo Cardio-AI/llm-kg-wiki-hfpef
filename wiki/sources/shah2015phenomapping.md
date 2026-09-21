@@ -153,6 +153,7 @@ Phenogroup assignment: PG1 37 (34.6%), PG2 29 (27.1%), PG3 41 (38.3%)
 - Precursor to: [[step-hfpef]] — phenogroup 2 (obese/metabolic) = GLP-1RA target subphenotype
 - Precursor to: [[anker2023hfpefphenotype]] — 18-comorbidity phenotyping framework builds on this 3-phenogroup concept
 - Related: [[hfpef-diagnostic-definitions]] — phenogroup membership provides prognostic info beyond definitional criteria
+- Cites: [[pocock2013maggic]] — MAGGIC risk score used throughout as the adjustment/comparator benchmark for phenogroup prognostic value
 
 ## Secondary Analyses & Data Reuse
 

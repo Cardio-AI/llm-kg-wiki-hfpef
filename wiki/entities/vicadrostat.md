@@ -51,7 +51,7 @@ page-type: entity-page
 
 ## Role in HFpEF
 
-Aldosterone-mediated pathology in HFpEF includes myocardial fibrosis (via collagen synthesis), endothelial dysfunction, and sodium retention. TOPCAT and FINEARTS-HF established MRA class benefit in HFpEF/HFmrEF (HR 0.87, pooled; Turgeon 2025 Bayesian meta-analysis). ASI represents a mechanistically cleaner approach to blocking this pathway — without receptor-level partial agonism and with potential for fewer off-target effects.
+Aldosterone-mediated pathology in HFpEF includes myocardial fibrosis (via collagen synthesis), endothelial dysfunction, and sodium retention. TOPCAT and FINEARTS-HF established MRA class benefit in HFpEF/HFmrEF (HR 0.87, pooled; Turgeon 2025 Bayesian meta-analysis) (source: turgeon2025finearts). ASI represents a mechanistically cleaner approach to blocking this pathway — without receptor-level partial agonism and with potential for fewer off-target effects.
 
 The EASi-HF design tests vicadrostat as an ADD-ON to empagliflozin background therapy, reflecting the combination paradigm: SGLT2i provides baseline cardiorenal protection; ASI adds aldosterone suppression on top. This mirrors CONFIRMATION-HF (finerenone + empagliflozin).
 

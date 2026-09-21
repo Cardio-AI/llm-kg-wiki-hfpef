@@ -51,11 +51,13 @@ CHAMPION is the foundational evidence for device-based haemodynamic monitoring a
 This trial succeeds where most pharmacological HFpEF strategies had failed (RELAX, I-PRESERVE, CHARM-Preserved) — not by modifying myocardial biology but by real-time haemodynamic surveillance enabling personalised decompensation prevention. FDA approved CardioMEMS for NYHA III HF in April 2014 based on CHAMPION evidence.
 
 ## Connections
+- Cited by: [[kittleson2023acc]], [[pfeffer2019hfpef]], [[borlaug2023statement]], [[fudim2024rebalance]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Primary publication for: [[champion]] (trial entity)
 - Extended by: [[abraham2016champion]] (complete follow-up, Lancet 2016)
 - HFpEF subgroup: [[adamson2014champion]] (Circ Heart Fail 2014)
 - Related device trial: [[lindenfeld2021guidehf]] (GUIDE-HF, same device, broader EF, COVID-affected)
 - Mechanism context: [[hfpef-treatment-gap]], [[exercise-intolerance]]
+- Cites: [[yusuf2003charm]], [[massie2008ipreserve]], [[redfield2013relax]] — named as pharmacological HFpEF strategies that had failed, framing CHAMPION's device-based success as a different mechanistic route
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]], [[diastolic-dysfunction]]

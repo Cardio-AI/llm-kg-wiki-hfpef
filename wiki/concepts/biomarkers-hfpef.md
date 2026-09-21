@@ -15,13 +15,13 @@ created: 2026-05-19
 last_updated: 2026-05-19
 sources:
 - citekey: ammar2025bnp
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1007/s10741-024-10442-6
 - citekey: hage2026ntprobnp
   doi: 10.1016/j.ijcard.2026.134554
 - citekey: boralkar2019nlr
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1016/j.amjcard.2019.10.020
 - citekey: fu2024inflammation
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.3389/fcvm.2024.1461073
 - citekey: verma2024inflammation
   doi: 10.1016/j.jacc.2024.08.028
 page-type: concept-page
@@ -57,7 +57,7 @@ Biomarkers in HFpEF reflect six pathophysiological axes, each with distinct clin
 - **Glycosylation underestimation (Hage 2026):** Standard Elecsys NT-proBNP assays miss glycosylated NT-proBNP; tNT-proBNP (research-use-only) is ~3.6× higher than standard NT-proBNP in HFpEF; glycosylation is higher in HFpEF than HFrEF (ratio NT-proBNP/tNT-proBNP: 0.27 vs. 0.32; p=0.019), driven by obesity/diabetes/AF (source: [[hage2026ntprobnp]])
 - **Prognostic:** Meta-analysis (Ammar 2025) confirms both BNP and NT-proBNP predict outcomes in HFpEF; NT-proBNP may have marginal superiority in sensitivity; tNT-proBNP trended toward better prognostic accuracy (AUROC 0.710 vs. 0.682; p=0.068) (source: [[ammar2025bnp]], [[hage2026ntprobnp]])
 
-**MR-proANP:** ESC-endorsed alternative to NT-proBNP for HFpEF diagnosis (same diagnostic criteria apply).
+**MR-proANP:** ESC-endorsed alternative to NT-proBNP for HFpEF diagnosis (same diagnostic criteria apply). [needs source]
 
 ### 2. Inflammatory Biomarkers
 
@@ -69,7 +69,7 @@ Inflammation is a central pathophysiological axis in HFpEF — particularly the 
 | IL-6 | Drives CRP; mediates STAT3 → fibrosis | Targeted by tocilizumab (no HFpEF RCT) |
 | IL-1β | Direct myocardial depression; target of anakinra (D-HART2) | D-HART2: IL-1 blockade reduced hs-CRP but NOT VO₂ (source: [[vantassell2018dhart2]]) |
 | TNF-α | Promotes apoptosis and fibrosis | TNF inhibition trials in HFrEF were neutral; HFpEF untested |
-| Galectin-3 | Macrophage-secreted; fibrosis marker; predicts HF events | TOPCAT subanalysis: galectin-3 predicted outcomes in spironolactone-treated patients |
+| Galectin-3 | Macrophage-secreted; fibrosis marker; predicts HF events | TOPCAT subanalysis: galectin-3 predicted outcomes in spironolactone-treated patients [needs source] |
 | sST2 (soluble ST2) | Decoy receptor for IL-33; higher sST2 = worse HF prognosis | sST2 elevated in HFpEF; predicts HF hospitalisation (source: [[shi2022sst2]]) |
 
 Inflammatory biomarkers collectively support the **systemic inflammation → myocardial fibrosis** pathway described in the Paulus–Tschöpe paradigm (source: [[paulus2013novelparadigm]]). None is in routine clinical use for HFpEF management.
@@ -81,7 +81,7 @@ Inflammatory biomarkers collectively support the **systemic inflammation → myo
 | Collagen III N-terminal propeptide (PIIICP) | Cross-linked collagen synthesis; correlates with LV stiffness | Reduced GLS (suboptimal LVEF preservation) correlates with increased PIIICP in HFpEF (source: [[upadhya2025echo]]) |
 | TGF-β | Master fibrosis regulator; activates myofibroblasts | Elevated in HFpEF myocardial biopsies (source: [[fayyaz2025pathophys]]) |
 | Galectin-3 | Both inflammatory and fibrotic (also above) | Dual classification reflects crossover between axes |
-| TIMP-1 / MMP ratios | Matrix remodelling balance | Elevated TIMP-1 (reduced MMP activity) → net fibrosis |
+| TIMP-1 / MMP ratios | Matrix remodelling balance | Elevated TIMP-1 (reduced MMP activity) → net fibrosis [needs source] |
 
 ### 4. Leukocyte/Haematological Biomarkers
 
@@ -111,10 +111,10 @@ No Class I recommendation for IV iron in HFpEF from any guideline society (ESC C
 
 | Marker | HFpEF relevance |
 |---|---|
-| HbA1c | T2DM prevalence ~40% in HFpEF; marker of glycaemic burden driving glycosylation of NT-proBNP |
-| Cystatin C / eGFR-cystatin | Preferred eGFR marker for HFpEF patients on incretin-based therapy (SGLT2i, GLP-1 RA) — no early dip artifact (SUMMIT CKD subanalysis: net improvement +3.3 mL/min/1.73m² at 52 weeks with tirzepatide) |
-| Uric acid | Hyperuricaemia in HFpEF; xanthine oxidase-mediated oxidative stress |
-| Adiponectin / leptin | Dysregulation in obesity-HFpEF phenotype; leptin promotes cardiac fibrosis |
+| HbA1c | T2DM prevalence ~40% in HFpEF; marker of glycaemic burden driving glycosylation of NT-proBNP [needs source] |
+| Cystatin C / eGFR-cystatin | Preferred eGFR marker for HFpEF patients on incretin-based therapy (SGLT2i, GLP-1 RA) — no early dip artifact (SUMMIT CKD subanalysis: net improvement +3.3 mL/min/1.73m² at 52 weeks with tirzepatide) (source: [[packer2025summit-ckd]]) |
+| Uric acid | Hyperuricaemia in HFpEF; xanthine oxidase-mediated oxidative stress [needs source] |
+| Adiponectin / leptin | Dysregulation in obesity-HFpEF phenotype; leptin promotes cardiac fibrosis [needs source] |
 | Troponin (hs-TnI/T) | Subtle cardiomyocyte injury in HFpEF; prognostic but not diagnostic. In PARAGON-HF, 58.3% had hs-TnT >14 ng/L at baseline (adjusted HR 1.38 per doubling for the primary composite); sacubitril/valsartan reduced hs-TnT by 9–10% vs. valsartan, and patients whose hs-TnT fell to ≤17 ng/L by week 16 had better outcomes (P=0.046) (source: Gori2021PARAGON) |
 
 ### 7. Structural / Imaging-Derived Biomarkers

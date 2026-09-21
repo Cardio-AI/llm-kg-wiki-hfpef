@@ -2,6 +2,9 @@
 title: 'Semaglutide and NT-proBNP in Obesity-Related HFpEF: Insights From the STEP-HFpEF
   Program'
 citekey: petrie2024stephfpef
+year: 2024
+authors: "Petrie MC, Borlaug BA, Butler J, Davies MJ, Kitzman DW, Shah SJ, Verma S, Jensen TJ, Einfeldt MN, Liisberg K, Perna E, Sharma K, Ezekowitz JA, Fu M, Melenovsky V, Ito H, Lelonek M, Kosiborod MN"
+journal: J Am Coll Cardiol
 tags:
 - hfpef
 - treatment

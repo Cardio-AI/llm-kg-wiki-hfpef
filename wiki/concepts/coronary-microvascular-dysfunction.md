@@ -57,7 +57,7 @@ D'Amario 2019 (Front. Physiol.) elaborated the "common soil" concept: CMD is not
 
 ## Clinical Significance
 
-- CMD is prevalent in HFpEF (~40–75% in series using invasive coronary physiology testing)
+- CMD is prevalent in HFpEF (~40–75% in series using invasive coronary physiology testing) [needs source]
 - Predicts worse prognosis in HFpEF independent of obstructive CAD
 - Provides mechanistic rationale for anti-inflammatory and cGMP-targeting therapies (which have largely failed — see [[hfpef-treatment-gap]])
 - Statins (anti-inflammatory effect) and PDE-9 inhibitors identified as potential CMD-targeting agents in D'Amario 2019; no large RCT evidence in HFpEF

@@ -53,7 +53,7 @@ page-type: entity-page
 **Published:** N Engl J Med 2024;391:1475–85. DOI: 10.1056/NEJMoa2407107 (Solomon SD, McMurray JJV, Vaduganathan M, et al.)  
 **Funded by:** Bayer
 
-Finerenone is a non-steroidal, selective MRA with a more favourable electrolyte and renal profile than steroidal MRAs (spironolactone, eplerenone). Prior evidence: FIDELIO-DKD and FIGARO-DKD established finerenone efficacy in CKD+T2DM. FINEARTS-HF extends this to HFpEF/HFmrEF regardless of T2DM status.
+Finerenone is a non-steroidal, selective MRA with a more favourable electrolyte and renal profile than steroidal MRAs (spironolactone, eplerenone). Prior evidence: FIDELIO-DKD and FIGARO-DKD established finerenone efficacy in CKD+T2DM. [needs source] FINEARTS-HF extends this to HFpEF/HFmrEF regardless of T2DM status.
 
 ## Role in HFpEF
 

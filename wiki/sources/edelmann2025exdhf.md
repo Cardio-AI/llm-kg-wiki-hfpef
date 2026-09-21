@@ -53,11 +53,13 @@ Adherence (~53%) is a structural barrier for exercise as therapy — more demand
 Current ESC 2023 guidelines maintain exercise training as recommended (Class I, Level A) based on VO₂ and quality-of-life evidence. Ex-DHF supports physiological rationale but raises the bar for what the HFpEF field should demand from exercise trials.
 
 ## Connections
+- Cited by: [[bohmke2022nonpharm]], [[kittleson2023acc]], [[mirzai2025exercise]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Updates: [[supervised-exercise-training]] — largest 12-month exercise RCT; primary composite missed; VO₂ +1.3 mL/kg/min P=0.003; NYHA OR 5.89; adherence ~53%
 - Relevant: [[exercise-intolerance]] — VO₂ improvement confirms aerobic limitation is exercise-modifiable
 - Relevant: [[hfpef-treatment-gap]] — composite endpoint failure parallels pharmacological trial experience in HFpEF
 - Adjacent: [[sharif2024locomotor]] — shorter resistance-only pilot; consistent peripheral muscle adaptation
 - Adjacent: [[obaya2024aerobic]] — modality comparison; both support lower-limb training
+- Cites: [[kitzman2016secret]] — SECRET named alongside HF-ACTION as an earlier positive exercise trial that Ex-DHF extends in time horizon
 
 ## Related Pages
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]

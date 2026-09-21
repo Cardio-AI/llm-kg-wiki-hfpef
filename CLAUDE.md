@@ -20,6 +20,8 @@ Personal ontology-aware knowledge base maintained by Claude. Based on Karpathy's
 4. HTML/graph artifacts are compiled outputs
 5. Every derived artifact tracks provenance
 6. Changes propagate to dependent artifacts
+7. Source pages interlink via citation — cited-but-not-ingested on-topic papers go to `wiki/sources-missing.md` until ingested
+8. Depth of coverage is governed by HFpEF-relevance, not by page category — see Depth of Coverage below
 
 ## Governance Terms
 
@@ -139,7 +141,8 @@ Citekeys are stable and Zotero-synced. Format: `AuthorYearKeyword`.
 - Dense, precise, scientific — no padding
 - Explicit about uncertainty and evidence quality
 - Historical development: trace prior → current understanding with dates in `## History` sections; update `wiki/timeline.md`
-- Standard tags: `mechanism` · `trial` · `diagnosis` · `treatment` · `biomarker` · `imaging` · `guideline` · `ml-ai` · `open-question`
+- Standard tags: `mechanism` · `trial` · `diagnosis` · `treatment` · `biomarker` · `imaging` · `guideline` · `ml-ai` · `open-question` · `prognosis` · `review` · `systematic-review` · `meta-analysis`
+- Beyond the standard tags above, pages also carry open topic tags (drug names, mechanisms, comorbidities, etc.) — these are not a closed vocabulary. See `wiki/tags-overview.md` for the current full tag census; check it for a near-duplicate (spelling/synonym) before adding a new topic tag.
 
 ## Page Type Taxonomy
 
@@ -166,6 +169,17 @@ Maintain `wiki/trials.md` (master registry) and `wiki/trials-pending.md` (stagin
 **On every ingest:** Scan for trial names without wiki pages. For each: add to `wiki/trials-pending.md` with full title, abbreviation, intervention, population/LVEF threshold, NCT number, source citekey, and 1–4 sentences.
 
 **When a trial gets entity + source pages:** move it from `trials-pending.md` to `trials.md`. Required columns: Abbreviation · Full Title · Intervention · Condition (LVEF threshold) · NCT · Start · Completion · Wiki links. Mark unconfirmed NCT numbers `[verify on ingest]`.
+
+## Source Interlinking Rule
+
+On every ingest, scan the new source's own reference list:
+- Any reference that already has a wiki page → bidirectionally link it, via `Cites:` / `Cited by:` sub-bullets under `## Connections` (alongside the existing `Updates:` / `Supports:` / `Contradicts:` sub-bullets) — done as a targeted patch to the existing page, not a rewrite.
+- Any reference that is on-topic but not yet ingested → add to `wiki/sources-missing.md`.
+- When a `sources-missing.md` entry is later ingested, remove its entry and backfill `Cited by:` into the pages that cited it.
+
+## Depth of Coverage
+
+Depth of treatment is governed by **HFpEF-relevance**, applied paragraph-by-paragraph within a page — not by the page's entity/concept category. A comorbidity entity page (e.g. CKD, obesity, AF) gets full prose on its HFpEF-specific mechanistic link, and condensed 1–2 sentence treatment on aspects unrelated to HFpEF. Do not expand a page's non-HFpEF-relevant sections to match the depth of its HFpEF-relevant ones just because both live under the same page.
 
 ## Rules
 - Never modify `raw/`

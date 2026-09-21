@@ -75,6 +75,7 @@ Fills the central knowledge gap in [[hfpef-treatment-gap]]: [[supervised-exercis
 - Updates: [[diastolic-dysfunction]] — cardiac filling pressure elevation is secondary, not primary, exercise limiter
 - Supports: [[supervised-exercise-training]] — meta-analytic evidence for efficacy and safety
 - Supports: [[cardiopulmonary-exercise-testing]] — used as reference standard for mechanistic dissection
+- Cites: [[redfield2015neat]] — NEAT-HFpEF cited as an example negative trial showing functional metrics (VO2) can mislead about hard-outcome benefit
 
 ## Related Pages
 

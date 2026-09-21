@@ -84,6 +84,7 @@ McMurray JJV, Docherty KF, de Boer RA, et al. Effect of Dapagliflozin Versus Pla
 - Pooled analysis is exploratory/post-hoc; individual HFpEF arm did not meet primary endpoints
 
 ## Connections
+- Cited by: [[minisy2025sglt2]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Updates: [[sglt2-inhibitors]] — symptom benefit in HFrEF confirmed; HFpEF symptom signal borderline; 6MWD unreliable
 - Informs: [[supervised-exercise-training]] — 6MWD validity as outcome measure
 - Companion to: [[anker2021emperor]], [[solomon2022deliver]] — provides functional outcome data alongside event data

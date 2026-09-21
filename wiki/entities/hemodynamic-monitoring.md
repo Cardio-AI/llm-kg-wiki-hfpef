@@ -49,10 +49,10 @@ sources:
 (source: [[lindenfeld2021guidehf]])
 
 ### Mechanism
-Daily PA diastolic pressure transmission detects subclinical congestion **1–2 weeks before symptom onset** → pre-emptive outpatient medication adjustment (primarily diuretics, vasodilators) → prevents decompensation escalation
+Daily PA diastolic pressure transmission detects subclinical congestion **1–2 weeks before symptom onset** → pre-emptive outpatient medication adjustment (primarily diuretics, vasodilators) → prevents decompensation escalation [needs source]
 
 ### FDA Approval
-CardioMEMS approved for HFpEF based on accumulated CHAMPION + GUIDE-HF data
+CardioMEMS approved for HFpEF based on accumulated CHAMPION + GUIDE-HF data [needs source]
 
 ## Biomarker-Based: NP-Guided Therapy
 

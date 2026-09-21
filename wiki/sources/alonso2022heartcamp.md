@@ -106,6 +106,7 @@ HEART Camp addresses the most clinically underappreciated barrier to exercise tr
 ---
 
 ## Connections
+- Cited by: [[mirzai2025exercise]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Extends: [[supervised-exercise-training]] — identifies adherence as key implementation bottleneck; provides evidence-based adherence intervention
 - Extends: [[exercise-intolerance]] — behavioral model of exercise intervention specifically effective in HFpEF vs. HFrEF

@@ -14,7 +14,7 @@ tags:
 - glp1ra
 - treatment
 - obesity
-- cmr
+- cardiac-mri
 created: 2026-05-13
 last_updated: 2026-05-13
 sources:

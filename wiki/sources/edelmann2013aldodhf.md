@@ -109,6 +109,7 @@ Edelmann F, Wachter R, Schmidt AG, Kraigher-Krainer E, Colantonio C, Kamke W, Du
 - Surrogate endpoint (E/e') improved without functional benefit — questions validity of E/e' as a surrogate for clinical outcomes
 
 ## Connections
+- Cited by: [[kittleson2023acc]], [[lund2024spirrit]], [[vandebovenkamp2025hemodynamics]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[diastolic-dysfunction]] — MRA improves E/e' and LV mass but not exercise capacity or QoL in HFpEF
 - Supports: [[hfpef]] — structural reverse remodelling with spironolactone precedes functional improvement; possible dose/duration effect

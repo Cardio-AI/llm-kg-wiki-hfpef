@@ -81,7 +81,7 @@ Resting arterial stiffness is significantly higher in women with HFpEF than men,
 ## Clinical Implications
 
 - Arterial stiffness is a treatment target in HFpEF — BP control, particularly with agents improving NO bioavailability, may reduce exertional arterial stiffening
-- SGLT2 inhibitors have shown some effect on arterial stiffness in HF
+- SGLT2 inhibitors have shown some effect on arterial stiffness in HF [needs source]
 - Weight loss (GLP-1 RA) reduces sympathetic tone and vascular inflammation → reduced arterial stiffness
 - NO donors (nitrites/nitrates): acute hemodynamic benefit shown; long-term RCT data limited
 

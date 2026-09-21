@@ -74,6 +74,7 @@ This is the most comprehensive review of pericardium/EAT in HFpEF. Provides the 
 - Connects to: [[packer2025summit]] — semaglutide's EAT reduction as partial mechanism of STEP-HFpEF benefit
 - Connects to: [[ortegahernandez2024statins]] — statins reduce EAT; observational mortality benefit in non-ischaemic HFpEF
 - Connects to: [[leahy2025heartlung]] — pericardial restraint + dynamic hyperinflation are complementary pressure-elevating mechanisms in obese HFpEF
+- Cites: [[kosiborod2023stephfpef]] — STEP-HFpEF (semaglutide) specifically named as the trial studying GLP-1-driven EAT reduction
 
 ## Related Pages
 

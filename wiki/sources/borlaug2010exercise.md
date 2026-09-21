@@ -12,7 +12,7 @@ tags:
 - diagnosis
 - exercise
 - hemodynamics
-- cpet
+- cardiopulmonary-exercise-testing
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:

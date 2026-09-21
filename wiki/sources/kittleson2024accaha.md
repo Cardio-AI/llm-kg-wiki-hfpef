@@ -10,7 +10,7 @@ study_type: guideline/performance measures document
 evidence_level: N/A (regulatory/standards document)
 tags:
 - guideline
-- accaha
+- acc-aha
 - performance-measures
 - quality-measures
 - hfpef
@@ -76,6 +76,7 @@ This document formalises SGLT2i use and BP control as measurable standards for H
 - Supports: [[sglt2-inhibitors]] — SGLT2i now a quality measure for HFpEF (QM-1)
 - Connects to: [[attr-act]] / [[attr-cm]] — QM-6 formalises amyloid screening protocol
 - Connects to: [[ilonze2024disparities]] — SDOH screening (QM-2) directly addresses racial/ethnic disparities framework
+- Cites: [[anker2021emperor]], [[solomon2022deliver]] — EMPEROR-Preserved and DELIVER cited as the evidence base for the QM-1 SGLT2i quality measure
 
 ## Related Pages
 

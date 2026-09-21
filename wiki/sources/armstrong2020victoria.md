@@ -10,7 +10,7 @@ tags:
 - trial
 - hfref
 - treatment
-- no-cgmp
+- nitric-oxide-pathway
 created: 2026-05-12
 last_updated: 2026-05-12
 sources:
@@ -49,6 +49,7 @@ Primary composite HR 0.90 (95% CI 0.82–0.98; P=0.02). CV death alone: HR 0.93 
 Modest treatment effect (HR 0.90) with wide CI. Short median follow-up (~10.8 months). High NT-proBNP enrichment limits generalizability to lower-risk HFrEF. No HFpEF arm — any extrapolation to HFpEF requires separate trial data (VITALITY negative).
 
 ## Connections
+- Cited by: [[udelson2020capacity]], [[chaudhary2025worseninghf]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[victoria]] (entity page) — primary source
 - Supports: [[hfref]] — establishes sGC stimulation efficacy in HFrEF

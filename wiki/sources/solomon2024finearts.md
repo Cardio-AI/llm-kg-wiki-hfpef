@@ -141,6 +141,8 @@ First WHF event or CV death: HR 0.84 (95% CI 0.76–0.94)
 - TOPCAT comparison limited by different drug, trial design, and geographic contamination issue
 
 ## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[kitzman2016secret]], [[mahmood2024guidelines]], [[mcdonagh2023escupdate]], [[ferreira2023spironolactone]], [[spertus2020kccq]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[finearts-hf]] — full source data now ingested
 - Updates: [[hfpef-treatment-gap]] — confirms MRA class extends beyond SGLT2i for outcome benefit

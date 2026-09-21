@@ -1,6 +1,9 @@
 ---
 title: SGLT2-Inhibitors on HFpEF Patients. Role of Ejection Fraction
 citekey: requenaibanez2022sglt2
+year: 2023
+authors: "Requena-Ibanez JA, Santos-Gallego CG, Zafar MU, Badimon JJ"
+journal: Cardiovasc Drugs Ther
 tags:
 - hfpef
 - treatment

@@ -58,7 +58,7 @@ HFpEF poses challenges that AI is designed to address:
 ## Clinical Relevance
 
 ### Diagnosis
-- **ECG deep learning** (Unterhuber 2021, Kwon 2021): AUC ~0.87 from 12-lead ECG alone; NPV 0.98 — scalable screening rule-out in resource-limited settings; standard clinical ECG is non-diagnostic for HFpEF
+- **ECG deep learning** (Unterhuber 2021, Kwon 2021): AUC ~0.87 from 12-lead ECG alone; NPV 0.98 — scalable screening rule-out in resource-limited settings; standard clinical ECG is non-diagnostic for HFpEF (source: [[yi2025ai]])
 - **ECG-AI for AF detection in sinus rhythm** (Attia 2019, Lancet): CNN trained on 180,922 patients; AUC 0.87 for identifying patients with AF episodes based on sinus rhythm ECG — proof of concept that ECG holds AF substrate information invisible to clinical reading. **This study was NOT in HFpEF** but is a methodological precursor to ECG-AI HFpEF screening: if ECG can detect AF propensity (a key HFpEF comorbidity) in a clinically occult form, the same principle may apply to sub-clinical HFpEF-related electrical remodelling. (source: attia2019ecgaf)
 - **AI echocardiography (EchoGo HF v2, Akerman 2025):** External validation of Ultromics commercial echocardiographic AI in 240 adjudicated HFpEF cases + 256 controls (Mayo Clinic, prospective DECIPHER-HFpEF cohort); key results:
   - AUROC: AI 0.797 vs. H₂FPEF score 0.788 (P=0.001 for AI superiority)
@@ -67,8 +67,8 @@ HFpEF poses challenges that AI is designed to address:
   - AI-positive HR 2.56 (95% CI 1.46–4.51; P=0.001) for composite adverse outcome — prognostic independent of diagnosis
   - First external validation of a commercial AI tool for HFpEF; AUROC similar to conventional scores but intermediate rate 6-fold lower
 (source: akerman2025ai)
-- **3D-CNN echocardiography** (Akerman 2023): single apical 4-chamber clip sufficient; outperforms HFA-PEFF and H₂FPEF scores in non-diagnostic rate reduction; sensitivity 0.87
-- **NLP on EHR** (Garan 2023): F1=0.91 for ESC HFpEF identification; found 75.4% of meeting-criteria patients undiagnosed — largest underdiagnosis estimate in HFpEF literature; implications for trial recruitment and population burden estimates
+- **3D-CNN echocardiography** (Akerman 2023): single apical 4-chamber clip sufficient; outperforms HFA-PEFF and H₂FPEF scores in non-diagnostic rate reduction; sensitivity 0.87 (source: [[yi2025ai]])
+- **NLP on EHR** (Garan 2023): F1=0.91 for ESC HFpEF identification; found 75.4% of meeting-criteria patients undiagnosed — largest underdiagnosis estimate in HFpEF literature; implications for trial recruitment and population burden estimates (source: [[yi2025ai]])
 
 ### Phenotyping
 Consistent phenotypic axes across 11 studies (source: [[yi2025ai]]):
@@ -77,7 +77,7 @@ Consistent phenotypic axes across 11 studies (source: [[yi2025ai]]):
 - **Age/AF-dominant cluster**: lower filling pressure; atrial myopathy as mechanism
 - **Ischaemic cluster**: prior MI, CAD; distinct from pure pressure overload HFpEF
 
-Shah 2015 highest-risk phenotype: HR 4.2 (95% CI 2.0–9.1) for HF hospitalization — clinically actionable risk stratification.
+Shah 2015 highest-risk phenotype: HR 4.2 (95% CI 2.0–9.1) for HF hospitalization — clinically actionable risk stratification (source: [[shah2015phenomapping]]).
 
 ### Risk prediction
 Consistent top ML predictors across studies: NT-proBNP/BNP, eGFR, EF, E/e', age, BMI, AF history, loop diuretic use, NYHA class. These overlap substantially with MAGGIC risk score variables ([[pocock2013maggic]]), validating the conventional prognostic model while adding non-linear interactions.
@@ -86,15 +86,17 @@ Specific ML-derived insights:
 - LAD (left atrial dimension) is a top XGBoost feature for 90-day readmission (Zheng 2024)
 - Monocytes-to-lymphocytes ratio predicts 1-year readmission (Hu 2025) — inflammatory signature detectable from CBC
 - Fall risk and nutritional status captured in ML but absent from traditional scores
+(source: [[yi2025ai]])
 
 ### Treatment response (management)
 **Spironolactone responder analyses** (most clinically actionable ML finding in HFpEF):
 - Kresoja 2023 (TOPCAT N=3,445 + Aldo-DHF N=422): ML identifies responders; spironolactone reduces CV events in responders (log-rank P=0.008) vs non-responders (P=0.52) — treatment effect is real but population-level diluted
 - Desai 2024 (TOPCAT N=3,445): individualized treatment effect prediction; **BMI top contributor (33.7%)**; eGFR 27.3%, EF 15.1%, age 12.8% — high-BMI patients are the spironolactone responders
+(source: [[yi2025ai]])
 
 **Implication:** TOPCAT's overall null result (Pitt 2014 P=0.14) may be an enrichment failure, not a class failure. SGLT2i class likely has similar enrichment considerations; AI tools to identify SGLT2i high-responders not yet published.
 
-**Empagliflozin mechanism (in silico):** Bayes-Genis 2021 — primary mechanism is NHE1 (Na⁺/H⁺ exchanger 1) inhibition → reduced cardiomyocyte oxidative stress. Not clinically actionable yet but provides first computational pharmacological target model for HFpEF.
+**Empagliflozin mechanism (in silico):** Bayes-Genis 2021 — primary mechanism is NHE1 (Na⁺/H⁺ exchanger 1) inhibition → reduced cardiomyocyte oxidative stress. Not clinically actionable yet but provides first computational pharmacological target model for HFpEF (source: [[yi2025ai]]).
 
 ### Digital Health Interventions (mHealth)
 

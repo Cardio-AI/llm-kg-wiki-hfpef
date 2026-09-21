@@ -66,6 +66,7 @@ Pre-specified analysis of HF subgroup in EAST-AFNET4 (randomised 1:1 to ERC vs. 
 This is the most important trial evidence for rhythm control in AF+HFpEF patients. The HFpEF-predominant subgroup had significant benefit from ERC — comparable to HFmrEF and HFrEF — supporting a class-independent effect. Together with [[alsadawi2022rhythmcontrol]] (meta-analysis showing rhythm control over rate control), this establishes early rhythm control as a promising treatment strategy in AF+HFpEF. The benefit likely derives from AF→sinus rhythm conversion restoring atrial contribution to diastolic filling, which is disproportionately important in HFpEF.
 
 ## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[atrial-fibrillation]] — ERC significantly benefits AF+HF including HFpEF; no HF type interaction
 - Supports: [[alsadawi2022rhythmcontrol]] — consistent direction and significance for rhythm control benefit

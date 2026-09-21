@@ -96,6 +96,10 @@ Task Force explicitly considered but did **not** change HFpEF/HFmrEF terminology
 - **Supports:** [[anker2021emperor]], [[solomon2022deliver]] — same trials, now ESC-endorsed at Class I
 - **Adds:** STRONG-HF acute care paradigm (rapid intensification pre-discharge)
 - **Adds:** Finerenone Class I for CKD+T2DM (pathway toward FINEARTS-HF)
+- Cites: [[solomon2024finearts]] — FINEARTS-HF named as the pathway motivating finerenone's CKD+T2DM Class I status
+- Cites: [[vonhaehling2024fair]] — FAIR-HFpEF named as the pending HFpEF-specific iron-deficiency evidence
+- Cites: [[mebazaa2022stronghf]] — STRONG-HF cited as the added acute-care rapid-intensification paradigm
+- Cites: [[voors2022empulse]] — EMPULSE cited: empagliflozin in stable hospitalised acute HF, benefit independent of LVEF
 
 ---
 

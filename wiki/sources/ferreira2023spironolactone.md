@@ -2,6 +2,9 @@
 title: 'Spironolactone effect on cardiac structure and function in HFpEF: a pooled
   analysis of three randomized trials'
 citekey: ferreira2023spironolactone
+year: 2023
+authors: "Ferreira JP, Cleland JG, Girerd N, Bozec E, Rossignol P, Pellicori P, Cosmi F, Mariottoni B, Solomon SD, Pitt B, Pfeffer MA, Shah AM, Petutschnigg J, Pieske B, Edelmann F, Zannad F"
+journal: Eur J Heart Fail
 tags:
 - hfpef
 - treatment
@@ -84,3 +87,6 @@ Individual patient data (IPD) meta-analysis of three RCTs comparing spironolacto
 
 - Entities: [[spironolactone]], [[topcat]], [[aldo-dhf]], [[hfpef]], [[spirrit]], [[homage-trial]]
 - Sources: [[pitt2014topcat]], [[edelmann2013aldodhf]], [[turgeon2025finearts]], [[lund2024spirrit]]
+
+## Connections
+- Cites: [[solomon2024finearts]] — FINEARTS-HF confirmed MRA class effect on outcomes, situating this paper's echocardiographic data within a class-wide mechanistic framework

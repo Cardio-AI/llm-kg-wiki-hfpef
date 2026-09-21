@@ -2,6 +2,9 @@
 title: 'The Spironolactone Initiation Registry Randomized Interventional Trial in
   Heart Failure with Preserved Ejection Fraction (SPIRRIT-HFpEF): Rationale and design'
 citekey: lund2024spirrit
+year: 2024
+authors: "Lund LH, James S, Hage C, et al.; on behalf of the SPIRRIT-HFpEF Investigators"
+journal: Eur J Heart Fail
 tags:
 - hfpef
 - trial
@@ -88,6 +91,11 @@ Design paper for SPIRRIT-HFpEF (NCT02901184), a multicentre PROBE-design RRCT of
 - SPIRRIT addresses whether the TOPCAT Americas subgroup benefit is reproducible in a broader, more generalisable population
 - In the context of FINEARTS-HF (positive for finerenone), SPIRRIT results will determine whether MRA benefit is class-wide or finerenone-specific
 - As the first RRCT in chronic HF, it tests the pragmatic trial methodology for future large-scale inexpensive HF trials
+
+## Connections
+- Cites: [[Edelmann2013ALDODHF]] — Aldo-DHF listed in the MRA-landscape-in-HFpEF table (Table 1) as spironolactone precedent (improved diastolic function, not exercise capacity)
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[mahmood2024guidelines]], [[borlaug2023statement]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 ## Related Pages
 

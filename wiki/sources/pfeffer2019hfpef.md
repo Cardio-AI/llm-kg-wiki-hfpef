@@ -151,6 +151,11 @@ Primary pathophysiology synthesis for the wiki. Provides:
 - Updates: [[hfpef]] — ATTR 13–19% prevalence; cGMP/PKG cellular mechanism; titin
 - Updates: [[hfpef-treatment-gap]] — PEP-CHF trial; CHAMPION trial
 - Updates: [[exercise-intolerance]] — SECRET trial; peripheral/mitochondrial mechanisms
+- Cites: [[redfield2015neat]], [[zamani2015indie]] — NEAT-HFpEF and INDIE-HFpEF named in the NO-targeting nitrate trial failures
+- Cites: [[cleland2006pepchf]] — PEP-CHF cited in the historical RAAS trial landscape review
+- Cites: [[abraham2011champion]] — CHAMPION cited: haemodynamic monitoring reduced HF hospitalisation, confirmed in HFpEF ancillary analysis
+- Cites: [[kitzman2016secret]] — SECRET cited: exercise + caloric restriction additive benefit
+- Cites: [[patel2024reducelaphf]] — interatrial shunt device (NCT03088033) named among device trials ongoing at time of writing
 - Updates: [[hfpef-diagnosis]] — historical definition typology (6 types, 9 definitions)
 - Supports: [[diastolic-dysfunction]] — cGMP/PKG → myocyte stiffness mechanism; titin
 - Supports: [[topcat]] — Americas subgroup detail; Russia/Georgia data integrity

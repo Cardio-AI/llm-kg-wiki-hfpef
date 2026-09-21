@@ -16,7 +16,7 @@ created: 2026-05-12
 last_updated: 2026-05-13
 sources:
 - citekey: Edelmann2013ALDODHF
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1001/jama.2013.905
 page-type: entity-page
 ---
 # ALDO-DHF
@@ -67,6 +67,8 @@ page-type: entity-page
 ALDO-DHF enrolled a lower-risk, "purer" HFpEF population than TOPCAT or FINEARTS-HF:
 - Mean LVEF 67% (vs. TOPCAT ~59%; FINEARTS-HF 52.6%)
 - Median NT-proBNP 158 ng/L (vs. TOPCAT ~750 pg/mL; FINEARTS-HF 1040 pg/mL)
+
+[needs source] — also note: this page's TOPCAT LVEF figure (~59%) does not match `wiki/sources/pitt2014topcat.md`'s own stated median LVEF (56%, IQR 51–61%); flagged for verification, not silently reconciled.
 - Ambulatory only; 86% NYHA II; exclusively LVEF ≥50%
 - Shorter follow-up (12 months) — no mortality or hospitalisation data
 

@@ -12,7 +12,6 @@ journal: JACC Cardiovasc Imaging
 study_type: observational-prospective
 evidence_level: moderate
 tags:
-- cmd
 - coronary-microvascular-dysfunction
 - cardiac-mri
 - hfpef

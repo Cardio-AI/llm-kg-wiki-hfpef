@@ -4,8 +4,7 @@ title: Nitric Oxide Pathway in HFpEF
 summary: Reduced NO bioavailability is a central mechanism in HFpEF linking systemic inflammation and endothelial dysfunction to impaired LV relaxation, exercise arterial stiffening, and diastolic dysfunction; impaired cGMP-PKG signalling downstream of NO deficiency reduces titin phosphorylation, increases cardiomyocyte stiffness, and impairs myofilament calcium sensitivity; inorganic nitrite partially restores exercise hemodynamics.
 tags:
   - hfpef
-  - nitric-oxide
-  - cgmp-pkg-pathway
+  - nitric-oxide-pathway
   - mechanism
   - endothelial-dysfunction
   - treatment

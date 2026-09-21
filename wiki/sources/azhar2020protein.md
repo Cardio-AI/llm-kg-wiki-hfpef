@@ -81,6 +81,7 @@ Azhar G, Raza S, Pangle A, Coleman K, Dawson A, Schrader A, Wolfe RR, Wei JY. Po
 ---
 
 ## Connections
+- Cited by: [[mirzai2025exercise]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[supervised-exercise-training]] — combined nutrition + exercise approach in obese HFpEF
 - Supports: [[exercise-intolerance]] — exercise required for functional improvement; protein alone insufficient

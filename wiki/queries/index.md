@@ -12,3 +12,4 @@ Answered questions saved as canonical query pages.
 | [[exercise-unmasked-hfpef-diagnosis]] | Exertional dyspnea, normal resting echo — what additional diagnostic strategies are evidence-supported? | 2026-05-21 | 4/5 |
 | [[obesity-np-interpretation]] | How does obesity affect natriuretic peptide interpretation in HFpEF? | 2026-05-21 | 4/5 |
 | [[sex-differences-hfpef-risk]] | What parameters and risk factors cause the higher rate of HFpEF development in women? | 2026-05-21 | 4/5 |
+| [[hfpef-trial-inclusion-criteria]] | What are the common inclusion criteria across HFpEF clinical trials? | 2026-09-09 | 3/5 |

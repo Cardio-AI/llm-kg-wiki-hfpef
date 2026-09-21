@@ -15,7 +15,7 @@ tags:
 - trial
 - hfpef
 - treatment
-- no-cgmp
+- nitric-oxide-pathway
 - exercise-intolerance
 created: 2026-05-12
 last_updated: 2026-05-13
@@ -108,6 +108,8 @@ cGMP increase confirms drug reached its molecular target; absence of functional 
 - Target engagement confirmed (cGMP rise) but functional endpoint unchanged — mechanism failure, not engagement failure
 
 ## Connections
+- Cited by: [[pandey2021deepnnecho]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[ho2019hfpefdefinitions]], [[maurer2018attract]], [[udelson2020capacity]], [[yi2025ai]], [[zamani2015indie]], [[abraham2011champion]], [[damario2019cmd]], [[fayyaz2025pathophys]], [[lam2011hfpef]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[relax]] (entity page) — primary source
 - Supports: [[hfpef-treatment-gap]] — adds to catalogue of failed NO/cGMP strategies

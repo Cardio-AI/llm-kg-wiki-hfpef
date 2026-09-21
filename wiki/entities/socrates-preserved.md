@@ -9,7 +9,7 @@ tags:
 - trial
 - hfpef
 - treatment
-- no-cgmp
+- nitric-oxide-pathway
 created: 2026-05-12
 last_updated: 2026-07-16
 sources:

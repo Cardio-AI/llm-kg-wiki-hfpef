@@ -79,6 +79,7 @@ Phase 3 double-blind placebo-controlled RCT. Eligibility: LVEF ≥45%, BMI ≥30
 - KCCQ and 6MWD are surrogates/PROs — whether symptom improvement translates to outcomes benefit is uncertain pending SUMMIT
 
 ## Connections
+- Cited by: [[ilonze2024disparities]], [[mahmood2024guidelines]], [[timoteo2024eat]], [[wester2023sdb]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[step-hfpef]] (entity page) — primary source, confirmed NCT04788511, exact primary endpoints
 - Supports: [[obesity-hfpef]] — first large RCT demonstrating symptomatic benefit of GLP-1RA in obese HFpEF without T2DM; KCCQ +7.8 pts, 6MWD +20.3m, weight −10.7 pp
@@ -86,6 +87,7 @@ Phase 3 double-blind placebo-controlled RCT. Eligibility: LVEF ≥45%, BMI ≥30
 - Supports: [[hfpef-treatment-gap]] — first large positive pharmacological trial in HFpEF for symptomatic/functional endpoints (excluding hard outcomes)
 - Connects to: [[kosiborod2024stephfpefdm]] — DM companion trial (NCT04916470; KCCQ-CSS +7.3 pts, 6MWD +14.3m, weight −6.4%)
 - Connects to: [[summit]] — VO₂ + KCCQ co-primary; provides objective exercise capacity evidence in same obese HFpEF phenotype
+- Cites: [[udelson2020capacity]] — CAPACITY-HFpEF cited as the prior surrogate-positive precedent STEP-HFpEF's pattern resembles
 
 ## Secondary Analyses & Data Reuse
 

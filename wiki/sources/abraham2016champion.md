@@ -48,6 +48,7 @@ CHAMPION establishes haemodynamic monitoring as a device intervention that succe
 This evidence base underpins the LA pressure offloading hypothesis also tested by the atrial shunt (REDUCE LAP-HF II, [[patel2024reducelaphf]]) and informs the GUIDE-HF study (broader EF population).
 
 ## Connections
+- Cites: [[abraham2011champion]] — this is the complete follow-up/open-access-phase extension of the CHAMPION primary results paper
 - Establishes: device-based haemodynamic monitoring as HFpEF treatment modality; foundational for CardioMEMS clinical use
 - Supports: haemodynamic-guided therapy concept relevant to [[decipher-hfpef]]
 - Related: [[patel2024reducelaphf]] — atrial shunt (REDUCE LAP-HF II) targets same LA/PA pressure elevation via different mechanism

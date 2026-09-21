@@ -16,7 +16,7 @@ sources:
 - citekey: McDonagh2021ESC
   doi: 10.1093/eurheartj/ehab368
 - citekey: pitt2014topcat
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1056/NEJMoa1313731
 - citekey: pfeffer2022topcat
   doi: 10.1056/EVIDctcs2100007
 page-type: entity-page

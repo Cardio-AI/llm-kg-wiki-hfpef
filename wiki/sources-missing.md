@@ -23,6 +23,7 @@ last_updated: 2026-07-15
 
 | Paper (as named in prose) | Mentioned in | Context | Priority |
 |---|---|---|---|
+| McMurray et al., JACC 2023 | paraglide-hf.md | Primary PARAGLIDE-HF results paper (NT-proBNP ratio of change 0.85, 95% CI 0.73–0.999) — only the design paper (mentz2023paraglide) and secondary analyses (fudim2024paraglide, nouhravesh2025paraglide, rambarat2025paraglide) are currently ingested, not the primary results paper itself | Medium-high — primary trial-results gap, found during 2026-09-17 citation-coverage lint pass |
 | Selker et al. 2019 | zeid2025myomobile.md | Methodological source for the "EE2" efficacy/effectiveness trial design used by MyoMobile | Low — methodology reference, not a clinical outcome |
 | Peterson et al. (GWTG-HF risk score derivation) | boralkar2019nlr.md | GWTG-HF risk score calculation method | Low — score-derivation paper, score itself already used elsewhere |
 | Bermea 2024 (ML-derived HFpEF screening score) | achten2025screening.md | Compared against HFpEF-ABA score; "not validated broadly, proof-of-concept only" | Low |
@@ -43,9 +44,8 @@ last_updated: 2026-07-15
 ## Flagged for verification, not action
 - **MAYOR-HFpEF** (mentioned in `hfpef-phenotypes.md`, "Anker 2023: Biomarker + Clinical Phenotyping, N=300+") — this cohort name doesn't recur anywhere else, and `Anker2023HFpEFPhenotype` is otherwise described elsewhere as a consensus/scientific-statement document, not a primary cohort study. Possible naming error in the citing page — worth checking against the original source before treating as a real gap.
 
-## Follow-up needed: 4 new meta-analyses not yet transcribed into `sources-pending-from-meta-analyses.md`
-The discovery pass surfaced large component-study tables inside these already-ingested reviews that haven't been broken out into that registry's per-meta-analysis section format yet (unlike Lee2024, Lin2023CMD, Kaddoura2024, Fu2024, vanDeBovenkamp2025, and Ammar2025, which already have sections there):
-- `yi2025ai.md` — ~25 individual AI/ML papers across diagnosis/phenotyping/risk-prediction/management domains
+## Follow-up needed: 3 meta-analyses not yet transcribed into `sources-pending-from-meta-analyses.md`
+The discovery pass surfaced large component-study tables inside these already-ingested reviews that haven't been broken out into that registry's per-meta-analysis section format yet (unlike Lee2024, Lin2023CMD, Kaddoura2024, Fu2024, vanDeBovenkamp2025, Ammar2025, and now Yi2025AI — done 2026-09-18, see `sources-pending-from-meta-analyses.md` → "From Yi 2025"):
 - `mahmood2024guidelines.md` — comparator trials (STOP-HF, PONTIAC, REACH-HFpEF) — partially covered above
 - `masri2026attrcm.md` — ATTR-CM drug/gene-therapy trials — partially covered above
 - `bohmke2022nonpharm.md` — nonpharmacological/nutrition trial components — partially covered above

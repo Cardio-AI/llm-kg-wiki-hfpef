@@ -8,7 +8,7 @@ journal: International Journal of Cardiovascular Imaging
 tags:
 - imaging
 - diagnosis
-- hf-phenotype
+- hf-phenotypes
 created: 2026-05-15
 last_updated: 2026-05-15
 sources:

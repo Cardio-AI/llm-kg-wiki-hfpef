@@ -76,6 +76,7 @@ Most comprehensive mechanistic review of SDB-HFpEF interaction. Introduces the C
 - Extends: [[cowie2017sdb]] — adds mechanistic depth; [[suzuki2018sdb]] — supports SDB-arterial stiffness link
 - Connects to: [[packer2025summit]] — semaglutide (STEP-HFpEF/SUMMIT) specifically targets metabolic obese phenotype where SDB is highest
 - Connects to: [[rillig2021eastafnet4]] — SDB drives AF via CaMKII-dependent atrial arrhythmogenesis in HFpEF
+- Cites: [[kosiborod2023stephfpef]] — STEP-HFpEF specifically named for semaglutide's metabolic-obese-phenotype relevance to SDB
 
 ## Related Pages
 

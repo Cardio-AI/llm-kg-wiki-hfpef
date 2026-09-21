@@ -152,11 +152,13 @@ Solomon SD, McMurray JJV, Anand IS, et al.; PARAGON-HF Investigators and Committ
 - Run-in enrichment may explain smaller-than-anticipated treatment difference
 
 ## Connections
+- Cited by: [[maurer2018attract]], [[udelson2020capacity]], [[fayyaz2025pathophys]], [[fudim2024paraglide]], [[landsteiner2025hemodynamics]], [[mentz2023paraglide]], [[rambarat2025paraglide]], [[sauer2026pharmacological]], [[vandebovenkamp2025hemodynamics]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Near-miss: [[sacubitril-valsartan]] — FDA label extension vs. no ESC recommendation; AHA 2022 Class 2b
 - Comparison: [[mcmurray2014paradigm]] — PARADIGM-HF (HFrEF) had nearly identical entry criteria except lower EF; the differential benefit by EF supports an EF-sensitivity of ARNI effects
 - Informs: [[hfpef-treatment-gap]] — sex/EF subgroup signal motivates further sub-phenotyped trials
 - Related entity: [[paragon-hf]]
 - Sex signal relevant to: [[hfpef]] epidemiology (women constitute majority of high-EF HFpEF)
+- Cites: [[solomon2022deliver]] — DELIVER's positive KCCQ win ratio contrasted with PARAGON-HF's NS KCCQ decline in both arms
 
 ## Secondary Analyses & Data Reuse
 

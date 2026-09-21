@@ -166,6 +166,14 @@ New data not previously in wiki:
 - Updates: [[fair-hfpef]] — iron deficiency 50–75%; FAIR-HFpEF/PREFER-HF ongoing (note: FAIR-HFpEF subsequently published 2024)
 - Supports: [[hfpef-phenotype-profiling]] — primary source for this concept page
 - Supports: [[exercise-intolerance]] — peripheral mechanism and HIIT data (Mueller 2021, referenced)
+- Cites: [[mueller2021optimex]] — Mueller 2021 (OptmEx-Clin) referenced for HIIT exercise data
+- Cites: [[massie2008ipreserve]], [[yusuf2003charm]] — CHARM and I-PRESERVE named in the chronotropic-incompetence and RAAS-failure sections
+- Cites: [[solomon2024finearts]] — FINEARTS-HF (NCT04435626) named as the ongoing novel-MRA-class trial
+- Cites: [[kosiborod2023stephfpef]], [[packer2025summit]] — SUMMIT and STEP-HFpEF named for GLP-1RA obesity treatment in HFpEF
+- Cites: [[mcmurray2019dapahf]] — DAPA-HF named alongside EMPEROR-Preserved for consistent SGLT2i benefit by sex
+- Cites: [[rillig2021eastafnet4]] — EAST-AFNET4 named for early-rhythm-control evidence extrapolated to HFpEF
+- Cites: [[lund2024spirrit]] — SPIRRIT (NCT02901184) named as ongoing to delineate MRA role in HFpEF
+- Cites: [[berk2025patisiran]] — APOLLO-B/patisiran (NCT03997383) named as ongoing RNA-interference ATTR-CM trial
 - Supports: [[ml-ai-hfpef]] — phenotype subgrouping as ML target
 
 ---

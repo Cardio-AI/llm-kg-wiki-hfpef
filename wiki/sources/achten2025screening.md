@@ -2,6 +2,9 @@
 title: 'Time to screen: rationale and roadmap for HFpEF screening in individuals with
   obesity'
 citekey: achten2025screening
+year: 2025
+authors: "Achten A, Peeters L, Verkoulen G, Weerts J, Knackstedt C, Boerma EJ, van Empel V, Sanders-van Wijk S"
+journal: Heart Fail Rev
 tags:
 - hfpef
 - obesity
@@ -97,6 +100,9 @@ Narrative review (Maastricht UMC + Zuyderland Medical Center, Netherlands). Argu
 - Do screening-detected cases respond better to treatment than symptom-detected cases? (early intervention hypothesis)
 - Can GLP-1RA or SGLT2i halt pre-HFpEF structural progression in obese individuals?
 - Should waist circumference replace BMI as the screening criterion (better correlates with visceral fat)?
+
+## Connections
+- Cites: [[solomon2022deliver]] — DELIVER's BMI-consistent SGLT2i benefit cited as rationale for first-line SGLT2i in confirmed HFpEF
 
 ## Related Pages
 

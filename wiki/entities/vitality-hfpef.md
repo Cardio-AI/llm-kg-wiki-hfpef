@@ -9,9 +9,8 @@ entity_type: trial
 tags:
 - hfpef
 - trial
-- cgmp
 - vericiguat
-- no-pathway
+- nitric-oxide-pathway
 - treatment
 created: 2026-05-13
 last_updated: 2026-05-13

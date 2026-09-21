@@ -30,8 +30,8 @@ sources:
 
 | Geometry | Definition | Prevalence in HFpEF | Prognosis |
 |----------|-----------|---------------------|----------|
-| **Concentric hypertrophy** | ↑ LV mass + ↑ relative wall thickness | ~50% | Intermediate |
-| **Concentric remodelling** | Normal LV mass + ↑ relative wall thickness | ~25% | Better |
+| **Concentric hypertrophy** | ↑ LV mass + ↑ relative wall thickness | ~50% | Intermediate | [needs source]
+| **Concentric remodelling** | Normal LV mass + ↑ relative wall thickness | ~25% | Better | [needs source]
 | **Eccentric hypertrophy** | ↑ LV mass + normal relative wall thickness | ~15% | Worse |
 | Normal geometry | Normal LV mass + normal relative wall thickness | ~10% | Best |
 
@@ -63,8 +63,8 @@ See [[left-atrial-remodelling]] for details:
 
 - **ARNi (sacubitril/valsartan):** Reverses LA remodelling (PARAMOUNT, source: [[solomon2012paramount]])
 - **Antihypertensive therapy:** Reduces LV wall thickness (LV hypertrophy regression) with BP control
-- **SGLT2 inhibitors:** May reduce LV mass (some observational data); mechanism: reduce preload + afterload + inflammation
-- **GLP-1 RA:** Weight loss → reduced metabolic stress → partial LV geometry improvement
+- **SGLT2 inhibitors:** May reduce LV mass (some observational data); mechanism: reduce preload + afterload + inflammation [needs source]
+- **GLP-1 RA:** Weight loss → reduced metabolic stress → partial LV geometry improvement [needs source]
 
 ## Open Questions
 

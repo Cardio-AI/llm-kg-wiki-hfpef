@@ -13,7 +13,7 @@ tags:
 - hemodynamics
 - exercise
 - definition
-- clinical-trial
+- clinical-trials
 created: 2026-05-14
 last_updated: 2026-05-14
 sources:
@@ -87,6 +87,7 @@ Referral-based cohort — may not generalise to community HFpEF populations. Upr
 - Updates: [[exercise-intolerance]] — exercise PCWP/CO slope as prognostic metric; exercise-unmasked group has independent adverse prognosis
 - Supports: [[borlaug2010exercise]] — large contemporary dataset confirming exercise hemodynamics unmask a major proportion of HFpEF
 - Contradicts: reliance on NT-proBNP thresholds for trial enrollment — 67–71% of HC-HFpEF excluded; see [[contradictions]]
+- Cites: [[solomon2019paragon]] — PARAGON-HF criteria included in the clinical-trial enrichment analysis (11% of cohort met criteria)
 
 ## Related Pages
 

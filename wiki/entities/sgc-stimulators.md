@@ -8,8 +8,7 @@ summary: "Soluble guanylate cyclase (sGC) stimulator drug class (vericiguat, pra
 entity_type: drug
 tags:
   - treatment
-  - no-cgmp
-  - cgmp
+  - nitric-oxide-pathway
   - hfpef
 created: 2026-07-15
 last_updated: 2026-07-15

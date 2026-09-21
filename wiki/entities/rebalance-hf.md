@@ -32,7 +32,7 @@ REBALANCE-HF tested endovascular catheter-based greater splanchnic nerve ablatio
 
 ## Mechanism
 
-The splanchnic venous bed contains ~30–40% of circulating blood volume under sympathetic control. In HFpEF, elevated MSNA drives splanchnic venoconstriction during exercise, mobilising this reservoir centrally and dramatically increasing pulmonary venous return and PCWP. Ablating the greater splanchnic nerve reduces adrenergic venoconstriction → blunted exercise-induced preload surge → lower PCWP. Distinct from diuretics (removes volume) and haemodynamic monitoring (pre-emptive decongestive adjustment).
+The splanchnic venous bed contains ~30–40% of circulating blood volume under sympathetic control. In HFpEF, elevated MSNA drives splanchnic venoconstriction during exercise, mobilising this reservoir centrally and dramatically increasing pulmonary venous return and PCWP. Ablating the greater splanchnic nerve reduces adrenergic venoconstriction → blunted exercise-induced preload surge → lower PCWP. Distinct from diuretics (removes volume) and haemodynamic monitoring (pre-emptive decongestive adjustment). [needs source]
 
 ## Clinical Context
 

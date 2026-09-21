@@ -182,12 +182,15 @@ EMPEROR-Reduced is an HFrEF trial foundational to this wiki for four reasons:
 4. **Hematocrit +2.36%:** Erythropoiesis signal matched across DAPA-HF (+2.41%), DELIVER, EMPEROR-Preserved — candidate mechanism for exercise capacity improvement downstream.
 
 ## Connections
+- Cited by: [[gonzalez2024sglt2trends]], [[minisy2025sglt2]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Same drug programme: [[anker2021emperor]] (EMPEROR-Preserved, HFpEF) — identical design, directly comparable
 - Companion trial (different SGLT2i): [[mcmurray2019dapahf]] (DAPA-HF; dapagliflozin; consistent HR ~0.74)
 - Class effect confirmed: DAPA-HF + EMPEROR-Reduced meta-analysis HR ~0.74; no heterogeneity
 - EF spectrum: EMPEROR-Reduced + EMPEROR-Preserved pooled → continuous EF benefit, same as PARADIGM + PARAGON
 - Motivates: [[solomon2022deliver]] (dapagliflozin, HFpEF/HFmrEF)
+- Cites: [[massie2008ipreserve]] — I-PRESERVE's longer follow-up cited as context for EMPEROR-Reduced's shorter 16-month duration
+- Cites: [[mcmurray2014paradigm]] — PARADIGM-HF pooled with PARAGON-HF cited for the EF-gradient benefit pattern
 - Guideline context: [[mcdonagh2021esc]] Class I; [[heidenreich2022aha]] Class I for HFrEF
 
 ## Secondary Analyses & Data Reuse

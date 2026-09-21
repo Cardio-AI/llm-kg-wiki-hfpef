@@ -13,7 +13,7 @@ evidence_level: high
 tags:
 - trial
 - acute-hf
-- sglt2i
+- sglt2-inhibitors
 - treatment
 created: 2026-05-12
 last_updated: 2026-05-13
@@ -164,6 +164,7 @@ Notable: serious adverse events were numerically lower with empagliflozin (32.3%
 - Short enrolment window (June 2020–February 2021); ARNI use low (13.6%), SGLT2i use at baseline not reported (de novo patients would not be on it)
 
 ## Connections
+- Cited by: [[kittleson2023acc]], [[minisy2025sglt2]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[empulse]] (entity page) — primary source
 - Supports: [[sglt2-inhibitors]] — extends SGLT2i evidence to in-hospital acute HF initiation; complements EMPEROR-Preserved + DELIVER (chronic HF) evidence

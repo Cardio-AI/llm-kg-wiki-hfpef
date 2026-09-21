@@ -109,12 +109,15 @@ Rank order by model feature importance: e' velocity > E/e' ratio > LV mass index
 - Model not validated in a prospective, independently powered HFpEF outcomes trial
 
 ## Connections
+- Cited by: [[yi2025ai]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Supports: [[hfpef-phenotype-profiling]] — DeepNN identifies biologically distinct phenogroups with differential treatment response
 - Supports: [[topcat]] — TOPCAT Americas analysis consistent with spironolactone benefit in sicker subgroup; extends Pitt 2014 analysis
 - Supports: [[shah2015phenomapping]] — independent method (DeepNN vs. hierarchical clustering) converges on heterogeneous HFpEF phenogroups requiring personalised treatment
 - Updates: [[diastolic-dysfunction]] — DeepNN classification outperforms ASE 2016 guideline for hemodynamic correlation
 - Connects to: [[gao2025ecgdl]] — parallel approach using ECG instead of echo for HFpEF risk stratification
+- Cites: [[redfield2015neat]], [[redfield2013relax]] — NEAT-HFpEF and RELAX named as NO/cGMP-pathway comparator context
+- Cites: [[pocock2013maggic]] — MAGGIC risk score used as a comparator prognostic model to the DeepNN phenogroup classification
 - Contradicts: one-size-fits-all pharmacological trial designs (spironolactone null in unselected; benefit in high-risk subgroup); see `wiki/contradictions.md`
 
 ## Secondary Analyses & Data Reuse

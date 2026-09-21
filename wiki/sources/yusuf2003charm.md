@@ -145,12 +145,15 @@ SBP lowered −6.9 mmHg at 6 months vs. placebo (P<0.0001). By study end: 22% ca
 - Modest baseline imbalance favouring placebo arm in several prognostic factors
 
 ## Connections
+- Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[udelson2020capacity]], [[abraham2011champion]], [[fayyaz2025pathophys]], [[lam2011hfpef]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - First large RCT in HFpEF; provides historical context for [[hfpef-treatment-gap]]
 - Borderline hospitalisation signal → motivates I-PRESERVE (irbesartan, see [[massie2008ipreserve]])
 - Part of CHARM programme: CHARM-Added (HFrEF+ACEi) and CHARM-Alternative (HFrEF+ACEi-intolerant) both positive; CHARM-Preserved alone neutral overall
 - Entity: [[charm-preserved]]
 - Comparison: [[massie2008ipreserve]] — I-PRESERVE fully neutral with irbesartan; CHARM-Preserved borderline; together end RAAS enthusiasm for HFpEF
 - Diabetes reduction finding echoed in CHARM-Overall (22% reduction) and HOPE trial (ramipril)
+- Cites: [[anker2021emperor]], [[solomon2022deliver]] — EMPEROR-Preserved/DELIVER's older mean trial age (~72y) contrasted with CHARM-Preserved's
 
 ## Secondary Analyses & Data Reuse
 

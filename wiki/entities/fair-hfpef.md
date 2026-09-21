@@ -45,7 +45,7 @@ page-type: entity-page
 
 Iron deficiency affects 50–75% of HFpEF patients — predominantly functional iron deficiency (serum ferritin <100 μg/L or ferritin 100–299 + transferrin saturation <20%), rather than absolute iron deficiency alone. Iron is essential for mitochondrial oxidative phosphorylation in skeletal muscle and for haemoglobin synthesis. In HFpEF, iron deficiency compounds the exercise limitation from skeletal muscle myopathy and reduced cardiac output reserve. (source: [[sachdev2023exercise]])
 
-Background: In HFrEF, IV ferric carboxymaltose (CONFIRM-HF, AFFIRM-AHF) consistently improved 6MWT, KCCQ, and HF hospitalizations. The question in HFpEF is whether the mechanism — predominantly peripheral skeletal muscle, not systolic dysfunction — makes iron repletion equally or more beneficial.
+Background: In HFrEF, IV ferric carboxymaltose (CONFIRM-HF, AFFIRM-AHF) consistently improved 6MWT, KCCQ, and HF hospitalizations. [needs source] The question in HFpEF is whether the mechanism — predominantly peripheral skeletal muscle, not systolic dysfunction — makes iron repletion equally or more beneficial.
 
 Companion trial: PREFER-HF (NCT03833336) also tests IV iron in HFpEF.
 

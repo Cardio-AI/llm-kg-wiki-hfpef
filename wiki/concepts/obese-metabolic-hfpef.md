@@ -8,7 +8,7 @@ tags:
   - obesity
   - metabolic
   - glp1ra
-  - sglt2i
+  - sglt2-inhibitors
   - exercise-intolerance
 created: 2026-05-19
 last_updated: 2026-05-19

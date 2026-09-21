@@ -7,7 +7,7 @@ entity_type: trial
 tags:
 - trial
 - treatment
-- sglt2i
+- sglt2-inhibitors
 - acute-hf
 created: 2026-05-12
 last_updated: 2026-05-16
@@ -47,7 +47,7 @@ EMPULSE addresses the practical clinical question of whether SGLT2i can and shou
 
 ## Role in HFpEF
 
-EMPULSE enrolled HFpEF patients and found benefit consistent across LVEF groups. This is clinically critical: the ESC 2023 Class I recommendation for SGLT2i in HFpEF creates a practical gap — when should initiation occur if the patient presents acutely decompensated? EMPULSE provides the evidence base for in-hospital initiation across all EF groups.
+EMPULSE enrolled HFpEF patients and found benefit consistent across LVEF groups (source: [[voors2022empulse]]). This is clinically critical: the ESC 2023 Class I recommendation for SGLT2i in HFpEF creates a practical gap — when should initiation occur if the patient presents acutely decompensated? EMPULSE provides the evidence base for in-hospital initiation across all EF groups.
 
 Mechanistically, empagliflozin in acute HF may provide haemoconcentration and osmotic diuresis complementary to loop diuretic therapy, with potential cardiorenal protective effects. (source: [[anker2021emperor]], [[packer2020emperor]])
 

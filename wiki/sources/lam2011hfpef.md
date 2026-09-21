@@ -47,6 +47,8 @@ The clinical profile described (older, female, hypertensive, obese) directly ali
 - Informs: clinical phenotype descriptions in [[hfpef]], [[hfpef-diagnosis]]
 - Context for: "no proven treatment" basis in [[hfpef-treatment-gap]]
 - Natural history: disease progression spectrum formalised in [[borlaug2023statement]]
+- Cites: [[yusuf2003charm]], [[massie2008ipreserve]] — CHARM-Preserved and I-PRESERVE cited as neutral (2011 treatment landscape)
+- Cites: [[pitt2014topcat]], [[redfield2013relax]] — TOPCAT and RELAX cited as ongoing at time of writing
 
 ## Related Pages
 - Concepts: [[hfpef]], [[hfpef-treatment-gap]], [[diastolic-dysfunction]]

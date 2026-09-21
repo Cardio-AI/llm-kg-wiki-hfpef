@@ -3,6 +3,9 @@ title: 'Long term safety and outcomes after atrial shunting for heart failure wi
   preserved or mildly reduced ejection fraction: 5-year and 3-year follow-up in the
   REDUCE LAP-HF I and II trials'
 citekey: litwin2024reducelaphf
+year: 2024
+authors: "Litwin SE, Komtebedde J, Borlaug BA, Kaye DM, Hasenfuss G, Kawash R, Hoendermis E, Hummel SL, Cikes M, Gustafsson F, Chung ES, Mohan RC, Sverdlov AL, Swarup V, Winkler S, Hayward CS, Bergmann MW, Bugger H, McKenzie S, Nair A, Rieth A, Burkhoff D, Cutlip DE, Solomon SD, van Veldhuisen DJ, Leon MB, Shah SJ"
+journal: Am Heart J
 tags:
 - hfpef
 - hfmref

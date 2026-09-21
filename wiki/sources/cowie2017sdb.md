@@ -61,6 +61,7 @@ Cowie MR, Gallagher AM. Sleep Disordered Breathing and Heart Failure: What Does 
 This review establishes that SDB is highly prevalent in HFpEF and mechanistically intertwined with its pathophysiology. The SERVE-HF lesson (ASV harmful in HFrEF+CSA) limits treatment options. OSA-targeted treatment in HFpEF is a plausible intervention but lacks large-scale RCT evidence. Complements [[suzuki2018sdb]] (observational SDB+arterial stiffness), [[wester2023sdb]] (mechanistic review), and the pending SDB concept page.
 
 ## Connections
+- Cited by: [[kittleson2023acc]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - Updates: [[sleep-disordered-breathing]] — comprehensive epidemiology and treatment landscape
 - Supports: [[hfpef-phenotypes]] — obese HFpEF phenotype strongly associated with OSA

@@ -11,7 +11,7 @@ tags:
 - trial
 - hfpef
 - nitrate
-- no-pathway
+- nitric-oxide-pathway
 - accelerometry
 created: 2026-04-30
 last_updated: 2026-05-04
@@ -72,6 +72,8 @@ Redfield MM, Anstrom KJ, Levine JA, et al.; NHLBI Heart Failure Clinical Researc
 - Primary P=0.06 technically non-significant; harm signal from combined-dose analysis (P=0.02)
 
 ## Connections
+- Cited by: [[pandey2021deepnnecho]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[kittleson2023acc]], [[maurer2018attract]], [[pfeffer2019hfpef]], [[sachdev2023exercise]], [[borlaug2023statement]], [[damario2019cmd]], [[fayyaz2025pathophys]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Confirms: [[hfpef-treatment-gap]] — neutral/harmful result for nitrate pathway
 - Related to: [[zamani2015indie]] — inorganic nitrate also neutral in HFpEF (same year)
 - Extends: [[armstrong2020vitality]], [[udelson2020capacity]] — NO/cGMP pathway repeatedly fails in HFpEF

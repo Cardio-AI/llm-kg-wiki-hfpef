@@ -89,6 +89,7 @@ This review comprehensively synthesises disparities across diagnosis, treatment,
 - Connects to: [[kasahara2018chart2]] — low NP in HFpEF generally; even lower in Black patients due to biology and obesity
 - Connects to: [[attr-act]] — ATTR V122I high prevalence in Black Americans; important differential in Black HFpEF patients
 - Connects to: [[packer2025summit]] — STEP-HFpEF/SUMMIT data on semaglutide in obese HFpEF; Black patient subgroups
+- Cites: [[pitt2014topcat]], [[kosiborod2023stephfpef]] — TOPCAT (spironolactone equity data) and STEP-HFpEF (semaglutide equity data) named in the treatment-disparities table
 
 ## Related Pages
 

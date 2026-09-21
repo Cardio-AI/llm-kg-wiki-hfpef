@@ -54,6 +54,7 @@ Directly addresses the practical challenge of initiating Sac/Val in the post-WHF
 - Updates: [[paraglide-hf]] — pre-specified safety analysis
 - Connects: [[rambarat2025paraglide]] — women (higher LVEF) had significantly more SH (OR 2.29, P=0.012)
 - Relevant: [[beale2018sex]] — women have smaller LV and higher LVEF; biological basis for SH risk
+- Cites: [[solomon2019paragon]] — PARAGON-HF cited: symptomatic hypotension associated with higher subsequent mortality/HF hospitalisation, supporting the clinical significance framing here
 
 ## Related Pages
 - Concepts: [[hfpef-treatment-gap]]

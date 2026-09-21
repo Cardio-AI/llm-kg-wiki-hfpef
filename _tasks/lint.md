@@ -6,7 +6,7 @@ Outputs: report appended to `wiki/log.md` (same convention as the build report i
 This task is **diagnostic and report-only** — it identifies and reports issues with suggested fixes; it does not apply fixes itself (a separate ingest/edit pass does that, using the lint report as its punch list).
 
 Report as a single combined numbered list — one list covering all categories below, not one list per category — each entry tagged with its category and a suggested fix:
-- Contradictions between pages
+- Contradictions between pages — classify each as one of: different population/scope · different measurement method · genuine dispute · superseding source. **Never silently resolve a contradiction by blending, averaging, or picking one claim over the other** — flag it, don't merge it away.
 - Orphan pages (no inbound `[[wikilink]]`s pointing to them)
 - Concepts mentioned but lacking their own page
 - Claims potentially outdated by newer sources already in the wiki (a newer ingested source contradicts or supersedes an older claim — this does not mean searching outside the wiki for new literature)

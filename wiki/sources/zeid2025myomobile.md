@@ -142,6 +142,7 @@ Linear regression analysis, ITT population.
 - Supports: [[exercise-intolerance]] — physical inactivity as primary symptom driver; step count as a feasible real-world exercise outcome measure
 - Connects to: [[docherty2025determine]] — both use wearable accelerometry; different outcome dimensions (daily PA vs. exercise capacity)
 - Connects to: [[torch]] — same DZHK network; Rhine-Main institutional infrastructure
+- Cites: [[anker2021emperor]], [[solomon2022deliver]] — EMPEROR-Preserved/DELIVER cited as trial-population comparators that excluded unstable comorbidities present in this real-world cohort
 
 ---
 

@@ -152,11 +152,13 @@ PARADIGM-HF is an HFrEF trial but is foundational to this wiki for four reasons:
 4. **KCCQ comparison:** PARADIGM KCCQ benefit +1.64 pts P=0.001 vs. PARAGON +1.0 pt NS — EF-dependent symptom response to ARNI
 
 ## Connections
+- Cited by: [[mcmurray2019dapahf]], [[packer2020emperor]], [[bozkurt2020sex]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Establishes: [[sacubitril-valsartan]] as HFrEF standard; [[hfref]] fourth-pillar therapy
 - Motivates: [[solomon2019paragon]] (PARAGON-HF) — same ARNI mechanism, HFpEF population
 - Pooled analysis: PARADIGM+PARAGON continuous EF-benefit relationship; informs FDA label extension
 - Renal safety pattern reproduced in: [[solomon2019paragon]] (HR 0.50 renal composite)
 - Guideline context: [[mcdonagh2021esc]] Class I; [[heidenreich2022aha]] Class I for HFrEF
+- Cites: [[solomon2022deliver]] — DELIVER's win-ratio-positive KCCQ result cited alongside PARADIGM/PARAGON in the graded EF-response discussion
 
 ## Secondary Analyses & Data Reuse
 

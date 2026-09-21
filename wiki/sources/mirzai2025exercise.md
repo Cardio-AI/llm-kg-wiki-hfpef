@@ -96,6 +96,12 @@ Training achieves greater ΔpVO₂ in HFpEF than HFrEF primarily through periphe
 - Updates: [[supervised-exercise-training]] — HIIT not superior to MICT; ~1/3 non-responders
 - Supports: [[exercise-intolerance]] — peripheral mechanism primacy confirmed
 - Informs: [[hfpef-treatment-gap]] — exercise remains most consistently positive intervention
+- Cites: [[mueller2021optimex]] — OptmEx-Clin (Mueller 2021) cited: HIIT vs. MICT, no difference
+- Cites: [[azhar2020protein]] — protein supplementation + exercise cited: improved 6MWD and blood pressure
+- Cites: [[kitzman2016secret]] — SECRET 1 (Kitzman 2016) cited: exercise + caloric restriction additive effects
+- Cites: [[alonso2022heartcamp]] — HEART camp (Alonso 2022) cited: multicomponent behavioural program improved adherence/function
+- Cites: [[edelmann2025exdhf]] — Ex-DHF Pilot (Edelmann 2011) cited: combined endurance+resistance improved pVO₂ and diastolic function
+- Cites: [[kitzman2021rehabhf]] — REHAB-HF (Kitzman 2021) cited: multi-domain progressive rehab improved physical function/6MWD
 
 ## Related Pages
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]

@@ -10,7 +10,7 @@ tags:
 - trial
 - hfpef
 - nitrate
-- no-pathway
+- nitric-oxide-pathway
 - exercise
 created: 2026-04-30
 last_updated: 2026-05-05
@@ -149,10 +149,12 @@ INDIE-HFpEF is a mechanistic pilot distinct from the large therapeutic trials:
 4. **Aortic wave reflections:** Reduction in augmentation index (−9.1%, P=0.03) is mechanistically intriguing — if sustained, could reduce LV pulsatile load and potentially favourably affect diastolic function long-term.
 
 ## Connections
+- Cited by: [[pfeffer2019hfpef]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 
 - NO pathway series: [[redfield2015neat]] (NEAT: chronic organic nitrate, WORSENED), RELAX (sildenafil/PDE5i, neutral), [[udelson2020capacity]] (CAPACITY: praliciguat, neutral), [[armstrong2020vitality]] (VITALITY: vericiguat, neutral) — 5 trials converging on NO pathway; but INDIE acute signal different in direction from the chronic trials
 - Concept: [[hfpef-treatment-gap]], [[exercise-intolerance]]
 - Entity: [[hfpef]]
+- Cites: [[redfield2013relax]] — RELAX (sildenafil/PDE5i) named in the NO pathway series alongside NEAT-HFpEF/CAPACITY-HFpEF/VITALITY-HFpEF
 
 ## Secondary Analyses & Data Reuse
 

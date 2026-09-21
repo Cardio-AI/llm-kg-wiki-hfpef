@@ -145,11 +145,13 @@ No evidence of heterogeneity across any prespecified subgroup. The concern from 
 - Not powered to assess CV death alone
 
 ## Connections
+- Cited by: [[ahmed2006dig]], [[armstrong2020vitality]], [[kittleson2024accaha]], [[mahmood2024guidelines]], [[massie2008ipreserve]], [[mcdonagh2021esc]], [[mcmurray2014paradigm]], [[pocock2013maggic]], [[solomon2019paragon]], [[udelson2020capacity]], [[yusuf2003charm]], [[zeid2025myomobile]], [[achten2025screening]], [[sauer2026pharmacological]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Confirms: [[sglt2-inhibitors]] — second positive HFpEF/HFmrEF RCT; class effect across EF spectrum
 - Updates: [[hfpef-treatment-gap]] — KCCQ benefit fills partial symptom gap; hospitalisation benefit confirmed
 - Companion to: [[anker2021emperor]] — together establish SGLT2i class effect across HF EF spectrum
 - Relevant to: [[hfmref]] — consistent benefit in LVEF 41–49% range
 - Relevant to: [[hfpef-diagnosis]] — HFimpEF (prior EF ≤40%) also benefits; population definition matters
+- Cites: [[mcmurray2024determine]] — DETERMINE-Preserved's neutral KCCQ (16 weeks) contrasted with DELIVER's positive win ratio (8 months) — same drug, different follow-up/analytical approach
 
 ## Secondary Analyses & Data Reuse
 

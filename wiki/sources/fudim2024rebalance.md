@@ -55,12 +55,14 @@ REBALANCE-HF provides Phase 2 sham-controlled RCT evidence for splanchnic nerve 
 REBALANCE-HF advances REBALANCE-HF from [[trials-pending]] to [[trials]] (entity: [[rebalance-hf]]). FROST-HF (successor, larger blinded RCT) is listed in [[trials-pending]].
 
 ## Connections
+- Cited by: [[borlaug2023statement]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Trial entity: [[rebalance-hf]] (promoted from [[trials-pending]] to [[trials]])
 - Sympathetic mechanism: [[manabe2023sympathetic]] (MSNA increased at rest and exercise in HFpEF)
 - Volume redistribution: [[exercise-intolerance]] (splanchnic mechanism of dynamic preload increase)
 - Related device trials: [[lindenfeld2021guidehf]] (GUIDE-HF), [[reduce-lap-hf-ii]] (interatrial shunt)
 - Haemodynamic monitoring: [[abraham2016champion]], [[adamson2014champion]]
 - Successor: FROST-HF (in [[trials-pending]])
+- Cites: [[abraham2011champion]] — REBALANCE-HF joins CardioMEMS (CHAMPION family) as a device-based haemodynamic intervention with positive HFpEF signals
 
 ## Related Pages
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]]

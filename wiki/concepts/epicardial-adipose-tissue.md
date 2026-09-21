@@ -76,6 +76,8 @@ In obesity, EAT transitions from protective to pathological adipokine profile:
 | **MRA/ARNi** | Indirect (blocks EAT paracrine pathway) | Mineralocorticoid receptor blockade | Insufficient EAT data |
 | **Pericardiotomy** | Relieves pericardial restraint (not reduces EAT) | Mechanical | N=4 pilot only |
 
+[needs source] — table above (GLP-1 RA/SGLT2i/MRA rows) has no citation; Statins row already cites [[ortegahernandez2024statins]].
+
 ## Clinical Relevance
 
 - EAT is a **modifiable target** in obese HFpEF amenable to GLP-1 RA and SGLT2i

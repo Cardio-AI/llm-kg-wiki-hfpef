@@ -118,6 +118,12 @@ This is the single most comprehensive synthesis of HFpEF knowledge through 2023.
 - Updates: [[obesity-hfpef]] — 5-phenotype model, obesity-cardiometabolic pathways, pericardial restraint mechanism
 - Updates: [[hypertension-hfpef]] — arterial stiffening phenogroup; phenotypic shift from isolated HTN-LVH to multimorbid
 - Supports: [[pericardial-restraint]] — pericardial fat → ventricular interdependence mechanism in obesity HFpEF
+- Cites: [[redfield2015neat]] — NEAT-HFpEF (isosorbide mononitrate) named in cGMP/NO pathway therapy failures
+- Cites: [[armstrong2020vitality]] — VITALITY-HFpEF (vericiguat) named in cGMP/NO pathway therapy failures
+- Cites: [[abraham2011champion]] — CHAMPION (CardioMEMS) cited: 50% HF hospitalisation reduction, AHA 2022 Class 2a
+- Cites: [[patel2024reducelaphf]] — REDUCE LAP-HF II (atrial shunt) cited: neutral overall, latent-PVD-negative subgroup improved
+- Cites: [[fudim2024rebalance]] — REBALANCE-HF (splanchnic nerve ablation) cited: positive open-label roll-in data
+- Cites: [[lund2024spirrit]] — SPIRRIT named among ongoing MRA trials
 - Supports: [[hfpef-treatment-gap]] — 24 knowledge gaps enumerated; treatment shown possible but incomplete
 - Supports: [[diastolic-dysfunction]] — pathophysiology synthesis
 - Supports: [[sglt2-inhibitors]] — mechanistic rationale (nutrient deprivation/autophagy) and clinical evidence consolidated

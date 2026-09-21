@@ -23,7 +23,7 @@ sources:
 - citekey: Ferreira2026Emperor
   doi: 10.1016/j.jchf.2025.102889
 - citekey: ammar2025bnp
-  doi: null  # needs source — see wiki/citations-doi-review.md
+  doi: 10.1007/s10741-024-10442-6
 - citekey: hage2026ntprobnp
   doi: 10.1016/j.ijcard.2026.134554
 page-type: concept-page

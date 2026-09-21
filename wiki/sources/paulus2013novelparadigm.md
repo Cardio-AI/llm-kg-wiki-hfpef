@@ -11,9 +11,9 @@ evidence_level: moderate
 tags:
 - mechanism
 - hfpef
-- microvascular
+- coronary-microvascular-dysfunction
 - inflammation
-- no-cgmp
+- nitric-oxide-pathway
 - cardiomyocyte-stiffness
 - paradigm
 created: 2026-05-12
@@ -158,6 +158,9 @@ Note: PDE5i (RELAX trial, published same year) subsequently demonstrated neutral
 - Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[coronary-microvascular-dysfunction]], [[nitric-oxide-pathway]], [[myocardial-fibrosis]]
 - Entities: [[obesity-hfpef]], [[hypertension-hfpef]], [[hfpef]], [[relax]], [[vitality-hfpef]], [[spironolactone]]
 - Sources: [[damario2019cmd]], [[redfield2013relax]], [[armstrong2020vitality]], [[udelson2020capacity]]
+
+## Connections (addendum)
+- Cites: [[massie2008ipreserve]] — I-PRESERVE named among the epidemiological/outcome-trial data this review's mechanistic synthesis draws on
 
 ## Contradictions
 

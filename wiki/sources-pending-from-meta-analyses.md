@@ -7,13 +7,33 @@ tags:
   - pending
   - sources
 created: 2026-05-18
-last_updated: 2026-07-15
+last_updated: 2026-09-18
 ---
 # Source Candidates from Meta-Analyses — Pending Ingest
 
 > Primary studies cited in ingested systematic reviews and meta-analyses that are not yet individually ingested into this wiki. These are candidates for future ingest — not automatically added, as some are low priority or already sufficiently covered by the meta-analysis page. Review each and decide whether to add a dedicated wiki page.
 
 ---
+
+## From Yi 2025 (AI/ML in HFpEF — [[yi2025ai]])
+
+38 individual AI/ML studies surveyed across 4 domains (diagnosis, phenotyping, risk prediction, management). Studies already independently ingested (Shah 2015 → [[shah2015phenomapping]], Pandey 2021 → [[pandey2021deepnnecho]], Gao 2025 → [[gao2025ecgdl]], Lee 2024 → [[lee2024lifestyle]]) are cross-linked on [[yi2025ai]] directly, not listed here. Remaining candidates named in the review's own tables, none flagged by the review as superseded/historical:
+
+| Reference | Domain | Finding | Priority |
+|---|---|---|---|
+| Unterhuber 2021 | Diagnosis | CNN on baseline 12-lead ECG; AUC 0.80, sensitivity 0.99, specificity 0.60; N=11,955 | Medium — large N, external-validation-adjacent |
+| Kwon 2021 | Diagnosis | DLM on 32,671 ECGs from 20,169 patients; AUC 0.866/0.869 internal/external | Medium — largest ECG-AI cohort in the review |
+| Garan 2023 | Diagnosis | NLP + AI inference on 4,288 EHR encounters; F1=0.91; found 75.4% additional undiagnosed HFpEF | High — largest underdiagnosis estimate in the HFpEF AI literature |
+| Chiou 2021 | Diagnosis | AI-assisted prescreening via intrabeat LA/LV dynamics | Low — smaller proof-of-concept |
+| Sabbah 2020 | Phenotyping | Hierarchical clustering; obese-inflammatory phenotype identified | Medium — phenotype consistent with wiki's existing obese-metabolic-hfpef concept |
+| Cohen 2020 | Phenotyping | Latent class model, N=1,767 TOPCAT Americas; 49 protein markers; differential spironolactone response by phenogroup | High — directly extends TOPCAT/spironolactone-responder content already in wiki |
+| Chao 2022 | Phenotyping | k-means on 9 diastolic variables, N=23,414; 3 groups with differential long-term prognosis | Medium — largest phenotyping N in the review |
+| Zheng 2024 | Risk prediction | XGBoost; left atrial dimension top feature for 90-day readmission | Low — single-feature finding |
+| Hu 2025 | Risk prediction | Monocyte-to-lymphocyte ratio predicts 1-year readmission from routine CBC | Medium — cheap, routinely-available predictor |
+| Kresoja 2023 | Management | ML-identified spironolactone responders in pooled TOPCAT+Aldo-DHF; log-rank P=0.008 in responders vs. P=0.52 non-responders | High — directly relevant to the wiki's TOPCAT-enrichment-failure discussion (see [[contradictions]]) |
+| Desai 2024 | Management | Individualized treatment-effect prediction in TOPCAT; BMI top contributor (33.7%) to spironolactone response | High — same TOPCAT-enrichment relevance as Kresoja 2023 |
+| Bayes-Genis 2021 | Management | In silico model: empagliflozin's primary mechanism is NHE1 inhibition → reduced cardiomyocyte oxidative stress | Low — computational/mechanistic only, not yet clinically actionable |
+| Gu 2021 | Phenotyping | Cardiometabolic cluster responds better to beta-blockers/ARBs in some analyses | Medium — treatment-selection relevance |
 
 ## From Lee 2024 (Lifestyle Interventions in HFpEF — [[lee2024lifestyle]])
 
