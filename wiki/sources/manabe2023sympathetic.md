@@ -8,12 +8,12 @@ journal: Frontiers in Cardiovascular Medicine
 tags:
 - hfpef
 - exercise
-- sympathetic
+- sympathetic-nervous-system
 - hemodynamics
 - mechanism
-- peripheral
+- peripheral-mechanisms
 created: 2026-05-14
-last_updated: 2026-05-14
+last_updated: 2026-09-21
 sources:
 - citekey: manabe2023sympathetic
   doi: 10.3389/fcvm.2023.1148324

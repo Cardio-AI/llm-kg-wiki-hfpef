@@ -12,7 +12,7 @@ tags:
 - physiology
 - exercise-intolerance
 created: 2026-04-30
-last_updated: 2026-05-18
+last_updated: 2026-09-21
 sources:
 - citekey: Sachdev2023Exercise
   doi: 10.1161/CIR.0000000000001122
@@ -42,7 +42,7 @@ sources:
   doi: 10.1161/CIRCHEARTFAILURE.122.010161
 - citekey: Alonso2022HEARTcamp
   doi: 10.1016/j.cardfail.2021.10.005
-page-type: phenotype-page
+page-type: mechanism-page
 ---
 # Exercise Intolerance in HFpEF
 

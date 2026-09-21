@@ -14,12 +14,12 @@ evidence_level: high
 tags:
 - iron-deficiency
 - ferric-carboxymaltose
-- acute-heart-failure
+- acute-hf
 - hfref
 - trial
 - iv-iron
 created: 2026-05-18
-last_updated: 2026-05-18
+last_updated: 2026-09-21
 sources:
 - citekey: Ponikowski2020AFFIRM
   doi: 10.1016/S0140-6736(20)32339-4

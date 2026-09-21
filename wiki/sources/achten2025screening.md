@@ -12,11 +12,11 @@ tags:
 - diagnosis
 - natriuretic-peptides
 - echocardiography
-- hfpef-aba
+- hfpef-aba-score
 - glp1ra
 - sglt2-inhibitors
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
 - citekey: achten2025screening
   doi: 10.1007/s10741-025-10540-z

@@ -12,10 +12,10 @@ tags:
 - hfref
 - sglt2-inhibitors
 - iron-deficiency
-- acute-heart-failure
+- acute-hf
 - treatment
 created: 2026-05-12
-last_updated: 2026-05-12
+last_updated: 2026-09-21
 sources:
 - citekey: McDonagh2023ESCupdate [zotero-unverified]
   doi: 10.1093/eurheartj/ehad195

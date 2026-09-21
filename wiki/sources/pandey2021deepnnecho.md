@@ -11,10 +11,10 @@ tags:
 - ml-ai
 - diastolic-dysfunction
 - echocardiography
-- phenotypes
+- phenotype
 - biomarker
 created: 2026-05-12
-last_updated: 2026-05-13
+last_updated: 2026-09-21
 sources:
 - citekey: Pandey2021DeepNNEcho
   doi: 10.1016/j.jcmg.2021.04.010

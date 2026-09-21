@@ -7,10 +7,10 @@ tags:
   - phenotype
   - heterogeneity
   - precision-medicine
-  - biomarkers
+  - biomarker
   - classification
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
   - citekey: Shah2015Phenomapping
     doi: 10.1161/CIRCULATIONAHA.114.010637

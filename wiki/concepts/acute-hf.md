@@ -4,12 +4,12 @@ title: Acute Heart Failure in HFpEF Context
 summary: Acute decompensated HFpEF (ADHF) is characterized by rapidly elevated filling pressures and dyspnea with preserved LVEF; NLR on admission and NLR trajectory during hospitalization independently predict all-cause mortality beyond GWTG-HF risk score in HFpEF; treatment is predominantly IV diuretics; post-discharge care is critical as early rehospitalisation rates are high.
 tags:
   - hfpef
-  - acute-heart-failure
+  - acute-hf
   - hospitalization
   - prognosis
   - treatment
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
   - citekey: Boralkar2019NLR
     doi: 10.1016/j.amjcard.2019.10.020
