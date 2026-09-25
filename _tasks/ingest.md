@@ -21,6 +21,26 @@ Outputs: `wiki/sources/`, plus updates to `wiki/concepts/`, `wiki/entities/`, an
    - `wiki/trials.md` / `wiki/trials-pending.md` — if the source is a named clinical trial: either add a full row to `trials.md` (entity + source pages exist) or, if the trial is only named in passing (not itself being ingested), add/update its `trials-pending.md` entry
    - `wiki/sources-missing.md` — scan the source's own reference list (Source Interlinking Rule, CLAUDE.md) for on-topic papers that already have a wiki page (link bidirectionally via `Cites:`/`Cited by:` under `## Connections`) and for on-topic papers that don't (add a row here, not just an inline `[needs ingest]` note on the new page — this file is the single tracking location)
 
+## Registry-only ingest (clipper pages, no results paper)
+
+A clinicaltrials.gov/DRKS "clipper" page (a browser-saved registry page — recognisable by frontmatter fields `title`, `source` [the registry URL], `created` [the clip/access date]) is, by itself, enough to create the trial's **entity page**, even with no results paper in `raw/`:
+
+- Create `wiki/entities/<trial-slug>.md` only — **no** `wiki/sources/` page (there is nothing to summarise yet).
+- `sources:` frontmatter uses the trial's own NCT/DRKS ID as citekey, with `doi: null  # registry page only, no results published — see <url>`.
+- Only what the registry page states goes in — sponsor, design, phase, eligibility, endpoints, enrolment. Never fill gaps from background knowledge.
+- The trial is **not** added to `wiki/trials.md`. `trials.md` is reserved for trials with an actual results/design paper backing them. `trials-pending.md` tracks three groups for exactly this reason — read the registry's own status field and route accordingly:
+
+**Group B — status active** (Recruiting, Active-not-recruiting, or Completed-but-unpublished): the ordinary case — an active trial, just no results paper yet.
+- Body carries a `**Registration source:** <page title>, ClinicalTrials.gov/DRKS, <url>, accessed <clip's `created:` date>` line, and a prominent `## Status` note: "**No results published — needs ingest** once a primary results paper becomes available."
+- Move the trial from `trials-pending.md` Group A to Group B (do **not** remove it from the file).
+
+**Group C — status Unknown, Terminated, Withdrawn, or Suspended**: the registry itself cannot confirm the trial is still progressing — treat this as materially different from Group B, not a variant of it. A results paper may never appear.
+- `## Status` states the actual status and its last-known-active date (e.g. "Unknown status (last known: Recruiting, 2024-03)"), not the ordinary "no results yet" phrasing.
+- If the registry's stated dates/timeline conflict with any other source the user has supplied for the same trial (e.g. a spreadsheet), note the discrepancy as `[needs source]` — do not guess which is right.
+- Move the trial from `trials-pending.md` Group A directly to Group C (never to Group B).
+
+Either way: once a real results paper is later ingested, create the `wiki/sources/` page as normal, add the full row to `trials.md`, and **remove the trial from `trials-pending.md` entirely** — the registry-only entity page graduates into a normal fully-sourced page at that point (add the results citekey alongside the registry one in its `sources:` list). If a Group C trial's status is later re-confirmed as active before a results paper exists, move it to Group B instead.
+
 **Never fabricate.** This applies to ingest as much as any other task (see CLAUDE.md's global no-fabrication rule) — do not fill in a specific fact (an NCT number, a numeric result, a population detail) from background/training knowledge just because the source document doesn't state it. Mark `[needs source]` and leave it for the user to supply instead.
 
 One source touching 10–15 wiki pages has happened before and is not a red flag — it's not a target to hit, just an observation that dense cross-linking is expected.

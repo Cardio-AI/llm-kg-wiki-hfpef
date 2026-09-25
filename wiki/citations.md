@@ -177,6 +177,9 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 | `Khidihir2026Finerenone`         | Khidihir A, Kalra DK.                                                                                                      | 2026 | Finerenone in HFpEF: Expanding the Role of Non-steroidal Mineralocorticoid Receptor Antagonists                                                                                                                                                              | Curr Atheroscler Rep                      | 10.1007/s11883-026-01451-x                       |
 | `Stone2024RELIEVEHF`             | Stone GW, Lindenfeld J, Rodés-Cabau J, et al.                                                                              | 2024 | Interatrial Shunt Treatment for Heart Failure: The Randomized RELIEVE-HF Trial                                                                                                                                                                               | Circulation                               | 10.1161/CIRCULATIONAHA.124.070870                |
 | `Ferreira2025SOGALDIPEF`         | Ferreira JP, Vasques-Nóvoa F, Saraiva F, et al.                                                                            | 2025 | Sodium-Glucose Cotransporter 2 Inhibitor With and Without an Aldosterone Antagonist for HFpEF: The SOGALDI-PEF Trial                                                                                                                                         | JACC Heart Fail                           | 10.1016/j.jacc.2025.05.033                       |
+| `Capone2026HFpEFPHT`             | Capone F, Rommel KP, Forbes M, et al.                                                                                      | 2026 | Integrated Left Ventricular Multi-Omics Landscape of Human Cardiometabolic HFpEF                                                                                                                                                                             | Cardiovasc Res                            | 10.1093/cvr/cvag084                              |
+| `Paleviciute2023TRAINHFpEFPH`    | Paleviciuté E, Čelutkienė J, Šimbelytė T, et al.                                                                           | 2023 | Safety and Effectiveness of Standardized Exercise Training in HFpEF-PH (TRAIN-HFpEF-PH): Study Protocol                                                                                                                                                      | Trials                                    | 10.1186/s13063-023-07297-x                       |
+| `Vaduganathan2025FINEARTSSGLT2i` | Vaduganathan M, Claggett BL, Kulac IJ, et al.                                                                              | 2025 | Effects of the Nonsteroidal MRA Finerenone With and Without Concomitant SGLT2 Inhibitor Use in Heart Failure                                                                                                                                                 | Circulation                               | 10.1161/CIRCULATIONAHA.124.072055                |
 
 ---
 
@@ -186,6 +189,21 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 |---|---|---|---|---|---|---|
 | `Armstrong2020VICTORIA` | Armstrong PW, Roessig L, Patel MJ, et al. | 2020 | Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction | N Engl J Med | 10.1056/NEJMoa1915928 | **HFrEF trial** — referenced for vericiguat mechanism only; VITALITY-HFpEF is the HFpEF companion. No PDF obtained. |
 | `Cleland2006PEPCHF` | Cleland JGF, Tendera M, Adamus J, et al. | 2006 | The Perindopril in Elderly People with Chronic Heart Failure (PEP-CHF) study | Eur Heart J | 10.1093/eurheartj/ehl250 | HFpEF trial (ACEi; failed). No PDF obtained. |
+
+---
+
+## Registry-Only Sources (entity page exists; no results paper published yet)
+
+Not a real publication — the "citekey" is the trial's own NCT/DRKS registration ID, and "DOI" is the registry page URL. See `wiki/trials-pending.md` Group B and each entity page's `## Status` section. Promote to the Ingested Sources table above once a results paper is ingested (source page created, real citekey assigned).
+
+| Citekey | Source | Year | Title (abbreviated) | Registry | URL | Notes |
+|---|---|---|---|---|---|---|
+| `DRKS00039892` | — (registry page) | 2026 | EXCALIBUR-HFpEF: Exercise Training on Cardiovascular Health in HFpEF | DRKS | https://drks.de/search/en/trial/DRKS00039892/details | Accessed 2026-09-21; see [[excalibur-hfpef]] |
+| `NCT06307652` | — (registry page) | 2026 | BalanceD-HF: Balcinrenone/Dapagliflozin in HF With Impaired Kidney Function | ClinicalTrials.gov | https://clinicaltrials.gov/study/NCT06307652 | Accessed 2026-09-21; see [[balanced-hf]] |
+| `NCT06424288` | — (registry page) | 2026 | EASi-HF Preserved: Vicadrostat + Empagliflozin in HF | ClinicalTrials.gov | https://clinicaltrials.gov/study/NCT06424288 | Accessed 2026-09-21; see [[easi-hf]] |
+| `NCT06008197` | — (registry page) | 2026 | REDEFINE-HF: Finerenone in Hospitalized HF, LVEF ≥40% | ClinicalTrials.gov | https://clinicaltrials.gov/study/NCT06008197 | Accessed 2026-09-21; see [[redefine-hf]] |
+| `NCT06024746` | — (registry page) | 2026 | CONFIRMATION-HF: Finerenone + Empagliflozin in Hospitalized HF, Any-EF | ClinicalTrials.gov | https://clinicaltrials.gov/study/NCT06024746 | Accessed 2026-09-21; see [[confirmation-hf]] |
+| `NCT06316661` | — (registry page) | 2026 | MAPPED: CMR Microvascular Dysfunction in HFpEF | ClinicalTrials.gov | https://clinicaltrials.gov/study/NCT06316661 | Accessed 2026-09-21; registry status **Unknown** (last known: Recruiting, 2024-03); see [[mapped]], [[trials-pending]] Group C |
 
 ---
 
@@ -705,6 +723,15 @@ Master list of all citekeys used in this wiki. Updated when sources are ingested
 
 **Ferreira2025SOGALDIPEF**
 > Ferreira JP, Vasques-Nóvoa F, Saraiva F, Oliveira AC, Almeida J, Batista AB, Barbosa A, Ferreira AF, Costa C, Diaz SO, Santos-Ferreira D, Friões F, Gonçalves C, Guimarães JT, Leite M, Marques P, Mascarenhas J, Matos MI, Pereira C, Rodrigues P, Sharma A, Silva G, Pereira-Sousa I, Sousa C, Zannad F, Pimenta J, Fontes-Carvalho R, Leite-Moreira A; SOGALDI-PEF Investigators. Sodium-Glucose Cotransporter 2 Inhibitor With and Without an Aldosterone Antagonist for Heart Failure With Preserved Ejection Fraction: The SOGALDI-PEF Trial. *JACC Heart Fail.* 2025;86(5):320–333. doi:[10.1016/j.jacc.2025.05.033](https://doi.org/10.1016/j.jacc.2025.05.033)
+
+**Capone2026HFpEFPHT**
+> Capone F, Rommel KP, Forbes M, Fahjen P, Strocchi S, Rosch S, Wang R, Bode D, Nambiar N, Eroglu T, Padilla LS, Morieri ML, Liu L, Farrelly C, Vacca A, Mastrobuoni G, Jung S, Diezel SA, Liévano Contreras SV, Hübner N, Mertins P, Kempa S, Lurz P, Schiattarella GG. Integrated left ventricular multi-omics landscape of human cardiometabolic HFpEF. *Cardiovasc Res.* 2026;122(8):984–1000. doi:[10.1093/cvr/cvag084](https://doi.org/10.1093/cvr/cvag084)
+
+**Paleviciute2023TRAINHFpEFPH**
+> Paleviciuté E, Čelutkienė J, Šimbelytė T, Gumbienė L, Jurevičienė E, Zakarkaitė D, Česna S, Eichstaedt CA, Benjamin N, Grünig E. Safety and effectiveness of standardized exercise training in patients with pulmonary hypertension associated with heart failure with preserved ejection fraction (TRAIN-HFpEF-PH): study protocol for a randomized controlled multicenter trial. *Trials.* 2023;24:281. doi:[10.1186/s13063-023-07297-x](https://doi.org/10.1186/s13063-023-07297-x)
+
+**Vaduganathan2025FINEARTSSGLT2i**
+> Vaduganathan M, Claggett BL, Kulac IJ, Miao ZM, Desai AS, Jhund PS, Henderson AD, Brinker M, Lay-Flurrie J, Viswanathan P, Scheerer MF, Lage A, Lam CSP, Senni M, Shah SJ, Voors AA, Zannad F, Pitt B, McMurray JJV, Solomon SD. Effects of the Nonsteroidal MRA Finerenone With and Without Concomitant SGLT2 Inhibitor Use in Heart Failure. *Circulation.* 2025;151(2):149–158. doi:[10.1161/CIRCULATIONAHA.124.072055](https://doi.org/10.1161/CIRCULATIONAHA.124.072055)
 
 ---
 

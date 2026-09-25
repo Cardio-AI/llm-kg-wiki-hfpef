@@ -132,6 +132,7 @@ last_updated: 2026-09-21
 | Ex-DHF            | Exercise Training in Patients with Heart Failure and Preserved Ejection Fraction             | Combined endurance + resistance training vs. usual care; 12 months                                                                                      | HFpEF                                                            | ISRCTN86879094     | ~2015   | Published 2025                   | [[edelmann2025exdhf]] · [[ex-dhf]]                                              |
 | m-Health CR HFpEF | Efficacy of an m-Health Cardiac Rehabilitation Program in HFpEF                              | Home-based m-Health CR vs. standard care                                                                                                                | HFpEF, LVEF ≥50%                                                 | NCT05002075        | 2021    | Completed                        | [[zeid2025myomobile]]                                              |
 | OptimEx-LTF       | Exercise Training in HFpEF — Long-Term Follow-up                                             | Observational follow-up of OPTIMEX-CLIN and EX-DHF participants                                                                                         | HFpEF                                                            | NCT05162859        | 2021    | Ongoing                          | [[bohmke2022nonpharm]]                                             |
+| TRAIN-HFpEF-PH    | Standardized Exercise Training in HFpEF With Pulmonary Hypertension                          | Standardized low-intensity exercise + respiratory rehabilitation (3-wk in-hospital + 12-wk home) vs. standard care (waiting-group crossover)             | HFpEF+PH (invasively confirmed), LVEF ≥50%; N=90 (target)        | NCT05464238        | 2023    | Ongoing (design published 2023); primary completion est. 2025 Q4 | [[train-hfpef-ph]] · [[paleviciute2023trainhfpefph]]              |
 
 ---
 
@@ -149,6 +150,7 @@ last_updated: 2026-09-21
 | DIAMOND-HFpEF | Developing Imaging And plasMa biOmarkers iN Describing Heart Failure With Preserved Ejection Fraction | CMR (T1-mapping/ECV) + invasive coronary physiology (MPR) cross-sectional study | HFpEF, N=101 + 43 controls | NCT03050593 | — | Published 2022 | [[arnold2022diamond]] · [[diamond-hfpef]] |
 | HFpEF-Stress | CMR Exercise Stress Testing in HFpEF (real-time free-breathing CMR at rest/exercise vs. invasive RHC) | Diagnostic-accuracy cross-sectional study | HFpEF vs. noncardiac dyspnea, N=75 (68 analysed) | NCT03260621 | 2017 | Published 2021 (Circulation) | [[hfpef-stress-trial]] · [[backhaus2021hfpefstress]] |
 | STIFFMAP | CMR T1-mapping/ECV vs. invasive pressure-volume loops in HFpEF | Diagnostic-accuracy cross-sectional study | HFpEF vs. controls, N=36 (24 HFpEF/12 control) | NCT02459626 | 2014 | Published 2016 (JACC) | [[stiffmap]] · [[rommel2016stiffmap]] |
+| HFpEF-PHT | Right Ventricular Function and Pulmonary Hypertension in HFpEF — LV endomyocardial-biopsy multi-omics (proteomics/metabolomics/lipidomics) sub-cohort | Prospective observational cohort, invasive biopsy sub-study | Overweight/obese HFpEF vs. non-failing overweight/obese controls, N=23 (19 HFpEF/4 NFO) | NCT05055180 | 2019 | Published 2026 (Cardiovasc Res) | [[hfpef-pht]] · [[capone2026hfpefpht]] |
 
 ---
 
@@ -196,6 +198,7 @@ last_updated: 2026-09-21
 | `verma2024inflammation` | STEP-HFpEF | CRP-independent mechanism: semaglutide benefit persists independent of baseline inflammatory biomarkers | [[verma2024inflammation]] |
 | `Rillig2021EastAFNET4` | EAST-AFNET4 | HF subgroup (N=798): early rhythm control HR 0.74 (P=0.03); HFpEF 56.3%; no HF-type interaction (P=0.63) | [[rillig2021eastafnet4]] |
 | `Lindenfeld2021GUIDEHF` | GUIDE-HF | Full trial (N=1,000; all EF): primary composite HR 0.88 (NS); pre-COVID HR 0.81 (P=0.049); HFpEF subgroup HR 0.85 (NS) | [[lindenfeld2021guidehf]] |
+| `Vaduganathan2025FINEARTSSGLT2i` | FINEARTS-HF | Treatment effect/safety by baseline SGLT2i use (N=817 vs. 5184): RR 0.83 vs. 0.85 (P-interaction=0.76); ARR nearly doubled in SGLT2i subgroup | [[vaduganathan2025finegltsecondary]] |
 
 ---
 

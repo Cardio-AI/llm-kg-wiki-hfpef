@@ -143,6 +143,7 @@ First WHF event or CV death: HR 0.84 (95% CI 0.76–0.94)
 ## Connections
 - Cited by: [[anker2023hfpefphenotype]] — added automatically from the reciprocal Cites: relationships recorded on those pages
 - Cited by: [[kitzman2016secret]], [[mahmood2024guidelines]], [[mcdonagh2023escupdate]], [[ferreira2023spironolactone]], [[spertus2020kccq]] — added automatically from the reciprocal Cites: relationships recorded on those pages
+- Cited by: [[vaduganathan2025finegltsecondary]] — SGLT2i-use subgroup secondary analysis of this trial
 
 - Updates: [[finearts-hf]] — full source data now ingested
 - Updates: [[hfpef-treatment-gap]] — confirms MRA class extends beyond SGLT2i for outcome benefit
@@ -155,7 +156,7 @@ Papers using data from this study:
 
 | Citekey | Focus | Wiki page |
 |---------|-------|-----------|
-| — | Further substudies expected | — |
+| `Vaduganathan2025FINEARTSSGLT2i` | Treatment effect and safety by baseline/time-updated SGLT2i use (N=817 SGLT2i-treated vs. 5184 not); RR 0.83 vs. 0.85, P-interaction=0.76 | [[vaduganathan2025finegltsecondary]] |
 
 ## Related Pages
 

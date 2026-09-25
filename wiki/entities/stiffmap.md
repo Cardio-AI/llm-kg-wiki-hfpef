@@ -61,7 +61,7 @@ ECV significantly elevated in HFpEF vs. controls (32.9% vs. 28.9%, P<0.01) and i
 ## Related Pages
 
 - Concepts: [[myocardial-fibrosis]], [[diastolic-dysfunction]], [[hfpef-fibrosis-paradigm]]
-- Entities: [[cardiac-mri]], [[decipher-hfpef]], [[hfpef-stress-trial]]
+- Entities: [[cardiac-mri]], [[decipher-hfpef]], [[hfpef-stress-trial]], [[hfpef-pht]]
 - Sources: [[rommel2016stiffmap]]
 
 ## References

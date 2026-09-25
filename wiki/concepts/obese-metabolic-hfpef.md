@@ -11,12 +11,14 @@ tags:
   - sglt2-inhibitors
   - exercise-intolerance
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-09-21
 sources:
   - citekey: Kosiborod2023STEPHFPEF
     doi: 10.1056/NEJMoa2306963
   - citekey: Anker2023HFpEFPhenotype
     doi: 10.1002/ejhf.2894
+  - citekey: Capone2026HFpEFPHT
+    doi: 10.1093/cvr/cvag084
 ---
 
 # Obese-Metabolic HFpEF Phenotype
@@ -49,6 +51,13 @@ sources:
 - **Insulin resistance:** RAAS activation + ↓ NO signalling → vascular stiffness + LV hypertrophy
 - **Adipokine imbalance:** ↑ leptin (pro-inflammatory), ↓ adiponectin (cardioprotective)
 - **Systemic low-grade inflammation:** IL-6, CRP, TNF-α elevated → microvascular endothelial dysfunction (source: [[paulus2013novelparadigm]])
+
+### Myocardial-Level Metabolic Remodelling (Obese-vs-Obese Comparison)
+
+LV endomyocardial-biopsy multi-omics comparing overweight/obese HFpEF against non-failing overweight/obese controls (N=19 vs. 4) — an obese-vs-obese, not obese-vs-lean, comparison — isolates HFpEF-specific from obesity-driven myocardial changes (source: [[capone2026hfpefpht]]):
+- **HFpEF-specific:** blocked proximal glycolysis (↓GPI, ↓PFKM1 protein, G6P accumulation, reduced pyruvate); TCA-cycle succinate accumulation with reduced fumarate hydratase (pseudohypoxia signature); energy-deprivation signature (↑AMP, ↑ADP)
+- **Obesity-driven, not HFpEF-specific:** glucose oxidation (PDH/PDK4) was similar between HFpEF and obese controls — the glucose-oxidation reduction seen when HFpEF is compared against *lean* controls in other cohorts appears attributable to obesity itself, not to HFpEF
+- Fatty-acid oxidation was largely preserved in both groups, with selective remodelling confined to very-long-chain acylcarnitine species
 
 ### Sleep-Disordered Breathing
 Obese HFpEF: OSA prevalence 50–80% (source: [[wester2023sdb]]):
@@ -127,10 +136,13 @@ Recommended add-ons for obese HFpEF beyond SGLT2i:
 - [[sleep-disordered-breathing]] — ~80% OSA prevalence in obese HFpEF; bidirectional relationship
 - [[peripheral-mechanisms-hfpef]] — peripheral muscle dysfunction amplifying exercise intolerance
 - [[sglt2-inhibitors]] — first-line therapy across all HFpEF including obese phenotype
+- [[hfpef-pht]] — source trial isolating HFpEF-specific from obesity-driven myocardial metabolic remodelling
+- [[myocardial-fibrosis]] — same biopsy cohort identifies EFEMP1-led ECM/fibrosis upregulation alongside the metabolic findings above
 
 ## References
 - Kosiborod MN, Abildstrom SZ, Borlaug BA, et al.; STEP-HFpEF Trial Committees and Investigators. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069–1084. doi:[10.1056/NEJMoa2306963](https://doi.org/10.1056/NEJMoa2306963)
 - Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, et al. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. *Eur J Heart Fail.* 2023;25(7):936–955. doi:[10.1002/ejhf.2894](https://doi.org/10.1002/ejhf.2894)
+- Capone F, Rommel KP, Forbes M, Fahjen P, Strocchi S, Rosch S, Wang R, Bode D, Nambiar N, Eroglu T, Padilla LS, Morieri ML, Liu L, Farrelly C, Vacca A, Mastrobuoni G, Jung S, Diezel SA, Liévano Contreras SV, Hübner N, Mertins P, Kempa S, Lurz P, Schiattarella GG. Integrated left ventricular multi-omics landscape of human cardiometabolic HFpEF. *Cardiovasc Res.* 2026;122(8):984–1000. doi:[10.1093/cvr/cvag084](https://doi.org/10.1093/cvr/cvag084)
 - Ilonze OJ, Mazimba S. Racial and Ethnic Disparities in Heart Failure with Preserved Ejection Fraction: Epidemiology, Diagnosis, Management and Outcomes. *Curr Cardiovasc Risk Rep.* 2025;19:5. doi:[10.1007/s12170-024-00755-4](https://doi.org/10.1007/s12170-024-00755-4)
 - Timóteo AT, Albuquerque FB, Teixeira BL. Pericardium, epicardial adipose tissue, and heart failure with preserved ejection fraction: Pathophysiology, quantification and treatment target. *Int J Cardiol.* 2024;412:132303. doi:[10.1016/j.ijcard.2024.132303](https://doi.org/10.1016/j.ijcard.2024.132303)
 - Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)

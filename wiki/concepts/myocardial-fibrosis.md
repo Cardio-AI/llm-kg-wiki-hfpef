@@ -19,6 +19,8 @@ sources:
     doi: 10.1016/j.jcmg.2021.10.002
   - citekey: Rommel2016STIFFMAP
     doi: 10.1016/j.jacc.2016.02.018
+  - citekey: Capone2026HFpEFPHT
+    doi: 10.1093/cvr/cvag084
 ---
 
 # Myocardial Fibrosis in HFpEF
@@ -71,6 +73,10 @@ Critically, diffuse myocardial fibrosis (ECV) and microvascular dysfunction (MPR
 
 Invasive pressure-volume-loop validation (N=36, HFpEF vs. controls) shows ECV independently predicts the load-independent LV stiffness constant β (β-standardized=0.75, P<0.01) — the strongest of all noninvasive predictors tested (ahead of E/e' and LA volume index). ECV elevated in HFpEF vs. controls (32.9% vs. 28.9%, P<0.01). Splitting HFpEF by median ECV identified two mechanistically distinct subphenotypes: a high-ECV/high-stiffness (fibrosis-dominant) group, and a low-ECV group characterised instead by prolonged active-relaxation time-constant (τ) and exaggerated hypertensive response to afterload — demonstrating that diastolic stiffness in HFpEF is not always fibrosis-driven. Focal fibrosis (LGE) was present in only 4/24 HFpEF patients, reinforcing diffuse (not focal) fibrosis as the dominant structural abnormality where present. (source: [[rommel2016stiffmap]])
 
+## Tissue Proteomics: EFEMP1/Fibulin-3 as an ECM Marker of Severity (Capone 2026)
+
+Left-ventricular endomyocardial-biopsy proteomics in overweight/obese HFpEF vs. non-failing overweight/obese controls (N=19 vs. 4) identified ECM/fibrosis proteins — LTBP1, IGFBP2, EFEMP1 (fibulin-3), FBLN5, POSTN — as the most significantly upregulated proteomic signature in HFpEF. EFEMP1 showed the strongest overall association with disease severity: correlated with higher histological intramyocardial fibrosis (R²=0.36, P=0.009), lower LVEF (R²=0.34, P=0.006), higher E/e′ (R²=0.25, P=0.005), and higher NT-proBNP (R²=0.61, P<0.001) — direct tissue-level evidence complementing the imaging-based (ECV) fibrosis biomarker evidence above. (source: [[capone2026hfpefpht]])
+
 ## CMR Assessment
 
 - **T1 mapping (native):** Elevated native T1 → increased interstitial space; most reproducible measure of diffuse fibrosis
@@ -100,9 +106,12 @@ Invasive pressure-volume-loop validation (N=36, HFpEF vs. controls) shows ECV in
 - [[hfpef-fibrosis-paradigm]] — broader fibrosis-centric view of HFpEF
 - [[diamond-hfpef]] — source trial establishing fibrosis/CMD independence
 - [[stiffmap]] — source trial establishing ECV's direct invasive validation against LV stiffness
+- [[hfpef-pht]] — source trial establishing EFEMP1/fibulin-3 as a tissue-proteomic ECM marker of fibrosis and disease severity
+- [[obese-metabolic-hfpef]] — same biopsy cohort distinguishes obesity-driven from HFpEF-specific metabolic remodelling alongside the ECM findings above
 
 ## References
 - Rommel KP, von Roeder M, Latuscynski K, et al. Extracellular Volume Fraction for Characterization of Patients With Heart Failure and Preserved Ejection Fraction. *J Am Coll Cardiol.* 2016;67(15):1815–1825. doi:[10.1016/j.jacc.2016.02.018](https://doi.org/10.1016/j.jacc.2016.02.018)
 - Shi Y, Liu J, Liu C, Shuang X, Yang C, Qiao W, Dong G. Diagnostic and prognostic value of serum soluble suppression of tumorigenicity-2 in heart failure with preserved ejection fraction: A systematic review and meta-analysis. *Front Cardiovasc Med.* 2022;9:937291. doi:[10.3389/fcvm.2022.937291](https://doi.org/10.3389/fcvm.2022.937291)
 - Arnold JR, Kanagala P, Budgeon CA, Jerosch-Herold M, Gulsin GS, Singh A, Khan JN, Chan DCS, Squire IB, Ng LL, McCann GP. Prevalence and Prognostic Significance of Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *JACC Cardiovasc Imaging.* 2022;15(6):1001–1011. doi:[10.1016/j.jcmg.2021.11.022](https://doi.org/10.1016/j.jcmg.2021.11.022)
 - Solomon SD, Zile M, Pieske B, Voors A, Shah A, Kraigher-Krainer E, Shi V, Bransford T, Takeuchi M, Gong J, Lefkowitz M, Packer M, McMurray JJ; PARAMOUNT Investigators. The angiotensin receptor neprilysin inhibitor LCZ696 in heart failure with preserved ejection fraction: a phase 2 double-blind randomised controlled trial. *Lancet.* 2012;380(9851):1387–1395. doi:[10.1016/S0140-6736(12)61227-6](https://doi.org/10.1016/S0140-6736(12)61227-6)
+- Capone F, Rommel KP, Forbes M, Fahjen P, Strocchi S, Rosch S, Wang R, Bode D, Nambiar N, Eroglu T, Padilla LS, Morieri ML, Liu L, Farrelly C, Vacca A, Mastrobuoni G, Jung S, Diezel SA, Liévano Contreras SV, Hübner N, Mertins P, Kempa S, Lurz P, Schiattarella GG. Integrated left ventricular multi-omics landscape of human cardiometabolic HFpEF. *Cardiovasc Res.* 2026;122(8):984–1000. doi:[10.1093/cvr/cvag084](https://doi.org/10.1093/cvr/cvag084)

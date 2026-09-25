@@ -7,7 +7,7 @@ tags:
   - pending
   - sources
 created: 2026-07-14
-last_updated: 2026-09-21
+last_updated: 2026-09-21 (session 4)
 ---
 # Missing Source Pages
 
@@ -24,6 +24,9 @@ last_updated: 2026-09-21
 | Paper (as named in prose) | Mentioned in | Context | Priority |
 |---|---|---|---|
 | McMurray et al., JACC 2023 | paraglide-hf.md | Primary PARAGLIDE-HF results paper (NT-proBNP ratio of change 0.85, 95% CI 0.73–0.999) — only the design paper (mentz2023paraglide) and secondary analyses (fudim2024paraglide, nouhravesh2025paraglide, rambarat2025paraglide) are currently ingested, not the primary results paper itself | Medium-high — primary trial-results gap, found during 2026-09-17 citation-coverage lint pass |
+| Rosch S, Kresoja KP, Besler C, Fengler K, Schober AR, von Roeder M, Lucke C, Gutberlet M, Thiele H, Rommel KP, Lurz P. Characteristics of heart failure with preserved ejection fraction across the range of left ventricular ejection fraction. Circulation. 2022;146:506–518. | capone2026hfpefpht.md | Cited repeatedly (ref #16) for prior RV-EMB metabolomic findings (glucose-6-phosphate, pyruvate, BCAA levels) in HFpEF from the same Leipzig investigator group (Rommel, Lurz) — used as the comparator baseline for Capone 2026's obesity-vs-HFpEF distinction; DOI not visible in the reference list as formatted, [needs source] | Medium-high — same authors/programme as already-ingested [[rommel2016stiffmap]], directly informs interpretation of [[capone2026hfpefpht]]'s glycolysis findings |
+| Vaduganathan M, Docherty KF, Claggett BL, et al. SGLT-2 inhibitors in patients with heart failure: a comprehensive meta-analysis of five randomised controlled trials. Lancet. 2022;400(10354):757–767. doi:10.1016/S0140-6736(22)01429-5 | vaduganathan2025finegltsecondary.md | Cited (ref #14) as the definitive SGLT2i-in-HF meta-analysis; directly relevant to this wiki's SGLT2i coverage but not yet a standalone source page (SGLT2i evidence currently synthesised via [[minisy2025sglt2]] and trial-specific pages) | Medium-high — landmark 5-trial pooled meta-analysis, would strengthen [[sglt2-inhibitors]] |
+| Ferreira JP, Zannad F, Filippatos G, Schueler E, Steubl D, Zeller C, Januzzi JL, Pocock S, Packer M, et al. Mineralocorticoid receptor antagonists and sodium-glucose cotransporter 2 inhibitors in patients with heart failure and preserved ejection fraction. Eur Heart J. 2022;43(11):1129–1137. doi:10.1016/j.jacc.2022.01.029 (as printed in the citing paper's own reference list — journal is Eur Heart J but the DOI prefix reads `10.1016/j.jacc`, [needs source] to confirm the real DOI on ingest, not assumed corrected) | vaduganathan2025finegltsecondary.md | Cited (ref #15) as prior pooled evidence for the MRA+SGLT2i combination question in HFpEF — same clinical question this wiki tracks via [[confirmation-hf]] and [[balanced-hf]] | Medium-high — directly relevant to the MRA+SGLT2i combination-therapy thread |
 | Selker et al. 2019 | zeid2025myomobile.md | Methodological source for the "EE2" efficacy/effectiveness trial design used by MyoMobile | Low — methodology reference, not a clinical outcome |
 | Peterson et al. (GWTG-HF risk score derivation) | boralkar2019nlr.md | GWTG-HF risk score calculation method | Low — score-derivation paper, score itself already used elsewhere |
 | Bermea 2024 (ML-derived HFpEF screening score) | achten2025screening.md | Compared against HFpEF-ABA score; "not validated broadly, proof-of-concept only" | Low |

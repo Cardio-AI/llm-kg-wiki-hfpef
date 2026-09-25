@@ -159,7 +159,7 @@ DECIPHER-HFpEF is the primary source validating non-invasive (CMR) tools against
 
 ## Related Pages
 - Concepts: [[hfpef-diagnosis]], [[diastolic-dysfunction]], [[hf-phenotype-classification]], [[titin]]
-- Entities: [[cardiac-mri]], [[echocardiography]], [[cardiopulmonary-exercise-testing]], [[torch]]
+- Entities: [[cardiac-mri]], [[echocardiography]], [[cardiopulmonary-exercise-testing]], [[torch]], [[hfpef-pht]]
 - Sources: [[mcdonagh2021esc]], [[heidenreich2022aha]]
 
 ## References

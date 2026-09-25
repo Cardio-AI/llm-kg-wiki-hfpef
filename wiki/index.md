@@ -152,6 +152,7 @@ For topic/keyword lookup across all page types, see [[tags-overview]].
 - [[cleland2006pepchf]] — PEP-CHF: perindopril in elderly HFpEF (LVEF >40%); N=850; HR 0.92 (P=0.55); oldest RAAS trial in HFpEF
 - [[solomon2012paramount]] — PARAMOUNT (Phase 2): LCZ696 (ARNi precursor) vs. valsartan in HFpEF; N=301; NT-proBNP −23% at 12 weeks (P=0.005); LA volume improvement at 36 weeks; Phase 2 mechanistic bridge to PARAGON-HF
 - [[solomon2024finearts]] — FINEARTS-HF: finerenone vs. placebo in HFmrEF/HFpEF; N=6001; RR 0.84 (95% CI 0.74–0.95; P=0.007) for total WHF events + CV death; first non-steroidal MRA positive trial in HFpEF
+- [[vaduganathan2025finegltsecondary]] — FINEARTS-HF SGLT2i-use subgroup (Vaduganathan 2025, Circulation): finerenone benefit consistent regardless of baseline SGLT2i use (RR 0.83 vs. 0.85; P-interaction=0.76); ARR nearly doubled in SGLT2i-treated subgroup
 - [[edelmann2013aldodhf]] — ALDO-DHF: spironolactone 25 mg in ambulatory HFpEF; N=422; E/e' improved (P<0.001), LV mass reduced (P=0.009); peak VO₂ and symptoms unchanged; structural-functional dissociation
 - [[paulus2013novelparadigm]] — Paulus & Tschöpe 2013 (JACC): foundational HFpEF mechanistic paradigm; comorbidities → systemic inflammation → coronary microvascular endothelial inflammation → ↓NO → ↓cGMP → ↓PKG → titin stiffness + fibrosis → diastolic dysfunction
 - [[shah2015phenomapping]] — Shah 2015 (Circulation): first ML phenomapping of HFpEF; N=397+107 validation; 3 phenogroups: young/mild, obese/metabolic, cardiorenal/advanced; HF hospitalisation HR 4.2 for phenogroup 3; validated prospectively
@@ -179,6 +180,7 @@ For topic/keyword lookup across all page types, see [[tags-overview]].
 - [[babb2026ventilatorylimit]] — Babb 2026 (Respir Physiol Neurobiol; NCT04068844; N=42 obese HFpEF): NTG 400 μg SL vs. placebo crossover; NTG confirmed to lower PCWP and CO (both P<0.01) but did NOT change exercise capacity, breathing mechanics, or lung volumes; EELV R²=0.96 before vs. after NTG; paradigm-shifting: exercise is ventilatory-limited, not cardiac-limited, in obese HFpEF
 - [[backhaus2021hfpefstress]] — HFpEF-Stress trial (Backhaus 2021, Circulation; NCT03260621; N=75/68 analysed): real-time exercise-stress CMR vs. invasive RHC; exercise LA long-axis strain AUC 0.93, best noninvasive discriminator tested, outperforming NT-proBNP/E-e'/H₂FPEF/HFA-PEFF
 - [[rommel2016stiffmap]] — STIFFMAP (Rommel 2016, JACC; NCT02459626; N=36): CMR ECV vs. invasive pressure-volume-loop LV stiffness; ECV independently predicts stiffness constant β (r=0.75); splits HFpEF into fibrosis-dominant vs. relaxation-dominant subphenotypes
+- [[capone2026hfpefpht]] — HFpEF-PHT (Capone 2026, Cardiovasc Res; NCT05055180; N=23 biopsy sub-cohort): LV endomyocardial-biopsy multi-omics; blocked proximal glycolysis, succinate accumulation, energy deprivation, EFEMP1-led ECM/fibrosis upregulation, all obesity-independent
 - [[landsteiner2026multiorgan]] — Landsteiner 2026 multiorgan deficits (Circulation; N=820 iCPET + N=6,345 MESA): 7 exercise physiological deficits; ≥5 deficits HR 3.90 for CV hospitalisation/mortality; metabolomic signatures + TWAS gene prioritisation; largest invasive CPET HFpEF cohort to date
 - [[stone2024relievehf]] — RELIEVE-HF (Stone 2024, Circulation; NCT03499236; N=508): sham-controlled interatrial shunt trial, any LVEF; safe, neutral overall; preserved-LVEF stratum harmed (all-cause death HR 3.24); reduced-LVEF stratum trended toward benefit
 - [[ferreira2025sogaldipef]] — SOGALDI-PEF (Ferreira 2025, JACC Heart Fail; NCT05676684; N=108): dapagliflozin ± spironolactone crossover in HFmrEF/HFpEF; combination reduced NT-proBNP 11% more than monotherapy (P=0.035); greater eGFR decline/hyperkalemia trade-off
@@ -299,6 +301,7 @@ For topic/keyword lookup across all page types, see [[tags-overview]].
 - [[paraglide-hf]] — PARAGLIDE-HF (NCT03988634): sacubitril/valsartan vs. valsartan in 467 post-WHF HFpEF patients (LVEF >40%); NT-proBNP ratio 0.85 (0.73–0.999); LVEF ≤60% subgroup drives benefit; 52% women, 22% Black; SH signal (24.0% vs 15.5%)
 - [[rehab-hf]] — REHAB-HF (NCT02196038): transitional progressive multidomain rehabilitation in acute HF (any EF; ≥60y; N=349); SPPB improved; HFpEF subgroup benefits more than HFrEF on global rank endpoint; rehospitalisation not reduced
 - [[optimex-clin]] — OptimEx-Clin (NCT02078947): HIIT vs. MCT vs. guideline control in HFpEF (5 sites; N=180); HIIT not superior to MCT; exercise gains not sustained at 12 months with telemedical supervision
+- [[train-hfpef-ph]] — TRAIN-HFpEF-PH (NCT05464238): standardized low-intensity exercise + respiratory rehabilitation vs. standard care in HFpEF with invasively confirmed pulmonary hypertension; N=90 (target); design published 2023, ongoing
 - [[rebalance-hf]] — REBALANCE-HF (NCT04592445): endovascular splanchnic nerve ablation vs. sham in HFpEF; exercise PCWP −5.4 mmHg (P=0.003); KCCQ improved; first sham-controlled RCT for neural preload reduction; JAMA Cardiol 2024
 - [[emperor-preserved]] — Empagliflozin outcome trial; HR ~0.79 for CV death/HFH; first major positive HFpEF RCT
 - [[deliver]] — Dapagliflozin outcome trial; co-pivotal with EMPEROR-Preserved establishing SGLT2i class effect across EF spectrum
@@ -316,8 +319,19 @@ For topic/keyword lookup across all page types, see [[tags-overview]].
 - [[heart-camp]] — Behavioral exercise-adherence coaching RCT; HFpEF subgroup (N=59) secondary analysis
 - [[hfpef-stress-trial]] — HFpEF-Stress (NCT03260621): real-time exercise-stress CMR vs. invasive RHC; N=75/68; exercise LA long-axis strain AUC 0.93, best noninvasive discriminator tested
 - [[stiffmap]] — STIFFMAP (NCT02459626): CMR ECV vs. invasive pressure-volume loops; N=36; ECV independently predicts LV stiffness constant β (r=0.75); fibrosis-dominant vs. relaxation-dominant subphenotypes
+- [[hfpef-pht]] — HFpEF-PHT (NCT05055180): Leipzig Heart Center LV endomyocardial-biopsy cohort; N=23 (19 HFpEF/4 NFO); multi-omics results in [[capone2026hfpefpht]]
 - [[relieve-hf]] — RELIEVE-HF (NCT03499236): sham-controlled interatrial shunt, any LVEF; N=508; safe, neutral overall; preserved-LVEF stratum harmed (mortality HR 3.24), reduced-LVEF stratum trended toward benefit
 - [[sogaldi-pef]] — SOGALDI-PEF (NCT05676684): dapagliflozin ± spironolactone crossover; N=108; combination reduced NT-proBNP 11% more than monotherapy; first dedicated SGLT2i+MRA combination RCT in HFpEF/HFmrEF
+
+### Registry-Only Trial Entities (no results paper yet — see [[trials-pending]] Group B)
+- [[excalibur-hfpef]] — EXCALIBUR-HFpEF (DRKS00039892): app-based exercise coaching vs. standard care; HFpEF LVEF >40%; N=200 target; recruiting since 2026-01-27; no data yet
+- [[balanced-hf]] — BalanceD-HF (NCT06307652): balcinrenone/dapagliflozin vs. dapagliflozin; HF with impaired kidney function; N=3,850 (est.); AstraZeneca; recruiting; no data yet
+- [[easi-hf]] — EASi-HF Preserved (NCT06424288): vicadrostat + empagliflozin vs. placebo + empagliflozin; HFpEF/HFmrEF LVEF ≥40%; N=6,000 (est.); Boehringer Ingelheim; recruiting; no data yet
+- [[redefine-hf]] — REDEFINE-HF (NCT06008197): finerenone vs. placebo post-ADHF hospitalisation; HFpEF/HFmrEF LVEF ≥40%; N=5,200 (est.); recruiting; no data yet
+- [[confirmation-hf]] — CONFIRMATION-HF (NCT06024746): finerenone + empagliflozin vs. usual care, open-label, hospitalized HF; **any-EF, not HFpEF-restricted**; N=1,500 (est.); recruiting; no data yet
+
+### Registry-Only Trial Entities, Status Uncertain (see [[trials-pending]] Group C)
+- [[mapped]] — MAPPED (NCT06316661): CMR stress-perfusion/ECV vs. controls across two HFpEF phenogroups; N=60 (est.); Istituto Auxologico Italiano, Milan; **registry status Unknown** (last known: Recruiting, 2024-03) — may never publish
 
 ### Registry Entities
 - [[torch]] — DZHK TORCH registry: 19 German centres; 2,300 (Phase 1) + 4,340 (TORCH-Plus) non-ischemic CMP patients; deep molecular phenotyping

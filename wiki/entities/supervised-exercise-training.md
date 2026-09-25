@@ -165,7 +165,7 @@ No major adverse cardiac events attributed to exercise training across 276 patie
 ## Related Pages
 
 - Concepts: [[exercise-intolerance]], [[hfpef-treatment-gap]], [[ml-ai-hfpef]], [[inspiratory-muscle-training]]
-- Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]], [[rehab-hf]], [[optimex-clin]], [[kansas-city-cardiomyopathy-questionnaire]], [[six-minute-walk-test]]
+- Entities: [[hfpef]], [[cardiopulmonary-exercise-testing]], [[rehab-hf]], [[optimex-clin]], [[kansas-city-cardiomyopathy-questionnaire]], [[six-minute-walk-test]], [[train-hfpef-ph]]
 - Sources: [[sachdev2023exercise]], [[mirzai2025exercise]], [[bohmke2022nonpharm]], [[zeid2025myomobile]], [[mcdonagh2021esc]], [[edelmann2025exdhf]], [[sharif2024locomotor]], [[obaya2024aerobic]], [[borlaug2024inable]], [[brubaker2023secret2]], [[alonso2022heartcamp]], [[kitzman2021rehabhf]], [[mentz2021rehabhfhfpef]], [[mueller2021optimex]], [[donelli2020hiit]]
 
 ## Contradictions

@@ -11,12 +11,14 @@ tags:
 - coronary
 - inflammation
 created: 2026-05-13
-last_updated: 2026-05-13
+last_updated: 2026-09-21
 sources:
 - citekey: Paulus2013NovelParadigm
   doi: 10.1016/j.jacc.2013.02.092
 - citekey: damario2019cmd
   doi: 10.3389/fphys.2019.01347
+- citekey: Capone2026HFpEFPHT
+  doi: 10.1093/cvr/cvag084
 page-type: mechanism-page
 ---
 # Coronary Microvascular Dysfunction
@@ -55,6 +57,10 @@ This pathway positions CMD as the mechanistic interface between systemic metabol
 
 D'Amario 2019 (Front. Physiol.) elaborated the "common soil" concept: CMD is not merely a downstream effector but an active driver shared across multiple HFpEF comorbidities. Additional mechanisms: endothelial-to-mesenchymal transition (EndoMT); calcium overload; OSA-associated oxidative stress (OSA prevalence in HFpEF: RR 2.2 for event prediction). (source: damario2019cmd)
 
+### Tissue Metabolic Correlate: Succinate Accumulation as a Pseudohypoxia Signature (Capone 2026)
+
+LV endomyocardial-biopsy metabolomics in cardiometabolic HFpEF (vs. non-failing obese controls) found TCA-cycle succinate accumulation, an increased succinate/fumarate ratio, and reduced fumarate hydratase protein — interpreted as a marker of reduced complex II (succinate dehydrogenase) activity consistent with impaired myocardial oxygen availability ("pseudohypoxia"). This is a tissue-metabolic correlate consistent with, though not direct proof of, impaired microvascular oxygen delivery in HFpEF myocardium. (source: [[capone2026hfpefpht]]) A dedicated CMR study directly testing coronary microvascular function across HFpEF phenogroups (MAPPED, NCT06316661) exists in registry form but its current status is unconfirmed — see [[mapped]].
+
 ## Clinical Significance
 
 - CMD is prevalent in HFpEF (~40–75% in series using invasive coronary physiology testing) [needs source]
@@ -75,8 +81,8 @@ Pre-2013: CMD studied primarily in the context of microvascular angina and non-o
 ## Related Pages
 
 - Concepts: [[diastolic-dysfunction]], [[hfpef-treatment-gap]], [[exercise-intolerance]], [[titin]]
-- Entities: [[hfpef]], [[statins]], [[ranolazine]]
-- Sources: [[paulus2013novelparadigm]], [[damario2019cmd]], [[pfeffer2019hfpef]]
+- Entities: [[hfpef]], [[statins]], [[ranolazine]], [[hfpef-pht]], [[mapped]]
+- Sources: [[paulus2013novelparadigm]], [[damario2019cmd]], [[pfeffer2019hfpef]], [[capone2026hfpefpht]]
 
 ## Contradictions
 
@@ -85,3 +91,4 @@ The Paulus–Tschöpe paradigm predicts benefit from NO/cGMP pathway enhancement
 ## References
 - D'Amario D, Migliaro S, Borovac JA, Restivo A, Vergallo R, Galli M, Leone AM, Montone RA, Niccoli G, Aspromonte N, Crea F. Microvascular Dysfunction in Heart Failure With Preserved Ejection Fraction. *Front Physiol.* 2019;10:1347. doi:[10.3389/fphys.2019.01347](https://doi.org/10.3389/fphys.2019.01347)
 - Paulus WJ, Tschöpe C. A Novel Paradigm for Heart Failure With Preserved Ejection Fraction: Comorbidities Drive Myocardial Dysfunction and Remodeling Through Coronary Microvascular Endothelial Inflammation. *J Am Coll Cardiol.* 2013;62(4):263–271. doi:[10.1016/j.jacc.2013.02.092](https://doi.org/10.1016/j.jacc.2013.02.092)
+- Capone F, Rommel KP, Forbes M, Fahjen P, Strocchi S, Rosch S, Wang R, Bode D, Nambiar N, Eroglu T, Padilla LS, Morieri ML, Liu L, Farrelly C, Vacca A, Mastrobuoni G, Jung S, Diezel SA, Liévano Contreras SV, Hübner N, Mertins P, Kempa S, Lurz P, Schiattarella GG. Integrated left ventricular multi-omics landscape of human cardiometabolic HFpEF. *Cardiovasc Res.* 2026;122(8):984–1000. doi:[10.1093/cvr/cvag084](https://doi.org/10.1093/cvr/cvag084)
